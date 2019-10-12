@@ -259,6 +259,82 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/0.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="LaoWu_Hackintosh">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/0.html" class="post-title-link" itemprop="url">未命名</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2019-10-12 10:42:19 / 修改时间：10:44:55" itemprop="dateCreated datePublished" datetime="2019-10-12T10:42:19+08:00">2019-10-12</time>
+            </span>
+          
+            
+
+            
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="黑苹果安装火影金刚4K-VULCAN-JinGang-GTX-i7-7700HQ-独显驱动-Hackintosh"><a href="#黑苹果安装火影金刚4K-VULCAN-JinGang-GTX-i7-7700HQ-独显驱动-Hackintosh" class="headerlink" title="黑苹果安装火影金刚4K VULCAN JinGang GTX i7-7700HQ 独显驱动 Hackintosh"></a>黑苹果安装火影金刚4K VULCAN JinGang GTX i7-7700HQ 独显驱动 Hackintosh</h1><p>严格来说，这不是一台笔记本，更像是一台移动一体机。火影金刚4K，独显GTX 1060，核显HD 630，在BIOS里是可以屏蔽核显的。所以这一次安装黑苹果时，直接当是一台IMAC来安装，连机型都是选择IMAC 14,2。</p>
+<h1 id="看配置："><a href="#看配置：" class="headerlink" title="看配置："></a>看配置：</h1><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-d95d70c2243a7d3c.png" alt><br>电脑型号 JinGang GTX笔记本<br>处理器 Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz<br>内存容量 8.0GB<br>显卡 1、NVIDIA GeForce GTX 1060<br>2、Intel(R) HD Graphics 630<br>硬盘 1、Teclast 240GB NP900-2280 (240GB)<br>2、SAMSUNG MZVLW256HEHP-00000 (256GB)<br>主板 VULCAN JinGang GTX (Standard)<br>网卡 1、Intel(R) Dual Band Wireless-AC 8265<br>2、Realtek PCIe GBE Family Controller<br>声卡 1、Realtek High Definition Audio ALC 269<br>2、英特尔(R) 显示器音频<br>3、NVIDIA Virtual Audio Device (Wave Extensible) (WDM)<br>显示器 LQ156D1JX01B  分辨率:3840x2160<br>如果说用HD 630驱动4K，多数人会选用GTX 1060，毕竟独显上4K简直不要太容易。而N卡决定了系统只能安装macos 10.13.6，谁让nvidia不再发布macos 10.14的驱动了呢。i7-7700HQ集成了HD 630，windows下4k是没问题的，但到了macos，可能出错的地方太多了。无线网卡用的是Intel芯片，果断无解。声卡集成ALC 269，也是比较头痛的一个芯片，搞到最后不如直接丢voodoohda万能声卡，虽然音质差了点，但总比哑巴好。</p>
+<h1 id="BIOS设置："><a href="#BIOS设置：" class="headerlink" title="BIOS设置："></a>BIOS设置：</h1><p>开机按F2，狂按。进入BIOS，还是熟悉的画面。<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-44f96cbad381d8bf.png" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-707f73dfd1a4b454.png" alt><br>到Security里把Secure Boot改成<strong>Disabled</strong>，不关安全启动，怎么引导CLOVER。<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-e1fe9103209ecd97.png" alt></p>
+<h1 id="引导配置："><a href="#引导配置：" class="headerlink" title="引导配置："></a>引导配置：</h1><p>需要注意的有几点，机型选IMAC 14,2。N卡在引导参数中加入nvda_drv=1，系统参数中勾选NvidiaWeb，分别是加载N卡驱动，启用Nvidia Webdriver，没用这两个装了N卡驱动也没用。然后还有一点，就是这个笔记本的键盘和触控板都是用的USB接口，而不是PS2，注意USB驱动一定要先放进去，不然安装界面会用不了键盘和鼠标。</p>
+<h1 id="安全过程："><a href="#安全过程：" class="headerlink" title="安全过程："></a>安全过程：</h1><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-c6269258b96e6d25.png" alt><br>引导界面<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-3c7476d2f0a47639.png" alt><br>设置界面<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-8024568067db086f.png" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-8efa99b2d392bfe4.png" alt><br>未装驱动前，显存只有33MB<br>进系统后安装一下n卡驱动，就可以完事了，ALC269的声卡，建议还是用VOODOOHDA省事，当时，有时间的可以一个个试ID，分别是1-11, 13-21, 27-33, 35, 40, 45, 55, 58, 66, 76, 88, 93, 99, 100, 127, 188，几十个，看到都头痛，不过，有个幸运ID 6,可以试下，可能有惊喜，记得丢applealc.kext驱动先。</p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
     <link itemprop="mainEntityOfPage" href="http://k61.org/ASUS-TK203.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -271,12 +347,12 @@
       <meta itemprop="name" content="老吴黑苹果工作室">
     </span>
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             
             <a href="/ASUS-TK203.html" class="post-title-link" itemprop="url">sdfsdfsdfccxcvxcvxcvxcvxcvcxvxcvxcvxcvcxv</a>
           
-        </h1>
+        </h2>
 
         <div class="post-meta">
             <span class="post-meta-item">
@@ -339,12 +415,12 @@
       <meta itemprop="name" content="老吴黑苹果工作室">
     </span>
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             
             <a href="/b1f06eff.html" class="post-title-link" itemprop="url">我想试下搜索华硕ASUS TK203</a>
           
-        </h1>
+        </h2>
 
         <div class="post-meta">
             <span class="post-meta-item">
@@ -358,6 +434,46 @@
               
 
               <time title="创建时间：2019-10-11 17:08:10" itemprop="dateCreated datePublished" datetime="2019-10-11T17:08:10+08:00">2019-10-11</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2019-10-12 10:28:44" itemprop="dateModified" datetime="2019-10-12T10:28:44+08:00">2019-10-12</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/" itemprop="url" rel="index">
+                    <span itemprop="name">笔记本</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/ASUS-华硕/" itemprop="url" rel="index">
+                    <span itemprop="name">ASUS_华硕</span>
+                  </a>
+                </span>
+
+                
+                
+              
             </span>
           
 
@@ -415,12 +531,12 @@
       <meta itemprop="name" content="老吴黑苹果工作室">
     </span>
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             
             <a href="/b1f06eff.html" class="post-title-link" itemprop="url">我想试下搜索华硕ASUS TK203</a>
           
-        </h1>
+        </h2>
 
         <div class="post-meta">
             <span class="post-meta-item">
@@ -495,12 +611,12 @@
       <meta itemprop="name" content="老吴黑苹果工作室">
     </span>
       <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
+        <h2 class="post-title" itemprop="name headline">
           
             
             <a href="/b1f06eff.html" class="post-title-link" itemprop="url">我想试下搜索华硕ASUS TK203</a>
           
-        </h1>
+        </h2>
 
         <div class="post-meta">
             <span class="post-meta-item">
@@ -605,8 +721,21 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">4</span>
+          <span class="site-state-item-count">5</span>
           <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+    
+      
+      
+      <div class="site-state-item site-state-categories">
+        
+          
+            <a href="/categories/">
+          
+        
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分类</span>
         </a>
       </div>
     
