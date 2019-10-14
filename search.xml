@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>E3-1231+华硕 B85M-F PLUS+ GTX 960黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
+    <url>/E3-1231-asus-B85M-F-PLUS-gtx960-hackintosh.html</url>
+    <content><![CDATA[<h1 id="E3-1231-华硕-B85M-F-PLUS-GTX-960黑苹果Hackintosh-EFI引导-macOS-High-Sierra-10-13-6-CLOVER-EFI下载Download"><a href="#E3-1231-华硕-B85M-F-PLUS-GTX-960黑苹果Hackintosh-EFI引导-macOS-High-Sierra-10-13-6-CLOVER-EFI下载Download" class="headerlink" title="E3-1231+华硕 B85M-F PLUS+ GTX 960黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download"></a>E3-1231+华硕 B85M-F PLUS+ GTX 960黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</h1><p>电脑型号    华硕 All Series 台式电脑<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 Xeon(至强) E3-1231 v3 @ 3.40GHz 四核<br>主板    华硕 B85M-F PLUS ( Lynx Point )<br>内存    16 GB ( Avexir DDR3 1600MHz / 威刚 DDR3 1600MHz )<br>主硬盘    三星 MZ7LF128HCHP-00000 ( 128 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 960 ( 4 GB / 华硕 )<br>显示器    惠科 HKC2400 T4000+DVI ( 24.1 英寸  )<br>声卡    英特尔 Lynx Point  高保真音频<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="E3-1231+%E5%8D%8E%E7%A1%95%20B85M-F%20PLUS+%20GTX%20960%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/E317556101C979EBE40857104519861B.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="E3-1231+%E5%8D%8E%E7%A1%95%20B85M-F%20PLUS+%20GTX%20960%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/26C05C7DF251DDFD77A8AE84B6FE5B27.jpg" alt><br><img src="E3-1231+%E5%8D%8E%E7%A1%95%20B85M-F%20PLUS+%20GTX%20960%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/C5DCB3CFA9098AFAF737E7AF6456AD1E.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/10-ptvud25yTAGUdQziRWdg" target="_blank" rel="noopener">e3-1231 华硕B85M－F PLUS GTX960.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>E3-1231</tag>
+        <tag>B85M</tag>
+        <tag>gtx 960</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>戴尔Dell Inspiron 7560 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14 i5-7200U+HD 620+GTX 940MX) CLOVER EFI下载Download</title>
     <url>/Dell-Inspiron-7560-i5-7200U-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    戴尔 Inspiron 7560 笔记本电脑<br>操作系统    Windows 10 专业版 精简版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板    戴尔 085P7T ( 7th Generation Intel Processor Family I/O - 9D58 笔记本芯片组 )<br>内存    4 GB ( 海力士 DDR4 2400MHz )<br>主硬盘    西数 WDC WD5000LPCX-75VHAT0 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 940MX ( 2 GB )<br>显示器    京东方 BOE06B4 ( 15.5 英寸  )<br>声卡    瑞昱 Audio @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Dual Band Wireless-AC 3165</p>
