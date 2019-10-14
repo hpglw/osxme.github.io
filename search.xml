@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i7-2600 技嘉Z68A-D3H-B3 24GB AMD RADEON HD 6850 2G ALC889 10.13.6 黑苹果Hackintosh CLOVER EFI下载 Download</title>
+    <url>/i7-2600-GIGABYTE-Z68A-D3H-B3-RADEON-HD-6850-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    技嘉 台式电脑  (扫描时间：2017年12月18日)<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 第二代酷睿 i7-2600 @ 3.40GHz 四核<br>主板    技嘉 Z68A-D3H-B3 ( 英特尔 Z68 芯片组 )<br>内存    24 GB ( 金士顿 DDR3 1333MHz / 金士顿 DDR3 1866MHz )<br>主硬盘    东芝 Q300. ( 240 GB / 固态硬盘 )<br>显卡    AMD Radeon HD 6800 Series ( 2 GB / 蓝宝石 )<br>显示器    LG GSM59F1 LG ULTRAWIDE ( 28.6 英寸  )<br>光驱    先锋 BD-RW BDR-S09 蓝光刻录机<br>声卡    瑞昱 ALC889 @ 英特尔 6 Series Chipset  高保真音频<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download/A15794898469C5149C4C50B3E186D6DE.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✖   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✱   macOS Mojave 10.14.x<br>⊙   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download/D132DB1E73401A407C7962FF6928B9CB.jpg" alt><br><img src="i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download/25667DA13BA8295B38433A7C853062F0.jpg" alt><br><img src="i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download/AD10751A40FB6D4BAA1A438C90CB2076.jpg" alt><br><img src="i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download/151AD05575620F4D10CA0FC3292CF8A5.jpg" alt><br><img src="i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download/802DF63E39D06A5D30394F5D9C6ABF30.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1yxDafPdJL6M3TZ9IYmOZ_g" target="_blank" rel="noopener">i7-2600 技嘉Z68A-D3H-B3 24GB AMD RADEON HD 6850 2G ALC889 10.13.6.zip</a></p>
+<blockquote>
+<p><strong>解压密码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>i7-2600</tag>
+        <tag>Z68A-D3H-B3</tag>
+        <tag>RADEON HD-6850</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>戴尔Dell Inspiron 5557 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13 i5-6200U+HD 520+GTX 930M+15.5 1080P) CLOVER EFI下载Download</title>
     <url>/Dell-Inspiron-5557-i5-6200U-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    戴尔 Inspiron 5557 笔记本电脑  处理器    英特尔 Core i5-6200U @ 2.30GHz 双核主板    戴尔 0NK8C1 ( 100 Series 芯片组 Family/eSPI Controller - 9D48 )内存    4 GB ( 三星 DDR3L 1600MHz )主硬盘    闪迪 X400 2.5 7MM 256GB ( 256 GB / 固态硬盘 )显卡    Nvidia GeForce 930M ( 2 GB / 戴尔 )显示器    友达 AUO38ED ( 15.5 英寸  )声卡    瑞昱  @ 英特尔 High Definition Audio 控制器网卡    英特尔 Dual Band Wireless-AC 3165</p>
