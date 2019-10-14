@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>戴尔Dell Inspiron 7560 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14 i5-7200U+HD 620+GTX 940MX) CLOVER EFI下载Download</title>
+    <url>/Dell-Inspiron-7560-i5-7200U-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    戴尔 Inspiron 7560 笔记本电脑<br>操作系统    Windows 10 专业版 精简版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板    戴尔 085P7T ( 7th Generation Intel Processor Family I/O - 9D58 笔记本芯片组 )<br>内存    4 GB ( 海力士 DDR4 2400MHz )<br>主硬盘    西数 WDC WD5000LPCX-75VHAT0 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 940MX ( 2 GB )<br>显示器    京东方 BOE06B4 ( 15.5 英寸  )<br>声卡    瑞昱 Audio @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Dual Band Wireless-AC 3165</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/0908CA791609E09DA2F97041566B4E6E.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/071B8F7C2B3BEA386269C42EE86510AF.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/D226A7065951B6E1A1340A9A0BEBA5A9.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/7504DA158F51F14634F06D4E8678505A.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/11-hbT49qIbED2Suv0O7GYA" target="_blank" rel="noopener">dell 7560.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+      <tags>
+        <tag>Inspiron</tag>
+        <tag>Dell</tag>
+        <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>华硕顽石(ASUS) 电竞版FL8000UN(x542un) 黑苹果Hackintosh (macOS High Sierra 10.14.x i7-8550U+UHD 620+MX150) CLOVER EFI下载Download</title>
     <url>/ASUS-FL8000UN-x542un-i7-8550U-UHD-620-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号<br>华硕顽石(ASUS) 电竞版FL8000UN(x542un)笔记本电脑<br>处理器    英特尔 Core i7-8550U<br>主板    华硕 X542UN<br>内存    16 GB ( 三星 DDR4 2400MHz )<br>主硬盘    英特尔512GB<br>显卡    Nvidia GeForce MX150 ( 4 GB / 戴尔 )<br>核显        UHD 620<br>显示器    京东方 BOE069C ( 15.5 英寸  )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    RTL8168<br>无线        Qualcomm Atheros AR956x Wireless Network Adapter</p>
