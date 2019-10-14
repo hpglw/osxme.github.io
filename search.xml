@@ -3,76 +3,46 @@
   <entry>
     <title></title>
     <url>/0.html</url>
-    <content><![CDATA[<h1 id="黑苹果安装火影金刚4K-VULCAN-JinGang-GTX-i7-7700HQ-独显驱动-Hackintosh"><a href="#黑苹果安装火影金刚4K-VULCAN-JinGang-GTX-i7-7700HQ-独显驱动-Hackintosh" class="headerlink" title="黑苹果安装火影金刚4K VULCAN JinGang GTX i7-7700HQ 独显驱动 Hackintosh"></a>黑苹果安装火影金刚4K VULCAN JinGang GTX i7-7700HQ 独显驱动 Hackintosh</h1><p>严格来说，这不是一台笔记本，更像是一台移动一体机。火影金刚4K，独显GTX 1060，核显HD 630，在BIOS里是可以屏蔽核显的。所以这一次安装黑苹果时，直接当是一台IMAC来安装，连机型都是选择IMAC 14,2。</p>
-<h1 id="看配置："><a href="#看配置：" class="headerlink" title="看配置："></a>看配置：</h1><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-d95d70c2243a7d3c.png" alt><br>电脑型号 JinGang GTX笔记本<br>处理器 Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz<br>内存容量 8.0GB<br>显卡 1、NVIDIA GeForce GTX 1060<br>2、Intel(R) HD Graphics 630<br>硬盘 1、Teclast 240GB NP900-2280 (240GB)<br>2、SAMSUNG MZVLW256HEHP-00000 (256GB)<br>主板 VULCAN JinGang GTX (Standard)<br>网卡 1、Intel(R) Dual Band Wireless-AC 8265<br>2、Realtek PCIe GBE Family Controller<br>声卡 1、Realtek High Definition Audio ALC 269<br>2、英特尔(R) 显示器音频<br>3、NVIDIA Virtual Audio Device (Wave Extensible) (WDM)<br>显示器 LQ156D1JX01B  分辨率:3840x2160<br>如果说用HD 630驱动4K，多数人会选用GTX 1060，毕竟独显上4K简直不要太容易。而N卡决定了系统只能安装macos 10.13.6，谁让nvidia不再发布macos 10.14的驱动了呢。i7-7700HQ集成了HD 630，windows下4k是没问题的，但到了macos，可能出错的地方太多了。无线网卡用的是Intel芯片，果断无解。声卡集成ALC 269，也是比较头痛的一个芯片，搞到最后不如直接丢voodoohda万能声卡，虽然音质差了点，但总比哑巴好。</p>
-<h1 id="BIOS设置："><a href="#BIOS设置：" class="headerlink" title="BIOS设置："></a>BIOS设置：</h1><p>开机按F2，狂按。进入BIOS，还是熟悉的画面。<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-44f96cbad381d8bf.png" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-707f73dfd1a4b454.png" alt><br>到Security里把Secure Boot改成<strong>Disabled</strong>，不关安全启动，怎么引导CLOVER。<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-e1fe9103209ecd97.png" alt></p>
-<h1 id="引导配置："><a href="#引导配置：" class="headerlink" title="引导配置："></a>引导配置：</h1><p>需要注意的有几点，机型选IMAC 14,2。N卡在引导参数中加入nvda_drv=1，系统参数中勾选NvidiaWeb，分别是加载N卡驱动，启用Nvidia Webdriver，没用这两个装了N卡驱动也没用。然后还有一点，就是这个笔记本的键盘和触控板都是用的USB接口，而不是PS2，注意USB驱动一定要先放进去，不然安装界面会用不了键盘和鼠标。</p>
-<h1 id="安全过程："><a href="#安全过程：" class="headerlink" title="安全过程："></a>安全过程：</h1><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-c6269258b96e6d25.png" alt><br>引导界面<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-3c7476d2f0a47639.png" alt><br>设置界面<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-8024568067db086f.png" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20VULCAN%20JinGang%20GTX%20i7-7700HQ%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8%20Hackintosh/13225629-8efa99b2d392bfe4.png" alt><br>未装驱动前，显存只有33MB<br>进系统后安装一下n卡驱动，就可以完事了，ALC269的声卡，建议还是用VOODOOHDA省事，当时，有时间的可以一个个试ID，分别是1-11, 13-21, 27-33, 35, 40, 45, 55, 58, 66, 76, 88, 93, 99, 100, 127, 188，几十个，看到都头痛，不过，有个幸运ID 6,可以试下，可能有惊喜，记得丢applealc.kext驱动先。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>sdfsdfsdfccxcvxcvxcvxcvxcvcxvxcvxcvxcvcxv</title>
-    <url>/ASUS-TK203.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check [documentation](</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我想试下搜索华硕ASUS TK203</title>
-    <url>/b1f06eff.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我想试下搜索华硕ASUS TK203</title>
-    <url>/b1f06eff.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>ASUS_华硕</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>我想试下搜索华硕ASUS TK203</title>
-    <url>/b1f06eff.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <content><![CDATA[<h1 id="戴尔Dell-Inspiron-5557-黑苹果Hackintosh-EFI引导-macOS-High-Sierra-10-13-i5-6200U-HD-520-GTX-930M-15-5-1080P-CLOVER-EFI下载Download"><a href="#戴尔Dell-Inspiron-5557-黑苹果Hackintosh-EFI引导-macOS-High-Sierra-10-13-i5-6200U-HD-520-GTX-930M-15-5-1080P-CLOVER-EFI下载Download" class="headerlink" title="戴尔Dell Inspiron 5557 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13 i5-6200U+HD 520+GTX 930M+15.5 1080P) CLOVER EFI下载Download"></a>戴尔Dell Inspiron 5557 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13 i5-6200U+HD 520+GTX 930M+15.5 1080P) CLOVER EFI下载Download</h1><p>电脑型号    戴尔 Inspiron 5557 笔记本电脑  处理器    英特尔 Core i5-6200U @ 2.30GHz 双核主板    戴尔 0NK8C1 ( 100 Series 芯片组 Family/eSPI Controller - 9D48 )内存    4 GB ( 三星 DDR3L 1600MHz )主硬盘    闪迪 X400 2.5 7MM 256GB ( 256 GB / 固态硬盘 )显卡    Nvidia GeForce 930M ( 2 GB / 戴尔 )显示器    友达 AUO38ED ( 15.5 英寸  )声卡    瑞昱  @ 英特尔 High Definition Audio 控制器网卡    英特尔 Dual Band Wireless-AC 3165<br>&lt;!—more—&gt;</p>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%205557%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13%20i5-6200U+HD%20520+GTX%20930M+15.5%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/0B6E38D5-C29C-45C5-8303-8CFCA92177CE.png" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✱   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%205557%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13%20i5-6200U+HD%20520+GTX%20930M+15.5%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/EAD58A7A3BE990186F0CFE956279FEFE.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%205557%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13%20i5-6200U+HD%20520+GTX%20930M+15.5%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/F95342E1E61AEC0DC16895AA2C002F68.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%205557%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13%20i5-6200U+HD%20520+GTX%20930M+15.5%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/0F327803DFC14B694D79631CB2892B9D.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%205557%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13%20i5-6200U+HD%20520+GTX%20930M+15.5%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/FFA3047556DC3F3826B76F2FBF99C3F9.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>休眠</li>
+<li>变频</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1CFg7kenKr5Q7CiXG8I3C8Q" target="_blank" rel="noopener">dell 5557 i5-6200u 4g gtx 930m hd5200 id3 1080p.zip</a></p>
+<blockquote>
+<p><strong>解压密码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
 ]]></content>
   </entry>
 </search>
