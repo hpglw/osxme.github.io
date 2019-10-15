@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微软 Surface Book 2 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i5-7300U+HD 620) CLOVER EFI下载Download</title>
+    <url>/Surface-Book-2-i5-7300U-HD-620-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    微软 Surface Book 2 笔记本电脑  (扫描时间：2019年09月05日)<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7300U @ 2.60GHz 双核<br>主板    微软 Surface Book 2 ( 7th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存    8 GB ( SK Hynix )<br>主硬盘    三星 MZFLW256HEHP-000MV ( 256 GB / 固态硬盘 )<br>显卡    英特尔 HD Graphics 620 ( 128 MB / 微软 )<br>显示器    飞利浦 PHLC0C6 PHL 224E5 ( 21.7 英寸  )<br>声卡    英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡    Marvell Marvell AVASTAR Wireless-AC Network Controller / 045E0009</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E5%BE%AE%E8%BD%AF%20Surface%20Book%202%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-7300U+HD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/F2BB8C09B0FA1F1F25B58468D06FAE4E.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>⊙   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>⊙   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E5%BE%AE%E8%BD%AF%20Surface%20Book%202%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-7300U+HD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/70EE223A384926C86043B6FB0ED2CAAE.jpg" alt><br><img src="%E5%BE%AE%E8%BD%AF%20Surface%20Book%202%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-7300U+HD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/FC64087238CECDA64E13CFDD478DFAEE.jpg" alt><br><img src="%E5%BE%AE%E8%BD%AF%20Surface%20Book%202%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-7300U+HD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/F06E33BEA305AF70187F46FBB221A615.jpg" alt><br><img src="%E5%BE%AE%E8%BD%AF%20Surface%20Book%202%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-7300U+HD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/91979FE647D3895F4AD7011790FA3FF8.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>外接显示器</li>
+<li>TYPE-C </li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>WIFI</li>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+<li>关闭Bitlocker</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1pMJBT-bVGxl1ldYCP8FX7A" target="_blank" rel="noopener">surface book 2 hd620.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Surface_微软</category>
+      </categories>
+      <tags>
+        <tag>微软</tag>
+        <tag>Surface</tag>
+        <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>技嘉Z390 UD+I9-9900K+Quadro P2000 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
     <url>/GIGABYTE-Z390-UD-I9-9900K-Quadro-P2000-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    技嘉Z390 UD 台式机电脑<br>处理器    英特尔 Core I9-9900K<br>主板    技嘉Z390 UD<br>内存    32GB ( 芝奇 DDR4 2400MHz )<br>主硬盘    影驰  ( 480 GB / 固态硬盘 )<br>显卡    Nvidia Quadro P2000 ( 5 GB / 戴尔 )<br>显示器    三星 ( 27.7 英寸  )<br>声卡    瑞昱ALC887  @ 英特尔 High Definition Audio 控制器<br>网卡    RTL8168</p>
@@ -773,10 +830,10 @@
         <category>Dell_戴尔</category>
       </categories>
       <tags>
+        <tag>HD 620</tag>
         <tag>Inspiron</tag>
         <tag>Dell</tag>
         <tag>i5-7200U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
