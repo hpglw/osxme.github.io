@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>惠普 HP EliteBook 8470p 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i7-3520M+HD 7570M) CLOVER EFI下载Download</title>
+    <url>/HP-EliteBook-8470p-i7-3520M-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    惠普 HP EliteBook 8470p 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 第三代酷睿 i7-3520M @ 2.90GHz 双核<br>主板    惠普 179B ( QM77 Express 芯片组 )<br>内存    16 GB ( 海力士 DDR3 1333MHz / 海力士 DDR3L 1600MHz )<br>主硬盘    建兴 S920 256 ( 256 GB / 固态硬盘 )<br>显卡    AMD Radeon HD 7570M ( 1 GB / 惠普 )<br>显示器    LG LGD0306 ( 14 英寸  )<br>声卡    IDT 矽玛特 STAC 92XX @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    英特尔 82579LM Gigabit Network Connection / 惠普</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/F07F3631DEC13FD1E6435E36ADFC941B.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>⊙   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/497ECB3CFAB3B9B21256EF4318AC84FE.jpg" alt><br><img src="%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/553F5D4B0A8C38922CB344A2F1BE1F7E.jpg" alt><br><img src="%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/11D556FC14CA6DF0BE7B839EFA9632EF.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><p><img src="%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/58AE0D2B9C236980A418F968A442D11C.jpg" alt><br><img src="%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/62B9F9C61F50D205BA3E4A6D7B5DBB09.jpg" alt></p>
+<ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/154_ISx9XRLvlR-JO-_WrwQ" target="_blank" rel="noopener">HP EliteBook 8470p.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+      <tags>
+        <tag>惠普</tag>
+        <tag>HP</tag>
+        <tag>EliteBook</tag>
+        <tag>i7-3520M</tag>
+        <tag>HD 7570M</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>i7-6700K  华硕 Z170-P GTX 1060黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
     <url>/i7-6700K-asus-Z170-P-gtx1060-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    X64 兼容 台式电脑<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 Core i7-6700K @ 4.00GHz 四核<br>主板    华硕 Z170-P ( 100 Series/C230 Series 芯片组 Family - A145 )<br>内存    16 GB ( 海盗船 DDR4 2400MHz )<br>主硬盘    三星 SSD 860 EVO 250GB ( 250 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 6GB ( 6 GB / 微星 )<br>显示器    冠捷 AOC3208 Q3208WG5B ( 31.5 英寸  )<br>光驱    华硕 DRW-24D5MT DVD刻录机<br>声卡    瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p>
