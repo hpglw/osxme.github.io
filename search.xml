@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果nvidia显卡安装驱动后开机无信号的解决方法之一</title>
+    <url>/nvidia-blackscreen-gtx-1080-ti-hackintosh.html</url>
+    <content><![CDATA[<p>前几天安装一台台式机黑苹果，配置如下：</p>
+<blockquote>
+<p>电脑型号 微星 MS-7B47 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-8700K @ 3.70GHz 六核<br>主板 微星 Z370 TOMAHAWK (MS-7B47) ( Z370 芯片组 )<br>内存 64 GB ( 海盗船 DDR4 3000MHz )<br>主硬盘 西数 WDS100T2X0C-00L350 ( 1 TB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 1080 Ti ( 11 GB / 影驰 )<br>显示器 惠科 HKC2701 T7000 DO ( 27 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 微星  </p>
+</blockquote>
+<p>显卡是gtx 1080 ti，用DP接口连着两台HKC显示器，故障表现为，安装完webdriver驱动之后，开机跑完代码和LOGO，黑屏无信号。</p>
+<p>后来查到是因为这个显示器不支持75刷新率，而MACOS安装完NVIDIA驱动之后强制刷新率为75，所以导致开机直接无信号。</p>
+<p>只要安装上驱动，就没显示，但系统其实己经进去了。</p>
+<p>于是想到一种比较特别的方法，就是利用远程软件解决。</p>
+<p>方法如下：<br>1，先不要安装显卡驱动，或者在引导参数中加入nv_disable=1禁用显卡驱动。<br>2，在macos安装teamviewer远程工具，设置开机自动启动（重要），自定义远程密码（123456），记下远程ID。<br>3，到设置——用户与群组——登录选项——自动登录，设置开机自动登录，不用输密码。<br>4，下载分辨率自定义神器switchresx.zip<br>链接:<a href="https://pan.baidu.com/s/1BJXYohm6j7gZ-OMANE-fyw" target="_blank" rel="noopener">https://pan.baidu.com/s/1BJXYohm6j7gZ-OMANE-fyw</a>  密码:i4tj<br>5，重启，待黑屏之后一会，用另一台电脑登录远程<br>6，打开switchresx，安装，然后设定一个自定义分辨率和60刷新率即可。</p>
+<p>这方法需要黑苹果有网络。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>nvidia</tag>
+        <tag>黑屏</tag>
+        <tag>blackscreen</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>i7-8700K+微星 Z370 TOMAHAWK+GTX 1080 Ti 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
     <url>/i7-8700K-MSI-Z370-TOMAHAWK-GTX-1080-Ti-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    微星 MS-7B47 台式电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-8700K @ 3.70GHz 六核<br>主板    微星 Z370 TOMAHAWK (MS-7B47) ( Z370 芯片组 )<br>内存    64 GB ( 海盗船 DDR4 3000MHz )<br>主硬盘    西数 WDS100T2X0C-00L350 ( 1 TB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1080 Ti ( 11 GB / 影驰 )<br>显示器    惠科 HKC2701 T7000 DO ( 27 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 微星</p>
