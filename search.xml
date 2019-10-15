@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i3-9100F  华擎 Z370 Pro4 Radeon RX 470黑苹果Hackintosh EFI引导 (macOS Sierra 10.12.6 nvme) CLOVER EFI下载Download</title>
+    <url>/i3-9100F-asrock-Z370-Pro4-RX-470-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    X64 兼容 台式电脑  (扫描时间：2019年09月13日)<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i3-9100F @ 3.60GHz 四核<br>主板    华擎 Z370 Pro4 ( Z370 芯片组 )<br>内存    16 GB ( 金士顿 DDR4 2400MHz )<br>主硬盘    英特尔 SSDPEKKW256G8 ( 256 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 470 ( 4 GB / 蓝宝石 )<br>显示器    优派 VSCB032 VP2468 Series ( 24 英寸  )<br>光驱    TSSTcorp DVD-ROM TS-H353C DVD光驱<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 华擎</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i3-9100F%20%20%E5%8D%8E%E6%93%8E%20Z370%20Pro4%20Radeon%20RX%20470%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Sierra%2010.12.6%20nvme)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/D0A0591CD88CFAF5582A476F0C3CBFA1.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✔   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✱   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i3-9100F%20%20%E5%8D%8E%E6%93%8E%20Z370%20Pro4%20Radeon%20RX%20470%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Sierra%2010.12.6%20nvme)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/5CA59501B30D2A767E30FD5A0A8E3035.jpg" alt><br><img src="i3-9100F%20%20%E5%8D%8E%E6%93%8E%20Z370%20Pro4%20Radeon%20RX%20470%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Sierra%2010.12.6%20nvme)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/B0BAB2ABA14D0EA8BE5B48289D42D3BD.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+<li>NVME硬盘（macos 10.12.6）</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Sierra  10.12.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><p>重点解决macos10.12.6不能原生支持NVME硬盘的补丁，macos10.13.6原生支持NVME接口。</p>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1qWjKCMrfGN_X4VxWopU94Q" target="_blank" rel="noopener">i3-9100f 华擎z370 pro4 rx470 alc 892 10.12.6 nvme patch.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>i3-9100F</tag>
+        <tag>asrock</tag>
+        <tag>Z370</tag>
+        <tag>RX 470</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>惠普 HP EliteBook 8470p 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i7-3520M+HD 7570M) CLOVER EFI下载Download</title>
     <url>/HP-EliteBook-8470p-i7-3520M-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    惠普 HP EliteBook 8470p 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 第三代酷睿 i7-3520M @ 2.90GHz 双核<br>主板    惠普 179B ( QM77 Express 芯片组 )<br>内存    16 GB ( 海力士 DDR3 1333MHz / 海力士 DDR3L 1600MHz )<br>主硬盘    建兴 S920 256 ( 256 GB / 固态硬盘 )<br>显卡    AMD Radeon HD 7570M ( 1 GB / 惠普 )<br>显示器    LG LGD0306 ( 14 英寸  )<br>声卡    IDT 矽玛特 STAC 92XX @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    英特尔 82579LM Gigabit Network Connection / 惠普</p>
