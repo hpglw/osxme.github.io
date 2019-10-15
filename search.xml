@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>联想ThinkPad S3锋芒笔记本 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i5-8265U+UHD 620) CLOVER EFI下载Download</title>
+    <url>/ThinkPad-S3-i5-8265U-UHD-620-hackintosh.html</url>
+    <content><![CDATA[<p>Whiskey Lake处理器，i5-8265U/Radoen 540X 8G内存/256G固态硬盘<br>&lt;!—more—&gt;</p>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E8%81%94%E6%83%B3ThinkPad%20S3%E9%94%8B%E8%8A%92%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-8265U+UHD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/EFBD2EC4287626E3F2F415386E74CBFE.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✖   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x 需要特别版<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E8%81%94%E6%83%B3ThinkPad%20S3%E9%94%8B%E8%8A%92%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-8265U+UHD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/A2B5CBC9D4DEACA6DCB5BC0522B1AB11.jpg" alt><br><img src="%E8%81%94%E6%83%B3ThinkPad%20S3%E9%94%8B%E8%8A%92%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-8265U+UHD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/E1A80244535DF99BD198E94ADE7D9F86.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>TYPE-C </li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>WIFI</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1zC4y3gbhBX0nVbsqwVFoKg" target="_blank" rel="noopener">Thinkpad s3 i58265u.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+      <tags>
+        <tag>ThinkPad</tag>
+        <tag>i5-8265U</tag>
+        <tag>UHD 620</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微软 Surface Book 2 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i5-7300U+HD 620) CLOVER EFI下载Download</title>
     <url>/Surface-Book-2-i5-7300U-HD-620-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    微软 Surface Book 2 笔记本电脑  (扫描时间：2019年09月05日)<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7300U @ 2.60GHz 双核<br>主板    微软 Surface Book 2 ( 7th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存    8 GB ( SK Hynix )<br>主硬盘    三星 MZFLW256HEHP-000MV ( 256 GB / 固态硬盘 )<br>显卡    英特尔 HD Graphics 620 ( 128 MB / 微软 )<br>显示器    飞利浦 PHLC0C6 PHL 224E5 ( 21.7 英寸  )<br>声卡    英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡    Marvell Marvell AVASTAR Wireless-AC Network Controller / 045E0009</p>
