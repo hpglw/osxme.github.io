@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>联想 Lenovo IdeaPad Y510P 笔记本黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i7-4700MQ+HD4600+GTX 755M)</title>
+    <url>/Lenovo-IdeaPad-Y510P-i7-4700MQ-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    联想 Lenovo IdeaPad Y510P 笔记本电脑<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 第四代酷睿 i7-4700MQ @ 2.40GHz 四核<br>主板    联想 VIQY0Y1 ( Lynx Point )<br>内存    16 GB ( 海力士 DDR3L 1600MHz )<br>主硬盘     NT-1TB ( 1024 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GT 755M ( 2 GB / 联想 )<br>显示器    LG LGD0416 ( 15.7 英寸  )<br>光驱    先锋 BD-ROM BDCUD02AS 蓝光康宝<br>声卡    瑞昱  @ 英特尔 Lynx Point  高保真音频<br>网卡    鈺硕 QCA8171 Gigabit Ethernet / 联想</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E8%81%94%E6%83%B3%20Lenovo%20IdeaPad%20Y510P%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-4700MQ+HD4600+GTX%20755M)/8A1F7F7F935BE0F25918A6EB03616D64.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✱   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E8%81%94%E6%83%B3%20Lenovo%20IdeaPad%20Y510P%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-4700MQ+HD4600+GTX%20755M)/1222CBCBD5684014DAE2795F2AE3D0AE.jpg" alt><br><img src="%E8%81%94%E6%83%B3%20Lenovo%20IdeaPad%20Y510P%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-4700MQ+HD4600+GTX%20755M)/48163882FCB201C52E877074DBAD2453.jpg" alt><br><img src="%E8%81%94%E6%83%B3%20Lenovo%20IdeaPad%20Y510P%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-4700MQ+HD4600+GTX%20755M)/76B1879DC840CDAAB41CB250734E3C87.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>WIFI</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1gkM4krauThOk4AW4gREj-g" target="_blank" rel="noopener">联想Y410P i5-4200M 8GB GT 755M HD4600.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+      <tags>
+        <tag>Lenovo</tag>
+        <tag>IdeaPad</tag>
+        <tag>i7-4700MQ</tag>
+        <tag>HD 4600</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>双路黑苹果 超微 X9DAi（X79） E5-2680 (X2) Quadro K5000 Hackintosh EFI引导</title>
     <url>/X9DAi-X79-E5-2680-Quadro-K5000-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    超微 X9DAi 台式电脑<br>操作系统    Windows 10 Enterprise 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E5-2680 (X2)<br>主板    超微 X9DAi ( X79 PCH - )<br>内存    48 GB ( DDR3 1600MHz )<br>主硬盘    英睿达 _CT240M500SSD1 ( 240 GB / 固态硬盘 )<br>显卡    Nvidia Quadro K5000 ( 2 GB / Nvidia )<br>显示器    LG GSM598D 23EA63 ( 23.1 英寸  )<br>声卡    瑞昱 ALC889  高保真音频<br>网卡    英特尔 I350 Gigabit Network Connection / 超微</p>
