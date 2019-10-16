@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微星 B250 Gaming Aegis 3+i5-7400+HD 630黑苹果Mojave 10.14.5 Hackintosh EFI引导</title>
+    <url>/msi-B250-Gaming-Aegis-3-i5-7400-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 微星 B250 Gaming Aegis 3 (MS-B907) 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i5-7400 @ 3.00GHz 四核<br>主板 微星 MS-B9071 ( B250 芯片组 )<br>内存 16 GB ( 金士顿 DDR4 2400MHz )<br>主硬盘 英特尔 SSDPEKKW128G7 ( 128 GB / 固态硬盘 )<br>显卡 HD 630 核显<br>显示器 戴尔 DEL413A DELL U2518D ( 25 英寸  )<br>光驱 日立-LG DVDRAM GUD0N DVD刻录机<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 博通 Broadcom 802.11ac Network Adapter / 苹果</p>
+<a id="more"></a>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E5%BE%AE%E6%98%9F%20B250%20Gaming%20Aegis%203+i5-7400+HD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CMojave%2010.14.5%20Hackintosh%20EFI%E5%BC%95%E5%AF%BC/FA6F4925-6ABB-42D3-9165-0E310DDF27DA.jpg" alt><br><img src="%E5%BE%AE%E6%98%9F%20B250%20Gaming%20Aegis%203+i5-7400+HD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CMojave%2010.14.5%20Hackintosh%20EFI%E5%BC%95%E5%AF%BC/86AD7A11-A058-473B-9CF8-CA7DE8E06344.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/13G1wy6ajT0UV50ZAUK27EA" target="_blank" rel="noopener">i5-7400 微星 B250 Gaming Aegis 3 HD630 10.14.5 .zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>i5-7400</tag>
+        <tag>微星</tag>
+        <tag>HD 630</tag>
+        <tag>B250</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>联想 Lenovo IdeaPad Y510P 笔记本黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5 i7-4700MQ+HD4600+GTX 755M)</title>
     <url>/Lenovo-IdeaPad-Y510P-i7-4700MQ-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    联想 Lenovo IdeaPad Y510P 笔记本电脑<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 第四代酷睿 i7-4700MQ @ 2.40GHz 四核<br>主板    联想 VIQY0Y1 ( Lynx Point )<br>内存    16 GB ( 海力士 DDR3L 1600MHz )<br>主硬盘     NT-1TB ( 1024 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GT 755M ( 2 GB / 联想 )<br>显示器    LG LGD0416 ( 15.7 英寸  )<br>光驱    先锋 BD-ROM BDCUD02AS 蓝光康宝<br>声卡    瑞昱  @ 英特尔 Lynx Point  高保真音频<br>网卡    鈺硕 QCA8171 Gigabit Ethernet / 联想</p>
@@ -102,6 +148,55 @@
         <tag>X79</tag>
         <tag>E5-2680</tag>
         <tag>Quadro K5000</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>超微 X9DAi+ 双路E5-2660+GTX 1060黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
+    <url>/X9DAi-E5-2660-GTX-1060-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    超微 X9DAi 台式电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E5-2660 v2 @ 2.20GHz<br>主板    超微 X9DAi ( X79 PCH - )<br>内存    32 GB ( DDR3 1333MHz )<br>主硬盘    三星 SSD 860 PRO 1TB ( 1024 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 6GB ( 6 GB / 索泰 )<br>显示器    DPI2360 DVI ( 27 英寸  )<br>声卡    瑞昱 ALC889  高保真音频<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 34687470</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/60CD1246D5FD42D6C8D9BAF465E24ECF.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/DC31189B804FD14FDC082A1D75D34A58.jpg" alt><br><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/E7239D6947857A99835CF86FEAACB910.jpg" alt><br><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/1704E5AA85CB2D87419C28014CEEB584.jpg" alt><br><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/ACA828B41E966FE9B22857B62130E6C0.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>恢复初始化</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1bynP96vKCsJgAVLy9x3N_Q" target="_blank" rel="noopener">e5-2660 v2-X9DAi x79 gtx 1060 alc889.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>Supermicro_超微</category>
+      </categories>
+      <tags>
+        <tag>GTX 1060</tag>
+        <tag>X9DAi</tag>
+        <tag>超微</tag>
+        <tag>E5-2660</tag>
       </tags>
   </entry>
   <entry>
@@ -700,6 +795,166 @@
       </tags>
   </entry>
   <entry>
+    <title>华硕顽石(ASUS) 电竞版FL8000UN(x542un) 黑苹果Hackintosh (macOS High Sierra 10.14.x i7-8550U+UHD 620+MX150) CLOVER EFI下载Download</title>
+    <url>/ASUS-FL8000UN-x542un-i7-8550U-UHD-620-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号<br>华硕顽石(ASUS) 电竞版FL8000UN(x542un)笔记本电脑<br>处理器    英特尔 Core i7-8550U<br>主板    华硕 X542UN<br>内存    16 GB ( 三星 DDR4 2400MHz )<br>主硬盘    英特尔512GB<br>显卡    Nvidia GeForce MX150 ( 4 GB / 戴尔 )<br>核显        UHD 620<br>显示器    京东方 BOE069C ( 15.5 英寸  )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    RTL8168<br>无线        Qualcomm Atheros AR956x Wireless Network Adapter</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/29E31E83-0395-43C8-AE19-C0984A5D10EC.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✖   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x  需要特别版<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/7882C12A-20EB-404E-BFA8-68D0672ACAF5.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/56DC385003923EF2A7D8D330B4E3C6D3.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/A30E380F1BD77052AE040E4CA03908C8.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/31EA8708EAFC1F564C04BEBFDA0B4471.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/953FD67370734618156E71E2DCEE6467.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/529B4B32BD63781A757B57EC3B33FE45.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/EACE84D0AF3103D2AA4B49DF10212304.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>WIFI（AR956X）</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>休眠</li>
+<li>外接显示器（不确定）</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/17JSkr5iqSuhPOvsBFMeg2g" target="_blank" rel="noopener">asus x542un fl8000un i7-8550u uhd620 gtx mx150.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ASUS_华硕</category>
+      </categories>
+      <tags>
+        <tag>ASUS</tag>
+        <tag>i7-8550U</tag>
+        <tag>UHD-620</tag>
+        <tag>MX150</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>戴尔Dell Inspiron 7560 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14 i5-7200U+HD 620+GTX 940MX) CLOVER EFI下载Download</title>
+    <url>/Dell-Inspiron-7560-i5-7200U-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    戴尔 Inspiron 7560 笔记本电脑<br>操作系统    Windows 10 专业版 精简版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板    戴尔 085P7T ( 7th Generation Intel Processor Family I/O - 9D58 笔记本芯片组 )<br>内存    4 GB ( 海力士 DDR4 2400MHz )<br>主硬盘    西数 WDC WD5000LPCX-75VHAT0 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 940MX ( 2 GB )<br>显示器    京东方 BOE06B4 ( 15.5 英寸  )<br>声卡    瑞昱 Audio @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Dual Band Wireless-AC 3165</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/0908CA791609E09DA2F97041566B4E6E.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/071B8F7C2B3BEA386269C42EE86510AF.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/D226A7065951B6E1A1340A9A0BEBA5A9.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/7504DA158F51F14634F06D4E8678505A.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/11-hbT49qIbED2Suv0O7GYA" target="_blank" rel="noopener">dell 7560.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+      <tags>
+        <tag>HD 620</tag>
+        <tag>Inspiron</tag>
+        <tag>Dell</tag>
+        <tag>i5-7200U</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Intel NUC8i7BEH 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.14.5 i7-8559U+Iris Plus Graphics 655+4K) CLOVER EFI下载Download</title>
+    <url>/NUC8i7BEH-i7-8559U-Iris-Plus-Graphics-655-4k-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    Intel(R) Client Systems NUC8i7BEH 未知<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-8559U @ 2.70GHz 四核<br>主板    英特尔 NUC8BEB ( I/O - 9D84 for mobile 8th Gen Intel Core processor family )<br>内存    32 GB ( 海盗船 DDR4 2666MHz )<br>主硬盘     HS-SSD-C2000Pro 1024G ( 1024 GB / 固态硬盘 )<br>显卡    英特尔 Iris Plus Graphics 655 ( 128 MB / 英特尔 )<br>显示器    三星 SAM0A7D SAMSUNG ( 54.6 英寸  )<br>声卡    英特尔 英特尔智音技术音频控制器<br>网卡    英特尔 Wireless-AC 9462</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/8722F1521A76C3A0FB14FDDD5504D995.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br> ✖   macOS Sierra 10.12.x<br> ✖   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/54F2D00B7CF9324809FBB8FFA28A252C.jpg" alt><br><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/29A9D3AD521652EA536EB8EB439DDC77.jpg" alt><br><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/44CFC535CD7099E18C6D812BD005E02F.jpg" alt><br><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/65D28F08E193BCD4410F1ED1C0C40974.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>键盘</li>
+<li>双屏多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>不要更新BIOS版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1bZGeHploZsp5ShsMAxnyaQ" target="_blank" rel="noopener">NUC8i7BEH i7-8559u 32gb c200pro 1t iris plus 655.zip</a></p>
+<blockquote>
+<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>NUC</category>
+      </categories>
+      <tags>
+        <tag>NUC</tag>
+        <tag>i7-8559U</tag>
+        <tag>Iris Plus Graphics 655</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>新创云电脑i5-8350U+UHD Graphics 620 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14.5) CLOVER EFI下载Download</title>
     <url>/mini-i5-8350U-UHD-Graphics-620-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    Default string Default string 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-8350U @ 1.70GHz 四核<br>主板    Default string ( 7th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存    8 GB ( 亿储 DDR4 2400MHz )<br>主硬盘     Kston 128GB ( 128 GB / 固态硬盘 )<br>显卡    英特尔 UHD Graphics 620 ( 128 MB / 英特尔 )<br>显示器    冠捷 AOC2080 2080W ( 19.5 英寸  )<br>声卡    英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller</p>
@@ -795,106 +1050,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Intel NUC8i7BEH 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.14.5 i7-8559U+Iris Plus Graphics 655+4K) CLOVER EFI下载Download</title>
-    <url>/NUC8i7BEH-i7-8559U-Iris-Plus-Graphics-655-4k-hackintosh.html</url>
-    <content><![CDATA[<p>电脑型号    Intel(R) Client Systems NUC8i7BEH 未知<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-8559U @ 2.70GHz 四核<br>主板    英特尔 NUC8BEB ( I/O - 9D84 for mobile 8th Gen Intel Core processor family )<br>内存    32 GB ( 海盗船 DDR4 2666MHz )<br>主硬盘     HS-SSD-C2000Pro 1024G ( 1024 GB / 固态硬盘 )<br>显卡    英特尔 Iris Plus Graphics 655 ( 128 MB / 英特尔 )<br>显示器    三星 SAM0A7D SAMSUNG ( 54.6 英寸  )<br>声卡    英特尔 英特尔智音技术音频控制器<br>网卡    英特尔 Wireless-AC 9462</p>
-<a id="more"></a>
-<hr>
-<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/8722F1521A76C3A0FB14FDDD5504D995.jpg" alt></p>
-<hr>
-<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
-<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br> ✖   macOS Sierra 10.12.x<br> ✖   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
-</blockquote>
-<hr>
-<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/54F2D00B7CF9324809FBB8FFA28A252C.jpg" alt><br><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/29A9D3AD521652EA536EB8EB439DDC77.jpg" alt><br><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/44CFC535CD7099E18C6D812BD005E02F.jpg" alt><br><img src="Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/65D28F08E193BCD4410F1ED1C0C40974.jpg" alt></p>
-<hr>
-<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>键盘</li>
-<li>双屏多屏</li>
-</ul>
-<hr>
-<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
-<li>休眠</li>
-</ul>
-<hr>
-<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
-<li>不要更新BIOS版本</li>
-<li>关闭Secure Boot</li>
-<li>SATA改为AHCI</li>
-</ol>
-<hr>
-<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
-<hr>
-<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1bZGeHploZsp5ShsMAxnyaQ" target="_blank" rel="noopener">NUC8i7BEH i7-8559u 32gb c200pro 1t iris plus 655.zip</a></p>
-<blockquote>
-<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>NUC</category>
-      </categories>
-      <tags>
-        <tag>NUC</tag>
-        <tag>i7-8559U</tag>
-        <tag>Iris Plus Graphics 655</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>超微 X9DAi+ 双路E5-2660+GTX 1060黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
-    <url>/X9DAi-E5-2660-GTX-1060-hackintosh.html</url>
-    <content><![CDATA[<p>电脑型号    超微 X9DAi 台式电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E5-2660 v2 @ 2.20GHz<br>主板    超微 X9DAi ( X79 PCH - )<br>内存    32 GB ( DDR3 1333MHz )<br>主硬盘    三星 SSD 860 PRO 1TB ( 1024 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 6GB ( 6 GB / 索泰 )<br>显示器    DPI2360 DVI ( 27 英寸  )<br>声卡    瑞昱 ALC889  高保真音频<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 34687470</p>
-<a id="more"></a>
-<hr>
-<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/60CD1246D5FD42D6C8D9BAF465E24ECF.jpg" alt></p>
-<hr>
-<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
-<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
-</blockquote>
-<hr>
-<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/DC31189B804FD14FDC082A1D75D34A58.jpg" alt><br><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/E7239D6947857A99835CF86FEAACB910.jpg" alt><br><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/1704E5AA85CB2D87419C28014CEEB584.jpg" alt><br><img src="%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/ACA828B41E966FE9B22857B62130E6C0.jpg" alt></p>
-<hr>
-<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
-<li>独显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>多屏</li>
-</ul>
-<hr>
-<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
-<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
-<li>更新至最新版本</li>
-<li>恢复初始化</li>
-<li>关闭Secure Boot</li>
-<li>SATA改为AHCI</li>
-</ol>
-<hr>
-<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
-<hr>
-<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1bynP96vKCsJgAVLy9x3N_Q" target="_blank" rel="noopener">e5-2660 v2-X9DAi x79 gtx 1060 alc889.zip</a></p>
-<blockquote>
-<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>Supermicro_超微</category>
-      </categories>
-      <tags>
-        <tag>GTX 1060</tag>
-        <tag>X9DAi</tag>
-        <tag>超微</tag>
-        <tag>E5-2660</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>E3-1231+华硕 B85M-F PLUS+ GTX 960黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6) CLOVER EFI下载Download</title>
     <url>/E3-1231-asus-B85M-F-PLUS-gtx960-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号    华硕 All Series 台式电脑<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 Xeon(至强) E3-1231 v3 @ 3.40GHz 四核<br>主板    华硕 B85M-F PLUS ( Lynx Point )<br>内存    16 GB ( Avexir DDR3 1600MHz / 威刚 DDR3 1600MHz )<br>主硬盘    三星 MZ7LF128HCHP-00000 ( 128 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 960 ( 4 GB / 华硕 )<br>显示器    惠科 HKC2400 T4000+DVI ( 24.1 英寸  )<br>声卡    英特尔 Lynx Point  高保真音频<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p>
@@ -939,115 +1094,6 @@
         <tag>E3-1231</tag>
         <tag>B85M</tag>
         <tag>gtx 960</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>戴尔Dell Inspiron 7560 黑苹果Hackintosh EFI引导 (macOS Mojave 10.14 i5-7200U+HD 620+GTX 940MX) CLOVER EFI下载Download</title>
-    <url>/Dell-Inspiron-7560-i5-7200U-hackintosh.html</url>
-    <content><![CDATA[<p>电脑型号    戴尔 Inspiron 7560 笔记本电脑<br>操作系统    Windows 10 专业版 精简版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板    戴尔 085P7T ( 7th Generation Intel Processor Family I/O - 9D58 笔记本芯片组 )<br>内存    4 GB ( 海力士 DDR4 2400MHz )<br>主硬盘    西数 WDC WD5000LPCX-75VHAT0 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 940MX ( 2 GB )<br>显示器    京东方 BOE06B4 ( 15.5 英寸  )<br>声卡    瑞昱 Audio @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Dual Band Wireless-AC 3165</p>
-<a id="more"></a>
-<hr>
-<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/0908CA791609E09DA2F97041566B4E6E.jpg" alt></p>
-<hr>
-<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
-<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
-</blockquote>
-<hr>
-<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/071B8F7C2B3BEA386269C42EE86510AF.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/D226A7065951B6E1A1340A9A0BEBA5A9.jpg" alt><br><img src="%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/7504DA158F51F14634F06D4E8678505A.jpg" alt></p>
-<hr>
-<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>键盘</li>
-<li>触控板</li>
-<li>亮度调节</li>
-</ul>
-<hr>
-<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
-<li>独显</li>
-<li>休眠</li>
-</ul>
-<hr>
-<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
-<li>更新至最新版本</li>
-<li>关闭Secure Boot</li>
-<li>SATA改为AHCI</li>
-</ol>
-<hr>
-<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
-<hr>
-<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/11-hbT49qIbED2Suv0O7GYA" target="_blank" rel="noopener">dell 7560.zip</a></p>
-<blockquote>
-<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Dell_戴尔</category>
-      </categories>
-      <tags>
-        <tag>HD 620</tag>
-        <tag>Inspiron</tag>
-        <tag>Dell</tag>
-        <tag>i5-7200U</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>华硕顽石(ASUS) 电竞版FL8000UN(x542un) 黑苹果Hackintosh (macOS High Sierra 10.14.x i7-8550U+UHD 620+MX150) CLOVER EFI下载Download</title>
-    <url>/ASUS-FL8000UN-x542un-i7-8550U-UHD-620-hackintosh.html</url>
-    <content><![CDATA[<p>电脑型号<br>华硕顽石(ASUS) 电竞版FL8000UN(x542un)笔记本电脑<br>处理器    英特尔 Core i7-8550U<br>主板    华硕 X542UN<br>内存    16 GB ( 三星 DDR4 2400MHz )<br>主硬盘    英特尔512GB<br>显卡    Nvidia GeForce MX150 ( 4 GB / 戴尔 )<br>核显        UHD 620<br>显示器    京东方 BOE069C ( 15.5 英寸  )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    RTL8168<br>无线        Qualcomm Atheros AR956x Wireless Network Adapter</p>
-<a id="more"></a>
-<hr>
-<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/29E31E83-0395-43C8-AE19-C0984A5D10EC.jpg" alt></p>
-<hr>
-<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
-<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✖   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x  需要特别版<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
-</blockquote>
-<hr>
-<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/7882C12A-20EB-404E-BFA8-68D0672ACAF5.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/56DC385003923EF2A7D8D330B4E3C6D3.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/A30E380F1BD77052AE040E4CA03908C8.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/31EA8708EAFC1F564C04BEBFDA0B4471.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/953FD67370734618156E71E2DCEE6467.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/529B4B32BD63781A757B57EC3B33FE45.jpg" alt><br><img src="%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/EACE84D0AF3103D2AA4B49DF10212304.jpg" alt></p>
-<hr>
-<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>WIFI（AR956X）</li>
-<li>键盘</li>
-<li>触控板</li>
-<li>亮度调节</li>
-</ul>
-<hr>
-<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
-<li>独显</li>
-<li>休眠</li>
-<li>外接显示器（不确定）</li>
-</ul>
-<hr>
-<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
-<li>更新至最新版本</li>
-<li>关闭Secure Boot</li>
-<li>SATA改为AHCI</li>
-</ol>
-<hr>
-<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
-<hr>
-<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/17JSkr5iqSuhPOvsBFMeg2g" target="_blank" rel="noopener">asus x542un fl8000un i7-8550u uhd620 gtx mx150.zip</a></p>
-<blockquote>
-<p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>ASUS_华硕</category>
-      </categories>
-      <tags>
-        <tag>ASUS</tag>
-        <tag>i7-8550U</tag>
-        <tag>UHD-620</tag>
-        <tag>MX150</tag>
       </tags>
   </entry>
   <entry>
