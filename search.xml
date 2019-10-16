@@ -20,6 +20,26 @@
       </tags>
   </entry>
   <entry>
+    <title>黑苹果安装 BIOS CSM是开启还是关闭？</title>
+    <url>/bios-csm-enabled-disabled-hackintosh.html</url>
+    <content><![CDATA[<p>在安装黑苹果macOS的时候，我可能遇到某些主板需要设置BIOS里的CSM选项，一般来说，现在新的主板或者笔记本都是默认关闭的。</p>
+<p>首先，看一下什么是CSM，以下百度：</p>
+<blockquote>
+<p>CSM（兼容性支持模块）是BIOS上Boot选项里的一个下拉子项目（一些老的主板上没有此选项），与Secure Boot（安全启动）是并列项。CSM开启使得可以支持UEFI启动和非UEFI启动。若是需要启动传统MBR设备，则需开启CSM。关闭CSM则变成纯UEFI启动，且完全支持安全启动。Secure Boot（安全启动），安全启动仅适用于使用UEFI启动的操作系统。在笔记本的BIOS里，这里更多的是使用Enabled（打开）和Disabled（关闭）两个选项。在电脑自带Windows 8的情况下，Secure Boot（安全启动）默认是Enabled（打开）。从而使得CSM（兼容性支持模块）又默认是Disabled（关闭），进而导致电脑不能启动不完全支持UEFI的设备。要使得电脑能启动不完全支持UEFI的设备，就必须关闭Secure Boot，然后打开CSM。  </p>
+<p>简单的说，你要安装Win7以下系统就需要开启CSM模块，而以UEFI的方式启动的系统则关闭即可。  </p>
+</blockquote>
+<p>从经验上来看，安装黑苹果必须关闭Secure Boot，否则不能引导CLOVER。所以，建议：<br><strong>打开CSM！</strong></p>
+<p>如果说打开之后，出现一些无法解释的错误，可以尝试关闭CSM，反正要么开，要么关，建议是打开，毕竟不是所有设备都能支持UEFI。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>BIOS</tag>
+        <tag>CSM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微星 B250 Gaming Aegis 3+i5-7400+HD 630黑苹果Mojave 10.14.5 Hackintosh EFI引导</title>
     <url>/msi-B250-Gaming-Aegis-3-i5-7400-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号 微星 B250 Gaming Aegis 3 (MS-B907) 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i5-7400 @ 3.00GHz 四核<br>主板 微星 MS-B9071 ( B250 芯片组 )<br>内存 16 GB ( 金士顿 DDR4 2400MHz )<br>主硬盘 英特尔 SSDPEKKW128G7 ( 128 GB / 固态硬盘 )<br>显卡 HD 630 核显<br>显示器 戴尔 DEL413A DELL U2518D ( 25 英寸  )<br>光驱 日立-LG DVDRAM GUD0N DVD刻录机<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 博通 Broadcom 802.11ac Network Adapter / 苹果</p>
