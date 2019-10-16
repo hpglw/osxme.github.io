@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果卡加号的常见解决方之一 OsxAptioFixDrv</title>
+    <url>/OsxAptioFixDrv-AptioMemoryFix-hackintosh.html</url>
+    <content><![CDATA[<p>安装黑苹果系统很常见的一种错误，引导进macos之后，卡在一排++++++++号上，就不动了。<br>或者显示 error loading kernel cache(0x9)</p>
+<p>这些问题的总结有很多种，大部分出在bios内存修复上，还有一种就是仿冒CPU也会出现这样的情况，非常头痛。</p>
+<p>这里老吴提供5个常用的修复补丁，逐个替换，直到有一个好使为止。</p>
+<p>下载链接：链接:<a href="https://pan.baidu.com/s/1c7dwIq41cYEIbCRVgLc4wA" target="_blank" rel="noopener">https://pan.baidu.com/s/1c7dwIq41cYEIbCRVgLc4wA</a>  密码:4yud</p>
+<p>AptioMemoryFix-64.efi<br>OsxAptioFix3Drv-64.efi<br>OsxAptioFix2Drv-64.efi<br>OsxAptioFixDrv-64.efi<br>OsxAptioFix2Drv-free2000.efi</p>
+<p>一共有5个，个人建议用AptioMemoryFix-64.efi    比较兼容，有些新的一点的笔记本可以用OsxAptioFix2Drv-free2000.efi，反正自己试。</p>
+<p>使用方法：<br>打开clover目录，将文件放在drivers64UEFI文件夹里面，请注意，一次只能放其中一个，不能共用。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>OsxAptioFix</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>黑苹果双系统Clover引导Windows 10黑屏的问题解决</title>
     <url>/Clover-windows-black-srceen-fix-hackintosh.html</url>
     <content><![CDATA[<p>之前帮一个客户安装一台黑苹果双系统win10+macos，用EasyUEFI那立Clover引导后，进macos没问题，就是进不去windows10，转完圈之后直接黑屏没反应。</p>
