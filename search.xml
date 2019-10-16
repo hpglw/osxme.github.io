@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果双系统Clover引导Windows 10黑屏的问题解决</title>
+    <url>/Clover-windows-black-srceen-fix-hackintosh.html</url>
+    <content><![CDATA[<p>之前帮一个客户安装一台黑苹果双系统win10+macos，用EasyUEFI那立Clover引导后，进macos没问题，就是进不去windows10，转完圈之后直接黑屏没反应。</p>
+<p>然后按F8，直接选Windows Boot manager进又没问题。</p>
+<p>后来发现客户的CPU是带核显，在设备管理器里有两个显卡，可以确定用clover引导时，没有加载核显，导致windows一开始找不到核显，就一直黑屏。</p>
+<p>解决方法也很简单了，直接在windows设备管理器禁用核显</p>
+<p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8F%8C%E7%B3%BB%E7%BB%9FClover%E5%BC%95%E5%AF%BCWindows%2010%E9%BB%91%E5%B1%8F%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/4E38CE7F1037F32F43996D4A4F3FD5E3.jpg" alt></p>
+<p>重启用clover引导进windows 10一切正常。</p>
+<p>也可以在bios直接禁用核显，但是这样做的话，macos也用不了核显了，所以就好的办法就同在windows下直接禁用。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>黑屏</tag>
+        <tag>Clover</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微星 B250 Gaming Aegis 3+i5-7400+HD 630黑苹果Mojave 10.14.5 Hackintosh EFI引导</title>
     <url>/msi-B250-Gaming-Aegis-3-i5-7400-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号 微星 B250 Gaming Aegis 3 (MS-B907) 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i5-7400 @ 3.00GHz 四核<br>主板 微星 MS-B9071 ( B250 芯片组 )<br>内存 16 GB ( 金士顿 DDR4 2400MHz )<br>主硬盘 英特尔 SSDPEKKW128G7 ( 128 GB / 固态硬盘 )<br>显卡 HD 630 核显<br>显示器 戴尔 DEL413A DELL U2518D ( 25 英寸  )<br>光驱 日立-LG DVDRAM GUD0N DVD刻录机<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 博通 Broadcom 802.11ac Network Adapter / 苹果</p>
