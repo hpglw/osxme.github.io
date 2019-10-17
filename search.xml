@@ -158,7 +158,8 @@
   <entry>
     <title>i5-6600k 技嘉z170x-gaming 5 gtx 970 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6)</title>
     <url>/GIGABYTE-i5-6600k-z170x-gaming-5-hackintosh.html</url>
-    <content><![CDATA[<p>处理器    英特尔 Core i5-6600k<br>主板    技嘉z170x-gaming 5<br>内存    4 GB ( 三星 DDR3L 1600MHz )<br>主硬盘    闪迪 X400 2.5 7MM 256GB ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce gtx 970<br>&lt;!—-more—-&gt;</p>
+    <content><![CDATA[<p>处理器    英特尔 Core i5-6600k<br>主板    技嘉z170x-gaming 5<br>内存    4 GB ( 三星 DDR3L 1600MHz )<br>主硬盘    闪迪 X400 2.5 7MM 256GB ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce gtx 970</p>
+<a id="more"></a>
 <hr>
 <h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
 <p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
