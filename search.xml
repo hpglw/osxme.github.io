@@ -463,19 +463,9 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/0.html</url>
-    <content><![CDATA[<hr>
-<p>title: 神舟z7kp7s1黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6 i7-7700HQ+GTX 1060独显)<br>abbrlink: HASEE-z7kp7s1-P65xHP-hackintosh<br>categories:</p>
-<ul>
-<li>笔记本</li>
-<li>Hasee_神舟<br>tags:</li>
-<li>HASEE</li>
-<li>P65xHP</li>
-<li>i7-7700HQ</li>
-</ul>
-<hr>
-<p>电脑型号    Notebook P65xHP 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-7700HQ @ 2.80GHz 四核<br>主板    Notebook P65xHP ( 100 Series/C230 Series 芯片组 Family - A152 )<br>内存    16 GB ( 英睿达 DDR4 2400MHz / 金士顿 DDR4 2400MHz )<br>主硬盘     HP SSD S700 250GB ( 250 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 ( 6 GB / 蓝天(CLEVO) )<br>显示器    友达 AUO42ED ( 15.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 蓝天(CLEVO)</p>
+    <title>神舟z7kp7s1黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6 i7-7700HQ+GTX 1060独显)</title>
+    <url>/HASEE-z7kp7s1-P65xHP-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    Notebook P65xHP 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-7700HQ @ 2.80GHz 四核<br>主板    Notebook P65xHP ( 100 Series/C230 Series 芯片组 Family - A152 )<br>内存    16 GB ( 英睿达 DDR4 2400MHz / 金士顿 DDR4 2400MHz )<br>主硬盘     HP SSD S700 250GB ( 250 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 ( 6 GB / 蓝天(CLEVO) )<br>显示器    友达 AUO42ED ( 15.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 蓝天(CLEVO)</p>
 <a id="more"></a>
 <hr>
 <h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E7%A5%9E%E8%88%9Fz7kp7s1%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i7-7700HQ+GTX%201060%E7%8B%AC%E6%98%BE)/15282806B933EEBF677FBD4E88A82A2F.jpg" alt></p>
@@ -517,6 +507,15 @@
 </blockquote>
 <hr>
 ]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Hasee_神舟</category>
+      </categories>
+      <tags>
+        <tag>HASEE</tag>
+        <tag>P65xHP</tag>
+        <tag>i7-7700HQ</tag>
+      </tags>
   </entry>
   <entry>
     <title>黑苹果卡加号的常见解决方之一 OsxAptioFixDrv</title>
