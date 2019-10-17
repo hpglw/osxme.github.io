@@ -1,6 +1,523 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>火影金刚4K I7-7700HQ GTX 1060驱动独显 ALC269 黑苹果Hackintosh EFI引导</title>
+    <url>/vulcan-jingang-gtx-4k-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 JinGang GTX笔记本<br>处理器 Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz<br>内存容量 8.0GB<br>显卡 1、NVIDIA GeForce GTX 1060<br>    2、Intel(R) HD Graphics 630<br>硬盘 1、Teclast 240GB NP900-2280 (240GB)<br> 2、SAMSUNG MZVLW256HEHP-00000 (256GB)<br>主板 VULCAN JinGang GTX (Standard)<br>网卡 1、Intel(R) Dual Band Wireless-AC 8265<br> 2、Realtek PCIe GBE Family Controller<br>声卡 1、Realtek High Definition Audio<br> 2、英特尔(R) 显示器音频<br> 3、NVIDIA Virtual Audio Device (Wave Extensible) (WDM)<br>显示器 LQ156D1JX01B  分辨率:3840x2160<br>当前操作系统 Windows 10 64位</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20I7-7700HQ%20GTX%201060%E9%A9%B1%E5%8A%A8%E7%8B%AC%E6%98%BE%20ALC269%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/EA5A1BBD7874A282C7D946C161B67AF3.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✱   macOS Mojave 10.14.x 核显<br>✱   macOS Catalina 10.15.x 核显</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20I7-7700HQ%20GTX%201060%E9%A9%B1%E5%8A%A8%E7%8B%AC%E6%98%BE%20ALC269%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/39B8BEB2DC9A128AB32B82EE80CB9EB1.jpg" alt><br><img src="%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20I7-7700HQ%20GTX%201060%E9%A9%B1%E5%8A%A8%E7%8B%AC%E6%98%BE%20ALC269%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/A524B9B3D36394E5AE19CE2B5E9AD70F.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>键盘</li>
+<li>触控板</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>WIFI</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/10vIp782cjipqLiFup6lHNg" target="_blank" rel="noopener">火影金刚4K II7-7700HQ HD530 1060只驱动独显 ALC269 ID6.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Vulcan_火影</category>
+      </categories>
+      <tags>
+        <tag>VULCAN</tag>
+        <tag>I7-7700HQ</tag>
+        <tag>火影金刚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>华硕asus Strix G531GT/GU/GV/GW G731GT  黑苹果Hackintosh EFI引导</title>
+    <url>/asus-Strix-G531GT-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    Strix G531GT_G531GT   (扫描时间：2019年09月06日)<br>处理器    Core i5-9300H @ 2.40GHz<br>主板    G531GT ( Intel/DRAM Registers - 3E10 - 300 Series Family - A30D )<br>内存    4 GB ( DDR4 2666MHz )<br>主硬盘    SSDPEKNW512G8 ( 512 GB / )<br>显卡    Nvidia GeForce GTX 1650 ( 4 GB /  )<br>显示器    NCP0042 ( 15.5   )<br>声卡     High Definition Audio<br>网卡    Wireless-AC 9462</p>
+<a id="more"></a>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✖   macOS Sierra 10.12.x<br>⊙   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>TYPE-C </li>
+<li>雷电</li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>WIFI</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1GAW9C9ffk83ecuL6HTS52Q" target="_blank" rel="noopener">G531GT.rar</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ASUS_华硕</category>
+      </categories>
+      <tags>
+        <tag>Strix</tag>
+        <tag>asus</tag>
+        <tag>i5-9300H</tag>
+        <tag>UHD 630</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技嘉 Z170X-Gaming 3+i5-6500+Radeon RX 560 黑苹果Hackintosh EFI引导</title>
+    <url>/GIGABYTE-Z170X-Gaming-3-gtx-i5-6500-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    技嘉 Z170X-Gaming 3 台式电脑  (扫描时间：2019年10月02日)<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-6500 @ 3.20GHz 四核<br>主板    技嘉 Z170X-Gaming 3 ( 100 Series/C230 Series 芯片组 Family - A145 )<br>内存    16 GB ( 威刚 DDR4 2666MHz / 金泰克 DDR4 2133MHz )<br>主硬盘    TIGO SSD 240GB ( 240 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 560 ( 4 GB / 迪兰恒进 )<br>显示器    飞利浦 PHLC0AD 237E4 ( 23.1 英寸  )<br>声卡    瑞昱 High Definition audio @ 英特尔 High Definition Audio 控制器<br>网卡    鈺硕 Killer E2200 Gigabit Ethernet Controller / 技嘉</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%8A%80%E5%98%89%20Z170X-Gaming%203+i5-6500+Radeon%20RX%20560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/0D255E8FAF2F5922F178355E28B0C511.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%8A%80%E5%98%89%20Z170X-Gaming%203+i5-6500+Radeon%20RX%20560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/DF7670363D99E4EF88CB03D4A533C6AF.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20Z170X-Gaming%203+i5-6500+Radeon%20RX%20560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/B38DE6FC92AA1711ECDB4CC6E1A6A866.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20Z170X-Gaming%203+i5-6500+Radeon%20RX%20560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/C7D1A9711EEF49294190FE88BEF699FE.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20Z170X-Gaming%203+i5-6500+Radeon%20RX%20560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/7A3BB1B0A7804FD5A7E1629C6681F369.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><p>前置音频接口无法使用。</p>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1QS93ZwU8h-gGhSFvTXXl8A" target="_blank" rel="noopener">I5-6500 技嘉z170X-GAMING 3 RX560 ALC1150.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>GIGABYTE</tag>
+        <tag>Z170</tag>
+        <tag>i5-6500</tag>
+        <tag>RX 560</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>i5-6600k 技嘉z170x-gaming 5 gtx 970 黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6)</title>
+    <url>/GIGABYTE-i5-6600k-z170x-gaming-5-hackintosh.html</url>
+    <content><![CDATA[<p>处理器    英特尔 Core i5-6600k<br>主板    技嘉z170x-gaming 5<br>内存    4 GB ( 三星 DDR3L 1600MHz )<br>主硬盘    闪迪 X400 2.5 7MM 256GB ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce gtx 970<br>&lt;!—-more—-&gt;</p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i5-6600k%20%E6%8A%80%E5%98%89z170x-gaming%205%20gtx%20970%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)/EAEEF96FD9211E1DED0589B3F9D5B576.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1xFXvo9nds2zPE4IxzAoMyw" target="_blank" rel="noopener">i5-6600k 技嘉z170x-gaming 5 gtx 970.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>GIGABYTE</tag>
+        <tag>i5-6600k</tag>
+        <tag>Z170</tag>
+        <tag>GTX 970</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>惠普光影精灵4 Pro HP Pavilion Gaming Laptop 15-cx0xxx 黑苹果Hackintosh EFI引导</title>
+    <url>/HP-Pavilion-Gaming-Laptop-15-cx0xxx-hackintosh.html</url>
+    <content><![CDATA[<p>独显无解，只能使用核显UHD 630。安装macOS Mojave 10.14.5。惠普笔记本的BIOS是比较恶心，需要耐心找找引导顺序，否则只能按F10调出启动菜单进CLOVER的引导。</p>
+<p>电脑型号    HP Pavilion Gaming Laptop 15-cx0xxx 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-8300H @ 2.30GHz 四核<br>主板    惠普 8478 ( HM370 芯片组 )<br>内存    16 GB ( 海力士 DDR4 2666MHz / 英睿达 DDR4 2666MHz )<br>主硬盘    西数 WDC PC SN520 SDAPNUW-128G-1006 ( 128 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1050 Ti ( 4 GB )<br>显示器    LG LGD05C0<br>声卡    ALC295 瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Wireless-AC 9560</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B54%20Pro%20HP%20Pavilion%20Gaming%20Laptop%2015-cx0xxx%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/2E96361A3BEC4F20C00DB000622703CB.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✖   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x 需要特别版<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B54%20Pro%20HP%20Pavilion%20Gaming%20Laptop%2015-cx0xxx%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/B7D832AD0B7EB79049A67FED235EF845.jpg" alt><br><img src="%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B54%20Pro%20HP%20Pavilion%20Gaming%20Laptop%2015-cx0xxx%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/319D474E2571F36BA61CFEE5FF96FA22.jpg" alt><br><img src="%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B54%20Pro%20HP%20Pavilion%20Gaming%20Laptop%2015-cx0xxx%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/C349B82D681F06BFAA9FABE042BB2A11.jpg" alt><br><img src="%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B54%20Pro%20HP%20Pavilion%20Gaming%20Laptop%2015-cx0xxx%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/5B1AABFE41DCC3E428CD8E7874DB32E1.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>TYPE-C </li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+<li>WIFI</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1DBD2aBMqsJXpC8uyX3yAGQ" target="_blank" rel="noopener">HP Pavilion Gaming Laptop 15-cx0xxx 惠普光影精灵4 i3-8100 uhd630 gtx 1050ti 1080p id13.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+      <tags>
+        <tag>HP</tag>
+        <tag>光影精灵</tag>
+        <tag>Pavilion</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技嘉 B85-HD3+i5-4570+GTX 1050 Ti  黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6)</title>
+    <url>/GIGABYTE-B85-HD3-i5-4570-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    技嘉 B85-HD3 台式电脑<br>操作系统    Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器    英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板    技嘉 B85-HD3 ( Lynx Point )<br>内存    32 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘    金士顿 SV300S37A240G ( 240 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1050 Ti ( 4 GB / 华硕 )<br>显示器    ICK2360 VGA ( 24 英寸  )<br>声卡    威盛 Envy24 Family Audio Controller<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉</p>
+<a id="more"></a>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱    macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%8A%80%E5%98%89%20B85-HD3+i5-4570+GTX%201050%20Ti%20%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)/9865C7871521663CAFC2716ABC883999.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20B85-HD3+i5-4570+GTX%201050%20Ti%20%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)/5675111A6FD0B0AA9F4AFA300347871D.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20B85-HD3+i5-4570+GTX%201050%20Ti%20%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)/B3B57CE53768D39BC030C83710B6FE00.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>休眠</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1plU-qyzf42qd3KoLgifGIw" target="_blank" rel="noopener">i5-4570 技嘉B85-HD3 32G GTX 1050 TI ID3 RTL8168.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>GIGABYTE</tag>
+        <tag>B85</tag>
+        <tag>i5-4570</tag>
+        <tag>GTX 1050 Ti</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>宏基Acer TravelMate P259-MG笔记本 黑苹果Hackintosh EFI引导 (macOS mojave 10.14.5 i5-6200U+HD 520 1080P) CLOVER EFI下载Download</title>
+    <url>/Acer-TravelMate-P259-MG-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号    TravelMate P259-MG 笔记本电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-6200U @ 2.30GHz 双核<br>主板    宏碁 Lyra_SK ( 100 Series 芯片组 Family/eSPI Controller - 9D48 )<br>内存    8 GB ( 镁光 DDR4 2400MHz )<br>主硬盘    闪迪 X600 M.2 2280 SATA 128GB ( 128 GB / 固态硬盘 )<br>显卡    Nvidia GeForce 940MX ( 2 GB / 宏碁 )<br>显示器    友达 AUO38ED ( 15.5 英寸  )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    博通 Broadcom 802.11ac Network Adapter / 联想</p>
+<a id="more"></a>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E5%AE%8F%E5%9F%BAAcer%20TravelMate%20P259-MG%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20mojave%2010.14.5%20i5-6200U+HD%20520%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/A76C169D6C34AA5B3290C14ED79FDBFC.jpg" alt><br><img src="%E5%AE%8F%E5%9F%BAAcer%20TravelMate%20P259-MG%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20mojave%2010.14.5%20i5-6200U+HD%20520%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/DC68F2054EFA49CA7E4F36AFCA789D29.jpg" alt><br><img src="%E5%AE%8F%E5%9F%BAAcer%20TravelMate%20P259-MG%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20mojave%2010.14.5%20i5-6200U+HD%20520%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/6DF59B7E96CE5B37CD0BD41A7232C45D.png" alt><br><img src="%E5%AE%8F%E5%9F%BAAcer%20TravelMate%20P259-MG%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20mojave%2010.14.5%20i5-6200U+HD%20520%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload/8544E4A237E913A91C42F0B0AB22A830.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>WIFI(自行更换免驱网卡)</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>独显</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本（极度重要）</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><p>卡++号错误，请参考<br><a href="http://k61.org/OsxAptioFixDrv-AptioMemoryFix-hackintosh.html">黑苹果卡加号的常见解决方之一 OsxAptioFixDrv | 老吴黑苹果工作室</a></p>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1LoUxmrmJKv2i_Y8GnqxtJA" target="_blank" rel="noopener">acer travelmate p259-mg i5-6200u 8g gtx 940mx hd520 alc 255 id7 rtl8168 bcm 5342 1080p.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Acer_宏碁</category>
+      </categories>
+      <tags>
+        <tag>TravelMate</tag>
+        <tag>Acer</tag>
+        <tag>i5-6200U</tag>
+        <tag>HD 520</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杰灵b75fel3  i5-3470 GTX960 黑苹果Hackintosh EFI引导</title>
+    <url>/jieling-b75fel3-i5-3470-GTX960-hackintosh.html</url>
+    <content><![CDATA[<p>这个主板需要打一下DSDT常用补丁，否则可能会出现偶尔开机禁行，平均两次开机有一次禁行。</p>
+<p>英特尔 Core i5-3470<br>主板    杰灵b75fel3（h61芯片组）<br>内存    8 GB<br>主硬盘    ( 240 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 960 ( 2 GB / 七彩虹 )<br>显示器    24寸<br>声卡    6系  @ 英特尔<br>网卡    RTL8168</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%9D%B0%E7%81%B5b75fel3%20%20i5-3470%20GTX960%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/1FEDC45B36A01ED53C0FFC22361EB6B7.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✖   macOS Mojave 10.14.x<br>✖   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%9D%B0%E7%81%B5b75fel3%20%20i5-3470%20GTX960%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/92042DDFB30AFCC20C59220AC96A7D44.jpg" alt><br><img src="%E6%9D%B0%E7%81%B5b75fel3%20%20i5-3470%20GTX960%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/7C3EF59631FDD06916EACD62ED5216A7.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1aohkCAwiAuZ_Gq47fd-LKg" target="_blank" rel="noopener">i5-3470_杰灵B75FEL3(H61)_GTX960.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>B75</tag>
+        <tag>i5-3470</tag>
+        <tag>GTX 960</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技嘉 B85M-D2V i3-4170 GT 730黑苹果Hackintosh EFI引导</title>
+    <url>/GIGABYTE-B85M-D2V-i3-4170-hackintosh.html</url>
+    <content><![CDATA[<p>原来的HD 4400核显，由于主板上只有VGA接口，无法支持，后来更换GT 730 1GB免驱，安装10.14.5 Mojave版成功，如果有这个主板的，请安装独立显卡，VGA实在难以支持，不想折腾。</p>
+<p>电脑型号    技嘉 B85M-D2V 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 第四代酷睿 i3-4170 @ 3.70GHz 双核<br>主板    技嘉 B85M-D2V ( Lynx Point )<br>内存    8 GB ( 威刚 DDR3 1600MHz )<br>主硬盘    影驰 GALAX TA1D0120A ( 120 GB / 固态硬盘 )<br>核显    英特尔 HD Graphics 4400 ( 技嘉 )VGA 接口不支持<br>独显：nvidia gt 730免驱<br>显示器    LG GSM580B IPS236 ( 23.1 英寸  )<br>声卡    瑞昱 ALC887 @ 英特尔 Lynx Point  高保真音频<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E6%8A%80%E5%98%89%20B85M-D2V%20i3-4170%20GT%20730%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/D2E2C13410C59F29A1BD15B01EEB0E75.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>✱   macOS Sierra 10.12.x<br>✱   macOS High Sierra  10.13.x<br>✔   macOS Mojave 10.14.x<br>⊙   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E6%8A%80%E5%98%89%20B85M-D2V%20i3-4170%20GT%20730%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/5BBBE564740D0C0336BE7E5DEA2BF9F8.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20B85M-D2V%20i3-4170%20GT%20730%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/6F7CF246DDB01BDE04D6823C485B8D24.jpg" alt><br><img src="%E6%8A%80%E5%98%89%20B85M-D2V%20i3-4170%20GT%20730%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC/F99E744DA53BF6CDFE9BD738E9E2DD56.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave  10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><p>主板上只有VGA口，不能支持，国外有人能做VGA，太麻烦不如直接加个显卡。</p>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1uInp75uLcasELDhNznaJCw" target="_blank" rel="noopener">I3-4170 技嘉b85m-d2v hd 4400 gtx 730 1g alc887.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>GIGABYTE</tag>
+        <tag>B85M</tag>
+        <tag>i3-4170</tag>
+        <tag>GT 730</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/0.html</url>
+    <content><![CDATA[<hr>
+<p>title: 神舟z7kp7s1黑苹果Hackintosh EFI引导 (macOS High Sierra 10.13.6 i7-7700HQ+GTX 1060独显)<br>abbrlink: HASEE-z7kp7s1-P65xHP-hackintosh<br>categories:</p>
+<ul>
+<li>笔记本</li>
+<li>Hasee_神舟<br>tags:</li>
+<li>HASEE</li>
+<li>P65xHP</li>
+<li>i7-7700HQ</li>
+</ul>
+<hr>
+<p>电脑型号    Notebook P65xHP 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-7700HQ @ 2.80GHz 四核<br>主板    Notebook P65xHP ( 100 Series/C230 Series 芯片组 Family - A152 )<br>内存    16 GB ( 英睿达 DDR4 2400MHz / 金士顿 DDR4 2400MHz )<br>主硬盘     HP SSD S700 250GB ( 250 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 ( 6 GB / 蓝天(CLEVO) )<br>显示器    友达 AUO42ED ( 15.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 蓝天(CLEVO)</p>
+<a id="more"></a>
+<hr>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E7%A5%9E%E8%88%9Fz7kp7s1%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i7-7700HQ+GTX%201060%E7%8B%AC%E6%98%BE)/15282806B933EEBF677FBD4E88A82A2F.jpg" alt></p>
+<hr>
+<h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote>
+<p>✔ 经过实测     ✱ 兼容     ⊙ 不确定     ✖ 无法安装<br>⊙   macOS Sierra 10.12.x<br>✔   macOS High Sierra  10.13.x<br>✱   macOS Mojave 10.14.x<br>✱   macOS Catalina 10.15.x</p>
+</blockquote>
+<hr>
+<h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E7%A5%9E%E8%88%9Fz7kp7s1%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i7-7700HQ+GTX%201060%E7%8B%AC%E6%98%BE)/878BACBBFD317F43CFD8C955FB6B25E3.jpg" alt><br><img src="%E7%A5%9E%E8%88%9Fz7kp7s1%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i7-7700HQ+GTX%201060%E7%8B%AC%E6%98%BE)/B2A247BD6268E39A9BAECCFAA6D628FD.jpg" alt></p>
+<hr>
+<h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+</ul>
+<hr>
+<h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul>
+<li>WIFI</li>
+</ul>
+<hr>
+<h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol>
+<li>更新至最新版本</li>
+<li>关闭Secure Boot</li>
+<li>SATA改为AHCI</li>
+</ol>
+<hr>
+<h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS High Sierra  10.13.6 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p>
+<hr>
+<h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><p>开机可能会爆音一下</p>
+<h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1UJRBkqFVJVmIPYjSsgDBvQ" target="_blank" rel="noopener">P65xHP.zip</a></p>
+<blockquote>
+<p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a>  </p>
+</blockquote>
+<hr>
+]]></content>
+  </entry>
+  <entry>
     <title>黑苹果卡加号的常见解决方之一 OsxAptioFixDrv</title>
     <url>/OsxAptioFixDrv-AptioMemoryFix-hackintosh.html</url>
     <content><![CDATA[<p>安装黑苹果系统很常见的一种错误，引导进macos之后，卡在一排++++++++号上，就不动了。<br>或者显示 error loading kernel cache(0x9)</p>
@@ -669,8 +1186,8 @@
         <category>HP_惠普</category>
       </categories>
       <tags>
-        <tag>惠普</tag>
         <tag>HP</tag>
+        <tag>惠普</tag>
         <tag>EliteBook</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
@@ -721,8 +1238,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i7-6700K</tag>
         <tag>Z170</tag>
+        <tag>i7-6700K</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -1461,10 +1978,10 @@
         <category>Dell_戴尔</category>
       </categories>
       <tags>
-        <tag>Dell戴尔</tag>
-        <tag>Inspiron 5557</tag>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
+        <tag>Dell戴尔</tag>
+        <tag>Inspiron 5557</tag>
         <tag>GTX 930M</tag>
       </tags>
   </entry>
