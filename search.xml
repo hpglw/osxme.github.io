@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/0.html</url>
-    <content><![CDATA[<hr><p>title: i3-8100+ 微星 B360M MORTAR+RX 590黑苹果Hackintosh EFI引导<br>abbrlink: i3-8100-MSI-B360M-MORTAR-RX590-hackintosh<br>categories:</p><ul><li>台式机</li><li>INTEL<br>tags:</li><li>i3-8100</li><li>微星</li><li>B360</li><li>RX 590</li></ul><hr><p>电脑型号 微星 MS-7B23 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i3-8100 @ 3.60GHz 四核<br>主板 微星 B360M MORTAR (MS-7B23) ( B360 芯片组 )<br>内存 8 GB ( 金士顿 DDR4 2666MHz )<br>主硬盘 XPG GAMMIX S11L ( 256 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器 戴尔 DELA0BE DELL P2415Q ( 24 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 微星</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/E6132ACB3925F5B059EE2D0349270AC4.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>⊙ macOS Sierra 10.12.x<br>✱ macOS High Sierra 10.13.x<br>✱ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/C6F1503ED03E4AE36EC0565E99439A0A.jpg" alt><br><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/419561DD9E9CC5BFD2B89026F6E2E1D3.jpg" alt><br><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/25AD88C4470C95A3C41235387F5D4A89.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1JvXI41929YQ13_fvC1YY8g&shfl=sharepset" target="_blank" rel="noopener">i3-8100 msi b360m mortar 8gb rx 590 alc892 i218-v 10.14.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+    <title>i3-8100+ 微星 B360M MORTAR+RX 590黑苹果Hackintosh EFI引导</title>
+    <url>/i3-8100-MSI-B360M-MORTAR-RX590-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 微星 MS-7B23 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i3-8100 @ 3.60GHz 四核<br>主板 微星 B360M MORTAR (MS-7B23) ( B360 芯片组 )<br>内存 8 GB ( 金士顿 DDR4 2666MHz )<br>主硬盘 XPG GAMMIX S11L ( 256 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器 戴尔 DELA0BE DELL P2415Q ( 24 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 微星</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/E6132ACB3925F5B059EE2D0349270AC4.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>⊙ macOS Sierra 10.12.x<br>✱ macOS High Sierra 10.13.x<br>✱ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/C6F1503ED03E4AE36EC0565E99439A0A.jpg" alt><br><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/419561DD9E9CC5BFD2B89026F6E2E1D3.jpg" alt><br><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/25AD88C4470C95A3C41235387F5D4A89.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1JvXI41929YQ13_fvC1YY8g&shfl=sharepset" target="_blank" rel="noopener">i3-8100 msi b360m mortar 8gb rx 590 alc892 i218-v 10.14.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>i3-8100</tag>
+        <tag>微星</tag>
+        <tag>B360</tag>
+        <tag>RX 590</tag>
+      </tags>
   </entry>
   <entry>
     <title>微软 Surface Laptop i5-7200U黑苹果Hackintosh EFI引导</title>
@@ -263,8 +273,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>微星</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>B250</tag>
       </tags>
@@ -367,8 +377,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>微星</tag>
+        <tag>i5-7400</tag>
         <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
@@ -383,9 +393,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B360</tag>
         <tag>i7-8700K</tag>
         <tag>华硕</tag>
-        <tag>B360</tag>
         <tag>RX 580</tag>
       </tags>
   </entry>
@@ -515,9 +525,9 @@
       </categories>
       <tags>
         <tag>HD 620</tag>
+        <tag>i5-7200U</tag>
         <tag>Inspiron</tag>
         <tag>Dell</tag>
-        <tag>i5-7200U</tag>
       </tags>
   </entry>
   <entry>
