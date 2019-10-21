@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i5-4570+华硕 Z87-K+GTX 760 黑苹果Hackintosh 独显免驱直上Mojave 10.14.5</title>
+    <url>/i5-4570-Z87-K-gtx-760-hackintosh.html</url>
+    <content><![CDATA[<p>i5-4570 CPU基于Haswell架构，集成了HD 4600核显，但因为是台式机，有独显的情况下，核显被BIOS生硬屏蔽了，MACOS用不了核显，是一大遗憾。好处是GTX 760的独显，再也不用担心驱动了，直接免驱，上10.14，可能10.15都是没有问题的，即插即用。该主板的声卡芯片未研究，只套用了APPLEALC为3的ID就驱动了，台式机的声卡驱动还是比较简单的。</p><a id="more"></a><p>电脑型号 华硕 All Series 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板 华硕 Z87-K ( Lynx Point )<br>内存 16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 三星 SSD 750 EVO 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 760 ( 2 GB / Nvidia )<br>显示器 戴尔 DELA07B DELL U2412M ( 24.1 英寸 )<br>声卡 创新 Sound Blaster X-Fi Audio Processor<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D46787EB-D78D-4744-A2F7-97AD8BD5F7CE.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>✱ macOS Sierra 10.12.x （<a href="http://k61.org/USB-hackintosh-install-10-12-6.html">U盘安装教程</a>）<br>✱ macOS High Sierra 10.13.x<br>✔ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D75DF1B9-96CA-427A-B9BF-8EEB8ABBEA2C.jpg" alt><br><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/9DBB5D0B-DD4B-43DA-81B3-A13087E16E8F.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显免驱</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/14VNlcFSPwJXEcjxL8UYyEg&shfl=sharepset" target="_blank" rel="noopener">i5-4570 华硕Z87-K 16GB GTX760.zip</a></p><blockquote><p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>i5-4570</tag>
+        <tag>Z87</tag>
+        <tag>GTX 760</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>黑苹果系统如何禁用触控板？</title>
+    <url>/disable-touchpad-howto-hackintosh.html</url>
+    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Vulcan_火影</category>
+      </categories>
+      <tags>
+        <tag>VULCAN</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>i3-8100+ 微星 B360M MORTAR+RX 590黑苹果Hackintosh EFI引导</title>
     <url>/i3-8100-MSI-B360M-MORTAR-RX590-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号 微星 MS-7B23 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i3-8100 @ 3.60GHz 四核<br>主板 微星 B360M MORTAR (MS-7B23) ( B360 芯片组 )<br>内存 8 GB ( 金士顿 DDR4 2666MHz )<br>主硬盘 XPG GAMMIX S11L ( 256 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器 戴尔 DELA0BE DELL P2415Q ( 24 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 微星</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/E6132ACB3925F5B059EE2D0349270AC4.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>⊙ macOS Sierra 10.12.x (<a href="http://k61.org/USB-hackintosh-install-10-12-6.html">U盘安装教程</a>)<br>✱ macOS High Sierra 10.13.x<br>✱ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/C6F1503ED03E4AE36EC0565E99439A0A.jpg" alt><br><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/419561DD9E9CC5BFD2B89026F6E2E1D3.jpg" alt><br><img src="i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7/25AD88C4470C95A3C41235387F5D4A89.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1JvXI41929YQ13_fvC1YY8g&shfl=sharepset" target="_blank" rel="noopener">i3-8100 msi b360m mortar 8gb rx 590 alc892 i218-v 10.14.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
@@ -80,9 +106,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -179,9 +205,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
         <tag>B85</tag>
-        <tag>i5-4570</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
   </entry>
