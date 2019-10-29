@@ -15,6 +15,18 @@
       </tags>
   </entry>
   <entry>
+    <title>黑苹果安装出现Couldn’t allocate runtime area错误的另一种解决思路</title>
+    <url>/Couldn%E2%80%99t-allocate-runtime-area-error.html</url>
+    <content><![CDATA[<p>错误表现为CLOVER选择macos进去就，马上跳出以下错误。<br>Error allocating 0x0x11cb4 pages at 0x000000000139c2000 alloc type 2</p><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E5%87%BA%E7%8E%B0Couldn%E2%80%99t%20allocate%20runtime%20area%E9%94%99%E8%AF%AF%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/9ABAFEFE-495B-4EB3-A5B2-318DF770E884.jpg" alt></p><a id="more"></a><p>多数由内存引起，尤其在一些笔记本，如蓝天模具的神舟笔记本上特别容易出这样的错误。</p><p>一般网上的教程都建议计算Slide值，并在boot args中添加slide=计算到的Slide值。<br>可以参考：<a href="https://github.com/wmchris/DellXPS15-9550-OSX/blob/master/Additional/slide_calc.md" target="_blank" rel="noopener">https://github.com/wmchris/DellXPS15-9550-OSX/blob/master/Additional/slide_calc.md</a></p><p>但这种方法的确有点深奥，还要涉及16进制计算。</p><p>而老吴我的方法，就比较直接一点，既然是内存引起的，那直接找相关的补丁就好了。</p><p>第一，先到我这边下载相关的内存补丁：<a href="http://k61.org/OsxAptioFixDrv-AptioMemoryFix-hackintosh.html">黑苹果卡加号的常见解决方之一 OsxAptioFixDrv | 老吴黑苹果工作室</a><br>一共5个，其中，AptioMemoryFix-64.efi比较常用，但如果遇到上面的错误，我就建议换成OsxAptioFix2Drv-free2000.efi，切记。</p><p>第二，boot args中还是添加一条slide=1，注意，是等于1，至于为什么是1，完全经验所得。</p><p>第三，在机型smbios里，注入你的机子内存信息，多少插槽，多大容量，什么品牌，频率，最好填上，填对。</p><p>通过以上三个方法，我的确解决了不少这样的错误，大家可以参考一下，经验所得，毫无保留。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>内存错误</tag>
+        <tag>内存补丁</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>解决黑苹果系统无法打开「关于本机」的问题</title>
     <url>/fix-hackintosh-about.html</url>
     <content><![CDATA[<p>偶尔装一台黑苹果笔记本，装好之后发现关于本机无法打开了，怎么点都没有用，重启也不行。</p><p><img src="%E8%A7%A3%E5%86%B3%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E3%80%8C%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%E3%80%8D%E7%9A%84%E9%97%AE%E9%A2%98/0EDEFFEB-C9CF-46DF-A6D4-F42ED92C37D2.jpg" alt></p><p>后来发现一个问题，就是clover注入了内存信息，是这样的<br><img src="%E8%A7%A3%E5%86%B3%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E3%80%8C%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%E3%80%8D%E7%9A%84%E9%97%AE%E9%A2%98/FC5CC452-B05C-49FA-A28F-E956AA88262A.jpg" alt></p><p>问题就应该出现在这个内存信息上，macos读取不了，第一个是插槽的ID问题，要从0开始的，这里填了1开始，然后厂商那边是中文，于是随便填了个英文的。</p><p><img src="%E8%A7%A3%E5%86%B3%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E3%80%8C%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%E3%80%8D%E7%9A%84%E9%97%AE%E9%A2%98/4136817E-390D-4D9A-91A1-558CD320900C.jpg" alt><br>修改之后的样子</p><p>重启之后，关于本机就正常打开了。</p>]]></content>
@@ -103,10 +115,10 @@
       </categories>
       <tags>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
         <tag>系统下载</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -133,10 +145,10 @@
       </categories>
       <tags>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
         <tag>系统下载</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -265,6 +277,18 @@
       </tags>
   </entry>
   <entry>
+    <title>黑苹果系统如何禁用触控板？</title>
+    <url>/disable-touchpad-howto-hackintosh.html</url>
+    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Vulcan_火影</category>
+      </categories>
+      <tags>
+        <tag>VULCAN</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>i5-4570+华硕 Z87-K+GTX 760 黑苹果Hackintosh 独显免驱直上Mojave 10.14.5</title>
     <url>/i5-4570-Z87-K-gtx-760-hackintosh.html</url>
     <content><![CDATA[<p>i5-4570 CPU基于Haswell架构，集成了HD 4600核显，但因为是台式机，有独显的情况下，核显被BIOS生硬屏蔽了，MACOS用不了核显，是一大遗憾。好处是GTX 760的独显，再也不用担心驱动了，直接免驱，上10.14，可能10.15都是没有问题的，即插即用。该主板的声卡芯片未研究，只套用了APPLEALC为3的ID就驱动了，台式机的声卡驱动还是比较简单的。</p><a id="more"></a><p>电脑型号 华硕 All Series 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板 华硕 Z87-K ( Lynx Point )<br>内存 16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 三星 SSD 750 EVO 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 760 ( 2 GB / Nvidia )<br>显示器 戴尔 DELA07B DELL U2412M ( 24.1 英寸 )<br>声卡 创新 Sound Blaster X-Fi Audio Processor<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D46787EB-D78D-4744-A2F7-97AD8BD5F7CE.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>✱ macOS Sierra 10.12.x （<a href="http://k61.org/USB-hackintosh-install-10-12-6.html">U盘安装教程</a>）<br>✱ macOS High Sierra 10.13.x<br>✔ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D75DF1B9-96CA-427A-B9BF-8EEB8ABBEA2C.jpg" alt><br><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/9DBB5D0B-DD4B-43DA-81B3-A13087E16E8F.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显免驱</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/14VNlcFSPwJXEcjxL8UYyEg&shfl=sharepset" target="_blank" rel="noopener">i5-4570 华硕Z87-K 16GB GTX760.zip</a></p><blockquote><p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
@@ -276,18 +300,6 @@
         <tag>i5-4570</tag>
         <tag>Z87</tag>
         <tag>GTX 760</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>黑苹果系统如何禁用触控板？</title>
-    <url>/disable-touchpad-howto-hackintosh.html</url>
-    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Vulcan_火影</category>
-      </categories>
-      <tags>
-        <tag>VULCAN</tag>
       </tags>
   </entry>
   <entry>
