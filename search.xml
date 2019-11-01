@@ -405,8 +405,8 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -418,9 +418,9 @@
         <category>ThinkPad</category>
       </categories>
       <tags>
-        <tag>HD 4600</tag>
         <tag>ThinkPad</tag>
         <tag>i5-4300M</tag>
+        <tag>HD 4600</tag>
       </tags>
   </entry>
   <entry>
@@ -545,8 +545,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -603,8 +603,8 @@
         <category>Acer_宏碁</category>
       </categories>
       <tags>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
       </tags>
@@ -668,10 +668,10 @@
         <category>Lenovo_联想</category>
       </categories>
       <tags>
+        <tag>HD 4600</tag>
         <tag>Lenovo</tag>
         <tag>IdeaPad</tag>
         <tag>i7-4700MQ</tag>
-        <tag>HD 4600</tag>
       </tags>
   </entry>
   <entry>
@@ -728,9 +728,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -818,8 +818,8 @@
         <category>HP_惠普</category>
       </categories>
       <tags>
-        <tag>惠普</tag>
         <tag>HP</tag>
+        <tag>惠普</tag>
         <tag>EliteBook</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
@@ -904,8 +904,8 @@
         <category>Dell_戴尔</category>
       </categories>
       <tags>
-        <tag>HD 620</tag>
         <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
         <tag>Inspiron</tag>
         <tag>Dell</tag>
       </tags>
