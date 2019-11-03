@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【EFI】笔记本惠普HP Pavilion 15(i5-5200u+hd 5500)黑苹果Hackintosh 引导下载</title>
+    <url>/HP-Pavilion-15-i5-5200u-hackintosh.html</url>
+    <content><![CDATA[<p>安装的是macOS Catalina 19b77a版。<br>电脑型号 惠普 HP Pavilion 15 Notebook PC 笔记本电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 Core i5-5200U @ 2.20GHz 双核<br>主板 惠普 2296 ( 5th Generation Intel Core Premium SKU - 9CC3 笔记本芯片组 )<br>内存 8 GB ( 海力士 / 金士顿 )<br>主硬盘 东芝 -TR200 ( 240 GB / 固态硬盘 )<br>显卡 Nvidia GeForce 840M ( 2 GB / 惠普 )<br>显示器 LG LGD046A ( 15.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio Controller<br>网卡 博通 BCM43142 802.11b_g_n / 惠普</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%83%A0%E6%99%AEHP%20Pavilion%2015(i5-5200u+hd%205500)%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/21A5F5E2-5023-4965-9D1A-4D6B2779382B.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%83%A0%E6%99%AEHP%20Pavilion%2015(i5-5200u+hd%205500)%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/D64E3D26-32B3-4A9C-9F55-9984D6DC17BD.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>电池</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul><li>独显</li><li>WIFI</li></ul><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1-C5LfHEts9mqs5_eFzqlaQ" target="_blank" rel="noopener">hp pavilion 15 i5-5200u hd5500 10.15.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+      <tags>
+        <tag>Pavilion</tag>
+        <tag>i5-5200u</tag>
+        <tag>hd 5500</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【EFI】台式机i7-8700K+GTX 1080 Ti+华硕 ROG STRIX Z370-F GAMING黑苹果Hackintosh引导下载</title>
+    <url>/i7-8700K-GTX-1080-ROG-STRIX-Z370-F-GAMING-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 X64 兼容 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-8700K @ 3.70GHz 六核<br>主板 华硕 ROG STRIX Z370-F GAMING ( Z370 芯片组 )<br>内存 16 GB ( 芝奇 DDR4 3200MHz )<br>主硬盘 三星 SSD 960 EVO 250GB ( 250 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 1080 Ti ( 11 GB / 华硕 )<br>显示器 AUS2783 VG27A ( VG27A )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-8700K+GTX%201080%20Ti+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-F%20GAMING%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/DC58C23C-8E18-4AE7-A2E9-050958DDFBF9.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-8700K+GTX%201080%20Ti+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-F%20GAMING%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/09EF9F530EE58189D890520E0EEEA075.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-8700K+GTX%201080%20Ti+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-F%20GAMING%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/92B696316AA01A9F4FC190E018E5CD08.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-8700K+GTX%201080%20Ti+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-F%20GAMING%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/7A901360B7A7FC8DF07A228941A58C6D.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-8700K+GTX%201080%20Ti+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-F%20GAMING%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/4DB1BE97B89E39E8706D7139D27D4774.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li><li>TYPE-C</li><li>蓝牙</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1Lvf_o6XU-dteTVy0pKFswA" target="_blank" rel="noopener">i7-8700k asus rog strix z370-f gaming 16gb 250gb gtx 1080 ti 11gb asus.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>Z370</tag>
+        <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>黑苹果常见问题解答：装完黑苹果还能正常使用Windows系统吗？</title>
     <url>/WINDOWS-MACOS-OK-DUAL.html</url>
     <content><![CDATA[<p>答案当然是可以的。</p><p>一般现在安装的黑苹果系统都是双系统的，用CLOVER引导，在开机的时候就可以选择进WINDOWS还是MACOS，彼此没有关联，两个系统是完全独立的。</p><p>虽然可能共存在一个硬盘，但Windows用的是NTFS格式，而苹果现在大部分是APFS格式，老版本用的是HFS+，在Windows下要看苹果的系统文件，得安装相应的软件，如hfs+ for windows或者apfs for windows这一类软件。而在macos系统中，可以直接查看ntfs格式的分区，但默认是只能读，不能写，需要读写NTFS，还需要另外安装一个Tuxera NTFS for mac工具。所以，一般的情况下，两个系统，都不能直接写入，所以，基本没关联。</p><p>另外，CLOVER配置会影响windows吗？也是不会的，CLOVER进WINODWS的时候，是直接调用Windows boot manager引导的，也就是windows系统的引导，所以，没有影响。</p>]]></content>
@@ -593,8 +621,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -622,9 +650,9 @@
         <category>HP_惠普</category>
       </categories>
       <tags>
+        <tag>Pavilion</tag>
         <tag>HP</tag>
         <tag>光影精灵</tag>
-        <tag>Pavilion</tag>
       </tags>
   </entry>
   <entry>
@@ -775,8 +803,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>微软</tag>
         <tag>Surface</tag>
+        <tag>微软</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
