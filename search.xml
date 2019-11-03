@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/0.html</url>
-    <content><![CDATA[<h1 id="黑苹果常见问题解答：装完黑苹果还能正常使用Windows系统吗？"><a href="#黑苹果常见问题解答：装完黑苹果还能正常使用Windows系统吗？" class="headerlink" title="黑苹果常见问题解答：装完黑苹果还能正常使用Windows系统吗？"></a>黑苹果常见问题解答：装完黑苹果还能正常使用Windows系统吗？</h1><p>答案当然是可以的。</p><p>一般现在安装的黑苹果系统都是双系统的，用CLOVER引导，在开机的时候就可以选择进WINDOWS还是MACOS，彼此没有关联，两个系统是完全独立的。</p><p>虽然可能共存在一个硬盘，但Windows用的是NTFS格式，而苹果现在大部分是APFS格式，老版本用的是HFS+，在Windows下要看苹果的系统文件，得安装相应的软件，如hfs+ for windows或者apfs for windows这一类软件。而在macos系统中，可以直接查看ntfs格式的分区，但默认是只能读，不能写，需要读写NTFS，还需要另外安装一个Tuxera NTFS for mac工具。所以，一般的情况下，两个系统，都不能直接写入，所以，基本没关联。</p><p>另外，CLOVER配置会影响windows吗？也是不会的，CLOVER进WINODWS的时候，是直接调用Windows boot manager引导的，也就是windows系统的引导，所以，没有影响。</p>]]></content>
+    <title>黑苹果常见问题解答：装完黑苹果还能正常使用Windows系统吗？</title>
+    <url>/WINDOWS-MACOS-OK-DUAL.html</url>
+    <content><![CDATA[<p>答案当然是可以的。</p><p>一般现在安装的黑苹果系统都是双系统的，用CLOVER引导，在开机的时候就可以选择进WINDOWS还是MACOS，彼此没有关联，两个系统是完全独立的。</p><p>虽然可能共存在一个硬盘，但Windows用的是NTFS格式，而苹果现在大部分是APFS格式，老版本用的是HFS+，在Windows下要看苹果的系统文件，得安装相应的软件，如hfs+ for windows或者apfs for windows这一类软件。而在macos系统中，可以直接查看ntfs格式的分区，但默认是只能读，不能写，需要读写NTFS，还需要另外安装一个Tuxera NTFS for mac工具。所以，一般的情况下，两个系统，都不能直接写入，所以，基本没关联。</p><p>另外，CLOVER配置会影响windows吗？也是不会的，CLOVER进WINODWS的时候，是直接调用Windows boot manager引导的，也就是windows系统的引导，所以，没有影响。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
   </entry>
   <entry>
     <title>解决AMD RX系列显卡macOS Catalina 10.15.1更新后黑屏的问题</title>
@@ -590,8 +593,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GIGABYTE</tag>
         <tag>i5-4570</tag>
+        <tag>GIGABYTE</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -906,8 +909,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>nvidia</tag>
         <tag>黑屏</tag>
+        <tag>nvidia</tag>
         <tag>blackscreen</tag>
       </tags>
   </entry>
