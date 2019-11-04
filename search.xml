@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果VIA VT2020 / 2021(0x0441)声卡驱动方法</title>
+    <url>/VIA-VT2020-2021-fix-hackintosh.html</url>
+    <content><![CDATA[<p>以台式机技嘉Z77X-UD3H主板为例，内置VIA VT2020 / 2021(0x0441)声卡芯片，采用APPLEALC驱动。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9CVIA%20VT2020%20:%202021(0x0441)%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95/75385B21-7D85-47DF-AD86-F68BFC33BE42%202.jpg" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9CVIA%20VT2020%20:%202021(0x0441)%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95/12210FA3-608C-4A9C-B439-CB91B6349A79%202.jpg" alt></p><p>查询<a href="https://github.com/acidanthera/AppleALC/wiki/Supported-codecs" target="_blank" rel="noopener">Supported codecs · acidanthera/AppleALC Wiki · GitHub</a><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9CVIA%20VT2020%20:%202021(0x0441)%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95/596E7870-739E-427D-94D9-70AE7AE4FAB0%202.jpg" alt><br>在支持的列表中，id有三个 5 7 9。</p><p>驱动方法：<br>下载：applealc.kext<br><a href="https://github.com/acidanthera/AppleALC/releases/download/1.4.3/AppleALC-1.4.3-RELEASE.zip" target="_blank" rel="noopener">https://github.com/acidanthera/AppleALC/releases/download/1.4.3/AppleALC-1.4.3-RELEASE.zip</a></p><p>将applealc.kext放在CLOVER / KEXTS / OTHER里面</p><p>用Clover Configurator打开config.plist<br>几个地方：<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9CVIA%20VT2020%20:%202021(0x0441)%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95/CD3921D1-8955-466E-9919-F45C850B7BFE%202.jpg" alt></p><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9CVIA%20VT2020%20:%202021(0x0441)%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95/FD18E26F-70DD-4DF0-8560-B3DBEF6DA5A6%202.jpg" alt></p><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9CVIA%20VT2020%20:%202021(0x0441)%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95/A37D5F5C-1DFA-4793-A0B4-3E72417A8719%202.jpg" alt><br>注入ID为9</p><p>如遇其它主板ID 9不行，就换 5或者7。</p><p>以上就是驱动方法，关于voodoohda，目前测试不通过，没有声音，也建议使用applealc驱动。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>声卡驱动</tag>
+        <tag>VT2020</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>黑苹果卡“AppleBusPowerController”，“Previous shutdown cause:5”错误的解决方法</title>
+    <url>/AppleBusPowerController-error-hackintosh.html</url>
+    <content><![CDATA[<p>卡“AppleBusPowerController”，“Previous shutdown cause:5”，还有一个500 mwwakePower and 0 mwsleeppower，这几种的，如下图。<br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%A1%E2%80%9CAppleBusPowerController%E2%80%9D%EF%BC%8C%E2%80%9CPrevious%20shutdown%20cause:5%E2%80%9D%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/415950AA-F144-49ED-A180-8BE8341D311E.jpg" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%A1%E2%80%9CAppleBusPowerController%E2%80%9D%EF%BC%8C%E2%80%9CPrevious%20shutdown%20cause:5%E2%80%9D%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/A0B2E400-FA0C-42AF-B4B8-95EDE0AF8B16.jpg" alt><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%A1%E2%80%9CAppleBusPowerController%E2%80%9D%EF%BC%8C%E2%80%9CPrevious%20shutdown%20cause:5%E2%80%9D%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/B89EFCB3-D924-4183-B819-5168A78913E2.jpg" alt></p><p>安装环境是MACOS 10.13.6，笔记本独显。</p><p>原因是安装时外接了hdmi显示器，拔掉就可以了。需要用HDMI外接的时候，需要进了系统再插上就可以了。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【EFI】笔记本炫龙V57-6481HN3-P CP75S02 独显安装10.13.6黑苹果Hackintosh 引导下载</title>
+    <url>/Shinelon-V57-gtx-1070-hackintosh.html</url>
+    <content><![CDATA[<p>神舟做的笔记本真是奇葩中的极品，这台炫龙v57，表面上是一台笔记本，其实它是一个吹风机。啊不，是台式机。i5-6400的处理器，GTX 1070独显，就是一个迷你主机加块电池，不得不说神舟太强大了。安装这台笔记本黑苹果记得用台式机引导配置，不然真安装不了，实际上做成MacBookpro机型意义也不大。</p><p>电脑型号 No Enclosure P7xxDM2(-G) 笔记本电脑<br>操作系统 Windows 10 Enterprise 64位 ( DirectX 12 )<br>处理器 英特尔 Core i5-6400 @ 2.70GHz 四核<br>主板 Notebook P7xxDM2(-G) ( 100 Series/C230 Series 芯片组 Family - A145 )<br>内存 16 GB ( 英睿达 DDR4 2133MHz )<br>主硬盘 三星 MZVPV256HDGL-00000 ( 256 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 1070 ( 8 GB / 蓝天(CLEVO) )<br>显示器 京东方 BOE066A ( 27.2 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 鈺硕 Killer e2400 Gigabit Ethernet Controller / 蓝天(CLEVO)</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/21342233-5D40-4E1B-BB34-7915591B352C.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/FB9947F9-AAB9-42D1-B354-D848708B6A6F.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/55BA4669-EE39-4735-A379-3203A21E1533.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/74F662E1-BC29-48D2-B9DC-DD8FACDD32D0.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/903256D5-2810-4BAA-82F8-3D2C04772B92.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/FF141039-6206-4728-9AB4-A8FED4E03170.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/DD29114E-2D2B-4929-A353-7192D1675BD9.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/0A978481-0A34-448D-8702-7288CF3A7C43.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/E12D0A9B-B8FC-4F9B-BC6E-49EE04B63C3E.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/A5732A56-6639-4B38-83CA-B9F53142A18D.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>电池</li><li>键盘</li><li>触控板</li><li>双屏多屏</li><li>蓝牙</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul><li>WIFI</li></ul><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/10hgDKjzV8axR2B7ImVODaA" target="_blank" rel="noopener">炫龙V57-6481HN4-P CP75S02 I5-6400 GTX 1070.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Shinelon_炫龙</category>
+      </categories>
+      <tags>
+        <tag>GTX 1070</tag>
+        <tag>炫龙</tag>
+        <tag>Shinelon</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【EFI】台式机i3-4160+微星 H81M-P33+GTX 750 Ti 黑苹果Hackintosh 引导下载</title>
+    <url>/i3-4160-MSI-H81M-P33-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 微星 MS-7817 台式电脑<br>操作系统 Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器 英特尔 第四代酷睿 i3-4160 @ 3.60GHz 双核<br>主板 微星 H81M-P33 (MS-7817) ( Lynx Point )<br>内存 8 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 JunShi JS750 SSD 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 750 Ti ( 2 GB / 技嘉 )<br>显示器 冠捷 AOC2797 E2797V ( 27 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 Lynx Point 高保真音频<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi3-4160+%E5%BE%AE%E6%98%9F%20H81M-P33+GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/CA63BAB7-1008-44A8-B05A-4457AD733F16.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi3-4160+%E5%BE%AE%E6%98%9F%20H81M-P33+GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/6D19B74E-5630-487B-90B3-8B196B47D700.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi3-4160+%E5%BE%AE%E6%98%9F%20H81M-P33+GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/DBE11C06-1853-4A53-A0D2-17AB7D8A17CE.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi3-4160+%E5%BE%AE%E6%98%9F%20H81M-P33+GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/E50C970B-B518-490F-9F50-23F31D3AF1C4.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi3-4160+%E5%BE%AE%E6%98%9F%20H81M-P33+GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/D0AA0BA3-4A5C-4044-BAD3-CCA429ADC2D6.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/19LSTzaH_IrBzQJqgcbHFeg" target="_blank" rel="noopener">i3-4160 msi h81m-p33 gtx 750 ti 10.13.6.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>H81M</tag>
+        <tag>GTX 750 Ti</tag>
+        <tag>i3-4160</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>EFI】黑苹果单系统安装i5-6400+HD 530+华硕H110M-D macOS Mojave 10.14.6</title>
     <url>/i5-6400-HD-530-Mojave-hackintosh.html</url>
     <content><![CDATA[<p>U盘安装单系统macOS Mojave 10.14.6 for 华硕H110，处理器i5-6400，核显HD 530。主板只有VGA和HDMI，VGA估计驱动不了，只能用VGA，在安装时需要注意，是核显，机型选IMAC 17,1。</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/06FF3E0A-85D9-4D18-99EA-0B9F686A203A.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/CA682629-AEE6-4E93-B647-F07AC8FC93D1.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/741ACF2A-A347-4D5C-A7B1-4A34AC030EA1.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/8B5A83C7-1D09-4BDE-97BF-69CD57F4CC90.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/C447984E-0C49-48ED-AD81-F5F52B0E0692.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/8D323F0F-C428-4754-ADD8-E6CFE2D9BD01.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/663C5FDE-F88A-4285-B5AF-0031286966A9.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/1F5B87B9-A31F-442A-B84D-01F34122B60C.jpg" alt><br><img src="%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6/96E22F14-C24F-4A68-B17E-C342D52BFB68.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1pOyYwuBKSU2ogu38lNIZcQ" target="_blank" rel="noopener">单系统i5-6400 asus h110m-d 8gb hd 530 alc887 hdmi only.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
@@ -284,10 +335,10 @@
       </categories>
       <tags>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
         <tag>系统下载</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -314,10 +365,10 @@
       </categories>
       <tags>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
         <tag>系统下载</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -510,8 +561,8 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -523,9 +574,9 @@
         <category>ThinkPad</category>
       </categories>
       <tags>
-        <tag>HD 4600</tag>
         <tag>ThinkPad</tag>
         <tag>i5-4300M</tag>
+        <tag>HD 4600</tag>
       </tags>
   </entry>
   <entry>
@@ -650,8 +701,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -773,10 +824,10 @@
         <category>Lenovo_联想</category>
       </categories>
       <tags>
+        <tag>HD 4600</tag>
         <tag>Lenovo</tag>
         <tag>IdeaPad</tag>
         <tag>i7-4700MQ</tag>
-        <tag>HD 4600</tag>
       </tags>
   </entry>
   <entry>
@@ -833,9 +884,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -923,8 +974,8 @@
         <category>HP_惠普</category>
       </categories>
       <tags>
-        <tag>惠普</tag>
         <tag>HP</tag>
+        <tag>惠普</tag>
         <tag>EliteBook</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
@@ -966,8 +1017,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>黑屏</tag>
         <tag>nvidia</tag>
+        <tag>黑屏</tag>
         <tag>blackscreen</tag>
       </tags>
   </entry>
@@ -1009,8 +1060,8 @@
         <category>Dell_戴尔</category>
       </categories>
       <tags>
-        <tag>HD 620</tag>
         <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
         <tag>Inspiron</tag>
         <tag>Dell</tag>
       </tags>
