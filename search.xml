@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>解决黑苹果关于本机处理器识别错误的问题</title>
+    <url>/unkown-CPU-fix-hackintosh.html</url>
+    <content><![CDATA[<p><img src="%E8%A7%A3%E5%86%B3%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%E5%A4%84%E7%90%86%E5%99%A8%E8%AF%86%E5%88%AB%E9%94%99%E8%AF%AF%E7%9A%84%E9%97%AE%E9%A2%98/72C9A06D-02C6-4A29-BC59-16A6B60371C3.jpg" alt></p><p>黑苹果安装完之后，关于本机的处理器多数显示未知，或者i7识别为i9这些的错误，网上的教程大多数是修改系统的语言文件，但这样做并不太好，除非严重强迫症。</p><p>其实有一种方法是比较简单的，就是修改clover的config.plist文件。</p><p>这里我们用到Clover Configurator<br>下载地址：<a href="https://mackie100projects.altervista.org/download-clover-configurator/" target="_blank" rel="noopener">https://mackie100projects.altervista.org/download-clover-configurator/</a></p><p>打开config.list</p><p>在CPU设置一栏的类型处，填入正确的CPU类型保存重启就可以了。</p><p><img src="%E8%A7%A3%E5%86%B3%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%E5%A4%84%E7%90%86%E5%99%A8%E8%AF%86%E5%88%AB%E9%94%99%E8%AF%AF%E7%9A%84%E9%97%AE%E9%A2%98/B9302C00-D625-4A0D-AAD6-9346F4FD24BA.jpg" alt></p><p>参考的CPU类型代码：</p><ul><li>0x0309 = Core i3</li><li>0x0407、0x0601、0x0605 (优先使用) = Intel Core i5</li><li>0x0701、0x0507、0x0705 (优先使用) = Intel Core i7</li><li>0x1005= Intel Core i9</li><li>0x0505 = Dual-Core Intel Xeon</li><li>0x0510 = Quad-Core Intel Xeon</li><li>0x05A5 = Quad-Core Intel Xeon</li><li>0x0506 = 6-Core Intel Xeon</li><li>0x0a01= 8-Core Intel Xeon E5</li></ul>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>避免使用三星PM981安装黑苹果</title>
     <url>/do-not-use-PM981-hackintosh.html</url>
     <content><![CDATA[<p>目前EVO 970 PLUS己经有新的固件，可以安装黑苹果了。<br><a href="http://k61.org/970-EVO-Plus-firmware-flash.html">http://k61.org/970-EVO-Plus-firmware-flash.html</a></p><p>目前就是这个PM981，一般型号为MZLVB开头的。这个型号的SSD的目前不能安装黑苹果，哪怕作为资料盘也不行，在AMD处理器的台式机上，会直接重启死机。</p><p>在INTEL处理器的机子上，会出现反应慢，卡死等不正常现象</p><p>所以要安装黑苹果的，把PM981取下来吧，在三星没有修复固件之前，没有任何解决方法。</p>]]></content>
@@ -1054,8 +1062,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>黑屏</tag>
         <tag>nvidia</tag>
+        <tag>黑屏</tag>
         <tag>blackscreen</tag>
       </tags>
   </entry>
