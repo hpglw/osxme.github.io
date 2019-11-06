@@ -7,6 +7,9 @@
       <categories>
         <category>教程</category>
       </categories>
+      <tags>
+        <tag>CPU</tag>
+      </tags>
   </entry>
   <entry>
     <title>避免使用三星PM981安装黑苹果</title>
@@ -619,9 +622,9 @@
         <category>ThinkPad</category>
       </categories>
       <tags>
+        <tag>HD 4600</tag>
         <tag>ThinkPad</tag>
         <tag>i5-4300M</tag>
-        <tag>HD 4600</tag>
       </tags>
   </entry>
   <entry>
@@ -746,8 +749,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -869,10 +872,10 @@
         <category>Lenovo_联想</category>
       </categories>
       <tags>
-        <tag>HD 4600</tag>
         <tag>Lenovo</tag>
         <tag>IdeaPad</tag>
         <tag>i7-4700MQ</tag>
+        <tag>HD 4600</tag>
       </tags>
   </entry>
   <entry>
@@ -928,8 +931,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>Surface</tag>
         <tag>微软</tag>
+        <tag>Surface</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
