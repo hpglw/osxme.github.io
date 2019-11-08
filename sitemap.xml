@@ -2,16 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://k61.org/AERO-15X-V8-i7-8750H-UHD630-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T10:58:44.232Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Hasee-ZX8-KP7S1-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T08:11:43.793Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-6700K-Z170X-Gaming-3-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:57:42.035Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-9700K-asus-B365M-PIXIU-P2000.html</loc>
+    
+    <lastmod>2019-11-08T07:55:12.122Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-7800x-MSI-X299-GTX-1060.html</loc>
+    
+    <lastmod>2019-11-08T07:53:06.453Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-8700K-GTX-1080-ROG-STRIX-Z370-F-GAMING-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:50:10.753Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/HP-Pavilion-15-i5-5200u-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:48:43.706Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Shinelon-X6-15-i7-6700HQ-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:46:45.982Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-6400-HD-530-Mojave-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:45:25.775Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i3-4160-MSI-H81M-P33-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:42:37.421Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Shinelon-V57-gtx-1070-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:40:22.300Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Z77X-D3H-GTX-680-I7-hackintosh.html</loc>
+    
+    <lastmod>2019-11-08T07:39:44.844Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://k61.org/lenovo-Y700-I7-6700HQ-HD530-hackintosh.html</loc>
     
-    <lastmod>2019-11-07T08:33:40.044Z</lastmod>
+    <lastmod>2019-11-08T07:34:09.490Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://k61.org/i7-4790-B85-PRO-Vega-64-hackintosh.html</loc>
     
-    <lastmod>2019-11-07T02:37:42.436Z</lastmod>
+    <lastmod>2019-11-08T07:31:37.360Z</lastmod>
     
   </url>
   
@@ -86,23 +170,9 @@
   </url>
   
   <url>
-    <loc>http://k61.org/Z77X-D3H-GTX-680-I7-hackintosh.html</loc>
-    
-    <lastmod>2019-11-04T09:08:33.114Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://k61.org/Catalina-GTX-AMD-hackintosh.html</loc>
     
     <lastmod>2019-11-04T08:56:11.396Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i3-4160-MSI-H81M-P33-hackintosh.html</loc>
-    
-    <lastmod>2019-11-04T08:20:24.346Z</lastmod>
     
   </url>
   
@@ -114,44 +184,9 @@
   </url>
   
   <url>
-    <loc>http://k61.org/Shinelon-V57-gtx-1070-hackintosh.html</loc>
-    
-    <lastmod>2019-11-04T08:16:18.898Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://k61.org/VIA-VT2020-2021-fix-hackintosh.html</loc>
     
     <lastmod>2019-11-04T08:11:43.085Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-6400-HD-530-Mojave-hackintosh.html</loc>
-    
-    <lastmod>2019-11-03T10:25:02.019Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Shinelon-X6-15-i7-6700HQ-hackintosh.html</loc>
-    
-    <lastmod>2019-11-03T06:13:56.553Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-8700K-GTX-1080-ROG-STRIX-Z370-F-GAMING-hackintosh.html</loc>
-    
-    <lastmod>2019-11-03T04:28:35.054Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/HP-Pavilion-15-i5-5200u-hackintosh.html</loc>
-    
-    <lastmod>2019-11-03T04:26:11.820Z</lastmod>
     
   </url>
   
@@ -166,13 +201,6 @@
     <loc>http://k61.org/10.15.1-fix-amd-rx-black-screen.html</loc>
     
     <lastmod>2019-11-03T02:11:44.609Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-7800x-MSI-X299-GTX-1060.html</loc>
-    
-    <lastmod>2019-11-01T10:11:59.152Z</lastmod>
     
   </url>
   
@@ -201,27 +229,6 @@
     <loc>http://k61.org/970-EVO-Plus-firmware-flash.html</loc>
     
     <lastmod>2019-10-30T05:19:16.298Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-9700K-asus-B365M-PIXIU-P2000.html</loc>
-    
-    <lastmod>2019-10-30T02:13:58.681Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-6700K-Z170X-Gaming-3-hackintosh.html</loc>
-    
-    <lastmod>2019-10-30T01:39:02.898Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Hasee-ZX8-KP7S1-hackintosh.html</loc>
-    
-    <lastmod>2019-10-29T11:14:27.803Z</lastmod>
     
   </url>
   
