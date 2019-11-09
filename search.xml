@@ -202,10 +202,10 @@
         <category>Shinelon_炫龙</category>
       </categories>
       <tags>
-        <tag>炫龙</tag>
-        <tag>Shinelon</tag>
         <tag>i7-6700HQ</tag>
         <tag>HD 530</tag>
+        <tag>炫龙</tag>
+        <tag>Shinelon</tag>
       </tags>
   </entry>
   <entry>
@@ -232,8 +232,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>华硕</tag>
         <tag>GTX 1080 Ti</tag>
+        <tag>华硕</tag>
       </tags>
   </entry>
   <entry>
@@ -437,8 +437,8 @@
       </categories>
       <tags>
         <tag>B85M</tag>
-        <tag>RX 470</tag>
         <tag>技嘉</tag>
+        <tag>RX 470</tag>
         <tag>i5-4590</tag>
       </tags>
   </entry>
@@ -550,8 +550,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -638,18 +638,6 @@
       </tags>
   </entry>
   <entry>
-    <title>黑苹果系统如何禁用触控板？</title>
-    <url>/disable-touchpad-howto-hackintosh.html</url>
-    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Vulcan_火影</category>
-      </categories>
-      <tags>
-        <tag>VULCAN</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>i5-4570+华硕 Z87-K+GTX 760 黑苹果Hackintosh 独显免驱直上Mojave 10.14.5</title>
     <url>/i5-4570-Z87-K-gtx-760-hackintosh.html</url>
     <content><![CDATA[<p>i5-4570 CPU基于Haswell架构，集成了HD 4600核显，但因为是台式机，有独显的情况下，核显被BIOS生硬屏蔽了，MACOS用不了核显，是一大遗憾。好处是GTX 760的独显，再也不用担心驱动了，直接免驱，上10.14，可能10.15都是没有问题的，即插即用。该主板的声卡芯片未研究，只套用了APPLEALC为3的ID就驱动了，台式机的声卡驱动还是比较简单的。</p><a id="more"></a><p>电脑型号 华硕 All Series 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板 华硕 Z87-K ( Lynx Point )<br>内存 16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 三星 SSD 750 EVO 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 760 ( 2 GB / Nvidia )<br>显示器 戴尔 DELA07B DELL U2412M ( 24.1 英寸 )<br>声卡 创新 Sound Blaster X-Fi Audio Processor<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D46787EB-D78D-4744-A2F7-97AD8BD5F7CE.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>✱ macOS Sierra 10.12.x （<a href="http://k61.org/USB-hackintosh-install-10-12-6.html">U盘安装教程</a>）<br>✱ macOS High Sierra 10.13.x<br>✔ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D75DF1B9-96CA-427A-B9BF-8EEB8ABBEA2C.jpg" alt><br><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/9DBB5D0B-DD4B-43DA-81B3-A13087E16E8F.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显免驱</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/14VNlcFSPwJXEcjxL8UYyEg&shfl=sharepset" target="_blank" rel="noopener">i5-4570 华硕Z87-K 16GB GTX760.zip</a></p><blockquote><p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
@@ -661,6 +649,18 @@
         <tag>i5-4570</tag>
         <tag>Z87</tag>
         <tag>GTX 760</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>黑苹果系统如何禁用触控板？</title>
+    <url>/disable-touchpad-howto-hackintosh.html</url>
+    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Vulcan_火影</category>
+      </categories>
+      <tags>
+        <tag>VULCAN</tag>
       </tags>
   </entry>
   <entry>
@@ -743,9 +743,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -842,8 +842,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -900,8 +900,8 @@
         <category>Acer_宏碁</category>
       </categories>
       <tags>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
       </tags>
@@ -1024,8 +1024,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>Surface</tag>
         <tag>微软</tag>
+        <tag>Surface</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
@@ -1055,8 +1055,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -1115,8 +1115,8 @@
         <category>HP_惠普</category>
       </categories>
       <tags>
-        <tag>惠普</tag>
         <tag>HP</tag>
+        <tag>惠普</tag>
         <tag>EliteBook</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
@@ -1348,6 +1348,20 @@
         <tag>Dell戴尔</tag>
         <tag>Inspiron 5557</tag>
         <tag>GTX 930M</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【EFI】微星 GP62MVR 6RF笔记本i7-6700HQ Mojave 10.14.6 黑苹果Hackintosh 引导下载</title>
+    <url>/MSI-GP62-MVR-6RF-i7-6700HQ-hackintosh.html</url>
+    <content><![CDATA[<p>请一定要升级BIOS到最新版本！！！<br><a href="https://cn.msi.com/Laptop/support/GP62MVR-6RF-215CN#down-bios" target="_blank" rel="noopener">产品支持 GP62MVR 6RF-215CN | Laptops - The best gaming laptop provider | 微星中国</a><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/F7C6E0CF-2857-4F6A-A398-A76A726E32B4.jpg" alt></p><p>电脑型号 微星 GP62MVR 6RF 笔记本电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-6700HQ @ 2.60GHz 四核<br>主板 微星 MS-16JB ( 100 Series/C230 Series 芯片组 Family - A14E )<br>内存 16 GB ( 金士顿 )<br>主硬盘 金士顿 RBU-SNS8152S3256GG5 ( 256 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 1060 ( 3 GB )<br>显示器 LG LGD04A7 ( 15.5 英寸 )<br>声卡 瑞昱 ALC899 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 3165</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/347163AD-6A3B-4CBA-986A-26181326CE73.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/3C44DDEAA92196CBDF274AB0BEA5D0B5.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/EFD1C7D70CBA101E41D02EEA7D0234C0.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/75D4411D9EBF1A2FD2B3896A9DFA5469.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/3C44DDEAA92196CBDF274AB0BEA5D0B5%202.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/EFD1C7D70CBA101E41D02EEA7D0234C0%202.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/75D4411D9EBF1A2FD2B3896A9DFA5469%202.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/3C44DDEAA92196CBDF274AB0BEA5D0B5%203.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/EFD1C7D70CBA101E41D02EEA7D0234C0%203.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/75D4411D9EBF1A2FD2B3896A9DFA5469%203.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/10A8E973-9472-4061-A2D5-BDF918B2173C.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/3C44DDEAA92196CBDF274AB0BEA5D0B5%204.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/EFD1C7D70CBA101E41D02EEA7D0234C0%204.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/75D4411D9EBF1A2FD2B3896A9DFA5469%204.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/ECC5E24D-EA8D-44D2-AEAB-4DACFD73ADD1.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>电池</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul><li>独显</li><li>WIFI</li></ul><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本（重要！！！）</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1VUrvgx6a8DOizJKBsf4Efw" target="_blank" rel="noopener">微星GP62MVR 6RF 10.14.6(BIOS需最新) i7-6700HQ GTX 1060.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>MSI_微星</category>
+      </categories>
+      <tags>
+        <tag>i7-6700HQ</tag>
+        <tag>HD 530</tag>
+        <tag>GP62</tag>
       </tags>
   </entry>
 </search>
