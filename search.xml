@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【EFI】戴尔Dell PowerEdge T330服务器安装黑苹果macOS High Sierra附EFI下载</title>
+    <url>/Dell-PowerEdge-T330-E3-1220-hackintosh.html</url>
+    <content><![CDATA[<h1 id="【EFI】戴尔Dell-PowerEdge-T330服务器安装黑苹果macOS-High-Sierra附EFI下载"><a href="#【EFI】戴尔Dell-PowerEdge-T330服务器安装黑苹果macOS-High-Sierra附EFI下载" class="headerlink" title="【EFI】戴尔Dell PowerEdge T330服务器安装黑苹果macOS High Sierra附EFI下载"></a>【EFI】戴尔Dell PowerEdge T330服务器安装黑苹果macOS High Sierra附EFI下载</h1><p>电脑型号 戴尔 PowerEdge T330 Main Server Chassis<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 Xeon(至强) E3-1220 v6 @ 3.00GHz 四核<br>主板 戴尔 06FW8M ( 100 Series/C230 Series 芯片组 Family - A149 )<br>内存 16 GB ( 海力士 DDR4 2400MHz )<br>主硬盘 戴尔 PERC H330 Adp SCSI Disk Device ( 999 GB )<br>显卡 Nvidia GeForce GT 730 ( 1 GB / Nvidia )<br>显示器 戴尔 DELA0D9 DELL P2217H ( 21.7 英寸 )<br>光驱 日立-LG DVD+-RW GHB0N DVD刻录机<br>声卡 Nvidia nForce4 ISA Bridge @ Nvidia High Definition Audio Controller<br>网卡 博通 NetXtreme BCM5720 Gigabit Ethernet PCIe / 戴尔</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/6905DD2A-6FF8-4E9E-9F81-7FDF34B34165.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/(null)" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/40B69A0B-8A1D-473C-AE70-092E863D9F03.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/(null)" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/6B527119-20CC-438D-9771-39D69E90E252.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/F26D2F60-F14B-45A8-965D-AA01AC045E24.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/6EADD235-5BE7-4B07-856A-923147C69252.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD/CE6E1AE1-2873-494B-86E1-B8C78221A1B1.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul><li>有线网卡</li></ul><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1ziShBeXyPpceE22xNV1-2A" target="_blank" rel="noopener">戴尔 PowerEdge T330.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>服务器</category>
+      </categories>
+      <tags>
+        <tag>PowerEdge</tag>
+        <tag>E3-1220 v6</tag>
+        <tag>服务器</tag>
+        <tag>GT 730</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于黑苹果蓝牙能识别检测不到设备的一种解决思路</title>
     <url>/hackintosh-bluetooth-fix-1.html</url>
     <content><![CDATA[<p>黑苹果安装好之后，在设置里可以看到有蓝牙。</p><p><img src="http://k61.org/%E5%85%B3%E4%BA%8E%E9%BB%91%E8%8B%B9%E6%9E%9C%E8%93%9D%E7%89%99%E8%83%BD%E8%AF%86%E5%88%AB%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0%E8%AE%BE%E5%A4%87%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/BF2345EB-398D-4870-B8FF-3EC76F68C142.jpg" alt></p><p>但问题是不能发现其它蓝牙设备，检测不了。</p><p>如果有遇到这种问题的，先不要想着怎么打补丁，装驱动。如果有双系统，尝试进入WINDOWS，打开蓝牙，连一下其它设备，尝试用蓝牙传输一点文件。然后，再重启进macos黑苹果系统。</p><p>这时你会发现，在黑苹果里，蓝牙好使了。</p><p><img src="http://k61.org/%E5%85%B3%E4%BA%8E%E9%BB%91%E8%8B%B9%E6%9E%9C%E8%93%9D%E7%89%99%E8%83%BD%E8%AF%86%E5%88%AB%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0%E8%AE%BE%E5%A4%87%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/F8B20007-C7CA-4D12-AAC4-BFC5567D9E99.jpg" alt></p><p>为什么会这样呢，目前老吴这边也想不明白，是否这是一个激活过程，无论怎么样，问题是解决了。有这种问题的，可以尝试一下这个方法，虽然奇怪，但好使。</p>]]></content>
@@ -232,8 +247,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>GTX 1080 Ti</tag>
         <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -437,8 +452,8 @@
       </categories>
       <tags>
         <tag>B85M</tag>
-        <tag>技嘉</tag>
         <tag>RX 470</tag>
+        <tag>技嘉</tag>
         <tag>i5-4590</tag>
       </tags>
   </entry>
@@ -550,8 +565,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -743,9 +758,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -829,8 +844,8 @@
       <tags>
         <tag>B85M</tag>
         <tag>GIGABYTE</tag>
-        <tag>i3-4170</tag>
         <tag>GT 730</tag>
+        <tag>i3-4170</tag>
       </tags>
   </entry>
   <entry>
@@ -842,8 +857,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GIGABYTE</tag>
         <tag>i5-4570</tag>
+        <tag>GIGABYTE</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -900,8 +915,8 @@
         <category>Acer_宏碁</category>
       </categories>
       <tags>
-        <tag>TravelMate</tag>
         <tag>Acer</tag>
+        <tag>TravelMate</tag>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
       </tags>
@@ -1024,8 +1039,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>微软</tag>
         <tag>Surface</tag>
+        <tag>微软</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
@@ -1055,8 +1070,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -1115,8 +1130,8 @@
         <category>HP_惠普</category>
       </categories>
       <tags>
-        <tag>HP</tag>
         <tag>惠普</tag>
+        <tag>HP</tag>
         <tag>EliteBook</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
