@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【EFI】i5-6400+微星 B150M NANO+GTX 950 黑苹果macOS 10.13.6</title>
+    <url>/i5-6400-MSI-B150M-NANO-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 微星 MS-7996 台式电脑<br>操作系统 Windows 7 旗舰版 64位 SP1 ( DirectX 11 )<br>处理器 英特尔 Core i5-6400 @ 2.70GHz 四核<br>主板 微星 B150M NANO (MS-7996) ( 100 Series/C230 Series 芯片组 Family - A148 )<br>内存 8 GB ( 金邦 DDR4 2400MHz )<br>主硬盘 Lenovo SSD ST510 120G ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 950 ( 2 GB / 华硕 )<br>显示器 冠捷 AOC3284 3284W ( 31.5 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/C3C99335-7E9A-488A-8AED-5CA7E794B8CC.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/5C9980DA-B24E-4E13-A669-5969CCB58638.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/FE15B41A-11F1-4BE8-96F9-F967B308F2E8.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/740D6810-3771-49D4-890A-30C11B134C02.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/2F61777A-BD24-4DE1-BC9E-039430543932.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/81378223-BA59-44DF-A54F-2D1728B7B531.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/13B5GZi5jiFpHEroeoPdu8g" target="_blank" rel="noopener">微星 B150M NANO i5-6400 GTX 950 10.13.6.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>i5-6400</tag>
+        <tag>B150M</tag>
+        <tag>GTX 950</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【EFI】 技嘉 B85M-D3H+i7-4790+GTX 960 黑苹果macOS 10.13.6</title>
+    <url>/B85M-D3H-i7-4790-GTX-960-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 技嘉 B85M-D3H 台式电脑<br>操作系统 Windows 10 精简版 64位 ( DirectX 12 )<br>处理器 英特尔 第四代酷睿 i7-4790 @ 3.60GHz 四核<br>主板 技嘉 B85M-D3H ( Lynx Point )<br>内存 16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 TIGO SSD 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 960 ( 4 GB / 技嘉 )<br>显示器 戴尔 DEL40F3 DELL P2317H ( 23.1 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 Haswell 高保真音频<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/4C1BED25-DCAF-40D9-A19F-C97303C7A30D.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/07D5823B-C478-4B47-A6A3-9D437F669873.jpg" alt></p><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/C1EB4E2C-D2AB-4750-A170-AD864935EAF9.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/48583EE6-B075-4854-8BA1-9A3E19592924.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/E83F1A3D-68E5-4034-A856-A0AE2101E744.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/170E69B5-2CBF-4F13-AF1E-A3F5733953A3.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/29458E68-DC21-408A-9164-9E2D7495B1F5.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1Pq2aTtjVKohEqAkZiqgigQ" target="_blank" rel="noopener">技嘉 B85M-D3H i7-4790 GTX 960 10.13.6.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>B85M</tag>
+        <tag>i7-4790</tag>
+        <tag>GTX 960</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【EFI】 i7-8700+华硕 PRIME B360M-K+GTX 1060 黑苹果macOS 10.13.6</title>
     <url>/i7-8700-ASUS-PRIME-B360M-K-GTX-1060-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号 X64 兼容 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-8700 @ 3.20GHz 六核<br>主板 华硕 PRIME B360M-K ( CannonLake - A308 )<br>内存 8 GB ( Asgard DDR4 2400MHz )<br>主硬盘 东芝 DT01ACA100 ( 1 TB / 7200 转/分 )<br>显卡 Nvidia GeForce GTX 1060 6GB ( 6 GB / 七彩虹 )<br>显示器 三星 SAM07DB SMS22A330BW ( 22 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/DEF3431D-DFF2-4C46-938F-E354A647FF43.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✱ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/E3B5B779-14E4-4907-8555-8A6C401E40FB.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/63878F68-BFC2-4304-BCAE-6E6D78B78FC6.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/16D0BAB0-54E1-4F58-A1FA-A6A89B5A6A7F.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/F5CE346A-5CB6-4EFD-8A22-5D8DADAD3589.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/5B2E4A60-DEFF-43AB-A22A-B00E3D9CA5BC.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/BDB956D5-C2D6-4C5E-9DCB-EC66753E0D47.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/969783F8-B057-48B2-87AD-4AD145C71E5A.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6/28ABC536-0CF1-4895-805D-FD8655FB2AA1.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/1mg2n88CzMyVYPEYo3GvDNw" target="_blank" rel="noopener">i7-8700 华硕 PRIME B360M-K GTX 1060 10.13.6.zip</a></p><blockquote><p><strong>提取码</strong>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
@@ -303,8 +331,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>HD 530</tag>
         <tag>i5-6400</tag>
+        <tag>HD 530</tag>
         <tag>单系统</tag>
       </tags>
   </entry>
@@ -753,18 +781,6 @@
       </tags>
   </entry>
   <entry>
-    <title>黑苹果系统如何禁用触控板？</title>
-    <url>/disable-touchpad-howto-hackintosh.html</url>
-    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Vulcan_火影</category>
-      </categories>
-      <tags>
-        <tag>VULCAN</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>i5-4570+华硕 Z87-K+GTX 760 黑苹果Hackintosh 独显免驱直上Mojave 10.14.5</title>
     <url>/i5-4570-Z87-K-gtx-760-hackintosh.html</url>
     <content><![CDATA[<p>i5-4570 CPU基于Haswell架构，集成了HD 4600核显，但因为是台式机，有独显的情况下，核显被BIOS生硬屏蔽了，MACOS用不了核显，是一大遗憾。好处是GTX 760的独显，再也不用担心驱动了，直接免驱，上10.14，可能10.15都是没有问题的，即插即用。该主板的声卡芯片未研究，只套用了APPLEALC为3的ID就驱动了，台式机的声卡驱动还是比较简单的。</p><a id="more"></a><p>电脑型号 华硕 All Series 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板 华硕 Z87-K ( Lynx Point )<br>内存 16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 三星 SSD 750 EVO 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 760 ( 2 GB / Nvidia )<br>显示器 戴尔 DELA07B DELL U2412M ( 24.1 英寸 )<br>声卡 创新 Sound Blaster X-Fi Audio Processor<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D46787EB-D78D-4744-A2F7-97AD8BD5F7CE.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>✱ macOS Sierra 10.12.x （<a href="http://k61.org/USB-hackintosh-install-10-12-6.html">U盘安装教程</a>）<br>✱ macOS High Sierra 10.13.x<br>✔ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D75DF1B9-96CA-427A-B9BF-8EEB8ABBEA2C.jpg" alt><br><img src="i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/9DBB5D0B-DD4B-43DA-81B3-A13087E16E8F.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显免驱</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="https://pan.baidu.com/s/14VNlcFSPwJXEcjxL8UYyEg&shfl=sharepset" target="_blank" rel="noopener">i5-4570 华硕Z87-K 16GB GTX760.zip</a></p><blockquote><p><em>提取码</em>：联系<a href="http://wpa.qq.com/msgrd?v=3&uin=75351230&site=qq&menu=yes" target="_blank" rel="noopener">在线QQ</a>或者Email：<a href="mailto:75351230@qq.com" target="_blank" rel="noopener">75351230@qq.com</a></p></blockquote><hr>]]></content>
@@ -776,6 +792,18 @@
         <tag>i5-4570</tag>
         <tag>Z87</tag>
         <tag>GTX 760</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>黑苹果系统如何禁用触控板？</title>
+    <url>/disable-touchpad-howto-hackintosh.html</url>
+    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Vulcan_火影</category>
+      </categories>
+      <tags>
+        <tag>VULCAN</tag>
       </tags>
   </entry>
   <entry>
@@ -913,9 +941,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>GTX 960</tag>
         <tag>B75</tag>
         <tag>i5-3470</tag>
-        <tag>GTX 960</tag>
       </tags>
   </entry>
   <entry>
@@ -957,8 +985,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -1015,8 +1043,8 @@
         <category>Acer_宏碁</category>
       </categories>
       <tags>
-        <tag>TravelMate</tag>
         <tag>Acer</tag>
+        <tag>TravelMate</tag>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
       </tags>
@@ -1231,8 +1259,8 @@
       </categories>
       <tags>
         <tag>EliteBook</tag>
-        <tag>惠普</tag>
         <tag>HP</tag>
+        <tag>惠普</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
       </tags>
