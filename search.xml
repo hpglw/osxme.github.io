@@ -620,9 +620,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -650,9 +650,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -985,8 +985,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GIGABYTE</tag>
         <tag>i5-4570</tag>
+        <tag>GIGABYTE</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -1167,8 +1167,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>微软</tag>
         <tag>Surface</tag>
+        <tag>微软</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
@@ -1259,8 +1259,8 @@
       </categories>
       <tags>
         <tag>EliteBook</tag>
-        <tag>HP</tag>
         <tag>惠普</tag>
+        <tag>HP</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
       </tags>
