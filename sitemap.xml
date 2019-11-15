@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://k61.org/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T09:24:37.934Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://k61.org/B85M-D3H-i7-4790-GTX-960-hackintosh.html</loc>
     
     <lastmod>2019-11-15T09:23:30.912Z</lastmod>
@@ -509,13 +516,6 @@
     <loc>http://k61.org/i7-8700K-MSI-Z370-TOMAHAWK-GTX-1080-Ti-hackintosh.html</loc>
     
     <lastmod>2019-11-15T04:33:47.893Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T04:32:15.480Z</lastmod>
     
   </url>
   
