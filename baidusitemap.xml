@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://k61.org/Catalina-GTX-AMD-hackintosh.html</loc>
+    <lastmod>2019-11-15</lastmod>
+  </url>  <url>
     <loc>http://k61.org/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
     <lastmod>2019-11-14</lastmod>
   </url>  <url>
@@ -108,9 +111,6 @@
   </url>  <url>
     <loc>http://k61.org/macOS-Catalina-10.15-19A583-Restore.html</loc>
     <lastmod>2019-11-05</lastmod>
-  </url>  <url>
-    <loc>http://k61.org/Catalina-GTX-AMD-hackintosh.html</loc>
-    <lastmod>2019-11-04</lastmod>
   </url>  <url>
     <loc>http://k61.org/AppleBusPowerController-error-hackintosh.html</loc>
     <lastmod>2019-11-04</lastmod>

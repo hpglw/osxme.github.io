@@ -415,7 +415,7 @@
       </tags>
   </entry>
   <entry>
-    <title>黑苹果显卡免驱列表 10.15 Catalina 2018-2019 GTX & AMD</title>
+    <title>黑苹果显卡免驱列表 10.15 Catalina 2018-2019 GTX and AMD</title>
     <url>/Catalina-GTX-AMD-hackintosh.html</url>
     <content><![CDATA[<p><img src="%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%98%BE%E5%8D%A1%E5%85%8D%E9%A9%B1%E5%88%97%E8%A1%A8%2010.15%20Catalina%202018-2019%20GTX%20&%20AMD/0E4F457B-CD63-4B20-9E09-707024813C2D.jpg" alt></p><p>随着10.15版本的到来，我们又将回到这个最普遍的问题上来：</p><p><strong>macOS 10.15 Catalina支持哪些显卡？</strong></p><p>在这里，我们将列出一些目前所知的的显卡列表，随着系统的更新，可能有更多的显卡被支持。这里也包括一些High Sierra，Mojave的显卡信息，如果有兴趣，可以参考一下我写的文章：<a href="https://k61.org/Mojave-GPU-Buyers-Guide.html">黑苹果显卡免驱列表 10.14 Mojave</a>。之后，老吴还会整理一下High Sierra显卡免驱列表。</p><a id="more"></a><h1 id="AMD显卡"><a href="#AMD显卡" class="headerlink" title="AMD显卡"></a>AMD显卡</h1><h2 id="支持的显卡型号"><a href="#支持的显卡型号" class="headerlink" title="支持的显卡型号"></a>支持的显卡型号</h2><ul><li>RX 5700</li><li>RX 5700 XT</li><li>RX 5700 XT 50周年纪念版</li></ul><p>注意：大多数Navi卡都需要添加boot参数才能正确显示：<br><code>agdpmod=pikera</code></p><ul><li>Radeon VII</li><li>Vega 64 Liquid</li><li>Vega 64</li><li>Vega 56</li><li>Vega Frontier Edition</li><li>Radeon Pro WX 9100</li><li>Radeon Pro WX 7100</li><li>RX 480</li><li>RX 470D</li><li>RX 470</li><li>RX 460</li><li>RX 590</li><li>RX 580X</li><li>RX 580</li><li>RX 570X</li><li>RX 570</li><li>RX 560X</li><li>RX 560</li><li>WX 5100</li><li>WX 4100</li></ul><p><strong>不支持RX550</strong></p><p>以下是比较老的显卡，部分需要仿冒ID</p><ul><li>R9 Fury X</li><li>R9 Fury</li><li>R9 Nano</li><li>R9 390(FakeID)</li><li>R9 290X/390X</li><li>R9 290/390(FakeID)</li><li>R9 280x/380x</li><li>R9 280/380(FakeID 某些型号)</li><li>R9 270X/370X</li><li>R7 270/370(FFakeID 某些型号)</li><li>R7 265</li><li>R7 260x/360x</li><li>R9 260/360(FakeID 某些型号)</li><li>R7 250</li><li>R7 240</li></ul><p>附加说明：<br><code>radpg=15</code>：HD 7730/7750/7770 / R7 250 / R7 250X GPU初始化必需）<br><code>-raddvi</code>引导标志：修复290X，370等必需的DVI修复<br>InjectAMD：不建议使用，有些型号需要注入才能显示，但除非绝对必要，都避免使用。</p><p>以上所有支持的显卡，都需要安装：</p><ul><li><a href="https://github.com/acidanthera/Lilu/releases" target="_blank" rel="noopener">lilu.kext</a></li><li><a href="https://github.com/acidanthera/WhateverGreen/releases" target="_blank" rel="noopener">WhateverGreen.kext</a></li></ul><hr><h2 id="不支持的显卡型号："><a href="#不支持的显卡型号：" class="headerlink" title="不支持的显卡型号："></a>不支持的显卡型号：</h2><ul><li>RX 5500</li><li>WX 3100</li><li>WX 2100</li><li>RX 550X</li><li>RX 550</li><li>RX 540X</li><li>RX 540</li><li>全部AMD APU</li><li>Vega 11(Zen)</li><li>Vega 8(Zen)</li><li>GCN 3</li><li>GCN 2</li></ul><h1 id="nVidia显卡"><a href="#nVidia显卡" class="headerlink" title="nVidia显卡"></a>nVidia显卡</h1><h2 id="支持的显卡型号："><a href="#支持的显卡型号：" class="headerlink" title="支持的显卡型号："></a>支持的显卡型号：</h2><p><strong>绝对免驱原生显卡型号：</strong></p><ul><li>（iMac13,1）GT 640M</li><li>（iMac13,2）GT 660M</li><li>（iMac14,1）GT 750M</li><li>（iMac14,2）GT 755M</li><li>（MacBookPro9,1）GT 650M</li><li>（MacBookPro10,1）GT 650M</li><li>（MacBookPro11,3）GT 750M</li></ul><p><strong>其它支持的显卡：</strong></p><ul><li>GTX Titan</li><li>GTX Titan Black</li><li>GTX Titan Z</li><li>GTX 780 Ti</li><li>GTX 780</li><li>GTX 770</li><li>GTX 760 Ti</li><li>GTX 760</li><li>GT 740</li><li>GT 730</li><li>GT 720</li><li>GT 710</li><li>GTX 690</li><li>GTX 680</li><li>GTX 670</li><li>GTX 660 Ti</li><li>GTX 660</li><li>GTX 650</li><li>GT 640</li><li>GT 630</li><li>Quadro K6000</li><li>Quadro K5200</li><li>Quadro K5000</li><li>Quadro K4200</li><li>Quadro K2000D</li><li>Quadro K2000</li><li>Quadro K600</li><li>Quadro K420</li><li>Quadro 410</li></ul><p>以上所有支持的显卡，都需要安装：</p><ul><li><a href="https://github.com/acidanthera/Lilu/releases" target="_blank" rel="noopener">lilu.kext</a></li><li><a href="https://github.com/acidanthera/WhateverGreen/releases" target="_blank" rel="noopener">WhateverGreen.kext</a></li></ul><hr><h2 id="不支持的显卡型号：-1"><a href="#不支持的显卡型号：-1" class="headerlink" title="不支持的显卡型号："></a>不支持的显卡型号：</h2><ul><li>Titan RTX</li><li>RTX 2080 Ti</li><li>RTX 2080 Super</li><li>RTX 2080</li><li>RTX 2070 Super</li><li>RTX 2070</li><li>RTX 2060 Super</li><li>RTX 2060</li><li>GTX 1660 Ti</li><li>GTX 1660</li><li>GTX 1650</li><li>Quadro RTX 8000</li><li>Quadro RTX 6000</li><li>Quadro RTX 5000</li><li>Quadro RTX 4000</li><li>Titan V</li><li>Titan V CEO Edition</li><li>Quadro GV100</li><li>GT 740</li><li>GTX 660</li><li>GTX 650 Ti</li><li>GTX 650</li><li>GTX 645</li><li>K4000</li></ul>]]></content>
       <categories>
@@ -845,8 +845,8 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -1168,9 +1168,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -1344,8 +1344,8 @@
         <category>Dell_戴尔</category>
       </categories>
       <tags>
-        <tag>HD 620</tag>
         <tag>i5-7200U</tag>
+        <tag>HD 620</tag>
         <tag>Inspiron</tag>
         <tag>Dell</tag>
       </tags>

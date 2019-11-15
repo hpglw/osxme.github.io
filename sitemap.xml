@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://k61.org/Catalina-GTX-AMD-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T03:37:48.455Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://k61.org/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
     
     <lastmod>2019-11-14T06:45:22.315Z</lastmod>
@@ -250,13 +257,6 @@
     <loc>http://k61.org/macOS-Catalina-10.15-19A583-Restore.html</loc>
     
     <lastmod>2019-11-05T08:00:23.472Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Catalina-GTX-AMD-hackintosh.html</loc>
-    
-    <lastmod>2019-11-04T08:56:11.396Z</lastmod>
     
   </url>
   
