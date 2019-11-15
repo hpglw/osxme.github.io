@@ -2,6 +2,328 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://k61.org/hackintosh-bluetooth-fix-1.html</loc>
+    
+    <lastmod>2019-11-15T04:05:30.649Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/EFI-Shell-fix-bios-dvmt.html</loc>
+    
+    <lastmod>2019-11-15T04:05:29.739Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-6400-HD-530-Mojave-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:28.945Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/X10DAi-i-E5-2683-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:28.289Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/lenovo-Y700-I7-6700HQ-HD530-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:27.553Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Shinelon-V57-gtx-1070-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:26.874Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Shinelon-X6-15-i7-6700HQ-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:26.073Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/HP-Pavilion-15-i5-5200u-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:25.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Dell-PowerEdge-T330-E3-1220-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:24.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/HP-EliteBook-840-G3-i5-6300U.html</loc>
+    
+    <lastmod>2019-11-15T04:05:23.721Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/MSI-GP62-MVR-6RF-i7-6700HQ-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:22.930Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-8700K-GTX-1080-ROG-STRIX-Z370-F-GAMING-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:22.185Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-4790-B85-PRO-Vega-64-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:21.498Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i3-4160-MSI-H81M-P33-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:20.811Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i3-6100-Catalina-HD-530-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:20.091Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/MECHREVO-S1-i5-8250U-UHD620-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:19.337Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-9700K-asus-B365M-PIXIU-P2000.html</loc>
+    
+    <lastmod>2019-11-15T04:05:18.633Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-7800x-MSI-X299-GTX-1060.html</loc>
+    
+    <lastmod>2019-11-15T04:05:17.897Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-6700K-Z170X-Gaming-3-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:17.185Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/AMD-Ryzen-5-2600X-B450M-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:16.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Alienware-M17x-R4-i7-3740QM-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:15.729Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/AERO-15X-V8-i7-8750H-UHD630-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:15.003Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/B85M-D3H-i7-4790-GTX-960-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:14.321Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-8700K-asus-ROG-STRIX-Z370-E-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:13.592Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:12.842Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/USB-hackintosh-install-10-12-6.html</loc>
+    
+    <lastmod>2019-11-15T04:05:12.176Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:11.448Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/macOS-Catalina-10.15.1-RX-5700.html</loc>
+    
+    <lastmod>2019-11-15T04:05:10.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/macOS-Catalina-10.15.1-install.html</loc>
+    
+    <lastmod>2019-11-15T04:05:09.925Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/NUC8i7BEH-i7-8559U-Iris-Plus-Graphics-655-4k-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:09.153Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i9-9900K-MPG-Z390-GTX-1080-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:08.409Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-8700K-MSI-Z370-TOMAHAWK-GTX-1080-Ti-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:07.665Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-8700K-asus-PRIME-B360-PLUS-RX-580-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:06.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-7700K-msi-Z270-TOMAHAWK-ARCTIC-gtx1080-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:06.186Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-6700K-asus-Z170-P-gtx1060-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:05.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-4770-asus-B85M-G-gtx-750-ti-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:04.689Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i7-2600-GIGABYTE-Z68A-D3H-B3-RADEON-HD-6850-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:03.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-7500-B250M-D3V-GTX-1050-Ti-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:03.210Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-7500-B250M-DS3H-CF-GTX-1060-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:02.475Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-7400-PRIME-B250M-K-HD-630-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:01.708Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-7400-MSI-B250M-E-HD-630-VGA-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:00.969Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/GIGABYTE-i5-6600k-z170x-gaming-5-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:05:00.282Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i5-4570-Z87-K-gtx-760-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:04:59.561Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i3-9100F-asrock-Z370-Pro4-RX-470-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:04:58.810Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/i3-8100-MSI-B360M-MORTAR-RX590-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:04:58.034Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://k61.org/Hasee-ZX8-KP7S1-hackintosh.html</loc>
+    
+    <lastmod>2019-11-15T04:04:56.973Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://k61.org/E3-1231-asus-B85M-F-PLUS-gtx960-hackintosh.html</loc>
     
     <lastmod>2019-11-15T04:00:53.724Z</lastmod>
@@ -33,13 +355,6 @@
     <loc>http://k61.org/lenovo-G50-80-i7-5500U-HD-Graphics-5500-hackintosh.html</loc>
     
     <lastmod>2019-11-15T04:00:08.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Hasee-ZX8-KP7S1-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T04:00:08.348Z</lastmod>
     
   </url>
   
@@ -163,69 +478,6 @@
   </url>
   
   <url>
-    <loc>http://k61.org/i5-6400-HD-530-Mojave-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:57.348Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/X10DAi-i-E5-2683-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:56.764Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/lenovo-Y700-I7-6700HQ-HD530-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:56.173Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Shinelon-V57-gtx-1070-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:55.573Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Shinelon-X6-15-i7-6700HQ-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:54.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/HP-Pavilion-15-i5-5200u-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:54.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Dell-PowerEdge-T330-E3-1220-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:53.693Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/HP-EliteBook-840-G3-i5-6300U.html</loc>
-    
-    <lastmod>2019-11-15T03:59:53.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/MSI-GP62-MVR-6RF-i7-6700HQ-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:52.519Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://k61.org/Z77X-D3H-GTX-680-I7-hackintosh.html</loc>
     
     <lastmod>2019-11-15T03:59:51.974Z</lastmod>
@@ -233,191 +485,9 @@
   </url>
   
   <url>
-    <loc>http://k61.org/i7-8700K-GTX-1080-ROG-STRIX-Z370-F-GAMING-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:51.358Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-4790-B85-PRO-Vega-64-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:50.685Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i3-4160-MSI-H81M-P33-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:50.074Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i3-6100-Catalina-HD-530-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:49.365Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/MECHREVO-S1-i5-8250U-UHD620-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:48.770Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-9700K-asus-B365M-PIXIU-P2000.html</loc>
-    
-    <lastmod>2019-11-15T03:59:48.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-7800x-MSI-X299-GTX-1060.html</loc>
-    
-    <lastmod>2019-11-15T03:59:47.586Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-6700K-Z170X-Gaming-3-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:47.057Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/AMD-Ryzen-5-2600X-B450M-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:46.460Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/Alienware-M17x-R4-i7-3740QM-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:45.919Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/AERO-15X-V8-i7-8750H-UHD630-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:45.370Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/B85M-D3H-i7-4790-GTX-960-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:44.784Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://k61.org/i7-8700-ASUS-PRIME-B360M-K-GTX-1060-hackintosh.html</loc>
     
     <lastmod>2019-11-15T03:59:44.237Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:43.662Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/NUC8i7BEH-i7-8559U-Iris-Plus-Graphics-655-4k-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:43.045Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i9-9900K-MPG-Z390-GTX-1080-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:42.462Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-8700K-MSI-Z370-TOMAHAWK-GTX-1080-Ti-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:41.853Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-8700K-asus-PRIME-B360-PLUS-RX-580-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:41.269Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-7700K-msi-Z270-TOMAHAWK-ARCTIC-gtx1080-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:40.669Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-6700K-asus-Z170-P-gtx1060-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:40.101Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-4770-asus-B85M-G-gtx-750-ti-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:39.517Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-7500-B250M-D3V-GTX-1050-Ti-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:38.918Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-7500-B250M-DS3H-CF-GTX-1060-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:38.366Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-7400-PRIME-B250M-K-HD-630-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:37.787Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-7400-MSI-B250M-E-HD-630-VGA-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:37.197Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i3-9100F-asrock-Z370-Pro4-RX-470-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:36.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i3-8100-MSI-B360M-MORTAR-RX590-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:59:36.010Z</lastmod>
     
   </url>
   
@@ -481,20 +551,6 @@
     <loc>http://k61.org/Win10-macOS-hackintosh-Restore.html</loc>
     
     <lastmod>2019-11-15T03:56:59.979Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/EFI-Shell-fix-bios-dvmt.html</loc>
-    
-    <lastmod>2019-11-15T03:56:58.026Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/hackintosh-bluetooth-fix-1.html</loc>
-    
-    <lastmod>2019-11-15T03:56:57.016Z</lastmod>
     
   </url>
   
@@ -646,27 +702,6 @@
   </url>
   
   <url>
-    <loc>http://k61.org/i7-8700K-asus-ROG-STRIX-Z370-E-hackintosh.html</loc>
-    
-    <lastmod>2019-11-15T03:49:37.157Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/macOS-Catalina-10.15.1-install.html</loc>
-    
-    <lastmod>2019-11-07T01:37:10.647Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/macOS-Catalina-10.15.1-RX-5700.html</loc>
-    
-    <lastmod>2019-11-06T08:14:26.852Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://k61.org/do-not-use-PM981-hackintosh.html</loc>
     
     <lastmod>2019-11-05T09:29:29.293Z</lastmod>
@@ -702,44 +737,9 @@
   </url>
   
   <url>
-    <loc>http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html</loc>
-    
-    <lastmod>2019-10-21T04:31:10.998Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i5-4570-Z87-K-gtx-760-hackintosh.html</loc>
-    
-    <lastmod>2019-10-21T02:23:59.950Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/GIGABYTE-i5-6600k-z170x-gaming-5-hackintosh.html</loc>
-    
-    <lastmod>2019-10-19T03:56:22.495Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://k61.org/asus-Strix-G531GT-hackintosh.html</loc>
     
     <lastmod>2019-10-19T03:55:42.346Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/i7-2600-GIGABYTE-Z68A-D3H-B3-RADEON-HD-6850-hackintosh.html</loc>
-    
-    <lastmod>2019-10-19T03:55:23.083Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://k61.org/USB-hackintosh-install-10-12-6.html</loc>
-    
-    <lastmod>2019-10-19T03:17:37.284Z</lastmod>
     
   </url>
   
