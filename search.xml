@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【EFI】i7-8700 华硕 PRIME B360-PLUS UHD Graphics 630 ALC887 10.15.1</title>
+    <url>/i7-8700-PRIME%20B360-PLUS-UHD-630-hackintosh.html</url>
+    <content><![CDATA[<p>电脑型号 X64 兼容 台式电脑<br>操作系统 Windows 10 专业版 64位 ( 4.09.00.0904 )</p><p>处理器 英特尔 Core i7-8700 @ 3.20GHz 六核<br>主板 华硕 PRIME B360-PLUS ( 英特尔 PCI 标准主机 CPU 桥 - B360 芯片组 )<br>内存 8 GB ( GLOWAY 2666MHz )<br>主硬盘 闪迪 SDSSDA120G ( 120 GB / 固态硬盘 )<br>显卡 英特尔 UHD Graphics 630 ( 128 MB / 华硕 )<br>显示器 冠捷 AOC2270 2270W ( 21.7 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/3A1743F8-DD56-4D84-91B1-74D1896ADD6C.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✖ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/2933F702-9297-470D-B6AB-212C6926AF0C.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/B9ECB0E0-642A-4D42-9F8E-1DF8CECCFA00.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/20638894-5B50-498A-89C0-7BDF106F14AD.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/24019904-B173-46F8-B61A-6FD59EC16EFB.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/8F36A13B-3E49-409C-A8A1-66C83AF1F3C0.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/0C560E77-2038-4D7C-9C71-A3ECEDFB04B9.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1/8AB2013F-8CA8-4395-B043-AAB98C56DAC8.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="http://pay.k61.org/share_1082.html" target="_blank" rel="noopener">i7-8700 华硕 PRIME B360-PLUS UHD Graphics 630 ALC887 10.15.1.zip - 老吴黑苹果工作室</a></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>B360</tag>
+        <tag>i7-8700</tag>
+        <tag>UHD 630</tag>
+        <tag>Catalina</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【EFI】技嘉B365MH + I5 8500 + UHD 630黑苹果macOS 10.15.1</title>
+    <url>/B365MH-PRIME-I5-8500-UHD-630-hackintosh.html</url>
+    <content><![CDATA[<p>技嘉B365MH + I5 8500 + UHD 630，单核显，原本有张GTX 750不能安装10.15.1</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✖ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✖ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%8A%80%E5%98%89B365MH%20+%20I5%208500%20+%20UHD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.15.1/FA2429F7-C680-45B5-AE59-171D3A8E45B2.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%8A%80%E5%98%89B365MH%20+%20I5%208500%20+%20UHD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.15.1/C70CBDCF-56B1-44EC-B8C6-92269E0EE3E3.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E6%8A%80%E5%98%89B365MH%20+%20I5%208500%20+%20UHD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.15.1/A271CA00-CC90-438F-B546-AD84B62BCE46.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="http://pay.k61.org/share_1081.html" target="_blank" rel="noopener">技嘉B365MH + I5 8500 + UHD 630 .zip - 老吴黑苹果工作室</a></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>UHD 630</tag>
+        <tag>Catalina</tag>
+        <tag>I5 8500</tag>
+        <tag>B365</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【EFI】小米PRO笔记本 i5-8250U UHD620 TM1701 MX150 10.15.1黑苹果引导下载</title>
     <url>/xiaomi-pro-i5-8250U-TM1701-hackintosh.html</url>
     <content><![CDATA[<p>电脑型号 Timi TM1701 笔记本电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i5-8250U @ 1.60GHz 四核<br>主板 Timi TM1701 ( 7th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存 8 GB ( 三星 )<br>主硬盘 三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )<br>显卡 Nvidia GeForce MX150 ( 2 GB )<br>显示器 京东方 BOE0747 ( 15.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 8265</p><a id="more"></a><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/85442A76-1484-4029-B011-6BD9EE9412D4.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装</p></blockquote><p>✖ macOS Sierra 10.12.x (<a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>⊙ macOS High Sierra 10.13.x (<a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✱ macOS Mojave 10.14.x (<a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)<br>✔ macOS Catalina 10.15.x (<a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a>，<a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a>)</p><p>Nvidia驱动下载：<a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全，附下载地址 | 老吴黑苹果工作室</a></p><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/69F763A1-9B26-40CB-830E-3C85950D8BF9.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/7CC20EAA-9377-4C72-BC6B-34EC35AFB10F.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/0AE70B4F-B802-4534-B88C-85C01C9E368B.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/F2C2D976-9E63-4D91-8563-F64B78FA3F48.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/4C025D93-0C2F-435B-9620-3AD366950AD5.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/DFA2BAAA-AF3E-4F24-8393-66FCC46ACE05.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/DDCE201A-40F0-419D-846F-CA09FB461A07.jpg" alt><br><img src="http://k61.org/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD/2BF07E84-6233-4779-A95F-F0BE97A466F3.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>电池</li><li>键盘</li><li>触控板多指</li><li>亮度调节</li><li>快捷键</li><li>TYPE-C</li><li>蓝牙</li><li>休眠</li><li>变频</li><li>HiDPi</li><li>摄像头</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><ul><li>独显</li><li>WIFI</li><li>读卡器</li></ul><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li></ol><hr><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="http://pay.k61.org/share_1052.html" target="_blank" rel="noopener">小米PRO i5-8250U UHD620 TM1701 MX150 10.15.1.zip</a></p><hr>]]></content>
@@ -192,9 +222,9 @@
         <category>Gigabyte_技嘉</category>
       </categories>
       <tags>
-        <tag>Catalina</tag>
         <tag>i7-8750H</tag>
         <tag>UHD 630</tag>
+        <tag>Catalina</tag>
       </tags>
   </entry>
   <entry>
@@ -232,8 +262,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>RX 5700</tag>
         <tag>Catalina</tag>
+        <tag>RX 5700</tag>
       </tags>
   </entry>
   <entry>
@@ -810,6 +840,18 @@
       </tags>
   </entry>
   <entry>
+    <title>黑苹果系统如何禁用触控板？</title>
+    <url>/disable-touchpad-howto-hackintosh.html</url>
+    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Vulcan_火影</category>
+      </categories>
+      <tags>
+        <tag>VULCAN</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>i5-4570+华硕 Z87-K+GTX 760 黑苹果Hackintosh 独显免驱直上Mojave 10.14.5</title>
     <url>/i5-4570-Z87-K-gtx-760-hackintosh.html</url>
     <content><![CDATA[<p>i5-4570 CPU基于Haswell架构，集成了HD 4600核显，但因为是台式机，有独显的情况下，核显被BIOS生硬屏蔽了，MACOS用不了核显，是一大遗憾。好处是GTX 760的独显，再也不用担心驱动了，直接免驱，上10.14，可能10.15都是没有问题的，即插即用。该主板的声卡芯片未研究，只套用了APPLEALC为3的ID就驱动了，台式机的声卡驱动还是比较简单的。</p><a id="more"></a><p>电脑型号 华硕 All Series 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板 华硕 Z87-K ( Lynx Point )<br>内存 16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘 三星 SSD 750 EVO 120GB ( 120 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 760 ( 2 GB / Nvidia )<br>显示器 戴尔 DELA07B DELL U2412M ( 24.1 英寸 )<br>声卡 创新 Sound Blaster X-Fi Audio Processor<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><hr><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p><img src="http://k61.org/i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D46787EB-D78D-4744-A2F7-97AD8BD5F7CE.jpg" alt></p><hr><h1 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h1><blockquote><p>✔ 经过实测 ✱ 兼容 ⊙ 不确定 ✖ 无法安装<br>✱ macOS Sierra 10.12.x （<a href="http://k61.org/USB-hackintosh-install-10-12-6.html">U盘安装教程</a>）<br>✱ macOS High Sierra 10.13.x<br>✔ macOS Mojave 10.14.x<br>✱ macOS Catalina 10.15.x</p></blockquote><hr><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="http://k61.org/i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/D75DF1B9-96CA-427A-B9BF-8EEB8ABBEA2C.jpg" alt><br><img src="http://k61.org/i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5/9DBB5D0B-DD4B-43DA-81B3-A13087E16E8F.jpg" alt></p><hr><h1 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h1><ul><li>独显免驱</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li></ul><hr><h1 id="未驱动"><a href="#未驱动" class="headerlink" title="未驱动"></a>未驱动</h1><hr><h1 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h1><ol><li>更新至最新版本</li><li>关闭Secure Boot</li><li>SATA改为AHCI</li></ol><hr><h1 id="实例安装环境"><a href="#实例安装环境" class="headerlink" title="实例安装环境"></a>实例安装环境</h1><p>macOS Mojave 10.14.5 恢复版 （<a href="#">镜像下载</a>，<a href="#">安教教程</a>）</p><hr><h1 id="可能出现的错误"><a href="#可能出现的错误" class="headerlink" title="可能出现的错误"></a>可能出现的错误</h1><h1 id="EFI下载"><a href="#EFI下载" class="headerlink" title="EFI下载"></a>EFI下载</h1><p><a href="http://pay.k61.org/share_1018.html" target="_blank" rel="noopener">i5-4570 华硕Z87-K 16GB GTX760.zip</a></p><hr>]]></content>
@@ -821,18 +863,6 @@
         <tag>i5-4570</tag>
         <tag>Z87</tag>
         <tag>GTX 760</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>黑苹果系统如何禁用触控板？</title>
-    <url>/disable-touchpad-howto-hackintosh.html</url>
-    <content><![CDATA[<p>黑苹果安装的笔记本触控板驱动往往非常辣鸡，体验上无法跟mbp的比。<br>在打字的时候还会不小心碰过，的确很烦，我们多数时间都有插着USB鼠标在用，触控板确实是鸡肋的存在。<br>下面教大家如何禁用掉触控板，非常简单，首先打开系统偏好设置。</p><a id="more"></a><p><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/C639A17D-E78C-4C8D-A124-DC46511B94BD.jpg" alt><br>找到<strong>辅助功能</strong><br><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8730232D-8139-4019-BC4B-363EBDBE05EA.jpg" alt><br>点击左侧的<strong>鼠标与触控板</strong><br><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8%E8%A7%A6%E6%8E%A7%E6%9D%BF%EF%BC%9F/8A38DBCB-AA67-4132-8795-CBEF4A4A95BE.jpg" alt><br>勾上『有鼠标或者无线触控板时忽略内建触控板』<br>完成，这下再怎么打字都不会碰到触控板指针飞来飞去了。</p>]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Vulcan_火影</category>
-      </categories>
-      <tags>
-        <tag>VULCAN</tag>
       </tags>
   </entry>
   <entry>
