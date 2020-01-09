@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果怎么屏蔽三星PM981</title>
+    <url>/diable-pm981-on-hackintosh.html</url>
+    <content><![CDATA[<p>首先，进系统后，第一时间，去启动台——其它<br><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%80%8E%E4%B9%88%E5%B1%8F%E8%94%BD%E4%B8%89%E6%98%9FPM981/C63885B3-417D-468A-81EF-C00CBC6A0E89.jpg" alt><br>打开磁盘工具，把三星PM981的所有分区都卸载掉先，否则可能会卡死或者自动重启，无法进行后续的屏蔽工作。</p><p>1，打开终端，输入<code>diskutil list</code><br>2，找到PM981的硬盘信息：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">/dev/disk1 (internal):</span><br><span class="line">   #:                       TYPE NAME                    SIZE       IDENTIFIER</span><br><span class="line">   0:      GUID_partition_scheme                         512.1 GB   disk1</span><br><span class="line">   1:       Microsoft Basic Data SYS                     512.1 GB   disk1s1</span><br></pre></td></tr></table></figure><p>每个人的分区信息，都不一样，我们只需要找到可见的分区，如C盘D盘这些，在INDENTIFIER参数中，如C盘的分区是disk1s1，记下来。<br>3，<code>diskutil info disk1s1</code>，然后找到Volume UUID值，复制出来<br>4，再打开终端，输入<code>sudo vifs</code><br>5，在vim编辑器中按i，然后在最后一行输入<code>UUID=Volume UUID none ntfs noauto</code>，有几个分区，就有几行。<br>6，保存vim退出，重启之后，开机自动卸载PM981所有磁盘分区，屏蔽成功。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>pm981</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【台式机】i3-7100 微星 B250M PRO-V GTX 660 10.13.6黑苹果引导_Hackintosh_Clover</title>
     <url>/i3-7100-MSI-B250M-PRO-V-GTX-660.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i3-7100 处理器+微星 B250M PRO-V主板安装黑苹果系统，首先，GTX 660的独显决定了，只能安装10.13.6系统。</p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号 微星 MS-7A74 Modified by dsanke 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i3-7100 @ 3.90GHz 双核<br>主板 微星 B250M PRO-V (MS-7A74) ( B250 芯片组 )<br>内存 16 GB ( 威刚 DDR4 2400MHz )<br>主硬盘 XPG GAMMIX S11 Pro ( 256 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 660 ( 2 GB / Nvidia )<br>显示器 LG GSM5A31 22M35 ( 21.7 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p><a id="more"></a><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A2430D56-B6C3-478D-BD74-396295B5F6E3.jpg" alt></p><h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p><p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a></p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/180A15F2DBC84D4CD97ACA14CFC55A47.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E359B21D78D5181024C9FCE8F37A1EB3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/EB258D5241BCC77743AD542F8D9CD10B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0E050A4CD948AEDB0CE50F74D5E07682.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E2B91B3BEC7076A08A5E9796D6AF2AD7.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C3A660763A16E60B64B181F207D53ACC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CD767301-5176-49AB-86EA-7B0134756270.jpg" alt></p><h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li><li>HIDPI</li><li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1196.html" target="_blank" rel="noopener">i3-7100 微星 B250M PRO-V GTX 660 10.13.6.zip - 老吴黑苹果工作室</a></li></ul>]]></content>
@@ -1025,8 +1036,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>i7-8700</tag>
         <tag>Catalina</tag>
+        <tag>i7-8700</tag>
         <tag>RX 570</tag>
       </tags>
   </entry>
@@ -1136,8 +1147,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B360M</tag>
         <tag>Catalina</tag>
+        <tag>B360M</tag>
         <tag>i5-9400F</tag>
         <tag>RX 570</tag>
       </tags>
@@ -1152,8 +1163,8 @@
       </categories>
       <tags>
         <tag>B360</tag>
-        <tag>i7-8700</tag>
         <tag>Catalina</tag>
+        <tag>i7-8700</tag>
         <tag>UHD 630</tag>
       </tags>
   </entry>
