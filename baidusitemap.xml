@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://k61.org/AMD-Build-on-hackintosh.html</loc>
+    <lastmod>2020-01-10</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/macOS-Catalina-is-on-AMD.html</loc>
+    <lastmod>2020-01-10</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/amd-Supported-CPU-list.html</loc>
+    <lastmod>2020-01-10</lastmod>
+  </url>  <url>
     <loc>http://k61.org/how-to-unintsall-delete-hackintosh.html</loc>
     <lastmod>2020-01-09</lastmod>
   </url>  <url>
