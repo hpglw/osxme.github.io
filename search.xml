@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>对黑苹果的一些误解，安装黑苹果系统会烧毁芯片吗？</title>
+    <url>/hackintosh-hardware-1.html</url>
+    <content><![CDATA[<p>经常会有人问老吴，如果安装黑苹果系统之后，会不会烧芯片，CPU，主板什么的，对硬件有什么损害？<br>我只想说，无稽之谈！<br>就算是再厉害的计算机病毒，也只是损坏系统软件或者操作系统。系统坏了，重装一下就好，硬件是不会损坏，只有老化和本身的元器件故障才会损坏硬件，但这些都是外力不可抗因素造成的，与软件并没有关系。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>黑苹果</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>N卡有哪些可以安装黑苹果的？gtx1660黑苹果驱动有吗？</title>
+    <url>/nvidia-gtx1660-Supported-GPU-1.html</url>
+    <content><![CDATA[<h2 id="首先，可以明确地说，GTX-1660不支持黑苹果，无论哪个系统版本，都没有驱动支持！"><a href="#首先，可以明确地说，GTX-1660不支持黑苹果，无论哪个系统版本，都没有驱动支持！" class="headerlink" title="首先，可以明确地说，GTX 1660不支持黑苹果，无论哪个系统版本，都没有驱动支持！"></a>首先，可以明确地说，GTX 1660不支持黑苹果，无论哪个系统版本，都没有驱动支持！</h2><p>虽然，使用GTX 1660可以引导进入系统，但因为显卡没有驱动，往往显存只有7M，加速也没有，只能当个文本处理电脑使用，但xcode这些敲代码软件是没有问题的。视频处理，设计这些就不要想了。</p><p>N卡目前己明确表示不再与苹果公司合作，也不会再发布基于macos系统的驱动程序，所以以后都不要指望有驱动更新了。</p><p>可以驱动的最高的N卡是1080 TI，也就是1000系的GTX系列显卡，如1050 1060 1070 1030这些，而且只有MACOS 10.13.6最高这些版本有驱动，要安装10.14.6 MOjave版本也是驱动不了的。</p><p>所以RTX，16XX 2XXX的N卡用户，黑苹果基本是无望的了，除非你只是使用苹果系统做代码开发的，那是可以正常进系统的，只是显卡没有驱动，分辨率也是一个问题。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>nvidia</tag>
+        <tag>gtx1660</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>AMD黑苹果台式机配置推荐</title>
     <url>/AMD-Build-on-hackintosh.html</url>
     <content><![CDATA[<ul><li>AMD Ryzen 5 3600 @ 3.6GHz</li><li>技嘉 AB350-Gaming 3</li><li>16GB Corsair Venegance LED @ 3200MHz</li><li>ASUS Strix ROG RX 560 OC</li><li>Samsung 960 EVO</li></ul><hr>]]></content>
@@ -2582,8 +2605,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>黑屏</tag>
         <tag>nvidia</tag>
+        <tag>黑屏</tag>
         <tag>blackscreen</tag>
       </tags>
   </entry>
