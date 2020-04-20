@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果安装为什么不能用VGA和DVI接口</title>
+    <url>/3395a366.html</url>
+    <content><![CDATA[<p>关于黑苹果安装时，显卡接口的问题。老吴安装过很多台式机，有独显的，也有单核显的。这里整理一下，哪些接口比较容易安装。<br>首先，推荐DP！！如果你的显示器和显卡都有DP，那么，无论独显还是核显，都无需过多的配置，一般直接就能显示和驱动。<br>然后HDMI，这个在某些主板和独显上，极少数需要定制输出端口，但一般的都能正确显示和驱动。<br>不推荐的有DVI和VGA，虽然DVI的成功率也是有的，但操作起来非常麻烦，现在不建议黑苹果用DVI，尤其是一些比较低端的独显。然后核显方面DVI往往都会黑屏没显示。VGA是绝对不推荐的，苹果系统早就不支持VGA了，如果你的主板只有VGA口，建议上个独显，虽然仍有补丁可以调出VGA显示，但过程将非常痛苦和耗时间，不建议折腾。</p>]]></content>
+  </entry>
+  <entry>
+    <title>i5-8500+微星 B360M PRO-VD+GTX 960配置安装黑苹果</title>
+    <url>/2799fa72.html</url>
+    <content><![CDATA[<p>电脑型号 微星 MS-7B53 台式电脑</p><p>操作系统 Windows 10 专业版 64位 ( DirectX 12 )</p><p>处理器 英特尔 Core i5-8500 @ 3.00GHz 六核</p><p>主板 微星 B360M PRO-VD (MS-7B53) ( B360 芯片组 )</p><p>内存 16 GB ( 威刚 DDR4 2400MHz )</p><p>主硬盘 金士顿 SA400M8240G ( 240 GB / 固态硬盘 )</p><p>显卡 Nvidia GeForce GTX 960 ( 4 GB / 微星 )</p><p>显示器 冠捷 AOC2281 2281W ( 21.7 英寸 )</p><p>声卡 英特尔 High Definition Audio 控制器</p><p>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p><p>这是一台N卡GTX 960配置的台式机，i5-8500处理器，配微星 B360M PRO-VD主板，安装macos 10.13.6系统，最高也只能安装这个版本。</p><p><img src="/images/pasted-0.png" alt="upload successful"></p><p><img src="/images/pasted-1.png" alt="upload successful"></p><p><img src="/images/pasted-2.png" alt="upload successful"></p><p><img src="/images/pasted-3.png" alt="upload successful"></p><p>黑苹果引导配置思路：<br>1，i5-8500处理器应选用imac 19.1 19.2的SMBIOS<br>2,微星 B360M PRO-VD是300系芯片组，在USB方面需要重命名XHC，需要USBInjectAll.kext即可。<br>3，GTX 960需要N卡WEB DRIVER驱动，并在config.plist勾选</p><p><img src="/images/pasted-4.png" alt="upload successful"></p><p>4，ALC887的声卡采用APPLEALC驱动<br>5，RTL8168/8111/8112网卡直接用RealtekRTL8111.kext</p>]]></content>
+  </entry>
+  <entry>
+    <title>关于黑苹果AppleALC声卡驱动扬声器无声耳机有声音的解决思路</title>
+    <url>/a17cdf90.html</url>
+    <content><![CDATA[<p>多数发生在比较新的笔记本上面，安装了applealc声卡驱动了，ID是正常的，也能识别到内置扬声器，音量调节正常，就是扬声器不出声，但插耳机听是有声的。<br>如果出现这种情况，不必先去打DSDT补丁，CodecCommander.kext和修补APPLEHDA.KEXT之类的，因为这样可能越弄越坏，我们首先应知道这是APPLEALC驱动本身的问题。首先，尝试不同的声卡ID，可以到<a href="https://github.com/acidanthera/AppleALC/wiki/Supported-codecs" target="_blank" rel="noopener">https://github.com/acidanthera/AppleALC/wiki/Supported-codecs</a><br>查看自己声卡的ID，然后注入。如果都不行，仍然扬声器不出声，可以直接关机，然后开机直接进黑苹果，一般就会有声音了。<br>有时从windows重启后进macos就会没声音，这时也可以关机后再进黑苹果。<br>目前这个问题仍是APPLEALC的驱动问题，在新版驱动发布之前，仍可按照这种方法尝试。</p>]]></content>
+  </entry>
+  <entry>
     <title>老吴黑苹果安装成功实例EFI打包合集下载2020-3-17</title>
     <url>/efi-2020-3-17.html</url>
     <content><![CDATA[<ul><li><a href="http://pay.k61.org/share_1291.html" target="_blank" rel="noopener">联想 ThinkPad X240s和X240 i5-4200U HD4400 电池触控OK 10.14.6</a></li><li><a href="http://pay.k61.org/share_1292.html" target="_blank" rel="noopener">i7-5820K 华硕 X99-DELUXE GTX 1070 10.13.6 线路2黑色口</a></li><li><a href="http://pay.k61.org/share_1293.html" target="_blank" rel="noopener">联想 80S1 联想天逸100-15ibd i5-5200U HD5500 10.14.6</a></li><li><a href="http://pay.k61.org/share_1294.html" target="_blank" rel="noopener">G4560，昂达 H110C+，GTX 750，10.13.6 842813388</a></li><li><a href="http://pay.k61.org/share_1295.html" target="_blank" rel="noopener">E5-2630 v2 超微 X9DAi RX 480讯景 10.14.6 micaipai</a></li><li><a href="http://pay.k61.org/share_1296.html" target="_blank" rel="noopener">戴尔G3 3579 I5-8300H UHD630 10.14.6 tb552218843</a></li><li><a href="http://pay.k61.org/share_1297.html" target="_blank" rel="noopener">联想80VQ_ideapad 710S-13IKB_HD 620_10.15.2 注入内存信息</a></li><li><a href="http://pay.k61.org/share_1298.html" target="_blank" rel="noopener">联想 90GKCTO1WW i5-7400 联想 3102 GT 730 双内存注入 10.13.6</a></li><li><a href="http://pay.k61.org/share_1299.html" target="_blank" rel="noopener">联想 ThinkPad T460p i5-6300HQ HD530 10.14.6</a></li><li><a href="http://pay.k61.org/share_1300.html" target="_blank" rel="noopener">i7-3770 英特尔 B75 GTX 1060 3GB 10.13.6</a></li><li><a href="http://pay.k61.org/share_1301.html" target="_blank" rel="noopener">i5-9600K 微星 Z370 TOMAHAWK GTX 1060 6GB PX-1TM9PeGN无法安装10.13.6更换PM961 10.13.6</a></li><li><a href="http://pay.k61.org/share_1302.html" target="_blank" rel="noopener">idaelpad 340C 联想 81R2 i3-8145U UHD Graphics 620 1080p 10.14.6</a></li><li><a href="http://pay.k61.org/share_1303.html" target="_blank" rel="noopener">MECHREVO Z2 Air Series GK5CP5X i7-9750H UHD630 GTX 1650 10.14.6.zip</a></li><li><a href="http://pay.k61.org/share_1304.html" target="_blank" rel="noopener">红米TIMI RedmiBook 14 TM1814 i3-8145U UHD 620 1080P 10.14.6</a></li><li><a href="http://pay.k61.org/share_1305.html" target="_blank" rel="noopener">华硕u4000uq 华硕 UX410UQK i7-7500U HD620 ALC ID13 10.15.2</a></li></ul>]]></content>
@@ -437,8 +452,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -668,8 +683,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2321,8 +2336,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -2514,9 +2529,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -2826,8 +2841,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
