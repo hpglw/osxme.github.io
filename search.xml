@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Surface book 2黑苹果CPU自动降频问题解决</title>
+    <url>/c8a35c82.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-0.png" alt="upload successful"></p><p>Surface book系列笔记本安装黑苹果遭遇高频率后自动降频的问题，导致系统卡顿，不流畅。主要是这个本本的BIOS保存机制，当CPU持续运行在最高睿频时，会自动降频以保护CPU和其它元件。<br>除了要做好CPU的变频之外，有必要在CLOVER先禁用掉睿频，然后将CPU的频率限制在2800Mhz。主要是因为在黑苹果下，我们必须有取舍，并且在不睿频的情况下，其实2.8Ghz也足够应付日常使用。反而降频后会影响使用，必须重启后才能正常。<br>具体操作是打开config.plist,在cpu项目里</p><p><img src="/images/pasted-1.png" alt="upload successful"><br>勾选禁用睿频，在频率里写2800即可。</p>]]></content>
+  </entry>
+  <entry>
     <title>黑苹果安装为什么不能用VGA和DVI接口</title>
     <url>/3395a366.html</url>
     <content><![CDATA[<p>关于黑苹果安装时，显卡接口的问题。老吴安装过很多台式机，有独显的，也有单核显的。这里整理一下，哪些接口比较容易安装。<br>首先，推荐DP！！如果你的显示器和显卡都有DP，那么，无论独显还是核显，都无需过多的配置，一般直接就能显示和驱动。<br>然后HDMI，这个在某些主板和独显上，极少数需要定制输出端口，但一般的都能正确显示和驱动。<br>不推荐的有DVI和VGA，虽然DVI的成功率也是有的，但操作起来非常麻烦，现在不建议黑苹果用DVI，尤其是一些比较低端的独显。然后核显方面DVI往往都会黑屏没显示。VGA是绝对不推荐的，苹果系统早就不支持VGA了，如果你的主板只有VGA口，建议上个独显，虽然仍有补丁可以调出VGA显示，但过程将非常痛苦和耗时间，不建议折腾。</p>]]></content>
