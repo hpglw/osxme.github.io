@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>未来人类Terrans Force X799黑苹果EFI下载</title>
+    <url>/881e29f2.html</url>
+    <content><![CDATA[<p>电脑型号 Terrans Force X799 笔记本电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )</p><p>处理器 英特尔 第四代酷睿 i7-4790K @ 4.00GHz 四核<br>主板 Terrans Force X799 ( Z97 芯片组 )<br>显卡 Nvidia GeForce GTX 980M ( 蓝天(CLEVO) )<br>内存 16 GB ( 三星 DDR3L 1600MHz / 金士顿 DDR3L 1600MHz )<br>主硬盘 东芝 MQ01ABD075 ( 750 GB / 5400 转/分 )<br>显示器 友达 AUO219D ( 17.2 英寸 )<br>声卡 英特尔 High Definition Audio Controller<br>网卡 英特尔 Dual Band Wireless-AC 7265</p><p>安装macos 10.13.6独显驱动</p><p>除WIFI外，其它基本上全驱动</p><p>下载：<a href="http://pay.k61.org/share_1306.html" target="_blank" rel="noopener">http://pay.k61.org/share_1306.html</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Surface book 2黑苹果CPU自动降频问题解决</title>
     <url>/c8a35c82.html</url>
     <content><![CDATA[<p><img src="/images/pasted-0.png" alt="upload successful"></p><p>Surface book系列笔记本安装黑苹果遭遇高频率后自动降频的问题，导致系统卡顿，不流畅。主要是这个本本的BIOS保存机制，当CPU持续运行在最高睿频时，会自动降频以保护CPU和其它元件。<br>除了要做好CPU的变频之外，有必要在CLOVER先禁用掉睿频，然后将CPU的频率限制在2800Mhz。主要是因为在黑苹果下，我们必须有取舍，并且在不睿频的情况下，其实2.8Ghz也足够应付日常使用。反而降频后会影响使用，必须重启后才能正常。<br>具体操作是打开config.plist,在cpu项目里</p><p><img src="/images/pasted-1.png" alt="upload successful"><br>勾选禁用睿频，在频率里写2800即可。</p>]]></content>
