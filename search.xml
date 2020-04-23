@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果开启5K显示器的方法</title>
+    <url>/276cb852.html</url>
+    <content><![CDATA[<p>黑苹果系统开启5K显示器全分辨率的方法<br>1，尽量升级到10.14.6或者10.15以上系统<br>2，尽量使用免驱的AMD显卡<br>3，有两个DP接口<br>4，连两条DP线到显示器<br>5，选择机型为IMACPRO1,1,或者其它标注有5K的苹果机型<br>6，必须完全驱动独显<br>7，Lilu.kext和WhateverGreen.kext必备，最好升级到最新的版本<br>8，在引导参数中加入agdpmod=pikera</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>i5-9400 华硕 B360M-DRAGON UHD Graphics 630 安装黑苹果系统10.14.6	</title>
     <url>/854f7aec.html</url>
     <content><![CDATA[<p>i5-9400 华硕 B360M-DRAGON UHD Graphics 630 10.14.6</p><p>EFI:<a href="http://pay.k61.org/share_1349.html" target="_blank" rel="noopener">http://pay.k61.org/share_1349.html</a></p>]]></content>
