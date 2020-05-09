@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果双系统中禁止挂载Windows NTFS分区</title>
+    <url>/edec8dfb.html</url>
+    <content><![CDATA[<p>目前安装黑苹果大多数是双系统模式，windows和macos。CLOVER开机选择进哪个系统。</p><p>在macos中，可以查看windows所在ntfs分区，但只能读，不能写，写入操作需要安装插件或者使用软件，而windows不能看到macos的hfs或apfs分区，如需查看也要安装相应的软件。</p><p>但在这里，老吴强烈不推荐在macos强行读写NTFS分区，本身macos并不支持ntfs，ntfs是微软有版权的文件系统。如果强行挂载读写，稳定性和安全性无法保证的。这就有可能会导致windows系统变慢，文件出错，系统出错等一系列奇怪的问题，这在黑苹果双系统中不时有发生。在黑苹果双系统中，如需存储分区，强烈建议使用EXFAT格式，这个格式两个系统都可以读写，几乎全平台通吃，速度性能没有任何影响。</p><p>如果需要黑苹果双系统都稳定独立不受干扰运行，需要在macos开机就禁止挂载windows所在的ntfs分区，也就是C盘，具体操作也很简单。</p><p>1，打开终端，输入diskutil list</p><p><img src="/images/pasted-2.png" alt="upload successful"><br>可以看到，windows所在磁盘为disk0,而C盘所在inedtifier为disk0s1，每个人的inedtifier都不一样，根据实际选择</p><p>2，再输入diskutil info disk0s1</p><p><img src="/images/pasted-3.png" alt="upload successful"><br>找到Volume UUID值，把值复制下来，像ED01C348-3C95-35C6-B381-8CE23587EA28</p><p>3，输入sudo vifs回车，输入密码，插入一行<br>UUID=VOUNLOUM ID none ntfs noauto<br>如下图所示，vi的使用方法请百度，然后保存退出就可以了。<br><img src="/images/pasted-4.png" alt="upload successful"></p><p>这样每次开机就不会去挂载C盘这个分区。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>黑苹果开启5K显示器的方法</title>
     <url>/276cb852.html</url>
     <content><![CDATA[<p>黑苹果系统开启5K显示器全分辨率的方法<br>1，尽量升级到10.14.6或者10.15以上系统<br>2，尽量使用免驱的AMD显卡<br>3，有两个DP接口<br>4，连两条DP线到显示器<br>5，选择机型为IMACPRO1,1,或者其它标注有5K的苹果机型<br>6，必须完全驱动独显<br>7，Lilu.kext和WhateverGreen.kext必备，最好升级到最新的版本<br>8，在引导参数中加入agdpmod=pikera</p>]]></content>
