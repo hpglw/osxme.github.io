@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【老吴黑苹果】macOS Catalina 10.15.5（19F96）纯净恢复版下载</title>
+    <url>/b836e6cc.html</url>
+    <content><![CDATA[<p>macOS Catalina</p><p><img src="/images/pasted-5.png" alt="upload successful"></p><p>苹果于2020-5-27发布macOS Catalina 10.15.5 19F96，加入了用户期待已久的电池健康度管理功能。</p><p>本恢复镜像由原版系统制作，大小为9.62G，用paragon hard disk manager 16.5进行恢复，下载地址：<a href="http://www.jz5u.com/Soft/system/disk/193835.html" target="_blank" rel="noopener">http://www.jz5u.com/Soft/system/disk/193835.html</a></p><p>进入系统后，请到磁盘工具——分区——未使用空间——点下面的-号——然后应用，即可恢复所有未使用空间。</p><p>系统默认密码为1111</p><p>镜像下载地址：链接:<a href="https://pan.baidu.com/s/1BNtif4FOf5VGSQTcNLLycQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1BNtif4FOf5VGSQTcNLLycQ</a> 密码:vw9g</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Surface Pro6 I5 8350U 8G 256G黑苹果引导下载</title>
+    <url>/135d8677.html</url>
+    <content><![CDATA[<p>型号: Surface Pro6<br>屏幕尺寸: 12.3英寸<br>处理器: i5<br>系统内存: 8G<br>存储容量: 256G<br>后置摄像头: 800万<br>前置摄像头: 500万<br>屏幕分辨率: 2736×1824</p><p>新款surface pro6采用的是i5-8350u的CPU，分辨率为2K，安装macos mojave 10.14.6</p><p>黑苹果引导下载：<a href="http://pay.k61.org/share_1350.html" target="_blank" rel="noopener">http://pay.k61.org/share_1350.html</a></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Surface_微软</category>
+      </categories>
+  </entry>
+  <entry>
     <title>黑苹果双系统中禁止挂载Windows NTFS分区</title>
     <url>/edec8dfb.html</url>
     <content><![CDATA[<p>目前安装黑苹果大多数是双系统模式，windows和macos。CLOVER开机选择进哪个系统。</p><p>在macos中，可以查看windows所在ntfs分区，但只能读，不能写，写入操作需要安装插件或者使用软件，而windows不能看到macos的hfs或apfs分区，如需查看也要安装相应的软件。</p><p>但在这里，老吴强烈不推荐在macos强行读写NTFS分区，本身macos并不支持ntfs，ntfs是微软有版权的文件系统。如果强行挂载读写，稳定性和安全性无法保证的。这就有可能会导致windows系统变慢，文件出错，系统出错等一系列奇怪的问题，这在黑苹果双系统中不时有发生。在黑苹果双系统中，如需存储分区，强烈建议使用EXFAT格式，这个格式两个系统都可以读写，几乎全平台通吃，速度性能没有任何影响。</p><p>如果需要黑苹果双系统都稳定独立不受干扰运行，需要在macos开机就禁止挂载windows所在的ntfs分区，也就是C盘，具体操作也很简单。</p><p>1，打开终端，输入diskutil list</p><p><img src="/images/pasted-2.png" alt="upload successful"><br>可以看到，windows所在磁盘为disk0,而C盘所在inedtifier为disk0s1，每个人的inedtifier都不一样，根据实际选择</p><p>2，再输入diskutil info disk0s1</p><p><img src="/images/pasted-3.png" alt="upload successful"><br>找到Volume UUID值，把值复制下来，像ED01C348-3C95-35C6-B381-8CE23587EA28</p><p>3，输入sudo vifs回车，输入密码，插入一行<br>UUID=VOUNLOUM ID none ntfs noauto<br>如下图所示，vi的使用方法请百度，然后保存退出就可以了。<br><img src="/images/pasted-4.png" alt="upload successful"></p><p>这样每次开机就不会去挂载C盘这个分区。</p>]]></content>
