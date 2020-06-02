@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>macOS 10.15.5更新说明【黑苹果部分】</title>
+    <url>/11619e45.html</url>
+    <content><![CDATA[<p>macOS 10.15.5对于黑苹果用户来说，主要更新的内容有：</p><p>内核支持 Comet Lake S/H 架构处理器<br>兼容 Comet Lake 处理器核显，10代U可以上了<br>电池健康管理（一般只针对白苹果）</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>【老吴黑苹果】macOS Catalina 10.15.5（19F96）纯净恢复版下载</title>
     <url>/b836e6cc.html</url>
     <content><![CDATA[<p>macOS Catalina</p><p><img src="/images/pasted-5.png" alt="upload successful"></p><p>苹果于2020-5-27发布macOS Catalina 10.15.5 19F96，加入了用户期待已久的电池健康度管理功能。</p><p>本恢复镜像由原版系统制作，大小为9.62G，用paragon hard disk manager 16.5进行恢复，下载地址：<a href="http://www.jz5u.com/Soft/system/disk/193835.html" target="_blank" rel="noopener">http://www.jz5u.com/Soft/system/disk/193835.html</a></p><p>进入系统后，请到磁盘工具——分区——未使用空间——点下面的-号——然后应用，即可恢复所有未使用空间。</p><p>系统默认密码为1111</p><p>镜像下载地址：链接:<a href="https://pan.baidu.com/s/1BNtif4FOf5VGSQTcNLLycQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1BNtif4FOf5VGSQTcNLLycQ</a> 密码:vw9g</p>]]></content>
