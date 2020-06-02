@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果开启随航Sidecar的条件与支持</title>
+    <url>/d9a0353b.html</url>
+    <content><![CDATA[<p>从10.15开始，macos加入了随航Sidecar功能，允许把IPAD作为第二屏使用。</p><p>以下是开启随便需要的条件：<br>1，支持H.265 / HEVC编码，Skylake+处理器以上核显或Polaris/Vega dGPU的GPU<br>2，配备A8X CPU的iPad<br>3，一个黑苹果免驱的无线网卡（主要是蓝牙）或Lighting数据线（随航支持有线或者无线）<br>4，支持随航Sidecar的SMBIOS，如imacpro1,1等<br>5，黑苹果主机和ipad都使用相同的Apple ID</p><p>支持随航的机型SMBIOS:</p><p>MacBook：<br>MacBook8,1<br>MacBook9,1<br>MacBook10,1</p><p>MacBook Air：<br>MacBookAir8,1</p><p>MacBook Pro：<br>MacBookPro13,1<br>MacBookPro13,2<br>MacBookPro13,3<br>MacBookPro14,1<br>MacBookPro14,2<br>MacBookPro14,3<br>MacBookPro15,1<br>MacBookPro15,2</p><p>Mac Mini：<br>Mac Mini8,1</p><p>iMac：<br>iMac17,1<br>iMac18,1<br>iMac18,2<br>iMac18,3<br>iMac19,1<br>iMac19,2</p><p>iMac Pro：<br>iMacPro1,1</p><p>Mac Pro：<br>MacPro7,1</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>macOS 10.15.2 Beta 1开始原生支持Radeon RX 5500和5500M</title>
+    <url>/8b9f3fb1.html</url>
+    <content><![CDATA[<p>从macos 10.15.2开始，AMD Radeon RX5500和5500M得到原生驱动支持！<br>需要注意的是，对于Navi GPU，需要至少1.3.4的WEG，并在引导器中加入agdpmod=pikera。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>macOS 10.15.5更新说明【黑苹果部分】</title>
     <url>/11619e45.html</url>
     <content><![CDATA[<p>macOS 10.15.5对于黑苹果用户来说，主要更新的内容有：</p><p>内核支持 Comet Lake S/H 架构处理器<br>兼容 Comet Lake 处理器核显，10代U可以上了<br>电池健康管理（一般只针对白苹果）</p>]]></content>
@@ -2674,9 +2690,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2689,9 +2705,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.14.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.14.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3039,8 +3055,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
