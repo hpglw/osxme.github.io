@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果还能玩多久？</title>
+    <url>/870372a4.html</url>
+    <content><![CDATA[<p>苹果发布了自家的CPU，并宣称两年内完成转换，那黑苹果用户怎么办？要凉了吗？<br>答案是肯定要凉的，但还有好长一年时间呢，估计7-8年吧，可能还更久。要真到那个时候，黑苹果也许己经没有需求了。所以，现在谈黑苹果死不死的问题，没有意义。<br>1，别忘记了最高性能的MACPRO还是至强的，刚发布没多久，2年后如果换成自家CPU，新系统不再兼容INTEL U了，那些出几十万买MACPRO的人估计要拿刀砍人。<br>2，整个软件生态，系统，从INTEL CPU架构转到APPLE U，估计要好长一段时间，包括三方专业软件，苹果要做的，也是兼容着，慢慢转换，这个时间肯定很长。<br>3，苹果自家基于INTEL U的电脑，也要兼顾着，至少保证能顺利更新系统，要知道2013年的MACBOOK AIR仍然能升级到CATALINA，就知道这个过程有多长。<br>4，好了，现在是BIG SUR，就算过了6-7年，更新到了BIG BIG BIG BIG SUR，不再玩INTEL U了，黑苹果仍然可以在BIG BIG BIG SUR上运行得很好，一样玩得不亦乐乎，通常软件生态依旧兼容。<br>5，不要低估黑苹果社区的开发能力，要知道AMD CPU现在也是能装黑苹果的，以后发展怎么样，谁又能知道。<br>所以，黑苹果存在7-8年是肯定可以的，甚至更久，现在谈黑苹果是死了为之过早，更何况，APPLE U是否成功还是未知数呢。淡定，该干嘛的干嘛</p>]]></content>
+  </entry>
+  <entry>
+    <title>老吴黑苹果安装案例：E5-2678 v3 华擎 X99 Extreme3 双GTX 1080 Ti 工作站3D建模渲染</title>
+    <url>/6126e6dc.html</url>
+    <content><![CDATA[<p>电脑型号 X64 兼容 台式电脑 (扫描时间：2020年06月23日)<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )</p><p>处理器 英特尔 Xeon(至强) E5-2678 v3 @ 2.50GHz<br>主板 华擎 X99 Extreme3 ( Wellsburg )<br>内存 64 GB ( 三星 DDR4 2666MHz )<br>主硬盘 三星 SSD 860 PRO 512GB ( 512 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 1080 Ti ( 11 GB / Nvidia )<br>显示器 戴尔 DEL40F4 DELL P2317H ( 23 英寸 )<br>声卡 瑞昱 High Definition audio @ 英特尔 Wellsburg 高保真音频<br>网卡 英特尔 Ethernet Connection I218-V / 华擎</p><p>安装macos 10.13.6</p><p>老吴黑苹果安装 淘宝：<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p>]]></content>
+      <categories>
+        <category>安装案例</category>
+      </categories>
+  </entry>
+  <entry>
     <title>黑苹果开启随航Sidecar的条件与支持</title>
     <url>/d9a0353b.html</url>
     <content><![CDATA[<p>从10.15开始，macos加入了随航Sidecar功能，允许把IPAD作为第二屏使用。</p><p>以下是开启随便需要的条件：<br>1，支持H.265 / HEVC编码，Skylake+处理器以上核显或Polaris/Vega dGPU的GPU<br>2，配备A8X CPU的iPad<br>3，一个黑苹果免驱的无线网卡（主要是蓝牙）或Lighting数据线（随航支持有线或者无线）<br>4，支持随航Sidecar的SMBIOS，如imacpro1,1等<br>5，黑苹果主机和ipad都使用相同的Apple ID</p><p>支持随航的机型SMBIOS:</p><p>MacBook：<br>MacBook8,1<br>MacBook9,1<br>MacBook10,1</p><p>MacBook Air：<br>MacBookAir8,1</p><p>MacBook Pro：<br>MacBookPro13,1<br>MacBookPro13,2<br>MacBookPro13,3<br>MacBookPro14,1<br>MacBookPro14,2<br>MacBookPro14,3<br>MacBookPro15,1<br>MacBookPro15,2</p><p>Mac Mini：<br>Mac Mini8,1</p><p>iMac：<br>iMac17,1<br>iMac18,1<br>iMac18,2<br>iMac18,3<br>iMac19,1<br>iMac19,2</p><p>iMac Pro：<br>iMacPro1,1</p><p>Mac Pro：<br>MacPro7,1</p>]]></content>
@@ -879,8 +892,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1110,8 +1123,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2690,9 +2703,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2705,9 +2718,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.14.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.14.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2763,8 +2776,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -2956,9 +2969,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3055,8 +3068,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GIGABYTE</tag>
         <tag>i5-4570</tag>
+        <tag>GIGABYTE</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -3268,8 +3281,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
