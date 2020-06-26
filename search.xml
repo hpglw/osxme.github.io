@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>记一台10代CPU黑苹果Catalina 10.15.5安装，单核显</title>
+    <url>/d8eb8119.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-6.png" alt="upload successful"><br>本文写于2020-6月份，目前苹果还没有10代CPU的机型。</p><p>我是老吴，专业做黑苹果系统远程安装，有需要的可以到我的淘宝小店，安装价格优惠，技术服务跟得上，淘宝搜店铺，老吴黑苹果工作室 网址：<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p><p>如上图所示，配置为酷睿I5 10代I5-10500,Comet Lake架构（最新发布的Catalina 10.15.5己经提供了技术），华擎Z490M-ITX/AC，Z490芯片组，16G内存为3600Mhz，1T lexar固态，RX 5600 XT蓝宝石独显（免驱！）双网卡，INTEL I219-V和RTL8125,客服加装了黑苹果免驱网卡，支持隔空投送等。</p><p>系统肯定选用Catalina 10.15.5正式版，老吴的是恢复镜像，可以在这里下载到：<a href="http://k61.org/b836e6cc.html">http://k61.org/b836e6cc.html</a></p><p>引导采用OpenCore 0.5.9，双系统引导，单硬盘安装WINDOWS 10和MACOS。</p><p>BIOS设置：<br>Fast Boot：关闭<br>Secure Boot：关闭（重要）<br>VT-d 可以关，也可以不关<br>CSM 关闭（重要）<br>Intel SGX 如果有，关闭<br>VT-x 开启<br>Above 4G decoding 开启（重要）<br>Hyper-Threading 开启（默认都开的）<br>EHCI/XHCI Hand-off 开启<br>DVMT Pre-Allocated(iGPU Memory): 64MB（重要，最好设置128MB）</p><p>OpenCore引导制作思路，我用的是OpenCore Configurator编辑器，主要是为了方便，官方推荐ProperTree，但用起来真的不方便，繁琐。有几点需要注意的：</p><p>1，BOOTER</p><p><img src="/images/pasted-7.png" alt="upload successful"></p><p>2，DeviceProperties</p><p><img src="/images/pasted-8.png" alt="upload successful"></p><p>3，PlatformInfo<br>选择imac 19.1机型</p><p>以上就是OpenCore 10代CPU 引导制作的几个点，其它的并不需要太多注意，有些按默认就好，并不需要打什么补丁，关于OpenCore的引导制作可以去GITHUB官网。</p><p>目前来说，10代CPU，也是推荐用独显，而核显可以作为辅助运算，因为可能存在一些问题，如某些APP可能打不开，这些都有待OpenCore更新解决。</p>]]></content>
+      <categories>
+        <category>台式机</category>
+      </categories>
+  </entry>
+  <entry>
     <title> 做这个BIOS的人就应该拉去做肥料，记一台奇葩的宏基Aspire V3-371笔记本安装黑苹果引导灾难</title>
     <url>/7f226f12.html</url>
     <content><![CDATA[<p>这是一台台湾网友的笔记本，远程安装macos mojave 10.14.6，国外连台湾用TEAMVIEWER不是一般的慢。<br>配置为i5-5200U,单核显HD5500，主板是acer aspire v3-371,8g内存，原来是4G的，后来加了一根不知道什么品牌的内存，硬盘是265G固态，这个还算可以，13.3寸 1366屏，中规中矩，ALC 283的声卡，笔记本来说，也不太常见，仿冒ID是11就行，千万不要是1和3，一个不驱动，一个不出声。无线网卡就不说了，反正也用不上，有线网卡是你们都知道的螃蟹，不多说。<br>本来这是一台非常简单的本本，基本上不出意外，半小时就能安装好，HD 5500上MOJAVE也绰绰有余，如果不是内存太小，我还想装catalina的，但基于整体配置MOJAVE还是非常合适，想不到的是折腾了一天。<br>主要有两点：<br>1，安全引导问题，这是一个奇葩的BIOS，奇葩到什么程度呢，首先，默认的BOOT MODE为Legacy，这个可以原凉，毕竟也是多年前的笔记本，改为UEFI之后，Secure boot出来了，这个要关闭，果然Disabled，然后以为万事大吉，开机直接了WINDOWS，查看引导项，CLOVER的引导被无情删除！！再次建立CLOVER引导，重启开机，直接进WINDOWS，又被无情删除，而Secure boot一直为Disabled!!!好，转到Security，有个Secure boot mode为Stanced标准，但不能改，尝试加密码，还是不行，后来把BOOT里的Secure boot改Enabled后，竟然可以改了！！无情，这样有个毛意义，安全引导都开了，改不改不都一样吗，这种BIOS到底是哪路神仙做的！折腾了半天，一直就只认WINDOWS，并且主动删CLOVER引导，中间尝试用U盘引导，连U盘的引导也删，看来不是一般顽固。后来想了一下，既然它只认Windows boot manager，我他妈的把CLOVER引导的名字改为Windows boot manager试一下，反正就这样了，结果猜到了吗，竟然进了CLOVER引导页，我操！<br>2，是内存错误卡Couldn’t allocate runtime area，老问题了，但在这个本本上尤其严重，试过几个内存补丁都不行，最后计算slide值，尝试0，1，2，3直到11都试过，都不行，可能问题出在那根没有品牌的内存条上，果断拆掉！真的，就不再卡了，看来换内存还是有品牌的比较好。<br>最后，安装好mojave 10.14.6，完善程度还算不错，触控板多指，电池电量，声卡麦克风，核显，有线网卡这三卡，都正常，整体运行速度还行。<br>我是老吴，淘宝远程安装黑苹果可以找我：老吴黑苹果工作室<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p>]]></content>
@@ -901,8 +909,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1132,8 +1140,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2785,8 +2793,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -2978,9 +2986,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3290,8 +3298,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
