@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title> 做这个BIOS的人就应该拉去做肥料，记一台奇葩的宏基Aspire V3-371笔记本安装黑苹果引导灾难</title>
+    <url>/7f226f12.html</url>
+    <content><![CDATA[<p>这是一台台湾网友的笔记本，远程安装macos mojave 10.14.6，国外连台湾用TEAMVIEWER不是一般的慢。<br>配置为i5-5200U,单核显HD5500，主板是acer aspire v3-371,8g内存，原来是4G的，后来加了一根不知道什么品牌的内存，硬盘是265G固态，这个还算可以，13.3寸 1366屏，中规中矩，ALC 283的声卡，笔记本来说，也不太常见，仿冒ID是11就行，千万不要是1和3，一个不驱动，一个不出声。无线网卡就不说了，反正也用不上，有线网卡是你们都知道的螃蟹，不多说。<br>本来这是一台非常简单的本本，基本上不出意外，半小时就能安装好，HD 5500上MOJAVE也绰绰有余，如果不是内存太小，我还想装catalina的，但基于整体配置MOJAVE还是非常合适，想不到的是折腾了一天。<br>主要有两点：<br>1，安全引导问题，这是一个奇葩的BIOS，奇葩到什么程度呢，首先，默认的BOOT MODE为Legacy，这个可以原凉，毕竟也是多年前的笔记本，改为UEFI之后，Secure boot出来了，这个要关闭，果然Disabled，然后以为万事大吉，开机直接了WINDOWS，查看引导项，CLOVER的引导被无情删除！！再次建立CLOVER引导，重启开机，直接进WINDOWS，又被无情删除，而Secure boot一直为Disabled!!!好，转到Security，有个Secure boot mode为Stanced标准，但不能改，尝试加密码，还是不行，后来把BOOT里的Secure boot改Enabled后，竟然可以改了！！无情，这样有个毛意义，安全引导都开了，改不改不都一样吗，这种BIOS到底是哪路神仙做的！折腾了半天，一直就只认WINDOWS，并且主动删CLOVER引导，中间尝试用U盘引导，连U盘的引导也删，看来不是一般顽固。后来想了一下，既然它只认Windows boot manager，我他妈的把CLOVER引导的名字改为Windows boot manager试一下，反正就这样了，结果猜到了吗，竟然进了CLOVER引导页，我操！<br>2，是内存错误卡Couldn’t allocate runtime area，老问题了，但在这个本本上尤其严重，试过几个内存补丁都不行，最后计算slide值，尝试0，1，2，3直到11都试过，都不行，可能问题出在那根没有品牌的内存条上，果断拆掉！真的，就不再卡了，看来换内存还是有品牌的比较好。<br>最后，安装好mojave 10.14.6，完善程度还算不错，触控板多指，电池电量，声卡麦克风，核显，有线网卡这三卡，都正常，整体运行速度还行。<br>我是老吴，淘宝远程安装黑苹果可以找我：老吴黑苹果工作室<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Acer_宏碁</category>
+      </categories>
+  </entry>
+  <entry>
     <title>黑苹果还能玩多久？</title>
     <url>/870372a4.html</url>
     <content><![CDATA[<p>苹果发布了自家的CPU，并宣称两年内完成转换，那黑苹果用户怎么办？要凉了吗？<br>答案是肯定要凉的，但还有好长一年时间呢，估计7-8年吧，可能还更久。要真到那个时候，黑苹果也许己经没有需求了。所以，现在谈黑苹果死不死的问题，没有意义。<br>1，别忘记了最高性能的MACPRO还是至强的，刚发布没多久，2年后如果换成自家CPU，新系统不再兼容INTEL U了，那些出几十万买MACPRO的人估计要拿刀砍人。<br>2，整个软件生态，系统，从INTEL CPU架构转到APPLE U，估计要好长一段时间，包括三方专业软件，苹果要做的，也是兼容着，慢慢转换，这个时间肯定很长。<br>3，苹果自家基于INTEL U的电脑，也要兼顾着，至少保证能顺利更新系统，要知道2013年的MACBOOK AIR仍然能升级到CATALINA，就知道这个过程有多长。<br>4，好了，现在是BIG SUR，就算过了6-7年，更新到了BIG BIG BIG BIG SUR，不再玩INTEL U了，黑苹果仍然可以在BIG BIG BIG SUR上运行得很好，一样玩得不亦乐乎，通常软件生态依旧兼容。<br>5，不要低估黑苹果社区的开发能力，要知道AMD CPU现在也是能装黑苹果的，以后发展怎么样，谁又能知道。<br>所以，黑苹果存在7-8年是肯定可以的，甚至更久，现在谈黑苹果是死了为之过早，更何况，APPLE U是否成功还是未知数呢。淡定，该干嘛的干嘛</p>]]></content>
