@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果淘宝店</title>
+    <url>/7cb96b67.html</url>
+    <content><![CDATA[<p>老吴黑苹果工作室，只做黑苹果系统安装服务，全职全心全意。</p><p>目前己成功安装超过1500台黑苹果主机，包括笔记本，台式机，工作站等，基本涵括所有笔记本品牌，尤其喜欢钻研各种疑难机型，成功率高。</p><p>老吴用心服务，能包的驱动一定包，不包的也尽力调试，力求完美，不断提升自己。</p><p>己在今日头条，哔哩哔哩，YOUTUBE等网站发布安装视频，实机演示远程安装，技术看得到，成效看得见。</p><p>安装黑苹果价格实在，花多少时间，用多少精力，收多少钱，绝不多收一分，售后咨询跟得上，不会找不到人的情况。</p><p>如果您有安装黑苹果的需求，请联系老吴。与其花时间自己安装，不如找专业的，更省时间和精力。</p><p>淘宝搜老吴黑苹果工作室店铺，或者网址：<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p><p><img src="/images/pasted-9.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>记一台10代CPU黑苹果Catalina 10.15.5安装，单核显</title>
     <url>/d8eb8119.html</url>
     <content><![CDATA[<p><img src="/images/pasted-6.png" alt="upload successful"><br>本文写于2020-6月份，目前苹果还没有10代CPU的机型。</p><p>我是老吴，专业做黑苹果系统远程安装，有需要的可以到我的淘宝小店，安装价格优惠，技术服务跟得上，淘宝搜店铺，老吴黑苹果工作室 网址：<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p><p>如上图所示，配置为酷睿I5 10代I5-10500,Comet Lake架构（最新发布的Catalina 10.15.5己经提供了技术），华擎Z490M-ITX/AC，Z490芯片组，16G内存为3600Mhz，1T lexar固态，RX 5600 XT蓝宝石独显（免驱！）双网卡，INTEL I219-V和RTL8125,客服加装了黑苹果免驱网卡，支持隔空投送等。</p><p>系统肯定选用Catalina 10.15.5正式版，老吴的是恢复镜像，可以在这里下载到：<a href="http://k61.org/b836e6cc.html">http://k61.org/b836e6cc.html</a></p><p>引导采用OpenCore 0.5.9，双系统引导，单硬盘安装WINDOWS 10和MACOS。</p><p>BIOS设置：<br>Fast Boot：关闭<br>Secure Boot：关闭（重要）<br>VT-d 可以关，也可以不关<br>CSM 关闭（重要）<br>Intel SGX 如果有，关闭<br>VT-x 开启<br>Above 4G decoding 开启（重要）<br>Hyper-Threading 开启（默认都开的）<br>EHCI/XHCI Hand-off 开启<br>DVMT Pre-Allocated(iGPU Memory): 64MB（重要，最好设置128MB）</p><p>OpenCore引导制作思路，我用的是OpenCore Configurator编辑器，主要是为了方便，官方推荐ProperTree，但用起来真的不方便，繁琐。有几点需要注意的：</p><p>1，BOOTER</p><p><img src="/images/pasted-7.png" alt="upload successful"></p><p>2，DeviceProperties</p><p><img src="/images/pasted-8.png" alt="upload successful"></p><p>3，PlatformInfo<br>选择imac 19.1机型</p><p>以上就是OpenCore 10代CPU 引导制作的几个点，其它的并不需要太多注意，有些按默认就好，并不需要打什么补丁，关于OpenCore的引导制作可以去GITHUB官网。</p><p>目前来说，10代CPU，也是推荐用独显，而核显可以作为辅助运算，因为可能存在一些问题，如某些APP可能打不开，这些都有待OpenCore更新解决。</p>]]></content>
