@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://k61.org/macOS-Catalina-10.15.2-19C57-hackintosh.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/macOS-Catalina-10.15-19A583-Restore.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/5a16181f.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/2d112889.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>  <url>
+    <loc>http://k61.org/841db700.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>  <url>
     <loc>http://k61.org/ae012fb2.html</loc>
     <lastmod>2020-07-01</lastmod>
   </url>  <url>
@@ -283,10 +301,10 @@
     <loc>http://k61.org/diable-pm981-on-hackintosh.html</loc>
     <lastmod>2020-01-09</lastmod>
   </url>  <url>
-    <loc>http://k61.org/E3-1231-v3-msi-B85-G43-gtx-970.html</loc>
+    <loc>http://k61.org/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</loc>
     <lastmod>2020-01-06</lastmod>
   </url>  <url>
-    <loc>http://k61.org/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</loc>
+    <loc>http://k61.org/E3-1231-v3-msi-B85-G43-gtx-970.html</loc>
     <lastmod>2020-01-06</lastmod>
   </url>  <url>
     <loc>http://k61.org/i3-7100-MSI-B250M-PRO-V-GTX-660.html</loc>
@@ -298,10 +316,10 @@
     <loc>http://k61.org/i5-9400F-asus-TUF-B360M-PLUS-GTX-1060.html</loc>
     <lastmod>2020-01-06</lastmod>
   </url>  <url>
-    <loc>http://k61.org/i5-9400F-TUF-B360M-PLUS-RX-580.html</loc>
+    <loc>http://k61.org/i5-9400f-MSI-B360M-MORTAR-RX-590.html</loc>
     <lastmod>2020-01-06</lastmod>
   </url>  <url>
-    <loc>http://k61.org/i5-9400f-MSI-B360M-MORTAR-RX-590.html</loc>
+    <loc>http://k61.org/i5-9400F-TUF-B360M-PLUS-RX-580.html</loc>
     <lastmod>2020-01-06</lastmod>
   </url>  <url>
     <loc>http://k61.org/i7-4790-asus-Z87-PRO-GTX-750-G43.html</loc>
@@ -408,9 +426,6 @@
   </url>  <url>
     <loc>http://k61.org/why-hackintosh-wifi-cannot-use.html</loc>
     <lastmod>2019-12-18</lastmod>
-  </url>  <url>
-    <loc>http://k61.org/macOS-Catalina-10.15.2-19C57-hackintosh.html</loc>
-    <lastmod>2019-12-17</lastmod>
   </url>  <url>
     <loc>http://k61.org/i7-8700K-MSI-Z370-GAMING-PRO-CARBON-AC.html</loc>
     <lastmod>2019-12-13</lastmod>
@@ -799,13 +814,7 @@
     <loc>http://k61.org/X299-fix-hackintosh.html</loc>
     <lastmod>2019-11-15</lastmod>
   </url>  <url>
-    <loc>http://k61.org/macOS-Catalina-10.15-19A583-Restore.html</loc>
-    <lastmod>2019-11-15</lastmod>
-  </url>  <url>
     <loc>http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html</loc>
-    <lastmod>2019-11-15</lastmod>
-  </url>  <url>
-    <loc>http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html</loc>
     <lastmod>2019-11-15</lastmod>
   </url>  <url>
     <loc>http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html</loc>
