@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黑苹果 Final Cut Pro FCPX意外退出问题解决方法</title>
+    <url>/1f040500.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-14.png" alt="upload successful"></p><p>黑苹果用户经常有遇到这样的问题，Final Cut Pro FCPX打不开的情况。有些是安装完就打不开，有些是前几次能打开，后面就不行了，问题变得很诡异。通常来说，发生在核显加独显的黑苹果配置上比较多，一般来说，单核显或者单独显比较少出现这种问题。</p><p>目前很多黑苹果配置都是AMD免驱卡作为主输出，同时启动核显加速。</p><p>老吴以这一台i7-4790k加RX 580为例，教你如何解决这个问题，i7-4790k的核显是HD Graphics 4600，首先需要在bios里启用IGPU，设置DVMT显存为64MB，或者96MB。因为RX 580是免驱的，我们只要做好核显的缓冲帧补丁即可。我们可以查到HD4600桌面版只有一个ig-platform-id为0x0d220003，另外仿冒IntelGFX为0x04128086，有这两个参数，就能驱动这个核显。但请注意，0x0d220003是带显示的输出的，在有RX 580连接显示器的情况下，HD 4600只能作为加速运算，是不能作为视频输出的，也就是说显示的输出交给RX 580独显，核显嘛，运算加速的时候才用上，也就是辅助，在FCPX中核显尤其重要，错误的ig-platform-id肯定会导致问题的出现的。这时我们就要换ig-platform-id，这里推荐使用0x04120004，这个ID定义了HD 4600只作为运算辅助输出。</p><p>通过更换核显的ig-platform-id即可解决FCPX意外退出的问题，以上是HD 4600的，其它核显，可以参考<a href="https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.cn.md" target="_blank" rel="noopener">https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.cn.md</a><br>寻找合适的ig-platform-id。</p><p>by老吴黑苹果工作室 laowu1688.taobao.com，淘宝黑苹果安装服务</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>三星PM981黑苹果安装方法和问题</title>
+    <url>/e1134a6c.html</url>
+    <content><![CDATA[<p>三星的PM981固态，前缀为MZLVB的，是很多人都在使用的一款便宜又好用的固态硬盘。但无奈这未硬盘对黑苹果非常不友好，国内外都不推荐使用。目前，想在这款硬盘上安装黑苹果的，可以通过恢复版来实现，但老吴仍不推荐使用，因为未知和己知的问题也比较多，系统会变得不稳定。</p><p>首先，这款硬盘如果安装黑苹果，不能通过U盘方式安装，只能通过恢复版安装，网上和本站也有一些恢复版安装的教程和镜像，大家可以参考一下。</p><p>其次最好安装10.14.6以上的版本，另外，最好使用OC引导，更加稳定一些。</p><p>以下附上PM981的补丁包<br>链接:<a href="https://pan.baidu.com/s/1GGchpRawNkDvdNX-29AcNw" target="_blank" rel="noopener">https://pan.baidu.com/s/1GGchpRawNkDvdNX-29AcNw</a> 密码:4m7p</p><p>下载后，把ssdt-nvme.aml放在ACPI文件夹里，把NVMeFix.kext和HackrNVMeFamily.kext放在Kexts文件夹里，OC的引导要加载这几个文件，OC配置具体使用方法请百度一下。CLOVER也差不多，各自放在相应的位置。</p><p>然后用恢复版恢复系统，直接进入系统。</p><p>这里说说己知的一些问题<br>1，磁盘性能比较低下，基本相当于机械硬盘，也许好一些，点一些APP可能会卡死一会。<br>2，尽量不要安装一些会不停读写磁盘的工具，尽量少用搜索<br>3，不能用磁盘工具进行分区和合并操作，会直接自动重启。</p><p>一些未知的问题仍有待发现和解决。</p><p>by老吴黑苹果工作室 安装黑苹果恢复版淘宝：laowu1688.taobao.com</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>HP EliteBook 830 G5  i5-7200U HD 620 1080P 10.15.5 OC 5.9黑苹果安装</title>
     <url>/5fd43424.html</url>
     <content><![CDATA[<p>电脑型号 HP EliteBook 830 G5 笔记本电脑 (扫描时间：2020年07月02日)<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )</p><p>处理器 英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板 惠普 83B3 ( 7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存 8 GB ( 海力士 DDR4 2400MHz )<br>主硬盘 KBG30ZMV256G TOSHIBA ( 256 GB / 固态硬盘 )<br>显卡 英特尔 HD Graphics 620 ( 128 MB / 惠普 )<br>显示器 友达 AUO472D ( 13.3 英寸 )<br>声卡 Conexant ISST Audio @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 惠普</p><p>INTELAUDIO\FUNC_01&amp;VEN_14F1&amp;DEV_2008&amp;SUBSYS_103C83B3&amp;REV_1001</p><p>HP EliteBook 830 G5 i5-7200U HD 620 1080P 10.15.5 OC 5.9.zip<br>EFI下载：<a href="http://pay.k61.org/share_1429.html" target="_blank" rel="noopener">http://pay.k61.org/share_1429.html</a></p>]]></content>
