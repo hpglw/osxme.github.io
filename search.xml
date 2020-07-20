@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Realtek ALCS1200A声卡黑苹果驱动方法 mojave and catalina通用</title>
+    <url>/3cfafea3.html</url>
+    <content><![CDATA[<p>一般在400系芯片组现在大多数是ALCS1200A声卡芯片，APPLEALC支持，ID只有1 2 3，如果不加以配置，那么能识别到声卡，但是无法播放声音，不能打开任何视频和声音文件。</p><p>驱动方法是，以OC为准，目前10代U，还是不要用CLOVER了吧：<br>1，APPLEALC.KEXT 1.5.0版本<br>链接:<a href="https://pan.baidu.com/s/18EyQrlBMHwINN0rkIUuQsw" target="_blank" rel="noopener">https://pan.baidu.com/s/18EyQrlBMHwINN0rkIUuQsw</a> 密码:x4wk</p><p>2，在config.plist中加入设备属性PciRoot(0x0)/Pci(0x1F,0x3)</p><p><img src="/images/pasted-19.png" alt="upload successful"></p><p>3，在kexts中放入两个FakePCIID.kext和FakePCIID_Intel_HDMI_Audio.kext<br>链接:<a href="https://pan.baidu.com/s/1FVhD7ZQCA34WT1VHaTMBpQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1FVhD7ZQCA34WT1VHaTMBpQ</a> 密码:t8s9</p><p>重启即可</p><p>教程发自老吴黑苹果工作室 淘宝专业安装黑苹果远程服务<br>laowu1688.taobao.com</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Realtek RTL8125 2.5G网卡黑苹果无法识别显示未连接驱动解决方法</title>
+    <url>/d6113fd5.html</url>
+    <content><![CDATA[<p>在最新的400系芯片组中，像微星MAG B460M，内置了Realtek RTL8125 2.5G网卡，该网卡比较新，目前常用的RealtekRTL8111.kext是无法驱动的，得用LucyRTL8125Ethernet.kext，并需要1.0.0d6版本，我己经放在百度云了：链接:<a href="https://pan.baidu.com/s/1e35T-5aFI4sHUTdOJg3ijw" target="_blank" rel="noopener">https://pan.baidu.com/s/1e35T-5aFI4sHUTdOJg3ijw</a> 密码:qhxe</p><p>当然，只放驱动，还是未能上网的，表现为网络中以太网显示电缆被拔出，无信号。</p><p>需要先手动设置IP和路由器，如图所示：</p><p><img src="/images/pasted-17.png" alt="upload successful"></p><p>然后再点高级——硬件</p><p><img src="/images/pasted-18.png" alt="upload successful"></p><p>以上注意，速度根据你的路由器来，如果是百兆的口，就选100，千兆的选1000.<br>，双工这个，我选的是节能以太网，如果选了还是不行，换其它的<br>MTU选标准1500</p><p>然后点好，再点应用，等一到两分钟，如果不行，在双工处，再选其它双工模式，记得每次改完等一会，一般就会显示连接上了。</p><p>BY 老吴黑苹果工作室 淘宝专业安装黑苹果远程服务</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>macOS Catalina 10.15.6(17G73)恢复版系统镜像包</title>
     <url>/b960947f.html</url>
     <content><![CDATA[<h2 id="版本描述："><a href="#版本描述：" class="headerlink" title="版本描述："></a>版本描述：</h2><p>macOS Catalina 10.15.6提高了Mac的安全性和稳定性，具体来说苹果今天的更新如下：</p><p>新增了在兼容HDR的Mac笔记本电脑上优化视频流播放的选项以提高电池续航能力；</p><p>修复了安装软件更新后电脑名称可能更改的问题；</p><p>解决了某些USB鼠标和触控板可能失去连接的问题；</p><p>恢复版下载：<br>链接:<a href="https://pan.baidu.com/s/13R7Ku150TvjWLfL6XAfIeg" target="_blank" rel="noopener">https://pan.baidu.com/s/13R7Ku150TvjWLfL6XAfIeg</a> 密码:2w82<br>大小：12G</p><p>使用paragon hard disk manager 16.5软件进行恢复</p><p>系统默认用户macos，密码：1111</p><p>此镜像为老吴黑苹果工作室制作的纯净镜像</p><p>laowu1688.taobao.com 淘宝专业远程安装黑苹果系统</p>]]></content>
@@ -100,9 +116,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2891,9 +2907,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
