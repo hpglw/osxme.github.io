@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>老吴黑苹果工作室淘宝店安装案例展示2020-07</title>
+    <url>/4f5b4440.html</url>
+    <content><![CDATA[<table><thead><tr><th align="center">机型</th><th align="center">配置</th><th align="center">系统</th><th align="center">引导</th><th align="center">说明</th><th align="center">下载</th></tr></thead><tbody><tr><td align="center">戴尔 G3 3579</td><td align="center">i7-8750H UHD630 戴尔 0Y0YC0 GTX 1050</td><td align="center">10.14.6 10.15.5</td><td align="center">OC</td><td align="center">自带东芝固态无解需更换</td><td align="center"><a href="http://pay.k61.org/share_1451.html" target="_blank" rel="noopener">http://pay.k61.org/share_1451.html</a></td></tr><tr><td align="center">戴尔 Vostro 3459</td><td align="center">i7-6500U HD520 Radeon R5 M315</td><td align="center">10.14.X 10.15.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1450.html" target="_blank" rel="noopener">http://pay.k61.org/share_1450.html</a></td></tr><tr><td align="center">惠普 HP Pavilion 15 Notebook PC</td><td align="center">i7-4510U HD4400 GeForce 840M</td><td align="center">10.14.X</td><td align="center">CLOVER</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1449.html" target="_blank" rel="noopener">http://pay.k61.org/share_1449.html</a></td></tr><tr><td align="center">机械革命MECHREVO Z3 AIR GK5MRFO</td><td align="center">i7-10750H UHD630 GTX 1650 Ti</td><td align="center">10.15.X</td><td align="center">OC</td><td align="center">声卡ALC274无解，等待驱动更新</td><td align="center"><a href="http://pay.k61.org/share_1448.html" target="_blank" rel="noopener">http://pay.k61.org/share_1448.html</a></td></tr><tr><td align="center">联想 Lenovo 小新 RUI7000</td><td align="center">i7-7700HQ HD630 GTX 1050</td><td align="center">10.15.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1447.html" target="_blank" rel="noopener">http://pay.k61.org/share_1447.html</a></td></tr><tr><td align="center">联想 Lenovo 拯救者 Y7000P-1060</td><td align="center">i5-8300H 联想 LNVNB161216 GTX 1060</td><td align="center">10.14.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1446.html" target="_blank" rel="noopener">http://pay.k61.org/share_1446.html</a></td></tr><tr><td align="center">联想 Lenovo YOGA 710-14IKB 80V4</td><td align="center">i7-7500U HD620</td><td align="center">10.15.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1445.html" target="_blank" rel="noopener">http://pay.k61.org/share_1445.html</a></td></tr><tr><td align="center">HP EliteBook 840 G6</td><td align="center">i5-8365U UHD620 1080P</td><td align="center">10.15.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1444.html" target="_blank" rel="noopener">http://pay.k61.org/share_1444.html</a></td></tr><tr><td align="center">Alienware Aurora R7</td><td align="center">i7-8700K 0VDT73 uhd630 gtx 1080</td><td align="center">10.13.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1443.html" target="_blank" rel="noopener">http://pay.k61.org/share_1443.html</a></td></tr><tr><td align="center">i5-10500 华擎 Z490M-ITX RX 5600 XT</td><td align="center">i5-10500 华擎 Z490M-ITX RX 5600 XT</td><td align="center">10.15.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1442.html" target="_blank" rel="noopener">http://pay.k61.org/share_1442.html</a></td></tr><tr><td align="center">华为 WRT-WX9笔记本</td><td align="center">2K i5-8265U MX150 UHD620</td><td align="center">10.15.X</td><td align="center">OC</td><td align="center"></td><td align="center"><a href="http://pay.k61.org/share_1441.html" target="_blank" rel="noopener">http://pay.k61.org/share_1441.html</a></td></tr></tbody></table>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>笔记本</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Realtek ALCS1200A声卡黑苹果驱动方法 mojave and catalina通用</title>
     <url>/3cfafea3.html</url>
     <content><![CDATA[<p>一般在400系芯片组现在大多数是ALCS1200A声卡芯片，APPLEALC支持，ID只有1 2 3，如果不加以配置，那么能识别到声卡，但是无法播放声音，不能打开任何视频和声音文件。</p><p>驱动方法是，以OC为准，目前10代U，还是不要用CLOVER了吧：<br>1，APPLEALC.KEXT 1.5.0版本<br>链接:<a href="https://pan.baidu.com/s/18EyQrlBMHwINN0rkIUuQsw" target="_blank" rel="noopener">https://pan.baidu.com/s/18EyQrlBMHwINN0rkIUuQsw</a> 密码:x4wk</p><p>2，在config.plist中加入设备属性PciRoot(0x0)/Pci(0x1F,0x3)</p><p><img src="/images/pasted-19.png" alt="upload successful"></p><p>3，在kexts中放入两个FakePCIID.kext和FakePCIID_Intel_HDMI_Audio.kext<br>链接:<a href="https://pan.baidu.com/s/1FVhD7ZQCA34WT1VHaTMBpQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1FVhD7ZQCA34WT1VHaTMBpQ</a> 密码:t8s9</p><p>重启即可</p><p>教程发自老吴黑苹果工作室 淘宝专业安装黑苹果远程服务<br>laowu1688.taobao.com</p>]]></content>
@@ -1081,8 +1090,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1312,8 +1321,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2950,8 +2959,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3143,9 +3152,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3455,8 +3464,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
