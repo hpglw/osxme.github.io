@@ -125,9 +125,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1090,8 +1090,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1321,8 +1321,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2916,9 +2916,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2959,8 +2959,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3152,9 +3152,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3464,8 +3464,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
