@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>技嘉P65笔记本安装黑苹果系统Catalina 10.15.7</title>
+    <url>/36eb2044.html</url>
+    <content><![CDATA[<p>一台技嘉P65笔记本，配置为i7-7700HQ,16GB内存，512G固态,核显HD 630，独显GTX 1060（需要屏蔽），1080P分辨率，INTEL无线网卡加REALTEK有线网卡。</p><p><img src="/images/pasted-33.png" alt="upload successful"></p><p>看配置是Kaby Lake架构CPU，核显是HD630，相对来说比较容易安装，主要是分辨1080P，这个只要HD630的config就基本没问题，系统选用CATALINA 10.15.7，目前来说，BIG SUR对黑苹果来说不建议，也没什么用处。</p><p>这次选用比较成熟的CLOVER引导，主要为了方便，其实OC差别不大。</p><p>首先BIOS设置：</p><p>1，确认SATA模式为AHCI</p><p><img src="/images/pasted-34.png" alt="upload successful"></p><p>2，关闭安全启动</p><p><img src="/images/pasted-35.png" alt="upload successful"></p><p>BIOS其它基本保持默认即可。</p><p>然后恢复老吴的10.15.7恢复版镜像，建立CLOVER引导</p><p><img src="/images/pasted-36.png" alt="upload successful"></p><p>这里注意，CLOVER的版本要最新的5.1，内存修复不能使用AptioMemoryFix-64.efi，要用OcQuirks.efi和OpenRuntime.efi，这对于10.15系统来说AptioMemoryFix己经不行了，通常卡+++++++号都是因为这个引起的。</p><p><img src="/images/pasted-38.png" alt="upload successful"></p><p>使用OcQuirks.efi和OpenRuntime.efi需要在config.plist勾选以下选项。</p><p><img src="/images/pasted-37.png" alt="upload successful"></p><p>其它按HD630的核显config配置，需要注意的是，这个笔记本外放有问题，APPLEALC声卡驱动和VOODOOHDA万能驱动都只能支持耳机，外入无声卡，所有如果用APPLEALC，ID为15,用VOODOOHDA就默认就行了。这里我用了VOODOOHDA驱动，比较方便。</p><p>另外进了系统后，需要驱动WIFI的，请放入AirportItlwm.kext，具体用法请参考：<a href="https://openintelwireless.github.io/itlwm/Installation.html#itlwm" target="_blank" rel="noopener">https://openintelwireless.github.io/itlwm/Installation.html#itlwm</a></p><p>安装完成技嘉P65 i7-7700HQ 核显 声卡耳机无外放 电源电量 触控板基本 WIFI 蓝牙 CLOVER 10.15.7</p><p>EFI引导下载：<a href="http://pay.k61.org/share_1453.html" target="_blank" rel="noopener">http://pay.k61.org/share_1453.html</a></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Gigabyte_技嘉</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Big Sur 11.1 beta中添加了Navi 20核心的PCI ID可能支持Radeon RX 6800 6800 XT 6900 XT</title>
     <url>/67bdca37.html</url>
     <content><![CDATA[<p>在今天发布的新11.1 Beta中，苹果似乎给我们带来了惊喜。检查X6000帧缓冲区，我们看到列出了许多新的PCI ID：</p><h1 id="Navi-21"><a href="#Navi-21" class="headerlink" title="Navi 21"></a>Navi 21</h1><p><key>IOPCIMatch</key><br><string>0x73A01002 0x73A21002 0x73A31002 0x73AB1002 0x73AE1002 0x73BF1002</string></p><h1 id="Navi-22"><a href="#Navi-22" class="headerlink" title="Navi 22"></a>Navi 22</h1><p><key>IOPCIMatch</key><br><string>0x73C01002 0x73C11002 0x73C31002 0x73DF1002</string></p><h1 id="Navi-23"><a href="#Navi-23" class="headerlink" title="Navi 23"></a>Navi 23</h1><p><key>IOPCIMatch</key><br><string>0x73E01002 0x73E11002 0x73E21002 0x73FF1002</string></p><p>由此我们得到：</p><p>pci1002,73A0 =未知<br>pci1002,73A2 =未知<br>pci1002,73A3 =未知<br>pci1002,73AB =未知<br>pci1002,73AE =未知<br>pci1002,73BF = Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]<br>pci1002,73C0 =未知<br>pci1002,73C1 =未知<br>pci1002,73C3 =通用Navi 22<br>pci1002,73DF =通用Navi 22<br>pci1002,73E0 =未知<br>pci1002,73E1 =未知<br>pci1002,73E2 =未知<br>pci1002,73FF =通用Navi 23</p><p>看起来我们将获得对新Navi 20 GPU核心的Radeon RX 6800/6800 XT / 6900 XT的支持！</p>]]></content>
