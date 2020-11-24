@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>如何选择合适的黑苹果系统版本？</title>
+    <url>/6041e54a.html</url>
+    <content><![CDATA[<p>很多人都喜欢更新升级最新版本的MACOS系统，如现在新出的BIG SUR 11，但就黑苹果来说，最新的未必是最适合自己电脑的，因为黑苹果不同于原装mac电脑，引导程序，补丁等都需要时间来适配和完善，如果单纯为了尝鲜，可以安装最新的，但实用性不大，如果用于工作，建议安装稳定成熟的版本。</p><p>macos版本对于黑苹果来说，现在最低的只能是macos 10.13.6也就是macos high sierra,低于这个版本的，除非有特殊需求，如FCPX 7的，否则都不建议再装低的版本了，很多软件都无法运行。10.13.6这个版本还有一个特别的是，NVIDIA显卡。如果你是N卡，如GTX 1080 1070 1060这些，目前只有10.13.6这个版本有驱动，其它都没有，所以也就是说，大多数N卡独显用户只能安装MACOS 10.13.6，并且无法升级更新，解决的方法只有一个，换AMD显卡。另外，10.13.6相对来说的确老了点，如果你是用于xcode和FCPX，只能安装较低的版本，应用商店是无法下载最新版本了，这个需要注意。</p><p>推荐cpu是3代的Ivy Bridge，内存小于4G的台式机或者笔记本，独显为n卡gtx 1080以下的台式机，安装macos 10.13.6。</p><p>接下来是macos mojave 10.14和catalina 10.15，这两个版本有很多相似性，目前来说，mojave我是不建议安装，建议直接上catalina，实测发现catalina流畅性比mojave还要好，而且版本高，兼容软件来说日后也比较好。如果你的CPU是Haswell 4代以上到现在的9代，内存在4G以上，安装catalina是最明智的，目前最新版本是catalina 10.15.7，直接食用。如果觉得4代和5代CPU运行catalina吃力，那可以安装mojave 10.14，自由选择。</p><p>另外就是big sur了，现在己经更新到正式版11。黑苹果来说，我现在并不建议更新，主要是引导还没有跟上，建议big sur更新到11.5这样，条件都成熟了才开始用。硬件配置至少10代CPU才是BIG SUR的标配。</p>]]></content>
+  </entry>
+  <entry>
     <title>技嘉P65笔记本安装黑苹果系统Catalina 10.15.7</title>
     <url>/36eb2044.html</url>
     <content><![CDATA[<p>一台技嘉P65笔记本，配置为i7-7700HQ,16GB内存，512G固态,核显HD 630，独显GTX 1060（需要屏蔽），1080P分辨率，INTEL无线网卡加REALTEK有线网卡。</p><p><img src="/images/pasted-33.png" alt="upload successful"></p><p>看配置是Kaby Lake架构CPU，核显是HD630，相对来说比较容易安装，主要是分辨1080P，这个只要HD630的config就基本没问题，系统选用CATALINA 10.15.7，目前来说，BIG SUR对黑苹果来说不建议，也没什么用处。</p><p>这次选用比较成熟的CLOVER引导，主要为了方便，其实OC差别不大。</p><p>首先BIOS设置：</p><p>1，确认SATA模式为AHCI</p><p><img src="/images/pasted-34.png" alt="upload successful"></p><p>2，关闭安全启动</p><p><img src="/images/pasted-35.png" alt="upload successful"></p><p>BIOS其它基本保持默认即可。</p><p>然后恢复老吴的10.15.7恢复版镜像，建立CLOVER引导</p><p><img src="/images/pasted-36.png" alt="upload successful"></p><p>这里注意，CLOVER的版本要最新的5.1，内存修复不能使用AptioMemoryFix-64.efi，要用OcQuirks.efi和OpenRuntime.efi，这对于10.15系统来说AptioMemoryFix己经不行了，通常卡+++++++号都是因为这个引起的。</p><p><img src="/images/pasted-38.png" alt="upload successful"></p><p>使用OcQuirks.efi和OpenRuntime.efi需要在config.plist勾选以下选项。</p><p><img src="/images/pasted-37.png" alt="upload successful"></p><p>其它按HD630的核显config配置，需要注意的是，这个笔记本外放有问题，APPLEALC声卡驱动和VOODOOHDA万能驱动都只能支持耳机，外入无声卡，所有如果用APPLEALC，ID为15,用VOODOOHDA就默认就行了。这里我用了VOODOOHDA驱动，比较方便。</p><p>另外进了系统后，需要驱动WIFI的，请放入AirportItlwm.kext，具体用法请参考：<a href="https://openintelwireless.github.io/itlwm/Installation.html#itlwm" target="_blank" rel="noopener">https://openintelwireless.github.io/itlwm/Installation.html#itlwm</a></p><p>安装完成技嘉P65 i7-7700HQ 核显 声卡耳机无外放 电源电量 触控板基本 WIFI 蓝牙 CLOVER 10.15.7</p><p>EFI引导下载：<a href="http://pay.k61.org/share_1453.html" target="_blank" rel="noopener">http://pay.k61.org/share_1453.html</a></p>]]></content>
@@ -156,9 +161,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2947,9 +2952,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
