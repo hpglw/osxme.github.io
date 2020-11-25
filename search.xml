@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>机械革命MECHREVO Z2 Air 9代 1080P 144hz屏 GK5CP5X安装黑苹果Catalina 10.15.7</title>
+    <url>/c1397d13.html</url>
+    <content><![CDATA[<p>械革命MECHREVO Z2 Air 9代笔记本，配置如下：</p><p>电脑型号 MECHREVO Z2 Air Series GK5CP5X 笔记本电脑<br>操作系统 Windows 10 64位（Version 2009 / DirectX 12）<br>处理器 英特尔 Core i7-9750H @ 2.60GHz 六核<br>主板 MECHREVO GK5CP5X（HM370 芯片组）<br>显卡 Nvidia GeForce GTX 1650 ( 4 GB )<br>内存 16 GB ( 三星 DDR4 2666MHz )<br>主硬盘 西数 WDC WDS500G2B0C-00PXH0 ( 500 GB / 固态硬盘 )<br>显示器 LG LGD05E8 ( 15.5 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Wireless-AC 9560</p><p>同方模具的，神船和炫龙都有用，没什么差别，顶多换换内存和硬盘。INTEL 9560在catalina上很好驱动，听说还可以接力，不知真假。GTX 1650铁定屏蔽的了。500G硬盘分了近400G给MACOS，主要WIN己经不怎么用了，显示器是1080P 144hz的，总体为说配置比较高。</p><p>这次安装的是CATALINA 10.15.7系统，9代CPU当然用OC引导了。</p><p>EFI引导下载：<a href="http://pay.k61.org/share_1454.html" target="_blank" rel="noopener">http://pay.k61.org/share_1454.html</a></p><p>BIOS设置：<br>按 F2 进入 BIOS，确保以下设置一致：<br>SATA Mode = AHCI<br>Launch CSM = Disabled<br>Secure Boot = Disabled<br>Boot Mode = UEFI Mode</p><p><img src="/images/pasted-39.png" alt="upload successful"></p><p>进系统：<br><img src="/images/pasted-40.png" alt="upload successful"></p><p>正常登录ID：</p><p><img src="/images/pasted-41.png" alt="upload successful"></p><p>安装完成可用的有：<br>核显，声卡，电池显示，触控板多指，WIFI，蓝牙，USB</p><p>不可用<br>独显。</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Mechrevo_机械革命</category>
+      </categories>
+  </entry>
+  <entry>
     <title>如何选择合适的黑苹果系统版本？</title>
     <url>/6041e54a.html</url>
     <content><![CDATA[<p>很多人都喜欢更新升级最新版本的MACOS系统，如现在新出的BIG SUR 11，但就黑苹果来说，最新的未必是最适合自己电脑的，因为黑苹果不同于原装mac电脑，引导程序，补丁等都需要时间来适配和完善，如果单纯为了尝鲜，可以安装最新的，但实用性不大，如果用于工作，建议安装稳定成熟的版本。</p><p>macos版本对于黑苹果来说，现在最低的只能是macos 10.13.6也就是macos high sierra,低于这个版本的，除非有特殊需求，如FCPX 7的，否则都不建议再装低的版本了，很多软件都无法运行。10.13.6这个版本还有一个特别的是，NVIDIA显卡。如果你是N卡，如GTX 1080 1070 1060这些，目前只有10.13.6这个版本有驱动，其它都没有，所以也就是说，大多数N卡独显用户只能安装MACOS 10.13.6，并且无法升级更新，解决的方法只有一个，换AMD显卡。另外，10.13.6相对来说的确老了点，如果你是用于xcode和FCPX，只能安装较低的版本，应用商店是无法下载最新版本了，这个需要注意。</p><p>推荐cpu是3代的Ivy Bridge，内存小于4G的台式机或者笔记本，独显为n卡gtx 1080以下的台式机，安装macos 10.13.6。</p><p>接下来是macos mojave 10.14和catalina 10.15，这两个版本有很多相似性，目前来说，mojave我是不建议安装，建议直接上catalina，实测发现catalina流畅性比mojave还要好，而且版本高，兼容软件来说日后也比较好。如果你的CPU是Haswell 4代以上到现在的9代，内存在4G以上，安装catalina是最明智的，目前最新版本是catalina 10.15.7，直接食用。如果觉得4代和5代CPU运行catalina吃力，那可以安装mojave 10.14，自由选择。</p><p>另外就是big sur了，现在己经更新到正式版11。黑苹果来说，我现在并不建议更新，主要是引导还没有跟上，建议big sur更新到11.5这样，条件都成熟了才开始用。硬件配置至少10代CPU才是BIG SUR的标配。</p>]]></content>
@@ -161,9 +170,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1126,8 +1135,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1357,8 +1366,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2952,9 +2961,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2995,8 +3004,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3188,9 +3197,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3500,8 +3509,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
