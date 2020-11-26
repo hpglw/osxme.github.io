@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微星Z370 KRAIT GAMING主板搭配I7-8700K N卡GTX 1060安装黑苹果注意事项</title>
+    <url>/44e42e4d.html</url>
+    <content><![CDATA[<p>配置图：</p><p><img src="/images/pasted-42.png" alt="upload successful"></p><p>8代I7-8700K，微星Z370 KRAIT GAMING主板，32GB（两条16G 2400）,双NVME硬盘，一个970 EVO一个970 EVO PLUS，GTX 1060独显。</p><p>就以上的配置，安装黑苹果MACOS 10.13.6版，看配置是相当简单，但往往越简单越容易出问题，以下总结问题所在。</p><p>首先CPU没什么好说的，8代配置，核显默认在BIOS是关闭的，开不开启问题不大，反正10.13.6也不支持UHD 630.</p><p>然后就是主板微星Z370 KRAIT GAMING，这个要留意三点：第一，BIOS必须更新到最新版本，尤其重要，我安装的时候这块主板仍然是2017年的BIOS版本，各种出错，需要先到官网下载最新的2020版本升级更新。第二，关闭CFG LOCK，尤其重要，这块主板不能通过引导的补丁跳过CFG LOCK，需要在BIOS搜索CFG，将其禁用！第三，两块NVME硬盘，在硬盘模式中，SATA的热拔插禁用，SATA模式一定要是ACHI。</p><p>然后内存，别小看这两条32G内存，用CLOVER的话，往往就会卡++++号，或者</p><p><img src="/images/pasted-43.png" alt="upload successful"></p><p>卡在End Randdomseed不动，又或者couldn’t allocate runtime area错误，这些都是不能通过内存的错误，与其一个个去试内存补丁，还不如直接换OC引导。</p><p>再者就是硬盘了，相当吓人的三星硬盘，对黑苹果极度不友好的970 EVO PLUS版，记得先升级硬盘固件到最新版本，怎么升级，百度一下就好了。</p><p>综合以上都解决之后，就可以一路畅通安装黑苹果，基本一步到位。</p><p>EFI引导下载：<a href="http://pay.k61.org/share_1455.html" target="_blank" rel="noopener">http://pay.k61.org/share_1455.html</a></p><p>OC引导，驱动独显，声卡，有线网卡</p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>机械革命MECHREVO Z2 Air 9代 1080P 144hz屏 GK5CP5X安装黑苹果Catalina 10.15.7</title>
     <url>/c1397d13.html</url>
     <content><![CDATA[<p>械革命MECHREVO Z2 Air 9代笔记本，配置如下：</p><p>电脑型号 MECHREVO Z2 Air Series GK5CP5X 笔记本电脑<br>操作系统 Windows 10 64位（Version 2009 / DirectX 12）<br>处理器 英特尔 Core i7-9750H @ 2.60GHz 六核<br>主板 MECHREVO GK5CP5X（HM370 芯片组）<br>显卡 Nvidia GeForce GTX 1650 ( 4 GB )<br>内存 16 GB ( 三星 DDR4 2666MHz )<br>主硬盘 西数 WDC WDS500G2B0C-00PXH0 ( 500 GB / 固态硬盘 )<br>显示器 LG LGD05E8 ( 15.5 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Wireless-AC 9560</p><p>同方模具的，神船和炫龙都有用，没什么差别，顶多换换内存和硬盘。INTEL 9560在catalina上很好驱动，听说还可以接力，不知真假。GTX 1650铁定屏蔽的了。500G硬盘分了近400G给MACOS，主要WIN己经不怎么用了，显示器是1080P 144hz的，总体为说配置比较高。</p><p>这次安装的是CATALINA 10.15.7系统，9代CPU当然用OC引导了。</p><p>EFI引导下载：<a href="http://pay.k61.org/share_1454.html" target="_blank" rel="noopener">http://pay.k61.org/share_1454.html</a></p><p>BIOS设置：<br>按 F2 进入 BIOS，确保以下设置一致：<br>SATA Mode = AHCI<br>Launch CSM = Disabled<br>Secure Boot = Disabled<br>Boot Mode = UEFI Mode</p><p><img src="/images/pasted-39.png" alt="upload successful"></p><p>进系统：<br><img src="/images/pasted-40.png" alt="upload successful"></p><p>正常登录ID：</p><p><img src="/images/pasted-41.png" alt="upload successful"></p><p>安装完成可用的有：<br>核显，声卡，电池显示，触控板多指，WIFI，蓝牙，USB</p><p>不可用<br>独显。</p>]]></content>
@@ -170,9 +179,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1135,8 +1144,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1366,8 +1375,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -1700,8 +1709,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>GTX 1060</tag>
+        <tag>Z370</tag>
         <tag>i7-8700K</tag>
       </tags>
   </entry>
@@ -1952,8 +1961,8 @@
       </categories>
       <tags>
         <tag>B360M</tag>
-        <tag>i5-9400F</tag>
         <tag>RX 570</tag>
+        <tag>i5-9400F</tag>
       </tags>
   </entry>
   <entry>
@@ -2250,8 +2259,8 @@
       <tags>
         <tag>Catalina</tag>
         <tag>B360M</tag>
-        <tag>i5-9400F</tag>
         <tag>RX 570</tag>
+        <tag>i5-9400F</tag>
       </tags>
   </entry>
   <entry>
@@ -2308,8 +2317,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>GTX 1060</tag>
+        <tag>Z370</tag>
         <tag>i7-8700K</tag>
       </tags>
   </entry>
@@ -2906,8 +2915,8 @@
       </categories>
       <tags>
         <tag>B85M</tag>
-        <tag>RX 470</tag>
         <tag>技嘉</tag>
+        <tag>RX 470</tag>
         <tag>i5-4590</tag>
       </tags>
   </entry>
@@ -2961,9 +2970,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3004,8 +3013,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3197,9 +3206,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3478,8 +3487,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>Surface</tag>
         <tag>微软</tag>
+        <tag>Surface</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
@@ -3509,8 +3518,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
