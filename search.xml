@@ -3,7 +3,7 @@
   <entry>
     <title>越简单越难搞！记联想ThinkPad X1 Carbon i5三代老笔记本安装黑苹果Mojave 10.14.6</title>
     <url>/94392834.html</url>
-    <content><![CDATA[<p>客户一台联想ThinkPad X1 Carbon笔记本，应该是X1 CARBON 一代产品，CPU是i5三代的3317U,没有独显，核显HD 4000,Ivy Bridge架构。<br>主板联想 3448aw5 QS77的，4GB内存，1600X900分辨率显示屏，ALC 269声卡，没有自带有线网卡，无线网卡为6205无解。<br>180GB固态安装单系统，按这个配置来说，10.14.6 Mojave是最适合的。</p><p><img src="/images/pasted-45.png" alt="upload successful"></p><p>下面讲讲安装时遇到的问题，根据配置，选用CLOVER引导，比较成熟，热补丁这些比较适合老机子，OC虽然新，但很多补丁需要手动，也就没有必要了。</p><p>HD 4000的核显非常好驱动，只需将ig-platform-id设置为0x01660004即可，其它都不用设置，因为没有独显，所以也不用制作屏蔽独显的SSDT。亮度调节丢SSDT-PNLF.aml进去即可。</p><p>ALC 269声卡个人建议用VOODOOHDA万能驱动，比较快捷，当然APPLEALC也可以设置ID为6，但APPLEALC驱动有时会掉，看个人选择。</p><p>因为没有有线网卡，无线网卡也无法驱动，所以建议客户买个黑苹果无线网卡，淘宝才10多块钱。</p><p>特别需要注意的是，内存修复补丁，如果出现重启后卡加号，建议升级成CLOVER R5127最新版本，用OpenRuntime.efi替代AptioMemoryFix.efi，这些内存补丁都太老旧了。</p><p>另外，不要用OC 6.3版，会出现OC引导界面卡死</p><p><img src="/images/pasted-46.png" alt="upload successful"></p><p>安装好之后，核显驱动，亮度调节正常，声卡OK，触控板OK，电池电量有显示，基本完美。</p>]]></content>
+    <content><![CDATA[<p>客户一台联想ThinkPad X1 Carbon笔记本，应该是X1 CARBON 一代产品，CPU是i5三代的3317U,没有独显，核显HD 4000,Ivy Bridge架构。<br>主板联想 3448aw5 QS77的，4GB内存，1600X900分辨率显示屏，ALC 269声卡，没有自带有线网卡，无线网卡为6205无解。<br>180GB固态安装单系统，按这个配置来说，10.14.6 Mojave是最适合的。</p><p><img src="/images/pasted-45.png" alt="upload successful"></p><p>下面讲讲安装时遇到的问题，根据配置，选用CLOVER引导，比较成熟，热补丁这些比较适合老机子，OC虽然新，但很多补丁需要手动，也就没有必要了。</p><p>HD 4000的核显非常好驱动，只需将ig-platform-id设置为0x01660004即可，其它都不用设置，因为没有独显，所以也不用制作屏蔽独显的SSDT。亮度调节丢SSDT-PNLF.aml进去即可。</p><p>ALC 269声卡个人建议用VOODOOHDA万能驱动，比较快捷，当然APPLEALC也可以设置ID为6，但APPLEALC驱动有时会掉，看个人选择。</p><p>因为没有有线网卡，无线网卡也无法驱动，所以建议客户买个黑苹果无线网卡，淘宝才10多块钱。</p><p>特别需要注意的是，内存修复补丁，如果出现重启后卡加号，建议升级成CLOVER R5127最新版本，用OpenRuntime.efi替代AptioMemoryFix.efi，这些内存补丁都太老旧了。</p><p>另外，不要用OC 6.3版，会出现OC引导界面卡死</p><p><img src="/images/pasted-46.png" alt="upload successful"></p><p>安装好之后，核显驱动，亮度调节正常，声卡OK，触控板OK，电池电量有显示，基本完美。</p><p>EFI下载：<a href="http://pay.k61.org/share_1456.html" target="_blank" rel="noopener">http://pay.k61.org/share_1456.html</a></p>]]></content>
       <categories>
         <category>笔记本</category>
         <category>ThinkPad</category>
@@ -196,9 +196,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2987,9 +2987,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
