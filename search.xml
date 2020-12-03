@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>耗时一星期！华硕C621主板加至强 Gold 5218 CPU黑苹果安装成功</title>
+    <url>/79ab707c.html</url>
+    <content><![CDATA[<h5 id="先来看一下配置："><a href="#先来看一下配置：" class="headerlink" title="先来看一下配置："></a>先来看一下配置：</h5><p>CPU：英特尔Xeon至强Gold 5218 2.3GHZ(Skylake-SP,十六核32线程，6000大洋)<br>主板：华硕Pro WS C621-64L SAGE 3647工作站主板,同样7000大洋<br>内存：160GB（确定不是硬盘）<br>硬盘：1TB西数固态<br>显示器：4K dell<br>显卡：AMD Radeon VII 16 GB</p><p><img src="/images/pasted-47.png" alt="upload successful"></p><p>这就是最新的MACPRO配置啊,但价格远远比不上。</p><p><img src="/images/pasted-48.png" alt="upload successful"></p><p>先来研究一下配置，Xeon至强Gold 5218是第一次安装，构架是Skylake-SP，由于是至强系列，统一当成HEDT配置来看待。主机是C621芯片组的，也是第一次遇到，完全没有头绪。内存无论多大，MACOS都能认，这个只要注意内存补丁就好，硬盘没问题，显卡免驱的，不用理会。</p><p>选定OC引导，也只有OC能搞掂这套配置，CLOVER估计内存都很难过，事实也证明了CLOVER卡在内存不会再往下走。</p><p><img src="/images/pasted-49.png" alt="upload successful"></p><p>系统只能选macos mojave 10.14.6，低了没意义，高了估计没能力安装成功，10.14.6也刚好够用，但按这个配置来说，smbios选macpro 7.1是最适合的，只能说无奈之举。因为10.15系统压根没有信心能安装上去，也由于远程的关系，不能作太多尝试，毕竟安装这一个都花了近一个星期。</p><p><img src="/images/pasted-50.png" alt="upload successful"></p><h5 id="安装时注意的事项"><a href="#安装时注意的事项" class="headerlink" title="安装时注意的事项"></a>安装时注意的事项</h5><p>1，卡在 end randomseed</p><p><img src="/images/pasted-51.png" alt="upload successful"></p><p>多数由内存引起，记得勾选上setupvirtualmap和rebuildapplememorymap还有protectuefiservices，不同的内存需要不同的组合，多尝试。</p><p>2，卡在8 acpi aml错误<br>多数是DSDT参数错误，认真修改RTC相关的DSDT补丁</p><p>3，卡在PCI CONFIGURATION END BRIDGES 8</p><p><img src="/images/pasted-52.png" alt="upload successful"></p><p>加上npci=0x2000的参数</p><h5 id="安装完成"><a href="#安装完成" class="headerlink" title="安装完成"></a>安装完成</h5><p><img src="/images/pasted-53.png" alt="upload successful"></p><p><img src="/images/pasted-54.png" alt="upload successful"></p><p><img src="/images/pasted-55.png" alt="upload successful"></p><p><img src="/images/pasted-56.png" alt="upload successful"></p><p><img src="/images/pasted-57.png" alt="upload successful"></p><p><img src="/images/pasted-58.png" alt="upload successful"></p><p><img src="/images/pasted-59.png" alt="upload successful"></p><p><img src="/images/pasted-60.png" alt="upload successful"></p><p><img src="/images/pasted-61.png" alt="upload successful"></p><p>EFI下载：Intel Gold 5218 华硕Pro WS C621-64L SAGE主板 AMD Radeon VII黑苹果OC引导for MOJAVE 10.14.6<br><a href="http://pay.k61.org/share_1457.html" target="_blank" rel="noopener">http://pay.k61.org/share_1457.html</a></p>]]></content>
+  </entry>
+  <entry>
     <title>越简单越难搞！记联想ThinkPad X1 Carbon i5三代老笔记本安装黑苹果Mojave 10.14.6</title>
     <url>/94392834.html</url>
     <content><![CDATA[<p>客户一台联想ThinkPad X1 Carbon笔记本，应该是X1 CARBON 一代产品，CPU是i5三代的3317U,没有独显，核显HD 4000,Ivy Bridge架构。<br>主板联想 3448aw5 QS77的，4GB内存，1600X900分辨率显示屏，ALC 269声卡，没有自带有线网卡，无线网卡为6205无解。<br>180GB固态安装单系统，按这个配置来说，10.14.6 Mojave是最适合的。</p><p><img src="/images/pasted-45.png" alt="upload successful"></p><p>下面讲讲安装时遇到的问题，根据配置，选用CLOVER引导，比较成熟，热补丁这些比较适合老机子，OC虽然新，但很多补丁需要手动，也就没有必要了。</p><p>HD 4000的核显非常好驱动，只需将ig-platform-id设置为0x01660004即可，其它都不用设置，因为没有独显，所以也不用制作屏蔽独显的SSDT。亮度调节丢SSDT-PNLF.aml进去即可。</p><p>ALC 269声卡个人建议用VOODOOHDA万能驱动，比较快捷，当然APPLEALC也可以设置ID为6，但APPLEALC驱动有时会掉，看个人选择。</p><p>因为没有有线网卡，无线网卡也无法驱动，所以建议客户买个黑苹果无线网卡，淘宝才10多块钱。</p><p>特别需要注意的是，内存修复补丁，如果出现重启后卡加号，建议升级成CLOVER R5127最新版本，用OpenRuntime.efi替代AptioMemoryFix.efi，这些内存补丁都太老旧了。</p><p>另外，不要用OC 6.3版，会出现OC引导界面卡死</p><p><img src="/images/pasted-46.png" alt="upload successful"></p><p>安装好之后，核显驱动，亮度调节正常，声卡OK，触控板OK，电池电量有显示，基本完美。</p><p>EFI下载：<a href="http://pay.k61.org/share_1456.html" target="_blank" rel="noopener">http://pay.k61.org/share_1456.html</a></p>]]></content>
@@ -196,9 +201,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1161,8 +1166,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1392,8 +1397,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2987,9 +2992,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3030,8 +3035,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3223,9 +3228,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3322,8 +3327,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-4570</tag>
         <tag>GIGABYTE</tag>
+        <tag>i5-4570</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -3535,8 +3540,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
