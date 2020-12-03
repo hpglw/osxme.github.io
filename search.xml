@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微星 MAG B460M加i5-10400F台式机安装黑苹果</title>
+    <url>/6629ec75.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><p>处理器 英特尔 Core i5-10400F @ 2.90GHz 六核<br>主板 微星 MAG B460M MORTAR (MS-7C82)（LPC Controller B460芯片组）<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>内存 64 GB ( Asgard DDR4 2666MHz )<br>主硬盘 Fanxiang S505/2TB ( 2048 GB / 固态硬盘 )<br>显示器 三星 SAM0F71 S34J55x ( 34 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 Realtek PCIe 2.5 GbE 系列控制器 / 微星</p><h5 id="引导，系统"><a href="#引导，系统" class="headerlink" title="引导，系统"></a>引导，系统</h5><p>OPENCORE 5.9<br>macOS Catalina 10.15.7</p><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p><img src="/images/pasted-62.png" alt="upload successful"></p><p>Above 4G开启</p><p><img src="/images/pasted-63.png" alt="upload successful"></p><p><img src="/images/pasted-64.png" alt="upload successful"></p><p>快速开机禁用</p><p><img src="/images/pasted-65.png" alt="upload successful"></p><p>安全模式禁止</p><h5 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h5><p><img src="/images/pasted-66.png" alt="upload successful"></p><p><img src="/images/pasted-67.png" alt="upload successful"></p><p><img src="/images/pasted-68.png" alt="upload successful"></p><h5 id="EFI引导下载"><a href="#EFI引导下载" class="headerlink" title="EFI引导下载"></a>EFI引导下载</h5>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>耗时一星期！华硕C621主板加至强 Gold 5218 CPU黑苹果安装成功</title>
     <url>/79ab707c.html</url>
     <content><![CDATA[<h5 id="先来看一下配置："><a href="#先来看一下配置：" class="headerlink" title="先来看一下配置："></a>先来看一下配置：</h5><p>CPU：英特尔Xeon至强Gold 5218 2.3GHZ(Skylake-SP,十六核32线程，6000大洋)<br>主板：华硕Pro WS C621-64L SAGE 3647工作站主板,同样7000大洋<br>内存：160GB（确定不是硬盘）<br>硬盘：1TB西数固态<br>显示器：4K dell<br>显卡：AMD Radeon VII 16 GB</p><p><img src="/images/pasted-47.png" alt="upload successful"></p><p>这就是最新的MACPRO配置啊,但价格远远比不上。</p><p><img src="/images/pasted-48.png" alt="upload successful"></p><p>先来研究一下配置，Xeon至强Gold 5218是第一次安装，构架是Skylake-SP，由于是至强系列，统一当成HEDT配置来看待。主机是C621芯片组的，也是第一次遇到，完全没有头绪。内存无论多大，MACOS都能认，这个只要注意内存补丁就好，硬盘没问题，显卡免驱的，不用理会。</p><p>选定OC引导，也只有OC能搞掂这套配置，CLOVER估计内存都很难过，事实也证明了CLOVER卡在内存不会再往下走。</p><p><img src="/images/pasted-49.png" alt="upload successful"></p><p>系统只能选macos mojave 10.14.6，低了没意义，高了估计没能力安装成功，10.14.6也刚好够用，但按这个配置来说，smbios选macpro 7.1是最适合的，只能说无奈之举。因为10.15系统压根没有信心能安装上去，也由于远程的关系，不能作太多尝试，毕竟安装这一个都花了近一个星期。</p><p><img src="/images/pasted-50.png" alt="upload successful"></p><h5 id="安装时注意的事项"><a href="#安装时注意的事项" class="headerlink" title="安装时注意的事项"></a>安装时注意的事项</h5><p>1，卡在 end randomseed</p><p><img src="/images/pasted-51.png" alt="upload successful"></p><p>多数由内存引起，记得勾选上setupvirtualmap和rebuildapplememorymap还有protectuefiservices，不同的内存需要不同的组合，多尝试。</p><p>2，卡在8 acpi aml错误<br>多数是DSDT参数错误，认真修改RTC相关的DSDT补丁</p><p>3，卡在PCI CONFIGURATION END BRIDGES 8</p><p><img src="/images/pasted-52.png" alt="upload successful"></p><p>加上npci=0x2000的参数</p><h5 id="安装完成"><a href="#安装完成" class="headerlink" title="安装完成"></a>安装完成</h5><p><img src="/images/pasted-53.png" alt="upload successful"></p><p><img src="/images/pasted-54.png" alt="upload successful"></p><p><img src="/images/pasted-55.png" alt="upload successful"></p><p><img src="/images/pasted-56.png" alt="upload successful"></p><p><img src="/images/pasted-57.png" alt="upload successful"></p><p><img src="/images/pasted-58.png" alt="upload successful"></p><p><img src="/images/pasted-59.png" alt="upload successful"></p><p><img src="/images/pasted-60.png" alt="upload successful"></p><p><img src="/images/pasted-61.png" alt="upload successful"></p><p>EFI下载：Intel Gold 5218 华硕Pro WS C621-64L SAGE主板 AMD Radeon VII黑苹果OC引导for MOJAVE 10.14.6<br><a href="http://pay.k61.org/share_1457.html" target="_blank" rel="noopener">http://pay.k61.org/share_1457.html</a></p>]]></content>
@@ -201,9 +210,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1166,8 +1175,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1397,8 +1406,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2992,9 +3001,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3035,8 +3044,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3228,9 +3237,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3327,8 +3336,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GIGABYTE</tag>
         <tag>i5-4570</tag>
+        <tag>GIGABYTE</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
@@ -3540,8 +3549,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
