@@ -37,7 +37,7 @@
   <entry>
     <title>微星 MAG B460M加i5-10400F台式机安装黑苹果</title>
     <url>/6629ec75.html</url>
-    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><p>处理器 英特尔 Core i5-10400F @ 2.90GHz 六核<br>主板 微星 MAG B460M MORTAR (MS-7C82)（LPC Controller B460芯片组）<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>内存 64 GB ( Asgard DDR4 2666MHz )<br>主硬盘 Fanxiang S505/2TB ( 2048 GB / 固态硬盘 )<br>显示器 三星 SAM0F71 S34J55x ( 34 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 Realtek PCIe 2.5 GbE 系列控制器 / 微星</p><h5 id="引导，系统"><a href="#引导，系统" class="headerlink" title="引导，系统"></a>引导，系统</h5><p>OPENCORE 5.9<br>macOS Catalina 10.15.7</p><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p><img src="/images/pasted-62.png" alt="upload successful"></p><p>Above 4G开启</p><p><img src="/images/pasted-63.png" alt="upload successful"></p><p><img src="/images/pasted-64.png" alt="upload successful"></p><p>快速开机禁用</p><p><img src="/images/pasted-65.png" alt="upload successful"></p><p>安全模式禁止</p><h5 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h5><p><img src="/images/pasted-66.png" alt="upload successful"></p><p><img src="/images/pasted-67.png" alt="upload successful"></p><p><img src="/images/pasted-68.png" alt="upload successful"></p><h5 id="EFI引导下载"><a href="#EFI引导下载" class="headerlink" title="EFI引导下载"></a>EFI引导下载</h5>]]></content>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><p>处理器 英特尔 Core i5-10400F @ 2.90GHz 六核<br>主板 微星 MAG B460M MORTAR (MS-7C82)（LPC Controller B460芯片组）<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>内存 64 GB ( Asgard DDR4 2666MHz )<br>主硬盘 Fanxiang S505/2TB ( 2048 GB / 固态硬盘 )<br>显示器 三星 SAM0F71 S34J55x ( 34 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 Realtek PCIe 2.5 GbE 系列控制器 / 微星</p><h5 id="引导，系统"><a href="#引导，系统" class="headerlink" title="引导，系统"></a>引导，系统</h5><p>OPENCORE 5.9<br>macOS Catalina 10.15.7</p><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p><img src="/images/pasted-62.png" alt="upload successful"></p><p>Above 4G开启</p><p><img src="/images/pasted-63.png" alt="upload successful"></p><p><img src="/images/pasted-64.png" alt="upload successful"></p><p>快速开机禁用</p><p><img src="/images/pasted-65.png" alt="upload successful"></p><p>安全模式禁止</p><h5 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h5><p><img src="/images/pasted-66.png" alt="upload successful"></p><p><img src="/images/pasted-67.png" alt="upload successful"></p><p><img src="/images/pasted-68.png" alt="upload successful"></p><h5 id="EFI引导下载"><a href="#EFI引导下载" class="headerlink" title="EFI引导下载"></a>EFI引导下载</h5><p><a href="http://pay.k61.org/share_1464.html" target="_blank" rel="noopener">i5-10400F 微星 MAG B460M MORTAR RX 590 黑苹果引导 10.15.7 OC .zip</a></p>]]></content>
       <categories>
         <category>台式机</category>
         <category>INTEL</category>
@@ -244,9 +244,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1209,8 +1209,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1440,8 +1440,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3035,9 +3035,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3078,8 +3078,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3271,9 +3271,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3583,8 +3583,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
