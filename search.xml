@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>300系主板安装黑苹果big sur卡Security policy loaded:apple System policy(ASP)</title>
+    <url>/219efaa.html</url>
+    <content><![CDATA[<p><strong>如图所示</strong></p><p><img src="/images/pasted-85.png" alt="upload successful"></p><p>300系主板配8代CPU，RX 590独显，安装黑苹果big sur卡在Security policy loaded:apple System policy(ASP)<br>rooti就不动了。这里确认OC引导没错的话，可以从BIOS设置入门<br>1，BIOS需要最新的版本<br>2，确认硬盘模式为AHCI<br>4，打开4G以上解码空间<br>5，打开所有USB的XHCI，HAND OFF等都打开<br>6，主板能关CSM的尽量关掉，不能关的表现为进了WIN才有显示，就不需要关。</p><p><img src="/images/pasted-86.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>超微 X10DAi安装黑苹果10.13.6 OC引导 P4000独显</title>
     <url>/e7f20ebf.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Xeon(至强) E5-2650 v4<br>主板 超微 X10DAI ( Wellsburg )<br>内存 64 GB ( 三星 DDR4 2133MHz )<br>主硬盘 Lexar 500GB SSD ( 500 GB / 固态硬盘 )<br>主显卡 Nvidia Quadro P4000 ( 8 GB / Nvidia )<br>显示器 惠科 HKC2701 T7000 DO ( 27 英寸 )<br>声卡 瑞昱 ALC888 @ 英特尔 Wellsburg 高保真音频<br>网卡 英特尔 I210 Gigabit Network Connection / 超微</p></blockquote><h5 id="配置分析"><a href="#配置分析" class="headerlink" title="配置分析"></a>配置分析</h5><p><strong>CPU：Xeon(至强) E5-2650 v4</strong></p><blockquote><p>速度 2.20 GHz (100 MHz x 22.0)<br>处理器数量 核心数: 12 / 线程数: 24<br>核心代号 Broadwell-E</p></blockquote><p><img src="/images/pasted-72.png" alt="upload successful"></p><p>单个CPU，Broadwell-E核心，OC引导可按HEDT配置来做。</p><p><strong>主板：超微 X10DAI</strong></p><blockquote><p>主板型号 超微 X10DAI<br>芯片组 Wellsburg<br>序列号 NM173S017916<br>主板版本 1.02<br>BIOS版本 American Megatrends Inc. 3.2 / BIOS程序发布日期: 12/16/2019</p></blockquote><p><img src="/images/pasted-73.png" alt="upload successful"></p><p>超微X10DAI，之前己经用CLOVER安装过，这次选用OC，估全部重新来过。需要注意，主板需要升级为最新的3.2版本BIOS，超微X10DAI是X99芯片组。</p><p><strong>显卡：Nvidia Quadro P4000</strong></p><p><img src="/images/pasted-75.png" alt="upload successful"></p><p>专业卡，但N卡只能安装macos 10.13.6。</p><p><strong>声卡，网卡，USB</strong><br><img src="/images/pasted-74.png" alt="upload successful"><br>声卡是ALC888,APPLEALC ID为1即可，但仍需要用SSDTTIME生成SSDT-HPET.aml，否则认不出声卡。网卡有个万兆的，有两个千兆的，都可以驱动，USB需要注放X99的USB KEXTS，但一般来说够用。</p><h5 id="引导，系统版本"><a href="#引导，系统版本" class="headerlink" title="引导，系统版本"></a>引导，系统版本</h5><ul><li>OPENCORE 5.9</li><li>MACOS high sierra 10.13.6</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><p><a href="http://pay.k61.org/share_1463.html" target="_blank" rel="noopener">E5-2650 v4 超微 X10DAI Quadro P4000 黑苹果OC引导 10.13.6.zip</a></p><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p><img src="/images/pasted-76.png" alt="upload successful"></p><p>Above 4G 开启，这个BIOS没有CFG可以关，也没有CSM选项。</p><h5 id="常见错误"><a href="#常见错误" class="headerlink" title="常见错误"></a>常见错误</h5><p>1，卡在end randomseed<br><img src="/images/pasted-77.png" alt="upload successful"><br>没有正确地填入FAKECPUID</p><p>2，卡在please go to <a href="https://panic.apple.com" target="_blank" rel="noopener">https://panic.apple.com</a> to report this panic<br><img src="/images/pasted-78.png" alt="upload successful"><br>超微x10dai加Broadwell-E核心配置最常见的错误，这个要根据系统的版本相应地仿冒CPU ID，否则系统是不认这个CPU的。</p><h5 id="安装完成"><a href="#安装完成" class="headerlink" title="安装完成"></a>安装完成</h5><p><img src="/images/pasted-79.png" alt="upload successful"></p><p><img src="/images/pasted-80.png" alt="upload successful"></p><p><img src="/images/pasted-81.png" alt="upload successful"></p>]]></content>
@@ -244,9 +252,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1209,8 +1217,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1440,8 +1448,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3035,9 +3043,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3078,8 +3086,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3271,9 +3279,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3583,8 +3591,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
