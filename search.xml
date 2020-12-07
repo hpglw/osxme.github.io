@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Dell Vostro 5470 i5-4210U 核显 声卡 有线网卡 触控板 电池电量 蓝牙 黑苹果引导OC 10.14.6</title>
+    <url>/590be7f7.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-91.png" alt="upload successful"></p><p><img src="/images/pasted-92.png" alt="upload successful"></p><p>EFI下载：<br><a href="http://pay.k61.org/share_1466.html" target="_blank" rel="noopener">Dell Vostro 5470 i5-4210U 核显 声卡 有线网卡 触控板 电池电量 蓝牙 黑苹果引导OC 10.14.6</a></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>再装超微X10DAi主板黑苹果系统配E5 2643 V3工程版CPU</title>
+    <url>/7df6c1ca.html</url>
+    <content><![CDATA[<p>又来安装一台超微X10DAI主板工作站配置，这次有很大不同的硬件搭配。先来看一下鲁大师：</p><h6 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h6><p><img src="/images/pasted-87.png" alt="upload successful"></p><p>CPU未识别，但型号是E5 2643 V3，这是一个工程版CPU，Haswell-e核心，请注意，黑苹果系统是不认这个CPU,这个需要在OC引导中配置一下。</p><p>主板没什么好说的了，X10DAI，一定要刷官方的3.2 BIOS版本。有个问题就是，主板有NVME接口，这台配置是有NVME三星硬盘的，但不能作为系统引导盘，所以OC引导需要放在其它硬盘上。虽不能作为引导盘，但可以作为系统盘的，只要进了OC引导，就能识别这块硬盘，有点奇葩的。</p><p>显卡是GTX 970，没什么好说的，MACOS 10.13.6伺候。</p><p>其它显示器是4K的，没什么特别。</p><p>以上就是这一台超微X10DAI配置，只需要注意CPU和NVME硬盘，其它按以前的超微X10DAI配置来做就可以。</p><h6 id="引导，系统"><a href="#引导，系统" class="headerlink" title="引导，系统"></a>引导，系统</h6><ul><li>OPENCORE 5.9</li><li>MACOS high sierra 10.13.6</li></ul><p>BIOS设置和常见错误，可以参考这个<br><a href="http://k61.org/e7f20ebf.html">http://k61.org/e7f20ebf.html</a></p><p>安装完成图：</p><p><img src="/images/pasted-88.png" alt="upload successful"><br><img src="/images/pasted-89.png" alt="upload successful"><br><img src="/images/pasted-90.png" alt="upload successful"></p><p>引导下载：<br><a href="http://pay.k61.org/share_1465.html" target="_blank" rel="noopener">E5 2643 V3（工程版）超微X10DAi GTX 970黑苹果引导OC 10.13.6系统 NVME硬盘</a></p>]]></content>
+      <categories>
+        <category>Supermicro_超微</category>
+      </categories>
+  </entry>
+  <entry>
     <title>300系主板安装黑苹果big sur卡Security policy loaded:apple System policy(ASP)</title>
     <url>/219efaa.html</url>
     <content><![CDATA[<p><strong>如图所示</strong></p><p><img src="/images/pasted-85.png" alt="upload successful"></p><p>300系主板配8代CPU，RX 590独显，安装黑苹果big sur卡在Security policy loaded:apple System policy(ASP)<br>rooti就不动了。这里确认OC引导没错的话，可以从BIOS设置入门<br>1，BIOS需要最新的版本<br>2，确认硬盘模式为AHCI<br>4，打开4G以上解码空间<br>5，打开所有USB的XHCI，HAND OFF等都打开<br>6，主板能关CSM的尽量关掉，不能关的表现为进了WIN才有显示，就不需要关。</p><p><img src="/images/pasted-86.png" alt="upload successful"></p>]]></content>
@@ -252,9 +269,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1217,8 +1234,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1448,8 +1465,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3043,9 +3060,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3086,8 +3103,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3279,9 +3296,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3561,9 +3578,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -3591,8 +3608,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
