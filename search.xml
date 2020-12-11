@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i7-7700 华硕B250G主板 RX580独显黑苹果引导OC 6.4安装Big Sur</title>
+    <url>/10340f39.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><p>i7-7700 华硕B250G主板 RX580</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><p>MACOS BIG SUR 11.0.1</p><p><img src="/images/pasted-96.png" alt="upload successful"></p><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><p><a href="http://pay.k61.org/share_1472.html" target="_blank" rel="noopener">i5-7400 华硕 STRIX B250G RX580黑苹果引导OC 6.4 Big Sur hackintosh</a></p>]]></content>
+      <categories>
+        <category>台式机</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>黑苹果10.13.6 FCPX剪辑绿屏 闪退 意外退出问题解决思路</title>
+    <url>/a7107690.html</url>
+    <content><![CDATA[<p>这是一台黑苹果主机的配置</p><p><img src="/images/pasted-94.png" alt="upload successful"></p><p>可以看到显卡是QUADRO的K2200，使用WEBDIRIVER驱动，可以安装macos 10.13.6。</p><p>目前遇到的问题是FCPX 10.4剪辑的时候，加上特效，转场，或者防抖动特效时，画面会变成绿点，绿块</p><p><img src="/images/pasted-95.png" alt="upload successful"></p><p>有时会闪退，自动退出，意外退出</p><p>主要是这两个问题。</p><p>解决的思路是</p><p>1，查看显卡的驱动是否最新，应应用最新的WhateverGreen.kext<br>2，CLOVER或者OC的版本更新到最新的版本<br>3，尝试更新不同的仿冒机型<br>4，FCPX的素材尽量不要使用局域网盘，放在本机硬盘上。<br>5，更新最新的网卡驱动。</p>]]></content>
+  </entry>
+  <entry>
     <title>黑苹果macos catalina 10.15.7运行剪映mac版闪退意外退出的问题</title>
     <url>/fae182b3.html</url>
     <content><![CDATA[<p><img src="/images/pasted-93.png" alt="upload successful"></p><p>白苹果不知道会不会，但目前发现黑苹果10.15.7系统运行剪映专业版存在意外退出的问题。无论开启核显，修复签名，调试驱动都无效，应该可以断定是兼容性问题。</p><p>建议解决方法，安装macos 10.14.6或者升级成big sur，后续可能软件会更新解决这个问题，但目前没有更好的解决方法。</p>]]></content>
@@ -277,9 +290,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1242,8 +1255,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1473,8 +1486,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3068,9 +3081,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3111,8 +3124,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3304,9 +3317,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3616,8 +3629,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
