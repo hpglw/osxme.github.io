@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</title>
+    <url>/eeb1bf86.html</url>
+    <content><![CDATA[<h1 id="什么是黑苹果恢复版？"><a href="#什么是黑苹果恢复版？" class="headerlink" title="什么是黑苹果恢复版？"></a>什么是黑苹果恢复版？</h1><p><img src="/images/pasted-105.png" alt="upload successful"></p><blockquote><p>类似于Windows的GHOST版本。黑苹果恢复版即安装好系统后，利用Paragon Hard Disk Manager软件对系统进行完整打包备份，从而生成一个完整的系统镜像。与Windows不同的是，macOS不会保留任何硬件信息和注册表，适用于不同硬件配置，当镜像恢复到硬盘或者分区之后，只需调好的EFI黑苹果引导，通常是CLOVER或者OPENCORE，引导成功即能直接进入到桌面，开始使用。</p></blockquote><hr><h1 id="恢复版的优点"><a href="#恢复版的优点" class="headerlink" title="恢复版的优点"></a>恢复版的优点</h1><ul><li>快速，节省时间和精力。省去了70%的安装和等待时间，通常使用U盘安装受限于传输率，安装步骤，耗时较长。</li><li>减少安装时的出错机率，由USB接口，U盘质量等等引导的安装问题，恢复版都不存在。</li><li>让双系统变得更为简单，同样适用于单系统。</li><li>U盘安装版与恢复版系统（安装完即打包）不会有任何区别。</li><li>简单使用，进入系统只需要改个密码，或者直接新建一个管理员账号即可，甚至什么都不用改，直接享用。</li><li>可以抛开系统，直接将精力放在研究EFI黑苹果引导上。</li></ul><hr><h1 id="安装流程"><a href="#安装流程" class="headerlink" title="安装流程"></a>安装流程</h1><ol><li>恢复镜像</li><li>网上寻找对应的EFI黑苹果引导，或者自行制作</li><li>将EFI引导文件放入ESP引导分区，建立引导项</li><li>设置BIOS</li><li>引导进系统，如出错，返回Windows调整EFI引导</li><li>进入系统，完成</li></ol><hr><h1 id="各版本恢复版镜像下载（包含工具）"><a href="#各版本恢复版镜像下载（包含工具）" class="headerlink" title="各版本恢复版镜像下载（包含工具）"></a>各版本恢复版镜像下载（包含工具）</h1><table><thead><tr><th>系统</th><th>版本</th><th>格式</th><th>大小</th><th>下载</th></tr></thead><tbody><tr><td>macOS High Sierra</td><td>10.13.6</td><td>APFS</td><td>7.55GB</td><td><a href="http://pay.k61.org/share_1467.html" target="_blank" rel="noopener">链接</a></td></tr><tr><td>macOS Mojave</td><td>10.14.6</td><td>APFS</td><td>8.42GB</td><td><a href="http://pay.k61.org/share_1468.html" target="_blank" rel="noopener">链接</a></td></tr><tr><td>macOS Catalina</td><td>10.15.7</td><td>APFS</td><td>10.89GB</td><td><a href="http://pay.k61.org/share_1469.html" target="_blank" rel="noopener">链接</a></td></tr><tr><td>macOS Big Sur</td><td>11.0</td><td>APFS</td><td>19GB</td><td><a href="http://pay.k61.org/share_1470.html" target="_blank" rel="noopener">链接</a></td></tr></tbody></table><hr><h1 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h1><h3 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h3><ol><li>Windows 10</li><li>GPT磁盘格式</li><li>UEFI引导</li><li>High Sierra和Mojave最少要求50G以上磁盘空间的单独分区或单个硬盘，Catalina及Big Sur需要60G以上单独分区或单个硬盘</li></ol><hr><h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><h5 id="1，下载镜像并解压，安装软件"><a href="#1，下载镜像并解压，安装软件" class="headerlink" title="1，下载镜像并解压，安装软件"></a>1，下载镜像并解压，安装软件</h5><p><img src="/images/pasted-106.png" alt="upload successful"></p><blockquote><p>包含的文件中，<strong>mac10xxx</strong>文件夹为镜像文件，请不要改名字。<strong>DiskGenius</strong>为分区和引导文件管理工具，<strong>EasyUEFI</strong>用于建立管理引导项，<strong>Pragon Hard Disk Manager 16</strong>安装文件，如果用于双系统，需要执行<strong>双系统时间同步补丁</strong>注册表脚本，这样两个系统切换时时间不会错误。另外，Big Sur需要<strong>Pragon Hard Disk Manager 17</strong>，己经在镜像包里包含。我们只需安装<strong>Pragon Hard Disk Manager</strong>即可，<strong>Pragon Hard Disk Manager 17</strong>还要安装文件夹里的<strong>UIM.msi</strong>。</p></blockquote><p><img src="/images/pasted-109.png" alt="upload successful"></p><hr><h5 id="2，磁盘分区"><a href="#2，磁盘分区" class="headerlink" title="2，磁盘分区"></a>2，磁盘分区</h5><blockquote><p>为黑苹果系统分出单独的分区，如果是整一个硬盘用来安装。则需要用<strong>DiskGenius</strong>把安装硬盘的原有分区都删掉，转换成GUID格式，并建立ESP分区。</p></blockquote><h6 id="2-1，单独分区"><a href="#2-1，单独分区" class="headerlink" title="2-1，单独分区"></a>2-1，单独分区</h6><p>我的电脑右键点“<strong>管理</strong>”，点击“<strong>磁盘管理</strong>”</p><p><img src="/images/pasted-110.png" alt="upload successful"></p><p>在需要划分黑苹果安装分区的磁盘分区上，点右键，选<strong>压缩卷</strong></p><p><img src="/images/pasted-111.png" alt="upload successful"></p><p>输入需要分区的大小，MB为单位，如120GB即120000MB，点<strong>压缩</strong></p><p><img src="/images/pasted-112.png" alt="upload successful"></p><p>这样就得到一个空白的分区，稍后会把镜像恢复到这个空白的分区上，你可以选任意的磁盘进行分区。</p><p><img src="/images/pasted-113.png" alt="upload successful"></p><hr><h6 id="2-2，整个硬盘"><a href="#2-2，整个硬盘" class="headerlink" title="2-2，整个硬盘"></a>2-2，整个硬盘</h6><blockquote><p>对于整个硬盘来安装黑苹果，通常来说引导和系统都会放在这个硬盘上，可以单独引导。需要用<strong>DiskGenius</strong>来操作。</p></blockquote><p>先把硬盘上的分区都删掉，得到一个空白的磁盘</p><p><img src="/images/pasted-114.png" alt="upload successful"></p><p>点右键，<strong>转换分区表类型为GUID</strong>，本身己经是GUID的忽略。</p><p><img src="/images/pasted-115.png" alt="upload successful"></p><p>点击磁盘，右键选“<strong>建立ESP/MSR分区</strong>”</p><p><img src="/images/pasted-116.png" alt="upload successful"></p><p>黑苹果不用MSR分区，然后点确定，即可建立ESP分区，ESP分区里面存放CLOVER或者OPENCORE的引导文件，BIOS会识别并开机引导。</p><p><img src="/images/pasted-117.png" alt="upload successful"></p><p>完成操作后点保存。</p><hr><h3 id="恢复镜像"><a href="#恢复镜像" class="headerlink" title="恢复镜像"></a>恢复镜像</h3><h5 id="1，Pragon-Hard-Disk-Manager-16-（High-Sierra，Mojave，Catalina）"><a href="#1，Pragon-Hard-Disk-Manager-16-（High-Sierra，Mojave，Catalina）" class="headerlink" title="1，Pragon Hard Disk Manager 16 （High Sierra，Mojave，Catalina）"></a>1，Pragon Hard Disk Manager 16 （High Sierra，Mojave，Catalina）</h5><p>打开Pragon Hard Disk Manager 16，选择“<strong>Restore backup</strong>”<br><img src="/images/pasted-118.png" alt="upload successful"></p><p>选择“<strong>Local volumes</strong>”本地磁盘，如果镜像放在移动设备，选择“<strong>External devices</strong>”<br><img src="/images/pasted-119.png" alt="upload successful"></p><p>依次点开恢复镜像所在文件夹，选中里面的<strong>mac10xxx.pfi</strong><br><img src="/images/pasted-120.png" alt="upload successful"></p><p>出现校验镜像，可以选择跳过<br><img src="/images/pasted-121.png" alt="upload successful"></p><p>选择源镜像分区，如图catalina<br><img src="/images/pasted-122.png" alt="upload successful"></p><p>选择需要恢复镜像的目标分区<br><img src="/images/pasted-123.png" alt="upload successful"></p><p>恢复前后预览，如果你的目标分标大于源镜像分区，将会有空闲空间出来，不急，进入macos后可用磁盘分区工具合并。<br><img src="/images/pasted-124.png" alt="upload successful"></p><p>最后点FINSH，即可开始恢复。<br><img src="/images/pasted-125.png" alt="upload successful"></p><p>恢复完毕之后，可关闭软件<br><img src="/images/pasted-126.png" alt="upload successful"></p><hr><h5 id="2，Pragon-Hard-Disk-Manager-17-（Big-Sur）"><a href="#2，Pragon-Hard-Disk-Manager-17-（Big-Sur）" class="headerlink" title="2，Pragon Hard Disk Manager 17 （Big Sur）"></a>2，Pragon Hard Disk Manager 17 （Big Sur）</h5><p>因为Pragon Hard Disk Manager 16不支持Big Sur的磁盘格式，所以需要Pragon Hard Disk Manager 17来恢复，操作大同小异。</p><p>打开Pragon Hard Disk Manager 17，点“<strong>Restore Form file</strong>”<br><img src="/images/pasted-127.png" alt="upload successful"></p><p>点再左边的“<strong>Restore</strong>”选择镜像所在的mac11文件夹<br><img src="/images/pasted-128.png" alt="upload successful"></p><p>点右边的“<strong>Select destination</strong>”选择目标磁盘分区<br><img src="/images/pasted-129.png" alt="upload successful"></p><p>然后直接点<strong>Restore now</strong>即可开始恢复镜像。</p><hr>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>微星GE62 2QD-647XCN笔记本安装黑苹果catalina 10.15.7 完美OC引导 hackintosh</title>
     <url>/f431073e.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Intel 酷睿i7 5700HQ<br>8G内存<br>NVIDIA GeForce GTX 960M＋Intel GMA HD 5600<br>SSD 512GB</p></blockquote><p><img src="/images/pasted-98.png" alt="upload successful"><br><img src="/images/pasted-99.png" alt="upload successful"><br><img src="/images/pasted-100.png" alt="upload successful"><br><img src="/images/pasted-102.png" alt="upload successful"></p><h5 id="引导-系统"><a href="#引导-系统" class="headerlink" title="引导,系统"></a>引导,系统</h5><ul><li>OPENCORE 0.6.4</li><li>MACOS CATALINA 10.15.7(支持BIG SUR)</li></ul><p><img src="/images/pasted-101.png" alt="upload successful"></p><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>USB设置：EHCI HAND-OFF:开启</li><li>启动 &gt; 快速启动：关闭，启动模式:UEFI</li><li>安全性 &gt; 安全启动菜单 &gt; 安全启动：关闭，安全启动模式：自定</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><p><a href="http://pay.k61.org/share_1473.html" target="_blank" rel="noopener">微星ge62 2qd 647 I7 5700HQ 核显 声卡 WIFI 蓝牙 触控板 电池 OC 6.4 10.15.7系统.zip</a></p><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>ALC892声卡</li><li>E2200有线网卡</li><li>INTEL WIFI</li><li>蓝牙</li><li>触控板多指手势</li><li>电池电量</li><li>HIDPI</li><li>变频</li></ul><p><img src="/images/pasted-103.png" alt="upload successful"><br><img src="/images/pasted-104.png" alt="upload successful"></p><h5 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h5><p>CFG LOCK偏移值：setup_var 0x37</p>]]></content>
@@ -1837,9 +1845,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>GTX 1060</tag>
         <tag>i7-8700K</tag>
+        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -1880,9 +1888,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>i7-8700K</tag>
         <tag>GTX 1080 Ti</tag>
+        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -1988,8 +1996,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>i7-8700K</tag>
+        <tag>Z370</tag>
         <tag>Radeon</tag>
       </tags>
   </entry>
@@ -2445,9 +2453,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>GTX 1060</tag>
         <tag>i7-8700K</tag>
+        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -2837,9 +2845,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z370</tag>
         <tag>华硕</tag>
         <tag>GTX 1080 Ti</tag>
+        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -3043,8 +3051,8 @@
       </categories>
       <tags>
         <tag>B85M</tag>
-        <tag>RX 470</tag>
         <tag>技嘉</tag>
+        <tag>RX 470</tag>
         <tag>i5-4590</tag>
       </tags>
   </entry>
