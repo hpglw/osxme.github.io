@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微星GE62 2QD-647XCN笔记本安装黑苹果catalina 10.15.7 完美OC引导 hackintosh</title>
+    <url>/f431073e.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Intel 酷睿i7 5700HQ<br>8G内存<br>NVIDIA GeForce GTX 960M＋Intel GMA HD 5600<br>SSD 512GB</p></blockquote><p><img src="/images/pasted-98.png" alt="upload successful"><br><img src="/images/pasted-99.png" alt="upload successful"><br><img src="/images/pasted-100.png" alt="upload successful"><br><img src="/images/pasted-102.png" alt="upload successful"></p><h5 id="引导-系统"><a href="#引导-系统" class="headerlink" title="引导,系统"></a>引导,系统</h5><ul><li>OPENCORE 0.6.4</li><li>MACOS CATALINA 10.15.7(支持BIG SUR)</li></ul><p><img src="/images/pasted-101.png" alt="upload successful"></p><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>USB设置：EHCI HAND-OFF:开启</li><li>启动 &gt; 快速启动：关闭，启动模式:UEFI</li><li>安全性 &gt; 安全启动菜单 &gt; 安全启动：关闭，安全启动模式：自定</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><p><a href="http://pay.k61.org/share_1473.html" target="_blank" rel="noopener">微星ge62 2qd 647 I7 5700HQ 核显 声卡 WIFI 蓝牙 触控板 电池 OC 6.4 10.15.7系统.zip</a></p><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>ALC892声卡</li><li>E2200有线网卡</li><li>INTEL WIFI</li><li>蓝牙</li><li>触控板多指手势</li><li>电池电量</li><li>HIDPI</li><li>变频</li></ul><p><img src="/images/pasted-103.png" alt="upload successful"><br><img src="/images/pasted-104.png" alt="upload successful"></p><h5 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h5><p>CFG LOCK偏移值：setup_var 0x37</p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>MSI_微星</category>
+      </categories>
+  </entry>
+  <entry>
     <title>i3-4025u杂牌mini小主机安装黑苹果Catalina 10.15.7 HDMI 核显 声卡驱动 hackintosh</title>
     <url>/2e5aa10f.html</url>
     <content><![CDATA[<p>己发视频：<a href="https://www.ixigua.com/6904887688415937035/" target="_blank" rel="noopener">https://www.ixigua.com/6904887688415937035/</a></p><h5 id="配置："><a href="#配置：" class="headerlink" title="配置："></a>配置：</h5><blockquote><p>电脑型号 X64 兼容 笔记本电脑<br>操作系统 Windows 10 Enterprise 64位（Version 2004 / DirectX 12）<br>处理器 英特尔 第四代酷睿 i3-4025U 双核<br>主板 英特尔 CRESCENTBAY（Lynx Point-LP）<br>显卡 英特尔 Haswell-ULT Integrated Graphics Controller ( 112 MB / 英特尔 )<br>内存 4 GB ( 镁光 DDR3L 1600MHz )<br>主硬盘 SATA SSD ( 128 GB / 固态硬盘 )<br>显示器 三星 SAM0C10 S24E360 ( 23.5 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio Controller<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller</p></blockquote><p><img src="/images/pasted-97.png" alt="upload successful"></p><p>只有核显，支持HDMI输出，BIOS的设置看上面的视频。</p><p>很难装，远程安装基本没希望。</p><p>己安装macos catalina 10.15.7,用的是恢复版</p><p>核显支持加速 但只能支持1080P分辨率</p><p>声卡正常驱动</p><p>有线网卡驱动</p><p>引导采用OC 0.5.9</p><p>内置无线网卡无解，USB端口全部正常。</p><p>这是一台杂牌的MINI小主机，最难的地方是核显的驱动，目前测试过10.14.6和10.13.6的系统，都进不了，只有10.15.7可以进，开始进系统会卡在一个地方比较长时间，大概2到3分钟，过后正常进系统。</p><p>引导下载：<br><a href="http://pay.k61.org/share_1471.html" target="_blank" rel="noopener">mini小主机 i3-4025u hd4400 黑苹果引导OC 10.15.7 hackintosh.zip</a></p>]]></content>
@@ -298,9 +307,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1263,8 +1272,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1494,8 +1503,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3089,9 +3098,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3132,8 +3141,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3325,9 +3334,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3637,8 +3646,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
