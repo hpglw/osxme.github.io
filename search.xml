@@ -1620,8 +1620,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i7-8700</tag>
         <tag>UHD 630</tag>
+        <tag>i7-8700</tag>
       </tags>
   </entry>
   <entry>
@@ -1845,9 +1845,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>Z370</tag>
         <tag>GTX 1060</tag>
         <tag>i7-8700K</tag>
-        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -1888,9 +1888,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>Z370</tag>
         <tag>i7-8700K</tag>
         <tag>GTX 1080 Ti</tag>
-        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -1996,8 +1996,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i7-8700K</tag>
         <tag>Z370</tag>
+        <tag>i7-8700K</tag>
         <tag>Radeon</tag>
       </tags>
   </entry>
@@ -2410,8 +2410,8 @@
       <tags>
         <tag>B360</tag>
         <tag>Catalina</tag>
-        <tag>i7-8700</tag>
         <tag>UHD 630</tag>
+        <tag>i7-8700</tag>
       </tags>
   </entry>
   <entry>
@@ -2453,9 +2453,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>Z370</tag>
         <tag>GTX 1060</tag>
         <tag>i7-8700K</tag>
-        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -2845,9 +2845,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>Z370</tag>
         <tag>华硕</tag>
         <tag>GTX 1080 Ti</tag>
-        <tag>Z370</tag>
       </tags>
   </entry>
   <entry>
@@ -3051,8 +3051,8 @@
       </categories>
       <tags>
         <tag>B85M</tag>
-        <tag>技嘉</tag>
         <tag>RX 470</tag>
+        <tag>技嘉</tag>
         <tag>i5-4590</tag>
       </tags>
   </entry>
@@ -3624,9 +3624,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
