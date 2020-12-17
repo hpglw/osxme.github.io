@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i5-4590+华硕H81M-K+RX 560台式机黑苹果引导OC 6.4安装BIG SUR11.0.1</title>
+    <url>/af5ebb98.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>CPU：i5-4590<br>主板：华硕H81M-K<br>内存：8G<br>显卡：RX 560蓝宝石<br>显示器：1080P<br>硬盘:128GB<br>网卡：Realtek 1000M<br>声卡：ALC887</p><p><img src="/images/pasted-137.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li><li>catalina 10.15.7</li><li>big sur 11.0.1(当前安装)</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1477.html" target="_blank" rel="noopener">i5-4590+华硕H81M-K+RX 560台式机黑苹果引导OC 6.4 BIG SUR.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p>高级 &gt; CPU设置 &gt;关闭CFG LOCK<br>SATA 模式：AHCI<br>USB设置：EHCI 开启<br>快速启动：关闭<br>CSM启动设备：仅UEFI<br>安全启动模式：其它操作系统</p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>戴尔OptiPlex 7060安装黑苹果 i7-8700 核显 声卡 有线网卡驱动 catalina 10.15.7 OC 6.4引导</title>
     <url>/4741aaea.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔OptiPlex 7060<br>CPU：i7-8700<br>内存：16G<br>显卡：UHD630<br>显示器：1080P<br>硬盘:256GB<br>网卡：INTEL有线网卡<br>声卡：ALC255</p></blockquote><p><img src="/images/pasted-135.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li><li>catalina 10.15.7（当前安装）</li><li>big sur（未测试，应该支持）</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1476.html" target="_blank" rel="noopener">戴尔OptiPlex 7060 i7-8700 核显 声卡 有线网卡 10.15.7 OC 6.4.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>General → Advanced Boot Options: uncheck</li><li>System Configuration → SATA Operation: AHCI</li><li>Secure Boot → Secure Boot Enable: Disabled</li><li>Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled</li><li>Power Management → Block Sleep: check</li><li>Virtualization Support → VT for Direct I/O: uncheck</li></ul><h5 id="改DVMT-64M和关闭CFG（必须修改）"><a href="#改DVMT-64M和关闭CFG（必须修改）" class="headerlink" title="改DVMT 64M和关闭CFG（必须修改）"></a>改DVMT 64M和关闭CFG（必须修改）</h5><p>参数：<br>DVMT to 64M: setup_var 0x8DC 0x02<br>Disable CFG lock: setup_var 0x5BE 0x00</p><p>用modGRUBShell.efi工具修复，详情百度</p>]]></content>
@@ -337,9 +346,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1302,8 +1311,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1533,8 +1542,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2304,8 +2313,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>i7-8700</tag>
         <tag>Catalina</tag>
+        <tag>i7-8700</tag>
         <tag>RX 570</tag>
       </tags>
   </entry>
@@ -2415,8 +2424,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B360M</tag>
         <tag>Catalina</tag>
+        <tag>B360M</tag>
         <tag>i5-9400F</tag>
         <tag>RX 570</tag>
       </tags>
@@ -2431,8 +2440,8 @@
       </categories>
       <tags>
         <tag>B360</tag>
-        <tag>i7-8700</tag>
         <tag>Catalina</tag>
+        <tag>i7-8700</tag>
         <tag>UHD 630</tag>
       </tags>
   </entry>
@@ -2868,8 +2877,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>GTX 1080 Ti</tag>
         <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -3128,9 +3137,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3171,8 +3180,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3364,9 +3373,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3646,9 +3655,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -3676,8 +3685,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3737,8 +3746,8 @@
       </categories>
       <tags>
         <tag>EliteBook</tag>
-        <tag>惠普</tag>
         <tag>HP</tag>
+        <tag>惠普</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
       </tags>
