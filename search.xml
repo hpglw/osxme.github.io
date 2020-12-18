@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>e5-4672 v2+超微X9DAI+vega 56安装黑苹果catalina 10.15.7 OC 0.6.4引导</title>
+    <url>/df92b512.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>超微supermirco x9dai<br>CPU：e5 4627 v2双CPU<br>内存：128G<br>显卡：amd vega 56<br>显示器：4kx2<br>硬盘:1024GB<br>网卡：i350双网卡<br>声卡：关闭</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><p><img src="/images/pasted-138.png" alt="upload successful"></p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7（当前安装）<br>不支持big sur</li></ul><p><img src="/images/pasted-139.png" alt="upload successful"><br><img src="/images/pasted-140.png" alt="upload successful"></p><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1478.html" target="_blank" rel="noopener">e5-4672 v2+超微X9DAI+vega 56黑苹果10.15.7 OC0.6.4引导.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="bios设置"><a href="#bios设置" class="headerlink" title="bios设置"></a>bios设置</h5><ul><li>above 4g:默认保证关闭</li><li>sata模式：AHCI<br>其它基本上没什么可以设置的</li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显（硬解加速）</li><li>有线网卡（I350 FIX TEAMVIEWER）</li><li>三码</li><li>NVME硬盘</li><li>USB2 外挂NEC USB3</li></ul><h5 id="未解决"><a href="#未解决" class="headerlink" title="未解决"></a>未解决</h5><ul><li>CPU变频</li></ul>]]></content>
+      <categories>
+        <category>Supermicro_超微</category>
+      </categories>
+  </entry>
+  <entry>
     <title>i5-4590+华硕H81M-K+RX 560台式机黑苹果引导OC 6.4安装BIG SUR11.0.1</title>
     <url>/af5ebb98.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>CPU：i5-4590<br>主板：华硕H81M-K<br>内存：8G<br>显卡：RX 560蓝宝石<br>显示器：1080P<br>硬盘:128GB<br>网卡：Realtek 1000M<br>声卡：ALC887</p><p><img src="/images/pasted-137.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li><li>catalina 10.15.7</li><li>big sur 11.0.1(当前安装)</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1477.html" target="_blank" rel="noopener">i5-4590+华硕H81M-K+RX 560台式机黑苹果引导OC 6.4 BIG SUR.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p>高级 &gt; CPU设置 &gt;关闭CFG LOCK<br>SATA 模式：AHCI<br>USB设置：EHCI 开启<br>快速启动：关闭<br>CSM启动设备：仅UEFI<br>安全启动模式：其它操作系统</p>]]></content>
@@ -1033,8 +1041,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GTX 1060</tag>
         <tag>Z170</tag>
+        <tag>GTX 1060</tag>
         <tag>i7-6700</tag>
       </tags>
   </entry>
@@ -1311,8 +1319,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1542,8 +1550,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -1906,8 +1914,8 @@
       </categories>
       <tags>
         <tag>RX 580</tag>
-        <tag>H110M</tag>
         <tag>i5-6500</tag>
+        <tag>H110M</tag>
       </tags>
   </entry>
   <entry>
@@ -3180,8 +3188,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3373,9 +3381,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3655,9 +3663,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -3685,8 +3693,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3746,8 +3754,8 @@
       </categories>
       <tags>
         <tag>EliteBook</tag>
-        <tag>HP</tag>
         <tag>惠普</tag>
+        <tag>HP</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
       </tags>
@@ -3761,8 +3769,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GTX 1060</tag>
         <tag>Z170</tag>
+        <tag>GTX 1060</tag>
         <tag>i7-6700K</tag>
       </tags>
   </entry>
