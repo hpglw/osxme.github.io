@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>神舟战神笔记本GK5CP5X GK5CP6X GK5CS黑苹果引导CATALINA 10.15.7 OC 6.3完美驱动</title>
+    <url>/314356c9.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-141.png" alt="upload successful"></p><blockquote><p>神舟战神笔记本GK5CP5X GK5CP6X GK5CS<br>CPU：i5-9300H<br>内存：8G<br>显卡：UHD630+GTX 1650(需屏蔽)<br>显示器：1080P<br>硬盘:512GB<br>网卡：REALTEK有线网卡,INTEL 9462无线网卡<br>声卡：ALC269</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.3</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7（当前安装，未测试BIG SUR）</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1479.html" target="_blank" rel="noopener">神舟战神GK5CP5X GK5CP6X GK5CS黑苹果引导CATALINA 10.15.7 OC 6.3完美.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>Security &gt; Secure Boot &gt; Disabled</li></ul><h5 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h5><p>驱动INTEL无线需要安装HeliPort.dmg<br>如无法登录ICLOUD和商店<br>终端执行：<br><br><code>sudo rm /Library/Preferences/SystemConfiguration/NetworkInterfaces.plist</code><br><br><code>sudo rm /Library/Preferences/SystemConfiguration/preferences.plist</code></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Hasee_神舟</category>
+      </categories>
+  </entry>
+  <entry>
     <title>e5-4672 v2+超微X9DAI+vega 56安装黑苹果catalina 10.15.7 OC 0.6.4引导</title>
     <url>/df92b512.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>超微supermirco x9dai<br>CPU：e5 4627 v2双CPU<br>内存：128G<br>显卡：amd vega 56<br>显示器：4kx2<br>硬盘:1024GB<br>网卡：i350双网卡<br>声卡：关闭</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><p><img src="/images/pasted-138.png" alt="upload successful"></p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7（当前安装）<br>不支持big sur</li></ul><p><img src="/images/pasted-139.png" alt="upload successful"><br><img src="/images/pasted-140.png" alt="upload successful"></p><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1478.html" target="_blank" rel="noopener">e5-4672 v2+超微X9DAI+vega 56黑苹果10.15.7 OC0.6.4引导.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="bios设置"><a href="#bios设置" class="headerlink" title="bios设置"></a>bios设置</h5><ul><li>above 4g:默认保证关闭</li><li>sata模式：AHCI<br>其它基本上没什么可以设置的</li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显（硬解加速）</li><li>有线网卡（I350 FIX TEAMVIEWER）</li><li>三码</li><li>NVME硬盘</li><li>USB2 外挂NEC USB3</li></ul><h5 id="未解决"><a href="#未解决" class="headerlink" title="未解决"></a>未解决</h5><ul><li>CPU变频</li></ul>]]></content>
@@ -20,7 +29,7 @@
   <entry>
     <title>戴尔OptiPlex 7060安装黑苹果 i7-8700 核显 声卡 有线网卡驱动 catalina 10.15.7 OC 6.4引导</title>
     <url>/4741aaea.html</url>
-    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔OptiPlex 7060<br>CPU：i7-8700<br>内存：16G<br>显卡：UHD630<br>显示器：1080P<br>硬盘:256GB<br>网卡：INTEL有线网卡<br>声卡：ALC255</p></blockquote><p><img src="/images/pasted-135.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li><li>catalina 10.15.7（当前安装）</li><li>big sur（未测试，应该支持）</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1476.html" target="_blank" rel="noopener">戴尔OptiPlex 7060 i7-8700 核显 声卡 有线网卡 10.15.7 OC 6.4.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>General → Advanced Boot Options: uncheck</li><li>System Configuration → SATA Operation: AHCI</li><li>Secure Boot → Secure Boot Enable: Disabled</li><li>Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled</li><li>Power Management → Block Sleep: check</li><li>Virtualization Support → VT for Direct I/O: uncheck</li></ul><h5 id="改DVMT-64M和关闭CFG（必须修改）"><a href="#改DVMT-64M和关闭CFG（必须修改）" class="headerlink" title="改DVMT 64M和关闭CFG（必须修改）"></a>改DVMT 64M和关闭CFG（必须修改）</h5><p>参数：<br>DVMT to 64M: setup_var 0x8DC 0x02<br>Disable CFG lock: setup_var 0x5BE 0x00</p><p>用modGRUBShell.efi工具修复，详情百度</p>]]></content>
+    <content><![CDATA[<p>视频地址：<a href="https://www.ixigua.com/i6907442346875585031/" target="_blank" rel="noopener">https://www.ixigua.com/i6907442346875585031/</a></p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔OptiPlex 7060<br>CPU：i7-8700<br>内存：16G<br>显卡：UHD630<br>显示器：1080P<br>硬盘:256GB<br>网卡：INTEL有线网卡<br>声卡：ALC255</p></blockquote><p><img src="/images/pasted-135.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li><li>catalina 10.15.7（当前安装）</li><li>big sur（未测试，应该支持）</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1476.html" target="_blank" rel="noopener">戴尔OptiPlex 7060 i7-8700 核显 声卡 有线网卡 10.15.7 OC 6.4.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>General → Advanced Boot Options: uncheck</li><li>System Configuration → SATA Operation: AHCI</li><li>Secure Boot → Secure Boot Enable: Disabled</li><li>Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled</li><li>Power Management → Block Sleep: check</li><li>Virtualization Support → VT for Direct I/O: uncheck</li></ul><h5 id="改DVMT-64M和关闭CFG（必须修改）"><a href="#改DVMT-64M和关闭CFG（必须修改）" class="headerlink" title="改DVMT 64M和关闭CFG（必须修改）"></a>改DVMT 64M和关闭CFG（必须修改）</h5><p>参数：<br>DVMT to 64M: setup_var 0x8DC 0x02<br>Disable CFG lock: setup_var 0x5BE 0x00</p><p>用modGRUBShell.efi工具修复，详情百度</p>]]></content>
       <categories>
         <category>台式机</category>
       </categories>
@@ -354,9 +363,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1914,8 +1923,8 @@
       </categories>
       <tags>
         <tag>RX 580</tag>
-        <tag>i5-6500</tag>
         <tag>H110M</tag>
+        <tag>i5-6500</tag>
       </tags>
   </entry>
   <entry>
@@ -3145,9 +3154,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
