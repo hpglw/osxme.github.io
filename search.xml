@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>铭瑄终结者GTX 1060 6g无法安装黑苹果</title>
+    <url>/db4a7f70.html</url>
+    <content><![CDATA[<p>经过老吴测试，铭瑄终结者GTX 1060 6g版独显是无法安装黑苹果的，在macos 10.13.6下无法驱动。<br>如图所示，就是这张：</p><p><img src="/images/pasted-142.png" alt="upload successful"></p><p>如果有这显卡的想装黑苹果，最好更换吧，己确定无法驱动了。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>神舟战神笔记本GK5CP5X GK5CP6X GK5CS黑苹果引导CATALINA 10.15.7 OC 6.3完美驱动</title>
     <url>/314356c9.html</url>
     <content><![CDATA[<p>视频安装：<a href="https://www.ixigua.com/6907458718992957956/" target="_blank" rel="noopener">https://www.ixigua.com/6907458718992957956/</a></p><p><img src="/images/pasted-141.png" alt="upload successful"></p><blockquote><p>神舟战神笔记本GK5CP5X GK5CP6X GK5CS<br>CPU：i5-9300H<br>内存：8G<br>显卡：UHD630+GTX 1650(需屏蔽)<br>显示器：1080P<br>硬盘:512GB<br>网卡：REALTEK有线网卡,INTEL 9462无线网卡<br>声卡：ALC269</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.3</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7（当前安装，未测试BIG SUR）</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1479.html" target="_blank" rel="noopener">神舟战神GK5CP5X GK5CP6X GK5CS黑苹果引导CATALINA 10.15.7 OC 6.3完美.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><ul><li>Security &gt; Secure Boot &gt; Disabled</li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>有线网卡</li><li>无线网卡</li><li>蓝牙</li><li>HIDPI</li><li>触控板多指手势</li><li>电池电量</li><li>变频</li><li>休眠</li></ul><h5 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h5><p>驱动INTEL无线需要安装HeliPort.dmg<br>如无法登录ICLOUD和商店<br>终端执行：<br><br><code>sudo rm /Library/Preferences/SystemConfiguration/NetworkInterfaces.plist</code><br><br><code>sudo rm /Library/Preferences/SystemConfiguration/preferences.plist</code></p>]]></content>
@@ -363,9 +371,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2709,8 +2717,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B85</tag>
         <tag>i7-4790</tag>
+        <tag>B85</tag>
         <tag>RX Vega 64</tag>
       </tags>
   </entry>
@@ -3154,9 +3162,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
