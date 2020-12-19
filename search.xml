@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【老吴黑苹果】持续整理各机型BIOS修改CFG-LOCK DVMT偏移值参数命令</title>
+    <url>/b1126654.html</url>
+    <content><![CDATA[<table><thead><tr><th>机型</th><th>CFG-LOCK</th><th>DVMT</th><th>其它</th></tr></thead><tbody><tr><td>外星人M17XR4</td><td></td><td>setup_var 0198 0x5</td><td></td></tr><tr><td>三星 730U3E 740U3E i5-3337U</td><td></td><td>setup_var 0x1F4 0x4</td><td></td></tr><tr><td>ThinkPad X1 CARBON 2ND</td><td></td><td>setup_var 0x35 0x4</td><td></td></tr><tr><td>华硕 TUF GAMING FX504GM_FX80GM</td><td>setup_var 0x5C0 0x00</td><td></td><td></td></tr><tr><td>Soarsea小主机 i9-9880H</td><td>setup_var 0x3E 0x00</td><td>setup_var 0xF5 0x2</td><td></td></tr><tr><td>华硕G731GV</td><td>setup_var 0x6F0 0x0</td><td>setup_var 0xA13 0x2</td><td></td></tr><tr><td>雷蛇i7-4702HQ GTX 870M HD4600核显3200X1800</td><td></td><td>setup_var 0x2AD 0x4</td><td></td></tr></tbody></table><blockquote><p>CFG-LOCK全部为关闭，DVMT为64MB以上</p></blockquote><h6 id="风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！"><a href="#风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！" class="headerlink" title="风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！"></a>风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！</h6>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>铭瑄终结者GTX 1060 6g无法安装黑苹果</title>
     <url>/db4a7f70.html</url>
     <content><![CDATA[<p>经过老吴测试，铭瑄终结者GTX 1060 6g版独显是无法安装黑苹果的，在macos 10.13.6下无法驱动。<br>如图所示，就是这张：</p><p><img src="/images/pasted-142.png" alt="upload successful"></p><p>如果有这显卡的想装黑苹果，最好更换吧，己确定无法驱动了。</p>]]></content>
