@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>戴尔Precision 7730笔记本 i7-8750h黑苹果引导oc 6.4 for big sur 11.0.1</title>
+    <url>/4b963f41.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-153.png" alt="upload successful"></p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔Precision 7730 i7-8750h<br>CPU：i7-8750h<br>内存：16G<br>显卡：UHD630+RADEON PRO WX 4150<br>显示器：2K<br>硬盘:256GB<br>网卡：INTEL有线+无线网卡<br>声卡：ALC</p></blockquote><p><img src="/images/pasted-154.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.0.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1482.html" target="_blank" rel="noopener">戴尔Precision 7730 i7-8750h黑苹果引导oc 6.4 for big sur 11.0.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>有线网卡</li><li>无线网卡</li><li>电池电量</li><li>触控板</li><li>蓝牙</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
     <title>雷蛇Razer Blade灵刃14 2017 i7-7700HQ GTX1060黑苹果引导OC6.4 for Big Sur 11.0.1 Hackintosh</title>
     <url>/c5ac7362.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>雷蛇Razer Blade灵刃14 2017<br>CPU:I7-7700HQ<br>内存：16G<br>硬盘：1TB三星NVME<br>显卡：HD 630+GTX 1060<br>显示屏：1080P<br>声卡：ALC298<br>无线网卡：更换为DW1560</p></blockquote><p><img src="/images/pasted-152.png" alt="upload successful"></p><p>安装视频：<a href="https://www.bilibili.com/video/BV16t4y167Mu/" target="_blank" rel="noopener">https://www.bilibili.com/video/BV16t4y167Mu/</a></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.0.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1481.html" target="_blank" rel="noopener">雷蛇Razer Blade灵刃14 2017 i7-7700HQ GTX1060黑苹果引导OC6.4 for Big Sur.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="BIOS设置"><a href="#BIOS设置" class="headerlink" title="BIOS设置"></a>BIOS设置</h5><p>首先需要刷己解锁的BIOS，如果不刷，无法关闭CFG LOCK和DVMT 64MB，这个引导可能无法使用。</p><p>进入BIOS后主要有两个，一是CPU电源管理里面，关闭CFG LOCK<br>二是显卡设置里将DVMT改为64MB，可以参考上面的视频，里面有BIOS设置的过程。</p><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>无线网卡</li><li>蓝牙</li><li>USB端口</li><li>雷电3（TYPE-C）</li><li>变频</li><li>休眠</li><li>触控板（基本）</li><li>摄像头</li><li>电池显示</li></ul><h5 id="未解决问题"><a href="#未解决问题" class="headerlink" title="未解决问题"></a>未解决问题</h5><ul><li>从WINDOWS重启进MACOS后声卡不出声，解决方法是关机再开直接进MACOS</li><li>触控板只有基本功能，不支持多指，设置面板里空白设置</li></ul>]]></content>
@@ -401,9 +410,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1366,8 +1375,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -1597,8 +1606,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2209,9 +2218,9 @@
         <category>台式机</category>
       </categories>
       <tags>
+        <tag>clover</tag>
         <tag>黑苹果引导</tag>
         <tag>黑苹果引导下载</tag>
-        <tag>clover</tag>
         <tag>clover EFI</tag>
       </tags>
   </entry>
@@ -3192,9 +3201,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3235,8 +3244,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3428,9 +3437,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -3740,8 +3749,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
