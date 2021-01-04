@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i5-6500+华硕 B150M-PLUS+RX 470安装黑苹果 Big Sur 11.1</title>
+    <url>/461eaa22.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>处理器 英特尔 Core i5-6500 @ 3.20GHz 四核<br>主板 华硕 B150M-PLUS ( 数值数据处理器 )<br>内存 8 GB ( DDR4 2133MHz )<br>主硬盘 英特尔 SSDSC2KW240H6 ( 240 GB / 固态硬盘 )<br>主显卡 Radeon (TM) RX 470 Graphics ( 3 GB )<br>显示器 戴尔 DEL413A DELL U2518D ( 25 英寸 )<br>光驱 华硕 DRW-24D5MT DVD刻录机<br>网卡 Intel(R) Ethernet Connection (2) I219-V</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1496.html" target="_blank" rel="noopener">i5-6500+华硕 B150M-PLUS+RX 470黑苹果引导OC6.4 for Big Sur 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>i7 2600K+华硕p8p67 rev3.1+蓝宝石RX 560台式机安装黑苹果Catalina 10.15.7</title>
     <url>/17b11a2b.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>华硕p8p67 rev3.1<br>CPU：i7 2600K<br>内存：8G<br>显卡：蓝宝石RX 560<br>显示器：1080P<br>硬盘:512GB<br>网卡：RTL8168网卡<br>声卡：ALC892</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 不支持这个CPU</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1495.html" target="_blank" rel="noopener">i7 2600K+华硕p8p67 rev3.1+蓝宝石RX 560黑苹果引导OC 6.4 for catalina 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>有线网卡</li></ul>]]></content>
@@ -578,9 +587,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3368,9 +3377,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
