@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>想用剪映专业版却没有MAC？黑苹果可以帮到你</title>
+    <url>/aa58a972.html</url>
+    <content><![CDATA[<p>相信很多视频爱好者和自媒体都对剪映情有独钟吧，简单方便，容易上手。相对FCPX和PR这种专业软件，剪映可谓神一般的存在，简单拖动几下，加特效，音乐还有字幕，都非常直接明了。尤其是自动加字幕功能，解决了多少自媒体的烦恼。最重要的是，素材免费，字体免费，连整个软件都是免费的，这可不要太好，要知道FCPX都要上千元，更别说PR了。</p><p><img src="/images/pasted-167.png" alt="upload successful"></p><p>但目前剪映专业版只支持MACOS，也就是电脑端。手机可以支持IOS和安卓，但对于自媒体来说，肯定电脑上操作方便快捷，手机也只能剪剪短视频。WINDOWS用户估计还得等，也只有MACOS才能更好发挥剪映的功能。</p><p><img src="/images/pasted-169.png" alt="upload successful"></p><p>但MAC电脑现在价格还是非常高的，己经有PC的人，又不想另外多买一台MAC，那么，黑苹果加WINDOWS双系统就完美解决了这个问题。</p><p><img src="/images/pasted-168.png" alt="upload successful"></p><p>剪映专业版对电脑的配置要求也不高，INTEL 3代以上的笔记本就可以安装到黑苹果catalina版本，4代以上可以安装big sur，完美运行剪映专业版。对性能要求高的，台式机可以加个AMD独显，充分加速剪映的剪辑速度。这样一台笔记本和台式机价格便宜，甚至千元以下的都可以。当然，AMD CPU平台就算了。目前连运行黑苹果都不太完美。</p><p>剪映支持10.14,也就是MOJAVE以上的系统，所以有NVIDIA独显的用户可能享受不了了，因为只能安装10.13.6版本HIGH SIERRA。</p><p>目前黑苹果的引导己经非常完美，至少对于剪映这样的软件来说，运行完美是没问题的，推荐安装CATALINA和BIG SUR。所以想用剪映专业版的，给自己装一个黑苹果系统吧。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>雷神THUNDEROBOT 911K安装黑苹果 big sur 11.1 hackintosh</title>
     <url>/73ca0e73.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>雷神THUNDEROBOT 911K<br>CPU：I7-7700HQ<br>内存：8G<br>显卡：HD630+GTX 1050TI<br>显示器：15寸 1080P<br>硬盘:256GB<br>网卡：INTEL 7265无线网卡（需要安装HeliPort）<br>声卡：ALC255</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><p><img src="/images/pasted-166.png" alt="upload successful"></p><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1497.html" target="_blank" rel="noopener">雷神THUNDEROBOT 911K黑苹果引导OC6.4 for big sur.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI（需要安装HeliPort）</li></ul>]]></content>
