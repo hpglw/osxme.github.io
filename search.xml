@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>台式机i7-10700+微星 MAG B460M BAZOOKA+RX 480安装黑苹果Big sur 11.1 </title>
+    <url>/4ab452e9.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i7-10700 @ 2.90GHz 八核<br>主板 微星 MAG B460M BAZOOKA (MS-7C83)（LPC Controller B460芯片组）<br>显卡 AMD Radeon RX 480 ( 8 GB / AMD )<br>内存 64 GB ( 酷兽 DDR4 3000MHz )<br>主硬盘 英特尔 SSDSA2M080G2GN ( 80 GB / 固态硬盘 )<br>显示器 HSM2800 B281UPH ( 27.9 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1501.html" target="_blank" rel="noopener">i7-10700+微星 MAG B460M BAZOOKA+RX 480台式机黑苹果引导OC for Big sur 11.1 .zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>双屏多屏</li></ul><p><img src="/images/pasted-171.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>台式机i7-8700+华硕 B360M-KYLIN +GTX 1060屏蔽独显核显安装黑苹果big sur 11.1引导OC6.4</title>
+    <url>/f0693beb.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>处理器 英特尔 Core i7-8700 @ 3.20GHz 六核<br>主板 华硕 B360M-KYLIN ( B360 芯片组 )<br>内存 16 GB ( 英睿达 DDR4 2666MHz )<br>主硬盘 CT480BX500SSD1 ( 480 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 1060 6GB ( 6 GB / 七彩虹 )<br>显示器 冠捷 AOC2490 Q2490W1 ( 23.8 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1500.html" target="_blank" rel="noopener">台式机i7-8700+华硕 B360M-KYLIN +GTX 1060屏蔽独显核显安装黑苹果big sur 11.1引导OC6.4.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li></ul><p>请注意：BIOS里的CSM一定要关闭</p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>联想 ThinkPad T450s i5-5300U黑苹果引导 for 10.14 10.15 11.1</title>
+    <url>/f336212b.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想 ThinkPad T450s<br>处理器 英特尔 Core i5-5300U @ 2.30GHz 双核<br>主板 联想 20BW000FUS ( 5th Generation Intel Core Premium SKU - 9CC3 笔记本芯片组 )<br>内存 12 GB ( 十铨 DDR3L 1600MHz )<br>主硬盘 西数 WDC PC SA530 SDASB8Y512G ( 512 GB / 固态硬盘 )<br>主显卡 英特尔 HD Graphics 5500 ( 128 MB / 联想 )<br>显示器 联想 LEN40A3 ( 14 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio Controller<br>网卡 英特尔 Ethernet Connection I218-LM / 联想</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 当前安装</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1499.html" target="_blank" rel="noopener">联想 ThinkPad T450s i5-5300U黑苹果引导 for 10.14 10.15 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul><h5 id="需要注意"><a href="#需要注意" class="headerlink" title="需要注意"></a>需要注意</h5><p>BIOS设置：</p><ul><li>Security Chip: Disabled;</li><li>Memory Protection -&gt; Execution Prevention: Enabled</li><li>Internal Device Access -&gt; Bottom Cover Tamper Detection：DISABLED</li><li>Anti-Theft -&gt; Current Setting: Disabled;</li><li>Anti-Theft -&gt; Computrace -&gt; Current Setting: Disabled;</li><li>UEFI/Legacy Boot: UEFI Only;</li><li>CSM Support: Yes.</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>联想 ThinkPad X230 i5-3320M笔记本安装黑苹果Mojave 10.14.6</title>
+    <url>/f7d88fc.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想 ThinkPad X230<br>处理器 英特尔 第三代酷睿 i5-3320M @ 2.60GHz 双核<br>主板 联想 23202C9 ( QM77 Express 芯片组 )<br>内存 8 GB ( 金镁迪 DDR3L 1600MHz )<br>主硬盘 SADAYU SSD 128GB ( 128 GB / 固态硬盘 )<br>显卡 英特尔 HD Graphics 4000 ( 64 MB / 联想 )<br>显示器 联想 LEN40E2 ( 12.7 英寸 )<br>声卡 瑞昱 ALC269 @ 英特尔 Panther Point High Definition Audio Controller<br>网卡 英特尔 82579LM Gigabit Network Connection / 联想</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.3</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 不支持</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1498.html" target="_blank" rel="noopener">联想 ThinkPad X230 i5-3320M黑苹果引导OC6.3 for Mojave.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>手势多指</li><li>休眠唤醒</li><li>摄像头</li></ul><p><img src="/images/pasted-170.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
     <title>想用剪映专业版却没有MAC？黑苹果可以帮到你</title>
     <url>/aa58a972.html</url>
     <content><![CDATA[<p>相信很多视频爱好者和自媒体都对剪映情有独钟吧，简单方便，容易上手。相对FCPX和PR这种专业软件，剪映可谓神一般的存在，简单拖动几下，加特效，音乐还有字幕，都非常直接明了。尤其是自动加字幕功能，解决了多少自媒体的烦恼。最重要的是，素材免费，字体免费，连整个软件都是免费的，这可不要太好，要知道FCPX都要上千元，更别说PR了。</p><p><img src="/images/pasted-167.png" alt="upload successful"></p><p>但目前剪映专业版只支持MACOS，也就是电脑端。手机可以支持IOS和安卓，但对于自媒体来说，肯定电脑上操作方便快捷，手机也只能剪剪短视频。WINDOWS用户估计还得等，也只有MACOS才能更好发挥剪映的功能。</p><p><img src="/images/pasted-169.png" alt="upload successful"></p><p>但MAC电脑现在价格还是非常高的，己经有PC的人，又不想另外多买一台MAC，那么，黑苹果加WINDOWS双系统就完美解决了这个问题。</p><p><img src="/images/pasted-168.png" alt="upload successful"></p><p>剪映专业版对电脑的配置要求也不高，INTEL 3代以上的笔记本就可以安装到黑苹果catalina版本，4代以上可以安装big sur，完美运行剪映专业版。对性能要求高的，台式机可以加个AMD独显，充分加速剪映的剪辑速度。这样一台笔记本和台式机价格便宜，甚至千元以下的都可以。当然，AMD CPU平台就算了。目前连运行黑苹果都不太完美。</p><p>剪映支持10.14,也就是MOJAVE以上的系统，所以有NVIDIA独显的用户可能享受不了了，因为只能安装10.13.6版本HIGH SIERRA。</p><p>目前黑苹果的引导己经非常完美，至少对于剪映这样的软件来说，运行完美是没问题的，推荐安装CATALINA和BIG SUR。所以想用剪映专业版的，给自己装一个黑苹果系统吧。</p>]]></content>
@@ -604,9 +640,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3394,9 +3430,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
