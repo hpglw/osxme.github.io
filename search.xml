@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>联想thinkpad x260 i5-6300u 黑苹果引导oc 6.5 for mojave</title>
+    <url>/5d39a45a.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-173.png" alt="upload successful"></p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想thinkpad x260<br>CPU：i5-6300u<br>内存：8G<br>显卡：HD520<br>显示器：1080P<br>硬盘:256GB<br>网卡：INTEL无线网卡<br>声卡：ALC</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 当前安装</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1504.html" target="_blank" rel="noopener">联想thinkpad x260 i5-6300u 黑苹果引导oc 6.5 for mojave.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔Inspiron 3647 i3-4150台式机安装黑苹果mojave 10.14.6</title>
+    <url>/34b4ce53.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔Inspiron 3647<br>CPU：i3-4150<br>内存：8G<br>显卡：HD4400+GTX 705（独显不支持）<br>硬盘:128GB<br>网卡：RTL8168/8111/8112 Gigabit Ethernet Controller（自带无线网卡不支持）<br>声卡：ALC662</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 当前安装</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1503.html" target="_blank" rel="noopener">戴尔Inspiron 3647 i3-4150台式机黑苹果引导OC 6.5 for mojave.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>黑苹果RTL8125有线网卡没有连接无法连接网络的问题</title>
+    <url>/3e6fc5c2.html</url>
+    <content><![CDATA[<p>需要1.0的新驱动：LucyRTL8125Ethernet.kext</p><p>链接: <a href="https://pan.baidu.com/s/1wY1SGoCrmlaIjD72_P9A1g" target="_blank" rel="noopener">https://pan.baidu.com/s/1wY1SGoCrmlaIjD72_P9A1g</a> 密码: 8asc</p><p>然后需要设置一下有线网卡的高级选项中的硬件部分，如下图<br><img src="/images/pasted-172.png" alt="upload successful"><br>需要这样自定义设置有线网卡高级选项的硬件设置才能连得上。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-10400F+微星 MAG B460M MORTAR+RX 580台式机安装黑苹果big sur 11.1</title>
+    <url>/ab38f116.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>处理器 英特尔 Core i5-10400F @ 2.90GHz 六核<br>主板 微星 MAG B460M MORTAR (MS-7C82) ( LPC Controller B460芯片组 )<br>内存 16 GB ( 金士顿 DDR4 2666MHz )<br>主硬盘 金士顿 SA2000M8250G ( 250 GB / 固态硬盘 )<br>主显卡 AMD Radeon RX 580 Series ( 4 GB / AMD )<br>显示器 惠科 HKC0000 ( 23.8 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 Realtek PCIe 2.5 GbE 系列控制器 / 微星</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容不建议</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1502.html" target="_blank" rel="noopener">i5-10400F 微星 MAG B460M MORTAR RX 580 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>双屏多屏</li></ul><p>有线网卡需要注意：<br><img src="/images/pasted-172.png" alt="upload successful"><br>需要这样自定义设置有线网卡高级选项的硬件设置才能连得上。</p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>台式机i7-10700+微星 MAG B460M BAZOOKA+RX 480安装黑苹果Big sur 11.1 </title>
     <url>/4ab452e9.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i7-10700 @ 2.90GHz 八核<br>主板 微星 MAG B460M BAZOOKA (MS-7C83)（LPC Controller B460芯片组）<br>显卡 AMD Radeon RX 480 ( 8 GB / AMD )<br>内存 64 GB ( 酷兽 DDR4 3000MHz )<br>主硬盘 英特尔 SSDSA2M080G2GN ( 80 GB / 固态硬盘 )<br>显示器 HSM2800 B281UPH ( 27.9 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1501.html" target="_blank" rel="noopener">i7-10700+微星 MAG B460M BAZOOKA+RX 480台式机黑苹果引导OC for Big sur 11.1 .zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>双屏多屏</li></ul><p><img src="/images/pasted-171.png" alt="upload successful"></p>]]></content>
