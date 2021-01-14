@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>远程安装戴尔 Inspiron 5593 i5-1035G1十代笔记本黑苹果系统BIG SUR 11.1</title>
+    <url>/26031213.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔 Inspiron 5593<br>处理器 英特尔 Core i5-1035G1 @ 1.00GHz 四核<br>主板 戴尔 0HP5Y9 ( I/O - 3482 for Intel 495 Series 芯片组 Family On-Package Platform Controller Hub )<br>内存 16 GB ( 麦光MG DDR4 2400MHz )<br>主硬盘 KBG40ZNS512G NVMe KIOXIA 512GB ( 512 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce MX230 ( 2 GB / 戴尔 )<br>显示器 京东方 BOE0819 ( 15.5 英寸 )<br>声卡 ALC236<br>网卡 英特尔 Wireless-AC 9560</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不支持</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1512.html" target="_blank" rel="noopener">戴尔 Inspiron 5593 i5-1035G1黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-178.png" alt="upload successful"><br><img src="/images/pasted-179.png" alt="upload successful"><br><img src="/images/pasted-180.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
     <title>远程安装联想 Lenovo 小新 310-14ISK i7-6500U笔记本黑苹果系统 big sur 11.1</title>
     <url>/6fdc0402.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想 Lenovo 小新 310-14ISK<br>处理器 英特尔 Core i7-6500U @ 2.50GHz 双核<br>主板 联想 Toronto 4A3 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 12 GB ( 三星 DDR4 3200MHz )<br>主硬盘 三星 SSD 860 EVO 250GB ( 250 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce 920MX ( 2 GB )<br>显示器 奇美 CMN14A9 ( 14 英寸 )<br>声卡 Conexant SmartAudio HD @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 联想</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1511.html" target="_blank" rel="noopener">联想 Lenovo 小新 310-14ISK i7-6500U黑苹果引导oc6.5 for big sur 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
@@ -725,9 +734,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3515,9 +3524,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
