@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Big Sur正式版11.1已经不再支持删除系统快照获得系统盘读写权限了</title>
+    <url>/ab682095.html</url>
+    <content><![CDATA[<p>老吴经过多次尝试，网上的方法都用过了。目前BIG SUR 11.1正式版本可以确认不能用现在的方法删除系统快照从而获得系统盘读写权限。</p><p>在MACOS恢复模式中挂载系统盘，然后删除快照会提示insufficient privileges权限不足，原因是快照名上面己经清楚写明purgeable:no，也就是不可删除！</p><p>假设己经无法再这个方法挂载系统盘，从而修改文件，那我们要做的，就反向加大安全性了，其实没什么需要往系统盘里加的，除了HIDPI，但目前一键HIDPI的作者己经更新了脚本，无须往系统盘里写东西，在这里：<br><a href="https://github.com/xzhih/one-key-hidpi" target="_blank" rel="noopener">https://github.com/xzhih/one-key-hidpi</a></p><p>玩黑苹果的，可能还是期待后续会有大神更新修改方法。但目前来说，还没有。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>远程安装联想 Lenovo YOGA 720-12IKB 81B5 i5-7200U黑苹果系统 BIG SUR 11.1</title>
     <url>/d8ac584a.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想 Lenovo YOGA 720-12IKB 81B5<br>处理器 英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板 联想 LNVNB161216 ( 7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存 4 GB ( DDR4 2133MHz )<br>主硬盘 建兴 CV3-8D256 ( 256 GB / 固态硬盘 )<br>主显卡 英特尔 HD Graphics 620 ( 128 MB / 联想 )<br>显示器 友达 AUO226D ( 12.5 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡 Atheros Qualcomm Atheros QCA9377 Wireless Network Adapter / 联想</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1515.html" target="_blank" rel="noopener">联想 Lenovo YOGA 720-12IKB 81B5 i5-7200U黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示（不准，只有显示）</li><li>键盘</li><li>触控板</li><li>触屏</li><li>亮度调节</li><li>蓝牙（需要热启动，从WINDOWS用蓝牙后再进MACOS才能用）</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>HDMI/DP外接输出</li></ul><p><img src="/images/pasted-183.png" alt="upload successful"></p>]]></content>
@@ -3307,8 +3315,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>GTX 1080 Ti</tag>
         <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -3902,8 +3910,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GIGABYTE</tag>
         <tag>i5-4570</tag>
+        <tag>GIGABYTE</tag>
         <tag>B85</tag>
         <tag>GTX 1050 Ti</tag>
       </tags>
