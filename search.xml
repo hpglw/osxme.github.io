@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>远程安装i9-9900K +华硕 TUF Z390-PLUS GAMING+RX 5500 XT台式机黑苹果CATALINA</title>
+    <url>/cf6c789f.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Razer Blade 14<br>处理器 英特尔 Core i9-9900K @ 3.60GHz 八核<br>主板 华硕 TUF Z390-PLUS GAMING (WI-FI) ( Z390 芯片组 )<br>内存 32 GB ( 海盗船 DDR4 3000MHz )<br>主硬盘 三星 MZVLB512HAJQ-00000 ( 512 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 5500 XT ( 8 GB / 蓝宝石 )<br>显示器 苹果 APP9227 LED Cinema ( 27.2 英寸 )<br>光驱 华硕 DRW-24D3ST DVD刻录机<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Wireless-AC 9560</p></blockquote><p>注意：该引导不含INTEL无线网卡驱动，因为客户使用的是博通免驱网卡，请到<a href="https://github.com/OpenIntelWireless查看如何驱动INTEL" target="_blank" rel="noopener">https://github.com/OpenIntelWireless查看如何驱动INTEL</a> WIFI。<br>一定要按下面引导下载中的安装教程设置BIOS，否则进不了系统，配置表上的PM981硬盘是不支持的，用来安装WINDOWS了，是用另一块金士顿的硬盘安装的黑苹果。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 当前安装</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1514.html" target="_blank" rel="noopener">i9-9900K 华硕 TUF Z390-PLUS GAMING RX 5500 XT 黑苹果引导OC6.5 FOR CATALINA 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>远程安装i3-10100+映泰 H410MH+核显黑苹果系统big sur 11.1</title>
     <url>/8c9103a6.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>处理器 英特尔 Core i3-10100 @ 3.60GHz 四核<br>主板 映泰 H410MH ( 英特尔 PCI 标准主机 CPU 桥 )<br>内存 8 GB ( Asgard DDR4 2400MHz )<br>主硬盘 MR SSD ( 192 GB / 固态硬盘 )<br>显卡 英特尔 UHD Graphics 630 ( 128 MB / 映泰 )<br>显示器 OOO0001 15.6’ monitor ( 15.6 英寸 )<br>声卡 ALC867<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 映泰</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1513.html" target="_blank" rel="noopener">i3-10100 映泰 H410MH 核显黑苹果引导oc6.5 for big sur 11.1 .zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>摄像头</li><li>WIFI蓝牙（博通免驱网卡）</li></ul>]]></content>
@@ -759,9 +768,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3549,9 +3558,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
