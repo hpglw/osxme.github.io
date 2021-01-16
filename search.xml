@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i3-10100 华硕 TUF GAMING B460M-PLUS (WI-FI) 单核显台式机安装黑苹果BIG SUR 11.1</title>
+    <url>/4372a0a8.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i3-10100 @ 3.60GHz 四核<br>主板 华硕 TUF GAMING B460M-PLUS (WI-FI) ( LPC Controller B460芯片组 )<br>内存 16 GB ( Asgard DDR4 3200MHz )<br>主硬盘 金士顿 SA1000M8240G ( 240 GB / 固态硬盘 )<br>主显卡 英特尔 UHD Graphics 630 ( 128 MB / 华硕 )<br>显示器 飞利浦 PHLC155 PHL 243V7 ( 23.8 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1517.html" target="_blank" rel="noopener">i3-10100 华硕 TUF GAMING B460M-PLUS (WI-FI) 核显黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>蓝牙</li><li>WIFI</li></ul><p><img src="/images/pasted-185.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-4570+华硕 B85M-G+GTX 1060安装黑苹果high sierra 10.13.6</title>
+    <url>/24df317a.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 第四代酷睿 i5-4570 @ 3.20GHz 四核<br>主板 华硕 B85M-G ( Lynx Point )<br>内存 8 GB ( 影驰 DDR3 1600MHz )<br>主硬盘 英特尔 SSDSC2BB240G4 ( 240 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 1060 6GB ( 6 GB / 微星 )<br>显示器 冠捷 AOC2579 2579 ( 24.9 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 Lynx Point 高保真音频<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>high sierra 10.13.6 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1516.html" target="_blank" rel="noopener">i5-4570 华硕 B85M-G GTX 1060黑苹果引导oc6.5 for high sierra 10.13.6.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>双屏多屏</li></ul><p><img src="/images/pasted-184.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Big Sur正式版11.1已经不再支持删除系统快照获得系统盘读写权限了</title>
     <url>/ab682095.html</url>
     <content><![CDATA[<p>老吴经过多次尝试，网上的方法都用过了。目前BIG SUR 11.1正式版本可以确认不能用现在的方法删除系统快照从而获得系统盘读写权限。</p><p>在MACOS恢复模式中挂载系统盘，然后删除快照会提示insufficient privileges权限不足，原因是快照名上面己经清楚写明purgeable:no，也就是不可删除！</p><p>假设己经无法再这个方法挂载系统盘，从而修改文件，那我们要做的，就反向加大安全性了，其实没什么需要往系统盘里加的，除了HIDPI，但目前一键HIDPI的作者己经更新了脚本，无须往系统盘里写东西，在这里：<br><a href="https://github.com/xzhih/one-key-hidpi" target="_blank" rel="noopener">https://github.com/xzhih/one-key-hidpi</a></p><p>玩黑苹果的，可能还是期待后续会有大神更新修改方法。但目前来说，还没有。</p>]]></content>
