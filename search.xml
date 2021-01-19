@@ -1533,8 +1533,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GTX 1060</tag>
         <tag>Z170</tag>
+        <tag>GTX 1060</tag>
         <tag>i7-6700</tag>
       </tags>
   </entry>
@@ -1811,8 +1811,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -2042,8 +2042,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2310,8 +2310,8 @@
       </categories>
       <tags>
         <tag>RX 580</tag>
-        <tag>i7-7800X</tag>
         <tag>X299</tag>
+        <tag>i7-7800X</tag>
         <tag>OC</tag>
       </tags>
   </entry>
@@ -2572,8 +2572,8 @@
         <category>ASUS_华硕</category>
       </categories>
       <tags>
-        <tag>UHD 630</tag>
         <tag>i7-8750H</tag>
+        <tag>UHD 630</tag>
       </tags>
   </entry>
   <entry>
@@ -2909,9 +2909,9 @@
       </categories>
       <tags>
         <tag>Catalina</tag>
+        <tag>UHD 630</tag>
         <tag>Pavilion</tag>
         <tag>i7-9750H</tag>
-        <tag>UHD 630</tag>
       </tags>
   </entry>
   <entry>
@@ -3165,8 +3165,8 @@
       </categories>
       <tags>
         <tag>Catalina</tag>
-        <tag>UHD 630</tag>
         <tag>i7-8750H</tag>
+        <tag>UHD 630</tag>
       </tags>
   </entry>
   <entry>
@@ -3191,8 +3191,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i7-4790</tag>
         <tag>B85</tag>
+        <tag>i7-4790</tag>
         <tag>RX Vega 64</tag>
       </tags>
   </entry>
@@ -3679,8 +3679,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3872,9 +3872,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -4184,8 +4184,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -4260,8 +4260,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GTX 1060</tag>
         <tag>Z170</tag>
+        <tag>GTX 1060</tag>
         <tag>i7-6700K</tag>
       </tags>
   </entry>
