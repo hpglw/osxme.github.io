@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i5-4440 技嘉 H81M-DS2 蓝宝石HD 7850台式机安装黑苹果CATALINA 10.15.7 支持BIG SUR</title>
+    <url>/d56db971.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 第四代酷睿 i5-4440 @ 3.10GHz 四核<br>主板 技嘉 H81M-DS2 ( 英特尔 Haswell - Lynx Point )<br>内存 8 GB ( 亚洲龙 DDR3 1600MHz )<br>主硬盘 西数 WDC WD3200AAJS-00YZCA0 ( 320 GB / 7200 转/分 )<br>显卡 AMD Radeon HD 7800 Series ( 蓝宝石 )<br>显示器 优派 VSC3E2B VA2406-LED ( 23.4 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 Haswell 高保真音频<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 当前安装</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1519.html" target="_blank" rel="noopener">i5-4440 技嘉 H81M-DS2 蓝宝石HD 7850黑苹果引导OC 6.5 FOR CATALINA 10.15.7</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>双屏多屏</li></ul><p><img src="/images/pasted-186.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>机械革命MECHREVO Z3 AIR SERIES GK5MP5O I7-10750H安装黑苹果BIG SUR 11.1</title>
     <url>/69afbba0.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>机械革命MECHREVO Z3 AIR SERIES GK5MP5O<br>CPU：I7-10750H<br>内存：24G<br>显卡：UHD630+GTX 1650<br>硬盘:512GB<br>网卡：RTL8168，INTEL无线<br>声卡：ALC</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不建议</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1518.html" target="_blank" rel="noopener">机械革命MECHREVO Z3 AIR SERIES GK5MP5O I7-10750H黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡（只有外放，耳机不行）</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
@@ -812,9 +821,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3602,9 +3611,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -4120,9 +4129,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
