@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>联想 昭阳 E52-80 i5-6267U笔记本安装黑苹果CATALINA 10.15.7</title>
+    <url>/7c838d4d.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想 昭阳 E52-80 i5-6267U笔记本<br>处理器 英特尔 Core i5-6267U @ 2.90GHz 双核<br>主板 联想 LNVNB161216 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 4 GB ( DDR4 2133MHz )<br>主硬盘 西数 WDC WD5000LPLX-24ZNTT0 ( 500 GB )<br>主显卡 HD550+AMD Radeon 530<br>显示器 友达 AUO38ED ( 15.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 联想</p></blockquote><p>注意：这个本尽量不要开HIDPI</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 当前安装</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1520.html" target="_blank" rel="noopener">联想 昭阳 E52-80 i5-6267U笔记本黑苹果引导OC6.5 FOR CATALINA 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI（需要HeliPort.dmg）下载：<a href="https://github.com/OpenIntelWireless" target="_blank" rel="noopener">https://github.com/OpenIntelWireless</a></li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+  </entry>
+  <entry>
     <title>为什么PM981，PM981A不能支持安装黑苹果？</title>
     <url>/1fbb0d.html</url>
     <content><![CDATA[<p>咨询老吴安装黑苹果的配置中，10个至少有2个是使用三星PM981 PM981A这块NVME固态的。老吴也一直强调这个型号不支持安装黑苹果，虽然说有人说己经成功安装（利用恢复版然后打补丁），但老吴绝对是不推荐的，为什么？</p><ul><li>第一，包括OC的开发者，都明说了这款固态的固件存在黑苹果系统兼容问题，连他们都不推荐，除此之外还有镁光的S2200.</li><li>第二，虽然新版的NVMeFix.kext对pm981有修复作用，但依然存在无法进系统，或者进了系统后不久便卡死，自动重启的问题，这导致了不可预料的问题太多。</li><li>第三，网上有的打补丁方法，通过恢复版系统安装后添加ssdt-nvme.aml和HackrNVMeFamily-10_12_6_sec2018-001.kext补丁的方法，其原理跟nvmefix.kext基本一样，虽然说可以进系统，但也存在这个那个的问题，而这些问题在使用中便会浮现出来，严重影响使用。</li><li>第四，假设通过以上方法成功进入系统，对于PM981来说，只要利用磁盘分区工具进行分区，无论使用哪种补丁，都会直接卡死，这就表明了这款固态对于黑苹果来说是有问题的。</li><li>第五，哪怕装在苹果MAC电脑中，也存在问题，何况黑苹果。</li></ul><p>综合以上的问题，老吴不建议有上面两个型号的固态的用户安装黑苹果，别再折腾网上所谓的方法，最后装完还使用中一堆问题。有PM981的用户，一是可以换其它品牌，二是可以作为WINDOWS的盘使用，但进了MACOS就要屏蔽掉。</p>]]></content>
@@ -1524,8 +1533,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z170</tag>
         <tag>GTX 1060</tag>
+        <tag>Z170</tag>
         <tag>i7-6700</tag>
       </tags>
   </entry>
@@ -2301,8 +2310,8 @@
       </categories>
       <tags>
         <tag>RX 580</tag>
-        <tag>X299</tag>
         <tag>i7-7800X</tag>
+        <tag>X299</tag>
         <tag>OC</tag>
       </tags>
   </entry>
@@ -2563,8 +2572,8 @@
         <category>ASUS_华硕</category>
       </categories>
       <tags>
-        <tag>i7-8750H</tag>
         <tag>UHD 630</tag>
+        <tag>i7-8750H</tag>
       </tags>
   </entry>
   <entry>
@@ -2900,9 +2909,9 @@
       </categories>
       <tags>
         <tag>Catalina</tag>
-        <tag>UHD 630</tag>
         <tag>Pavilion</tag>
         <tag>i7-9750H</tag>
+        <tag>UHD 630</tag>
       </tags>
   </entry>
   <entry>
@@ -3156,8 +3165,8 @@
       </categories>
       <tags>
         <tag>Catalina</tag>
-        <tag>i7-8750H</tag>
         <tag>UHD 630</tag>
+        <tag>i7-8750H</tag>
       </tags>
   </entry>
   <entry>
@@ -4251,8 +4260,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z170</tag>
         <tag>GTX 1060</tag>
+        <tag>Z170</tag>
         <tag>i7-6700K</tag>
       </tags>
   </entry>
