@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>惠普 康柏Elite 8380 MT Mini Tower i7-3770 安装黑苹果BIG SUR 11.1 </title>
+    <url>/6c883a1c.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>惠普 康柏Elite 8380 MT Mini Tower<br>处理器 英特尔 第三代酷睿 i7-3770 四核<br>主板 惠普 主板 ( Q77 Express 芯片组 )<br>内存 24 GB ( 威刚 DDR3 1600MHz / 威刚 DDR3L 1600MHz / 记忆科技 DDR3L 1600MHz )<br>主硬盘 英特尔 SSDSC2KW256G8 ( 256 GB / 固态硬盘 )<br>主显卡 AMD Radeon RX 560 ( 3 GB )<br>显示器 戴尔 DELA120 DELL U3219Q ( 31.5 英寸 )<br>声卡 瑞昱 ALC221 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡 英特尔 82579LM Gigabit Network Connection / 惠普</p><p>需要在BIOS中打开核显，基本上所有AMD免驱独显都可以用这个引导，不支持单核显安装。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1521.html" target="_blank" rel="noopener">惠普 康柏Elite 8380 MT Mini Tower i7-3770 RX 560黑苹果引导OC6.5 FOR BIG SUR 11.1 .zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>双屏多屏</li></ul><p><img src="/images/pasted-187.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>联想 昭阳 E52-80 i5-6267U笔记本安装黑苹果CATALINA 10.15.7</title>
     <url>/7c838d4d.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想 昭阳 E52-80 i5-6267U笔记本<br>处理器 英特尔 Core i5-6267U @ 2.90GHz 双核<br>主板 联想 LNVNB161216 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 4 GB ( DDR4 2133MHz )<br>主硬盘 西数 WDC WD5000LPLX-24ZNTT0 ( 500 GB )<br>主显卡 HD550+AMD Radeon 530<br>显示器 友达 AUO38ED ( 15.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 联想</p></blockquote><p>注意：这个本尽量不要开HIDPI</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 当前安装</li><li>big sur 11.1 兼容</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1520.html" target="_blank" rel="noopener">联想 昭阳 E52-80 i5-6267U笔记本黑苹果引导OC6.5 FOR CATALINA 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI（需要HeliPort.dmg）下载：<a href="https://github.com/OpenIntelWireless" target="_blank" rel="noopener">https://github.com/OpenIntelWireless</a></li></ul>]]></content>
@@ -407,7 +416,7 @@
   <entry>
     <title>iFunk S笔记本i7-7700HQ安装黑苹果OC 6.4</title>
     <url>/4726df81.html</url>
-    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>iFunk S笔记本<br>CPU：I7-7700HQ<br>内存：16G<br>显卡：HD530+GTX 1060<br>显示器：17寸 1080P<br>硬盘:256GB<br>网卡：RTL8168<br>声卡：ALC269</p></blockquote><p>从来没有听过的笔记本品牌，去官网看了一下，只出了几个型号，好像己经停产了。像是蓝天的模具，非常奇特。<br>请注意，这个只能安装10.14.6系统，10.15和BIG SUR会花屏，暂时没有解决方法，也不知道为什么，应该是BIOS的问题。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1483.html" target="_blank" rel="noopener">iFunk S笔记本i7-7700HQ黑苹果引导OC 6.4 for Mojave 10.14.6.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul>]]></content>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>iFunk S笔记本<br>CPU：I7-7700HQ<br>内存：16G<br>显卡：HD530+GTX 1060<br>显示器：17寸 1080P<br>硬盘:256GB<br>网卡：RTL8168<br>声卡：ALC269</p></blockquote><p>从来没有听过的笔记本品牌，去官网看了一下，只出了几个型号，好像己经停产了。像是蓝天的模具，非常奇特。<br>请注意，这个只能安装10.14.6系统，10.15和BIG SUR会花屏，暂时没有解决方法，也不知道为什么，应该是BIOS的问题。</p><p>2021-1-20更新</p><p>由<strong>LightMan</strong>提供的CLOVER引导，己经可以成功安装10.15系统，不会花屏，驱动较为完善，现提供免费下载：链接: <a href="https://pan.baidu.com/s/1mWc2mJvxh0t2iCOHXSArgQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1mWc2mJvxh0t2iCOHXSArgQ</a> 密码: 1tcs</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1483.html" target="_blank" rel="noopener">iFunk S笔记本i7-7700HQ黑苹果引导OC 6.4 for Mojave 10.14.6.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul>]]></content>
       <categories>
         <category>笔记本</category>
       </categories>
@@ -1811,8 +1820,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -2042,8 +2051,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -2765,8 +2774,8 @@
       </categories>
       <tags>
         <tag>UHD 630</tag>
-        <tag>Y7000</tag>
         <tag>i5-9300H</tag>
+        <tag>Y7000</tag>
       </tags>
   </entry>
   <entry>
@@ -3191,8 +3200,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B85</tag>
         <tag>i7-4790</tag>
+        <tag>B85</tag>
         <tag>RX Vega 64</tag>
       </tags>
   </entry>
@@ -3376,8 +3385,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>华硕</tag>
         <tag>GTX 1080 Ti</tag>
+        <tag>华硕</tag>
       </tags>
   </entry>
   <entry>
@@ -3679,8 +3688,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3872,9 +3881,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -4184,8 +4193,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
