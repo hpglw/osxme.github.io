@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>HP EliteBook 820 G3 i7-6500U笔记本电脑安装黑苹果BIG SUR 11.1</title>
+    <url>/763526ec.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 HP EliteBook 820 G3 笔记本电脑 (扫描时间：2021年01月22日)<br>处理器 英特尔 Core i7-6500U @ 2.50GHz 双核<br>主板 惠普 807C ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 8 GB ( 三星 DDR4 2400MHz )<br>主硬盘 闪迪 SD8SN8U-256G-1006 ( 256 GB / 固态硬盘 )<br>主显卡 英特尔 HD Graphics 520 ( 128 MB / 惠普 )<br>显示器 奇美 CMN1242 ( 12.5 英寸 )<br>声卡 Conexant ISST Audio @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 惠普</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1525.html" target="_blank" rel="noopener">HP EliteBook 820 G3 i7-6500U黑苹果引导OC 6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H安装黑苹果BIG SUR 11.1 hackintosh</title>
     <url>/9f195878.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Razer Blade 15 Base Model (Early 2020) - RZ09-0328<br>处理器 英特尔 Core i7-10750H @ 2.60GHz 六核<br>主板 Razer DA550 ( LPC Controller - 068D )<br>内存 16 GB ( 三星 DDR4 3200MHz )<br>主硬盘 三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 1660 Ti ( 6 GB / Razer USA )<br>显示器 京东方 BOE0804 ( 15.5 英寸 )<br>声卡 英特尔 英特尔智音技术音频控制器<br>网卡 英特尔 Wi-Fi 6 AX201 160MHz</p></blockquote><p>安装前注意：进入OC引导后按空格，选CFGLOCK，然后按Y，先关闭CFG LOCK。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不建议</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1524.html" target="_blank" rel="noopener">Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板（能用，但控制面板空白）</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-188.png" alt="upload successful"></p>]]></content>
@@ -1838,8 +1847,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -2069,8 +2078,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
+        <tag>B250M</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3403,8 +3412,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>华硕</tag>
         <tag>GTX 1080 Ti</tag>
+        <tag>华硕</tag>
       </tags>
   </entry>
   <entry>
@@ -3706,8 +3715,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3899,9 +3908,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
+        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -4058,8 +4067,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
       </tags>
   </entry>
   <entry>
@@ -4211,8 +4220,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>i5-7400</tag>
         <tag>B250M</tag>
+        <tag>i5-7400</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
