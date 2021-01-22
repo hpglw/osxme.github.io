@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>戴尔 Vostro 14-5459 i5-6200U安装黑苹果MOJAVE10.14.6 安装前请拆机拔掉电池线</title>
+    <url>/73cc9ec9.html</url>
+    <content><![CDATA[<p>这个机子要用黑苹果，就必须拆机拔掉电池线，要不然就黑屏，连引导都进不去。没有其它的方法了。目前只能安装MOJAVE，请自行考虑。</p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 戴尔 Vostro 14-5459 笔记本电脑 (扫描时间：2021年01月21日)<br>处理器 英特尔 Core i5-6200U @ 2.30GHz 双核<br>主板 戴尔 080W31 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 8 GB ( 金士顿 DDR3L 1600MHz )<br>主硬盘 三星 SSD 860 PRO 256GB ( 256 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce 930M ( 2 GB / 戴尔 )<br>显示器 京东方 BOE05F3 ( 14 英寸 )<br>声卡 Conexant SmartAudio HD @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 3165</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1526.html" target="_blank" rel="noopener">戴尔 Vostro 14-5459 i5-6200U黑苹果引导OC6.5 FOR MOJAVE请拆机拔掉电池线.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-189.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
     <title>HP EliteBook 820 G3 i7-6500U笔记本电脑安装黑苹果BIG SUR 11.1</title>
     <url>/763526ec.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 HP EliteBook 820 G3 笔记本电脑 (扫描时间：2021年01月22日)<br>处理器 英特尔 Core i7-6500U @ 2.50GHz 双核<br>主板 惠普 807C ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 8 GB ( 三星 DDR4 2400MHz )<br>主硬盘 闪迪 SD8SN8U-256G-1006 ( 256 GB / 固态硬盘 )<br>主显卡 英特尔 HD Graphics 520 ( 128 MB / 惠普 )<br>显示器 奇美 CMN1242 ( 12.5 英寸 )<br>声卡 Conexant ISST Audio @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 惠普</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1525.html" target="_blank" rel="noopener">HP EliteBook 820 G3 i7-6500U黑苹果引导OC 6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
@@ -882,9 +891,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3672,9 +3681,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -4067,8 +4076,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>TravelMate</tag>
         <tag>Acer</tag>
+        <tag>TravelMate</tag>
       </tags>
   </entry>
   <entry>
