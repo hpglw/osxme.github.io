@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>海尔机械师MACHENIKE M510A-I5 D1 I5-4210M笔记本安装黑苹果BIG SUR 11.1</title>
+    <url>/503970b4.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 第四代酷睿 i5-4210M @ 2.60GHz 双核<br>主板 MACHENIKE Not Applicable（Lynx Point）<br>显卡 Nvidia GeForce GTX 850M ( 蓝天(CLEVO) )<br>内存 16 GB ( 金百达 DDR3L 1600MHz )<br>主硬盘 三星 SSD 840 EVO 120GB mSATA ( 120 GB / 固态硬盘 )<br>显示器 LG LGD03FE ( 15.6 英寸 )<br>光驱 TSSTcorp CDDVDW SU-208FB DVD刻录机<br>声卡 威盛 @ 英特尔 Lynx Point 高保真音频<br>网卡 瑞昱 Realtek RTL8723BE Wireless LAN 802.11n PCI-E NIC</p></blockquote><p>花屏注意</p><p>如果花屏，在花屏的界面最左上角仔细看一下有个小苹果图标，点一下，数下来第6个是睡眠，点一下，就会睡眠，然后唤醒就好了。</p><p>唤醒后正常显示后，把分辨率改为1600X900，不能再改为1080P，也不能注入EDID和HIDPI。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 兼容</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1527.html" target="_blank" rel="noopener">机械师MACHENIKE M510A-I5 D1 I5-4210M笔记本黑苹果引导OC 6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li></ul><p><img src="/images/pasted-190.png" alt="upload successful"></p>]]></content>
+  </entry>
+  <entry>
+    <title>黑苹果启动Apple GuC参数igfxfw=2的说明</title>
+    <url>/d07d3078.html</url>
+    <content><![CDATA[<p>黑苹果300系支持Apple GuC固件，可以提高核显的频率，改善性能。<br>需要在引导参数中加入igfxfw=2。</p><p>但目前根据大神的说法，不建议开启，因为开启了会产生比较多的问题，如睡眠。目前新的WEG己经修复了核显的最高频率。</p><p>以下是大神的原话：</p><blockquote><p>Apple GuC只能通过igfxfw=2启动参数启用，而默认情况下则禁用，因此存在错误，最终将导致IGPU高频锁定。这个东西不打算进行调查或修复。<br>WEG 1.4.0修复了CPU调度性能，允许IGPU频率在没有GuC的情况下达到较高的值。默认情况下启用此功能，可以通过禁用此功能igfxnorspc=1。我们认为它可以正常工作。<br>不igfxfw=2使用igfxnorspc=1WEG 1.4.1也可以正确使用，但是IGPU将无法达到高频。</p></blockquote>]]></content>
+  </entry>
+  <entry>
     <title>戴尔 Vostro 14-5459 i5-6200U安装黑苹果MOJAVE10.14.6 安装前请拆机拔掉电池线</title>
     <url>/73cc9ec9.html</url>
     <content><![CDATA[<p>这个机子要用黑苹果，就必须拆机拔掉电池线，要不然就黑屏，连引导都进不去。没有其它的方法了。目前只能安装MOJAVE，请自行考虑。</p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 戴尔 Vostro 14-5459 笔记本电脑 (扫描时间：2021年01月21日)<br>处理器 英特尔 Core i5-6200U @ 2.30GHz 双核<br>主板 戴尔 080W31 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 8 GB ( 金士顿 DDR3L 1600MHz )<br>主硬盘 三星 SSD 860 PRO 256GB ( 256 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce 930M ( 2 GB / 戴尔 )<br>显示器 京东方 BOE05F3 ( 14 英寸 )<br>声卡 Conexant SmartAudio HD @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 3165</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1526.html" target="_blank" rel="noopener">戴尔 Vostro 14-5459 i5-6200U黑苹果引导OC6.5 FOR MOJAVE请拆机拔掉电池线.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-189.png" alt="upload successful"></p>]]></content>
@@ -21,7 +31,7 @@
   <entry>
     <title>Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H安装黑苹果BIG SUR 11.1 hackintosh</title>
     <url>/9f195878.html</url>
-    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Razer Blade 15 Base Model (Early 2020) - RZ09-0328<br>处理器 英特尔 Core i7-10750H @ 2.60GHz 六核<br>主板 Razer DA550 ( LPC Controller - 068D )<br>内存 16 GB ( 三星 DDR4 3200MHz )<br>主硬盘 三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 1660 Ti ( 6 GB / Razer USA )<br>显示器 京东方 BOE0804 ( 15.5 英寸 )<br>声卡 英特尔 英特尔智音技术音频控制器<br>网卡 英特尔 Wi-Fi 6 AX201 160MHz</p></blockquote><p>安装前注意：进入OC引导后按空格，选CFGLOCK，然后按Y，先关闭CFG LOCK。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不建议</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1524.html" target="_blank" rel="noopener">Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板（能用，但控制面板空白）</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-188.png" alt="upload successful"></p>]]></content>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Razer Blade 15 Base Model (Early 2020) - RZ09-0328<br>处理器 英特尔 Core i7-10750H @ 2.60GHz 六核<br>主板 Razer DA550 ( LPC Controller - 068D )<br>内存 16 GB ( 三星 DDR4 3200MHz )<br>主硬盘 三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 1660 Ti ( 6 GB / Razer USA )<br>显示器 京东方 BOE0804 ( 15.5 英寸 )<br>声卡 英特尔 英特尔智音技术音频控制器<br>网卡 英特尔 Wi-Fi 6 AX201 160MHz</p></blockquote><p>安装前注意：进入OC引导后按空格，选CFGLOCK，然后按Y，先关闭CFG LOCK。</p><p>有电池电量显示，触控板开始是空白的，重启几次用一段时间后会出来，目前还是比较完美，睡眠开合盖都正常。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不建议</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1524.html" target="_blank" rel="noopener">Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-188.png" alt="upload successful"></p>]]></content>
       <categories>
         <category>笔记本</category>
         <category>Razer Blade_雷蛇</category>
@@ -34,15 +44,6 @@
       <categories>
         <category>笔记本</category>
         <category>Mechrevo_机械革命</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>i9-10850K+华擎Z490 Phantom Gaming-ITX TB3RX+5700 XT 50周年纪念版黑苹果big sur 11.1</title>
-    <url>/503970b4.html</url>
-    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>Razer Blade 14<br>CPU：Core i9-10850K @ 3.60GHz<br>内存：32 GB<br>显卡：UHD630+RX 5700 XT 50周年纪念版<br>显示器：4K<br>硬盘:1024GB<br>网卡：DW1820A<br>声卡：ALC</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不推荐</li><li>catalina 10.15.7 兼容</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1522.html" target="_blank" rel="noopener">i9-10850K 华擎Z490 Phantom Gaming-ITX TB3RX 5700 XT 50周年纪念版OC6.5黑苹果引导 big sur 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
       </categories>
   </entry>
   <entry>
@@ -891,9 +892,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1856,8 +1857,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 980</tag>
       </tags>
   </entry>
@@ -2087,8 +2088,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i5-7500</tag>
         <tag>B250M</tag>
+        <tag>i5-7500</tag>
         <tag>GTX 1050</tag>
       </tags>
   </entry>
@@ -3421,8 +3422,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>GTX 1080 Ti</tag>
         <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -3681,9 +3682,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3724,8 +3725,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
@@ -3917,9 +3918,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
+        <tag>B250M</tag>
         <tag>i5-7500</tag>
         <tag>技嘉</tag>
-        <tag>B250M</tag>
         <tag>GTX 1060</tag>
       </tags>
   </entry>
@@ -4199,9 +4200,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -4229,8 +4230,8 @@
       </categories>
       <tags>
         <tag>微星</tag>
-        <tag>B250M</tag>
         <tag>i5-7400</tag>
+        <tag>B250M</tag>
         <tag>HD 630</tag>
         <tag>VGA</tag>
       </tags>
