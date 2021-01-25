@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>HP ENVY RMN TPN-C122 i5-6200U笔记本黑苹果引导OC6.5 BIG SUR 11.1</title>
+    <url>/8e82e403.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i5-6200U @ 2.30GHz 双核<br>主板 惠普 80E5 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 12 GB ( 海力士 DDR3L 1600MHz / 金泰克 DDR3L 1600MHz )<br>主硬盘 金士顿 SCSI Disk Device ( 480 GB )<br>主显卡 Nvidia GeForce GTX 950M ( 4 GB )<br>显示器 LG LGD04B3 ( 15.7 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 惠普</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1534.html" target="_blank" rel="noopener">HP ENVY RMN TPN-C122 i5-6200U黑苹果引导OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-194.png" alt="upload successful"></p>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+  </entry>
+  <entry>
     <title>i5-6400+华硕 H110M-AM.2+HD530核显黑苹果引导OC 6.5 BIG SUR 11.1</title>
     <url>/f25529f0.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i5-6400 @ 2.70GHz 四核<br>主板 华硕 H110M-A/M.2 ( 100 Series/C230 Series 芯片组 Family - A143 )<br>内存 8 GB ( 威刚 DDR4 2133MHz )<br>主硬盘 金士顿 SUV400S37240G ( 240 GB / 固态硬盘 )<br>主显卡 英特尔 HD Graphics 530 ( 128 MB / 华硕 )<br>显示器 飞利浦 PHLC0AA 227E4QH ( 21.5 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1533.html" target="_blank" rel="noopener">i5-6400+华硕 H110M-A M.2+HD530核显黑苹果引导OC 6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><p>注意：这个主板BIOS里不能关CSM</p><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li></ul>]]></content>
