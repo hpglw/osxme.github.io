@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i7-8700(es测试版)+微星 B360M MORTAR+RX 580台式机黑苹果big sur 11.1</title>
+    <url>/3e62838c.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 0000 @ 2.90GHz 六核（i7-8700(es测试版)）<br>主板 微星 B360M MORTAR (MS-7B23) ( B360 芯片组 )<br>内存 32 GB ( 联想 DDR4 2666MHz / 芝奇 DDR4 2133MHz )<br>主硬盘 TIGO SSD ( 240 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 580 ( 8 GB / 蓝宝石 )<br>显示器 冠捷 AOC2481 2481W ( 23.8 英寸 )<br>声卡 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 微星 和 DW1820A免驱无线网卡</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1531.html" target="_blank" rel="noopener">i7-8700(es测试版) 微星 B360M MORTAR RX 580黑苹果引导oc 6.5 big sur 11.1 dw1820a无线.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
+  </entry>
+  <entry>
     <title>hp omen 15 2020 hp envy laptop 15-ep0xxx  i7-10750H alc245声卡完美黑苹果oc 6.4 big sur 11.1 hackintosh</title>
     <url>/6ae7f8c8.html</url>
     <content><![CDATA[<p>完美引导，适用于hp omen 15 2020 and hp envy laptop 15-ep0xxx ALC245的怪声卡,基本全驱动，电池，触控板，WIFI蓝牙，睡眠，唯一不支持外接，因为外接直连独显。</p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>hp omen 15 2020 hp envy laptop 15-ep0xxx<br>CPU：I7-10750H<br>内存：16G<br>显卡：UHD630+GTX 1650 TI<br>显示器：15.5寸 1080P<br>硬盘:512GB<br>网卡：WIFI 6 AX201<br>声卡：ALC245</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1530.html" target="_blank" rel="noopener">hp omen 15 2020 hp envy laptop 15-ep0xxx i7-10750H alc245声卡完美黑苹果oc 6.5 big sur 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul><p><img src="/images/pasted-193.png" alt="upload successful"><br><img src="/images/pasted-192.png" alt="upload successful"></p>]]></content>
@@ -919,9 +924,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3709,9 +3714,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -4104,8 +4109,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
       </tags>
   </entry>
   <entry>
@@ -4404,8 +4409,8 @@
       </categories>
       <tags>
         <tag>i5-7200U</tag>
-        <tag>HD 620</tag>
         <tag>Inspiron</tag>
+        <tag>HD 620</tag>
         <tag>Dell</tag>
       </tags>
   </entry>
