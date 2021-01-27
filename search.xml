@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i9-9900K 华硕 PRIME Z390-P UHD630核显2K黑苹果引导OC6.5 BIG SUR 11.1</title>
+    <url>/fb078478.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i9-9900K @ 3.60GHz 八核<br>主板 华硕 PRIME Z390-P ( Z390 芯片组 )<br>内存 32 GB ( 海盗船 DDR4 3000MHz )<br>主硬盘 西数 WD_BLACK SN750 2TB ( 2 TB / 固态硬盘 )<br>主显卡 英特尔 UHD Graphics 630 ( 华硕 )<br>显示器 YSR32C9 AMOI ( 32 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1537.html" target="_blank" rel="noopener">i9-9900K 华硕 PRIME Z390-P UHD630核显2K黑苹果引导OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>i5-10400+微星 B460M BOMBER+RX 580黑苹果引导OC6.5 BIG SUR 11.1</title>
     <url>/5f994841.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i5-10400 @ 2.90GHz 六核<br>主板 微星 B460M BOMBER (MS-7C88) ( LPC Controller B460芯片组 )<br>内存 16 GB ( 金邦 DDR4 2400MHz )<br>主硬盘 金士顿 SA400S37240G ( 240 GB / 固态硬盘 )<br>主显卡 AMD Radeon RX 580 ( 4 GB / AMD )<br>显示器 飞利浦 PHL08E7 PHL BDM3270 ( 32 英寸 )<br>声卡 AMD High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1536.html" target="_blank" rel="noopener">i5-10400+微星 B460M BOMBER+RX 580黑苹果引导OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><p><img src="/images/pasted-196.png" alt="upload successful"></p><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>双屏多屏</li></ul>]]></content>
@@ -965,9 +974,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -2095,8 +2104,8 @@
       </categories>
       <tags>
         <tag>Z87</tag>
-        <tag>i7-4790</tag>
         <tag>GTX 750 Ti</tag>
+        <tag>i7-4790</tag>
       </tags>
   </entry>
   <entry>
@@ -2800,10 +2809,10 @@
         <category>X79</category>
       </categories>
       <tags>
+        <tag>GTX 750 Ti</tag>
         <tag>E5-2660</tag>
         <tag>X79</tag>
         <tag>H61</tag>
-        <tag>GTX 750 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -3755,9 +3764,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -4272,10 +4281,10 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>微软</tag>
+        <tag>Surface</tag>
         <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -4364,8 +4373,8 @@
       </categories>
       <tags>
         <tag>EliteBook</tag>
-        <tag>HP</tag>
         <tag>惠普</tag>
+        <tag>HP</tag>
         <tag>i7-3520M</tag>
         <tag>HD 7570M</tag>
       </tags>
@@ -4394,8 +4403,8 @@
       </categories>
       <tags>
         <tag>B85M</tag>
-        <tag>GTX 750 Ti</tag>
         <tag>i7-4770</tag>
+        <tag>GTX 750 Ti</tag>
       </tags>
   </entry>
   <entry>
