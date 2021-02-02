@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>技嘉NUC GB-BRi5H-10210E i5-10210U黑苹果引导EFI OC6.5 BIG SUR 11.1</title>
+    <url>/d7762907.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>GB-BRi5H-10210E<br>CPU：i5-10210U<br>内存：16G<br>显卡：UHD630<br>硬盘:1TB<br>网卡：DW1820A<br>声卡：ALC255</p></blockquote><p><img src="/images/pasted-206.png" alt="upload successful"></p><p>BIOS可关CFG LOCK，要关掉，其它BIOS设置参考下面的安装教程。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1551.html" target="_blank" rel="noopener">技嘉NUC GB-BRi5H-10210E i5-10210U黑苹果引导EFI OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>休眠唤醒</li><li>WIFI</li><li>HDMI/DP外接输出</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-7700+华硕 PRIME B250M-A+RX 580台式机黑苹果引导EFI OC6.5 BIG SUR 11.1</title>
+    <url>/afe29938.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote></blockquote><p>处理器 英特尔 Core i7-7700 @ 3.60GHz 四核<br>主板 华硕 PRIME B250M-A（B250 芯片组）<br>显卡 AMD Radeon RX 580 ( 4 GB / 华硕 )<br>内存 16 GB ( 金士顿 DDR4 2400MHz )<br>主硬盘 Acer GT500A 240G ( 240 GB / 固态硬盘 )<br>显示器 三星 SAM0C4D U28E590 ( 27.5 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1550.html" target="_blank" rel="noopener">i7-7700+华硕 PRIME B250M-A+RX 580台式机黑苹果引导EFI OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔 Inspiron 5557 i5-6200U笔记本黑苹果引导EFI OC6.5 BIG SUR 11.1</title>
+    <url>/f5faca3c.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>戴尔 Inspiron 5557 i5-6200U笔记本<br>处理器 英特尔 Core i5-6200U @ 2.30GHz 双核<br>主板 戴尔 0NK8C1 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存 12 GB ( 三星 DDR3L 1600MHz )<br>主硬盘 Vi550 S3 SSD ( 512 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce 930M ( 2 GB / 戴尔 )<br>显示器 LG LGD0456 ( 15.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 3165</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1549.html" target="_blank" rel="noopener">戴尔 Inspiron 5557 i5-6200U笔记本黑苹果引导EFI OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>联想昭阳E42-80 i3-7130u笔记本黑苹果引导EFI OC6.5 BIG SUR 11.1</title>
+    <url>/288c32ff.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-205.png" alt="upload successful"></p><h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>联想昭阳E42-80 i3-7130u笔记本<br>CPU：i3-7130u<br>内存：8G<br>显卡：HD620+R4 530<br>显示器：14寸 1080P<br>硬盘:120GB<br>网卡：REALTEK有线加QUAM无线网卡<br>声卡：ALC255</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1548.html" target="_blank" rel="noopener">联想昭阳E42-80 i3-7130u笔记本黑苹果引导EFI OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-4790+华硕 B85M-F PLUS+GTX 970台式机安装黑苹果OC6.5 10.13.6系统</title>
+    <url>/59d2eef0.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 第四代酷睿 i7-4790 @ 3.60GHz 四核<br>主板 华硕 B85M-F PLUS ( Lynx Point )<br>内存 16 GB ( 威刚 DDR3 1600MHz / 金士顿 DDR3 1600MHz )<br>主硬盘 三星 SSD 650 120GB ( 120 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 970 ( 4 GB / 华硕 )<br>显示器 SJS3200 SJ240K8 ( 31.5 英寸 )<br>声卡 英特尔 Lynx Point 高保真音频<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>high sierra 10.13.6</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1547.html" target="_blank" rel="noopener">i7-4790+华硕 B85M-F PLUS+GTX 970黑苹果引导OC6.5 10.13.6.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>不知名迷你小主机i5-8250U+SiYW V200 Series+UHD Graphics 620安装黑苹果BIG SUR 11.1</title>
     <url>/353dce5a.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i5-8250U @ 1.60GHz 四核<br>主板 SiYW V200 Series ( 7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存 16 GB ( 海力士 DDR4 2400MHz )<br>主硬盘 英特尔 SSDPEKKW512G8 ( 512 GB / 固态硬盘 )<br>主显卡 英特尔 UHD Graphics 620 ( 128 MB / 英特尔 )<br>显示器 XMI23CB Mi Monitor ( 23.8 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡 博通 Broadcom 802.11ac Network Adapter / 戴尔</p></blockquote><p>未知名迷你小主机i5-8250U单核显安装，支持4K，如果紫屏，需要注入HIDPI和EDID，博通1820A免驱无线网卡。</p><p><img src="/images/pasted-204.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1546.html" target="_blank" rel="noopener">迷你小主机i5-8250U+SiYW V200 Series+UHD Graphics 620黑苹果引导OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
@@ -4236,8 +4281,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>TravelMate</tag>
         <tag>Acer</tag>
+        <tag>TravelMate</tag>
       </tags>
   </entry>
   <entry>
