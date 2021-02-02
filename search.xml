@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>不知名迷你小主机i5-8250U+SiYW V200 Series+UHD Graphics 620安装黑苹果BIG SUR 11.1</title>
+    <url>/353dce5a.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i5-8250U @ 1.60GHz 四核<br>主板 SiYW V200 Series ( 7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存 16 GB ( 海力士 DDR4 2400MHz )<br>主硬盘 英特尔 SSDPEKKW512G8 ( 512 GB / 固态硬盘 )<br>主显卡 英特尔 UHD Graphics 620 ( 128 MB / 英特尔 )<br>显示器 XMI23CB Mi Monitor ( 23.8 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡 博通 Broadcom 802.11ac Network Adapter / 戴尔</p></blockquote><p>未知名迷你小主机i5-8250U单核显安装，支持4K，如果紫屏，需要注入HIDPI和EDID，博通1820A免驱无线网卡。</p><p><img src="/images/pasted-204.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1546.html" target="_blank" rel="noopener">迷你小主机i5-8250U+SiYW V200 Series+UHD Graphics 620黑苹果引导OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
+  </entry>
+  <entry>
+    <title>i7-8700K+华硕 ROG STRIX Z370-H GAMING+GTX 1080 Ti台式机安装黑苹果10.13.6系统</title>
+    <url>/ac49fe8a.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i7-8700K @ 3.70GHz 六核<br>主板 华硕 ROG STRIX Z370-H GAMING ( Z370 芯片组 )<br>内存 16 GB ( 威刚 DDR4 3000MHz )<br>主硬盘 三星 SSD 850 EVO 250GB ( 250 GB / 固态硬盘 )<br>主显卡 Nvidia GeForce GTX 1080 Ti ( 11 GB / 华硕 )<br>显示器 优派 VSC7338 VX2478-4K-HD ( 23.6 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>high sierra 10.13.6</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1545.html" target="_blank" rel="noopener">i7-8700K+华硕 ROG STRIX Z370-H GAMING+GTX 1080 Ti黑苹果引导OC6.5 10.13.6.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Xeon W-3275M+华硕 Pro WS C621-64L SAGE Series+RX 5700 XT黑苹果工作站安装BIG SUR 11.1</title>
     <url>/e9005691.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Xeon(至强) W-3275M @ 2.50GHz<br>主板 华硕 Pro WS C621-64L SAGE Series（C620 series chipset - A1C1）<br>显卡 AMD Radeon RX 5700 XT ( 蓝宝石 )<br>内存 192 GB ( DDR4 2933MHz )<br>主硬盘 三星 SSD 750 EVO 250GB ( 250 GB / 固态硬盘 )<br>显示器 三星 SAM0F93 LS32R75 ( 31.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 I210 Gigabit Network Connection / 华硕</p></blockquote><p>请到官网下载0402最低的那个BIOS版本刷新，并将CSM关掉。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 不支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1544.html" target="_blank" rel="noopener">Xeon(至强) W-3275M 华硕 Pro WS C621-64L SAGE Series RX 5700 XT黑苹果引导OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>双屏多屏</li></ul><p><img src="/images/pasted-203.png" alt="upload successful"></p>]]></content>
@@ -4050,8 +4064,8 @@
       </categories>
       <tags>
         <tag>HD 630</tag>
-        <tag>机械师</tag>
         <tag>i7-7700HQ</tag>
+        <tag>机械师</tag>
       </tags>
   </entry>
   <entry>
@@ -4222,8 +4236,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
       </tags>
   </entry>
   <entry>
