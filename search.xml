@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>i5-4460+华硕h81m-d r2.0+gtx 1050 ti台式机黑苹果引导efi oc6.5 10.13.6</title>
+    <url>/96503942.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>华硕h81m-d r2.0<br>CPU：i5-4460<br>内存：16G<br>显卡：gtx 1050 ti<br>显示器：14寸 1080P<br>硬盘:512GB<br>网卡：有线网卡<br>声卡：ALC887</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>high sierra 10.13.6</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1555.html" target="_blank" rel="noopener">i5-4460+华硕h81m-d r2.0+gtx 1050 ti台式机黑苹果引导efi oc6.5 10.13.6.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>休眠唤醒</li><li>双屏多屏</li></ul>]]></content>
+  </entry>
+  <entry>
     <title>HP Slim Desktop 290-p0xxx i3-9100台式机黑苹果引导EFI OC6.5 BIG SUR 11.1</title>
     <url>/503970b4.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 HP Slim Desktop 290-p0xxx 台式电脑 (扫描时间：2021年02月02日)<br>处理器 英特尔 Core i3-9100 @ 3.60GHz 四核<br>主板 惠普 843F ( H370 芯片组 )<br>内存 8 GB ( 三星 DDR4 2666MHz )<br>主硬盘 SK hynix BC501 HFM512GDJTNG-8310A ( 512 GB / 固态硬盘 )<br>主显卡 英特尔 Gaussian Mixture Model - 3E91 ( 128 MB / 惠普 )<br>显示器 联想 LEN1150 L222wA ( 22 英寸 )<br>声卡 瑞昱 ALC671 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 惠普</p></blockquote><p>内置的RTL无线网卡和网卡不能驱动，可用HDMI转VGA线，测试成功。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.1 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1554.html" target="_blank" rel="noopener">HP Slim Desktop 290-p0xxx i3-9100台式机黑苹果引导EFI OC6.5 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>休眠唤醒</li></ul>]]></content>
@@ -1110,9 +1115,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -3900,9 +3905,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
