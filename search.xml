@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title> 戴尔 Vostro 7570 i7-7700HQ笔记本黑苹果引导EFI OC6.6 BIG SUR 11.1</title>
+    <url>/d4d9fdb0.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 戴尔 Vostro 7570 笔记本电脑<br>处理器 英特尔 Core i7-7700HQ @ 2.80GHz 四核<br>主板 戴尔 0873V0（100 Series/C230 Series 芯片组 Family - A152）<br>显卡 Nvidia GeForce GTX 1060 with Max-Q Design ( 6 GB / 戴尔 )<br>内存 32 GB ( 威刚 DDR4 2666MHz )<br>主硬盘 XPG GAMMIX S11 Pro ( 512 GB / 固态硬盘 )<br>显示器 LG LGD053F ( 15.5 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 戴尔</p></blockquote><p>需要连WIFI请安装引导里的HeliPort.dmg工具。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 支持</li><li>big sur 11.2 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1558.html" target="_blank" rel="noopener">戴尔 Vostro 7570 i7-7700HQ笔记本黑苹果引导EFI OC6.6 BIG SUR 11.1.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>休眠唤醒</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+  </entry>
+  <entry>
+    <title>太折腾！E5-2680 v3双路+HUANANZHI X99 F8D+RX 590双显卡工作站黑苹果OC6.6 CATALINA 10.15.7</title>
+    <url>/bc6b718c.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Xeon(至强) E5-2680 v3 @ 2.50GHz (X2)<br>主板 HUANANZHI X99 F8D ( Wellsburg )<br>内存 64 GB ( GLOWAY DDR4 2666MHz )<br>主硬盘 金士顿 SA400S37240G ( 240 GB / 固态硬盘 )<br>主显卡 AMD Radeon RX 590 Series ( 8 GB / 迪兰 )<br>显示器 飞利浦 PHLC20B PHL 245E1 ( 23.8 英寸 )<br>声卡 ALC887<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller</p></blockquote><p><img src="/images/pasted-213.png" alt="upload successful"><br><img src="/images/pasted-214.png" alt="upload successful"></p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 可能支持</li><li>catalina 10.15.7 当前安装</li><li>big sur 11.1 不支持</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1559.html" target="_blank" rel="noopener">E5-2680 v3双路+HUANANZHI X99 F8D+RX 590双显卡工作站黑苹果EFI OC6.6 CATALINA 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显（双显卡）</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>手势多指</li><li>变频（双路变频睿频正常）</li><li>双屏多屏</li></ul>]]></content>
+  </entry>
+  <entry>
     <title>黑苹果10.13.6系统ICLOUD能登录apple store打开空白的解决方法</title>
     <url>/700d3a06.html</url>
     <content><![CDATA[<p>来自阿辉（tb2426579）的分享</p><p>黑苹果系统N卡安装10.13.6系统，因为版本比较老，可能存在apple store商店打开空白的情况，而ICLOUD是正常登录的。这时排除网络的问题。主要有两个解决方法</p><p>第一是，等，要长时间之后才有显示。</p><p>第二，直接修改DNS</p><p><img src="/images/pasted-212.png" alt="upload successful"></p><p>一般改了DNS之后，打开就会快很多了，搜软件下软件也比较快。</p>]]></content>
@@ -1824,8 +1834,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GTX 1060</tag>
         <tag>Z170</tag>
+        <tag>GTX 1060</tag>
         <tag>i7-6700</tag>
       </tags>
   </entry>
@@ -4551,8 +4561,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>GTX 1060</tag>
         <tag>Z170</tag>
+        <tag>GTX 1060</tag>
         <tag>i7-6700K</tag>
       </tags>
   </entry>
