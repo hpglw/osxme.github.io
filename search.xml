@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>联想 昭阳 K29 i7-3720QM笔记本黑苹果引导EFI OC6.6 CATALINA 10.15.7</title>
+    <url>/b53bd7c4.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 第三代酷睿 i7-3720QM @ 2.60GHz 四核<br>主板 联想 20186（HM77 Express 芯片组）<br>显卡 英特尔 HD Graphics 4000 ( 32 MB / 联想 )<br>内存 8 GB ( 海力士 DDR3L 1600MHz )<br>主硬盘 建兴 IT LMT-256L9M-11 MSATA 256GB ( 256 GB / 固态硬盘 )<br>显示器 友达 AUO106C ( 12.5 英寸 )<br>声卡 瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡 Atheros AR5009 Wireless Network Adapter / Askey</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 当前</li><li>big sur 11.2 不支持，也不建议</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1620.html" target="_blank" rel="noopener">联想 昭阳 K29 i7-3720QM笔记本黑苹果引导EFI OC6.6 CATALINA 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>手势多指</li><li>摄像头</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-10400+华硕 ROG STRIX B460-I GAMING核显台式机黑苹果EFI OC6.6 BIG SUR 11.2</title>
+    <url>/786d7696.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i5-10400 @ 2.90GHz 六核<br>主板 华硕 ROG STRIX B460-I GAMING（LPC Controller B460芯片组）<br>显卡 英特尔 UHD Graphics 630 ( 128 MB / 华硕 )<br>内存 32 GB ( 宇瞻 DDR4 2666MHz )<br>主硬盘 西数 WDC WDS500G1B0C-00S6U0 ( 500 GB / 固态硬盘 )<br>显示器 冠捷 AOC2490 2490W1 ( 23.8 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p></blockquote><p>这个用的核显，没有独显的，HDMI线，可以到4K，竟然支持双屏，有免驱的博通无线网卡，可以用WIFI和蓝牙。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7 支持</li><li>big sur 11.2 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1619.html" target="_blank" rel="noopener">i5-10400+华硕 ROG STRIX B460-I GAMING核显台式机黑苹果EFI OC6.6 BIG SUR 11.2.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-9700KF+技嘉 Z390 UD+5700 XT台式机黑苹果EFI OC6.6 BIG SUR 11.2</title>
+    <url>/af1d2ab6.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 技嘉 Z390 UD 台式电脑<br>处理器 英特尔 Core i7-9700KF @ 3.60GHz 八核<br>主板 技嘉 Z390 UD（Z390 芯片组）<br>显卡 AMD Radeon RX 5700 XT ( 8 GB / 蓝宝石 )<br>内存 32 GB ( 海力士 DDR4 2666MHz / 金士顿 DDR4 2400MHz )<br>主硬盘 Lexar 1TB SSD ( 1 TB / 固态硬盘 )<br>显示器 明基 BNQ7950 BenQ EW3270U ( 31.5 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉</p></blockquote><p>这个主板一定要按下面【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程里的BIOS设置，设置BIOS选项，尤其是1，大于4G的解码空间要开启，USB里的XHCI HADN OFF要开启，CSM要关掉，否则会卡住。</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7 支持</li><li>big sur 11.2 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1618.html" target="_blank" rel="noopener">i7-9700KF+技嘉 Z390 UD+5700 XT台式机黑苹果EFI OC6.6 BIG SUR 11.2.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>变频</li><li>WIFI</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i3-10100+昂达 H410SD4核显黑苹果引导OC 6.6 BIG SUR 11.2</title>
+    <url>/69efaa7.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i3-10100 @ 3.60GHz 四核<br>主板 昂达 H410SD4（LPC Controller H410芯片组）<br>显卡 英特尔 UHD Graphics 630 ( 128 MB / 英特尔 )<br>内存 16 GB ( 酷兽 DDR4 3200MHz )<br>主硬盘 KONKA ( 500 GB / 固态硬盘 )<br>显示器 HPN342E HP 22w ( 21.5 英寸 )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller</p></blockquote><p>这个主板建议谨慎选择，有些问题比较奇怪：<br>可能存在重启后进big sur会返回引导的情况，建议等着30秒后进big sur在引导中。己知的问题就是如果从WIN重启再进MACOS，会有可能进了MACOS自动重启又回到引导，但有时又是正常的，目前还是未解的问题，有时开始直接进MACOS又是完全正常的。<br>用的是HDMI线安装MACOS BIG SUR<br>有免驱的无线网卡<br>实在不建议用这个主板，可能后续的BIOS会解决这个问题，目前己知的就是上面的问题，其它都正常</p><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7 支持</li><li>big sur 11.2 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1617.html" target="_blank" rel="noopener">i3-10100+昂达 H410SD4核显黑苹果引导OC 6.6 BIG SUR 11.2.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>变频</li><li>蓝牙</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i3-10100+华硕 TUF GAMING B460M-PLUS+RX 590台式机黑苹果EFI OC6.6 BIG SUR 11.2</title>
+    <url>/989d656d.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>处理器 英特尔 Core i3-10100 @ 3.60GHz 四核<br>主板 华硕 TUF GAMING B460M-PLUS（LPC Controller B460芯片组）<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>内存 16 GB ( 迎邦 DDR4 2666MHz )<br>主硬盘 三星 SSD 870 EVO 500GB ( 500 GB / 固态硬盘 )<br>显示器 IPS2380 SONGREN 240E ( 23.8 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>catalina 10.15.7 支持</li><li>big sur 11.2 当前安装</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1615.html" target="_blank" rel="noopener">i3-10100+华硕 TUF GAMING B460M-PLUS+RX 590台式机黑苹果EFI OC6.6 BIG SUR 11.2.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>独显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>变频</li><li>双屏多屏</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>联想 Lenovo IdeaPad Yoga 13 i7-3517U笔记本黑苹果引导EFI OC6.6 CATALINA 10.15.7</title>
     <url>/a6009b9.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote><p>电脑型号 联想 Lenovo IdeaPad Yoga 13 笔记本电脑<br>处理器 英特尔 第三代酷睿 i7-3517U @ 1.90GHz 双核<br>主板 联想 31900005WIN8 STD PRC（QS77 Express 芯片组）<br>显卡 英特尔 HD Graphics 4000 ( 32 MB / 联想 )<br>内存 8 GB ( 镁光 DDR3L 1600MHz )<br>主硬盘 三星 MZMPC256HBGJ-000L1 ( 256 GB / 固态硬盘 )<br>显示器 LG LGD0360 ( 13.3 英寸 )<br>声卡 Conexant SmartAudio HD @ 英特尔 Realtek ALC662 Audio Controller<br>网卡 瑞昱 802.11n WLAN Adapter</p></blockquote><h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.6</p><h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul><li>mojave 10.14.6 支持</li><li>catalina 10.15.7 当前安装</li><li>big sur 11.2 不支持</li></ul><h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul><li><a href="http://pay.k61.org/share_1614.html" target="_blank" rel="noopener">联想 Lenovo IdeaPad Yoga 13 i7-3517U笔记本黑苹果引导EFI OC6.6 CATALINA 10.15.7.zip</a></li><li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li></ul><h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul><li>核显</li><li>声卡</li><li>麦克风</li><li>SIRI</li><li>USB</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>摄像头</li></ul>]]></content>
@@ -1571,9 +1616,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.14.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.14.6镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1942,7 +1987,7 @@
   <entry>
     <title>Alienware m17 i9-8950HK UHD630 Alienware 0DH3P0 RTX 2080 4k only安装黑苹果系统mojave 10.14.6	</title>
     <url>/8844eaa7.html</url>
-    <content><![CDATA[<p>电脑型号 Alienware m17 笔记本电脑 (扫描时间：2020年03月30日)<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )</p><p>处理器 英特尔 Core i9-8950HK @ 2.90GHz 六核<br>主板 Alienware 0DH3P0 ( HM370 芯片组 )<br>内存 32 GB ( 三星 DDR4 2666MHz )<br>主硬盘 PC401 NVMe SK hynix 512GB ( 512 GB / 固态硬盘 )<br>显卡 Nvidia GeForce RTX 2080 with Max-Q Design ( 8 GB / 戴尔 )<br>显示器 友达 AUO109B ( 17.2 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 鈺硕 Killer E2500 Gigabit Ethernet Controller / Bigfoot Networks</p><p>EFI:<a href="http://pay.k61.org/share_1323.html" target="_blank" rel="noopener">http://pay.k61.org/share_1323.html</a></p>]]></content>
+    <content><![CDATA[<p>电脑型号 Alienware m17 笔记本电脑 (扫描时间：2020年03月30日)<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )</p><p>处理器 英特尔 Core i9-8950HK @ 2.90GHz 六核<br>主板 Alienware 0DH3P0 ( HM370 芯片组 )<br>内存 32 GB ( 三星 DDR4 2666MHz )<br>主硬盘 PC401 NVMe SK hynix 512GB ( 512 GB / 固态硬盘 )<br>显卡 Nvidia GeForce RTX 2080 with Max-Q Design ( 8 GB / 戴尔 )<br>显示器 友达 AUO109B ( 17.2 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 鈺硕 Killer E2500 Gigabit Ethernet Controller / Bigfoot Networks</p><p>EFI:<a href="http://pay.k61.org/share_1323.html" target="_blank" rel="noopener">http://pay.k61.org/share_1323.html</a></p><p>2021年3月更新OPENCORE引导 0.6.6版本，可支持CATALINA或者BIG SUR：<br><a href="http://pay.k61.org/share_1616.html" target="_blank" rel="noopener">http://pay.k61.org/share_1616.html</a></p><p>己知驱动：<br>WIFI（需要下载：heliport.dmg,到这里下载<a href="https://github.com/OpenIntelWireless）" target="_blank" rel="noopener">https://github.com/OpenIntelWireless）</a><br>蓝牙（不是什么设备都能连）<br>电池电量<br>触控板，有多指<br>4K分辨率<br>核显UHD630<br>独显不支持<br>外接显示器未测试应该不行<br>CPU完美变频，但无法关CFG LOCK<br>有线网卡</p>]]></content>
       <categories>
         <category>笔记本</category>
         <category>Alienware_外星人</category>
@@ -2201,8 +2246,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z170</tag>
         <tag>GTX 1060</tag>
+        <tag>Z170</tag>
         <tag>i7-6700</tag>
       </tags>
   </entry>
@@ -2793,8 +2838,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i7-8700</tag>
         <tag>UHD 630</tag>
+        <tag>i7-8700</tag>
       </tags>
   </entry>
   <entry>
@@ -3693,8 +3738,8 @@
       <tags>
         <tag>B360</tag>
         <tag>Catalina</tag>
-        <tag>i7-8700</tag>
         <tag>UHD 630</tag>
+        <tag>i7-8700</tag>
       </tags>
   </entry>
   <entry>
@@ -4702,8 +4747,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>Z170</tag>
         <tag>GTX 1060</tag>
+        <tag>Z170</tag>
         <tag>i7-6700K</tag>
       </tags>
   </entry>
@@ -4918,9 +4963,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
