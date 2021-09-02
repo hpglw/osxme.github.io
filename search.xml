@@ -27,6 +27,12 @@
 </li>
 <li><p>i7-9700K 华擎 Z390M Pro4 rx5700 oc 7.0 big sur 11.4<br>引导下载：<a href="http://pay.k61.org/share_1712.html" target="_blank" rel="noopener">http://pay.k61.org/share_1712.html</a></p>
 </li>
+<li><p>戴尔电7050m i5 7500t oc7.0 big sur 11.4 hdmi<br>引导下载：<a href="http://pay.k61.org/share_1713.html" target="_blank" rel="noopener">http://pay.k61.org/share_1713.html</a></p>
+</li>
+<li><p>戴尔optiplex 3080 i3-10100t oc 7.0 big sur 11.4<br>引导下载：<a href="http://pay.k61.org/share_1715.html" target="_blank" rel="noopener">http://pay.k61.org/share_1715.html</a></p>
+</li>
+<li><p>戴尔precision tower 5810 tower e5-2680 v3 rx560 oc7.0 catalina 10.15.7<br>下载：<a href="http://pay.k61.org/share_1717.html" target="_blank" rel="noopener">http://pay.k61.org/share_1717.html</a></p>
+</li>
 </ul>
 <h5 id="笔记本："><a href="#笔记本：" class="headerlink" title="笔记本："></a>笔记本：</h5><ul>
 <li><p>联想 Lenovo S41-70 80JU 笔记本 i7-5500u黑苹果引导oc 7.0 big sur  引导下载：<a href="http://pay.k61.org/share_1697.html" target="_blank" rel="noopener">http://pay.k61.org/share_1697.html</a></p>
@@ -48,6 +54,20 @@
 <li><p>thinkpad X1 carbon 2019 i7-8565u oc 7.0 big sur 11.4基本全驱动<br>引导下载：<a href="http://pay.k61.org/share_1709.html" target="_blank" rel="noopener">http://pay.k61.org/share_1709.html</a></p>
 </li>
 <li><p>dell latitude 5290 BIG SUR 11.4 OC黑苹果引导下载<br>引导下载：<a href="http://pay.k61.org/share_1710.html" target="_blank" rel="noopener">http://pay.k61.org/share_1710.html</a></p>
+</li>
+<li><p>戴尔inspiron 3543 i5-5200u oc 7.0 big sur 11.4基本ok 无线不支持<br>引导下载：<a href="http://pay.k61.org/share_1714.html" target="_blank" rel="noopener">http://pay.k61.org/share_1714.html</a></p>
+</li>
+<li><p>戴尔precision 5510 i7-6820hq 4k oc7.0 big sur 11.4<br>引导下载：<a href="http://pay.k61.org/share_1716.html" target="_blank" rel="noopener">http://pay.k61.org/share_1716.html</a></p>
+</li>
+<li><p>戴尔vostro 5468 i5-7200u oc7.0 big sur 11.4<br>引导下载：<a href="http://pay.k61.org/share_1718.html" target="_blank" rel="noopener">http://pay.k61.org/share_1718.html</a></p>
+</li>
+<li><p>华硕ux303ub i5-6200u 黑苹果引导oc 7.0 big sur<br>引导下载：<a href="http://pay.k61.org/share_1719.html" target="_blank" rel="noopener">http://pay.k61.org/share_1719.html</a></p>
+</li>
+<li><p>技嘉aero 15xvb i7-8750h oc7.0 big sur 11.4<br>引导下载：<a href="http://pay.k61.org/share_1720.html" target="_blank" rel="noopener">http://pay.k61.org/share_1720.html</a></p>
+</li>
+<li><p>雷蛇Razer Blade i7-8750H UHD630 GTX 1060<br>引导下载：<a href="http://pay.k61.org/share_1721.html" target="_blank" rel="noopener">http://pay.k61.org/share_1721.html</a></p>
+</li>
+<li><p>雷神911 air i7-9750h黑苹果引导oc 7.0 big sur<br>引导下载：<a href="http://pay.k61.org/share_1722.html" target="_blank" rel="noopener">http://pay.k61.org/share_1722.html</a></p>
 </li>
 </ul>
 ]]></content>
@@ -9366,9 +9386,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -11287,6 +11307,37 @@
       </tags>
   </entry>
   <entry>
+    <title>【台式机】i3-7100 微星 B250M PRO-V GTX 660 10.13.6黑苹果引导_Hackintosh_Clover</title>
+    <url>/i3-7100-MSI-B250M-PRO-V-GTX-660.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i3-7100 处理器+微星 B250M PRO-V主板安装黑苹果系统，首先，GTX 660的独显决定了，只能安装10.13.6系统。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    微星 MS-7A74 Modified by dsanke 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i3-7100 @ 3.90GHz 双核<br>主板    微星 B250M PRO-V (MS-7A74) ( B250 芯片组 )<br>内存    16 GB ( 威刚 DDR4 2400MHz )<br>主硬盘     XPG GAMMIX S11 Pro ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 660 ( 2 GB / Nvidia )<br>显示器    LG GSM5A31 22M35 ( 21.7 英寸  )<br>声卡    瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A2430D56-B6C3-478D-BD74-396295B5F6E3.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/180A15F2DBC84D4CD97ACA14CFC55A47.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E359B21D78D5181024C9FCE8F37A1EB3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/EB258D5241BCC77743AD542F8D9CD10B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0E050A4CD948AEDB0CE50F74D5E07682.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E2B91B3BEC7076A08A5E9796D6AF2AD7.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C3A660763A16E60B64B181F207D53ACC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CD767301-5176-49AB-86EA-7B0134756270.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+<li>HIDPI</li>
+<li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1196.html" target="_blank" rel="noopener">i3-7100 微星 B250M PRO-V GTX 660 10.13.6.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>B250M</tag>
+        <tag>i3-7100</tag>
+        <tag>GTX 660</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【台式机】i5-7500 华硕 PRIME B250M-A GTX 980 10.13.6黑苹果引导_Hackintosh_Clover</title>
     <url>/i5-7500-asus-PRIME-B250M-A.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i5-7500处理器+华硕 PRIME B250M-A主板安装黑苹果系统，首先，GTX 980的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数</p>
@@ -11318,15 +11369,15 @@
       </tags>
   </entry>
   <entry>
-    <title>【台式机】i3-7100 微星 B250M PRO-V GTX 660 10.13.6黑苹果引导_Hackintosh_Clover</title>
-    <url>/i3-7100-MSI-B250M-PRO-V-GTX-660.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i3-7100 处理器+微星 B250M PRO-V主板安装黑苹果系统，首先，GTX 660的独显决定了，只能安装10.13.6系统。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    微星 MS-7A74 Modified by dsanke 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i3-7100 @ 3.90GHz 双核<br>主板    微星 B250M PRO-V (MS-7A74) ( B250 芯片组 )<br>内存    16 GB ( 威刚 DDR4 2400MHz )<br>主硬盘     XPG GAMMIX S11 Pro ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 660 ( 2 GB / Nvidia )<br>显示器    LG GSM5A31 22M35 ( 21.7 英寸  )<br>声卡    瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p>
+    <title>【台式机】i5-9400F 华硕 TUF B360M-PLUS GAMING S GTX 1060 七彩虹 10.13.6黑苹果引导_Hackintosh_Clover</title>
+    <url>/i5-9400F-asus-TUF-B360M-PLUS-GTX-1060.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i5-9400F处理器+华硕 TUF B360M-PLUS GAMING S主板安装黑苹果系统，首先，GTX 1060 七彩虹的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 1060七彩虹 就可以。还需要注意一点就是这个CPU，仿冒机型都IMAC 19.2了，安装低版本的10.13.6的时候需要去掉版本检查代码。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    X64 兼容 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-9400F @ 2.90GHz 六核<br>主板    华硕 TUF B360M-PLUS GAMING S ( B360 芯片组 )<br>内存    16 GB ( 威刚 DDR4 2666MHz )<br>主硬盘    西数 WDS500G2X0C-00L350 ( 500 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 3GB ( 3 GB / 七彩虹 )<br>显示器    冠捷 AOC2579 2579 ( 24.9 英寸  )<br>声卡    瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 华硕</p>
 <a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A2430D56-B6C3-478D-BD74-396295B5F6E3.jpg" alt></p>
+<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/F4DA84B2-84CD-4E11-97D7-FADC0DD5EABF.jpg" alt></p>
 <h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
 <p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/180A15F2DBC84D4CD97ACA14CFC55A47.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E359B21D78D5181024C9FCE8F37A1EB3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/EB258D5241BCC77743AD542F8D9CD10B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0E050A4CD948AEDB0CE50F74D5E07682.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E2B91B3BEC7076A08A5E9796D6AF2AD7.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C3A660763A16E60B64B181F207D53ACC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CD767301-5176-49AB-86EA-7B0134756270.jpg" alt></p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0C346B49-8EB3-4A76-A87C-AAAC558E95C6.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/57A09622-BE95-43E3-A3AE-273F0CF10013.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9CA76EFA67869FDA5EAB77CB1889CF39.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/18EB5A6F4BD1AB595BA621C335B04A71.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3D3202B95BC10415860698CF9BE23449.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5502990E998C1C841C7FFD2899AB995C.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/44C231253BD69D95F2FD76CFC6654AE5.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9C05BEB13F05820152D109983528FB6F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9AF217B8DD5AA675F75CF0DBCBA67307.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A02DE7EE8405554DCE0A418D60453BC2.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/4E1B7DFDFC17744F18F54E99C24EB3F9.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/75F229C2A6821D29896D5F33B37FADB7.jpg" alt></p>
 <h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
 <li>独显</li>
 <li>声卡</li>
@@ -11335,7 +11386,7 @@
 <li>有线网卡</li>
 <li>双屏多屏</li>
 <li>HIDPI</li>
-<li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1196.html" target="_blank" rel="noopener">i3-7100 微星 B250M PRO-V GTX 660 10.13.6.zip - 老吴黑苹果工作室</a></li>
+<li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1189.html" target="_blank" rel="noopener">i5-9400F 华硕 TUF B360M-PLUS GAMING S GTX 1060 3 GB 七彩虹 10.13.6.zip - 老吴黑苹果工作室</a></li>
 </ul>
 ]]></content>
       <categories>
@@ -11343,9 +11394,9 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>B250M</tag>
-        <tag>i3-7100</tag>
-        <tag>GTX 660</tag>
+        <tag>GTX 1060</tag>
+        <tag>B360M</tag>
+        <tag>i5-9400F</tag>
       </tags>
   </entry>
   <entry>
@@ -11379,37 +11430,6 @@
       </categories>
       <tags>
         <tag>RX 580</tag>
-        <tag>B360M</tag>
-        <tag>i5-9400F</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【台式机】i5-9400F 华硕 TUF B360M-PLUS GAMING S GTX 1060 七彩虹 10.13.6黑苹果引导_Hackintosh_Clover</title>
-    <url>/i5-9400F-asus-TUF-B360M-PLUS-GTX-1060.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i5-9400F处理器+华硕 TUF B360M-PLUS GAMING S主板安装黑苹果系统，首先，GTX 1060 七彩虹的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 1060七彩虹 就可以。还需要注意一点就是这个CPU，仿冒机型都IMAC 19.2了，安装低版本的10.13.6的时候需要去掉版本检查代码。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    X64 兼容 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-9400F @ 2.90GHz 六核<br>主板    华硕 TUF B360M-PLUS GAMING S ( B360 芯片组 )<br>内存    16 GB ( 威刚 DDR4 2666MHz )<br>主硬盘    西数 WDS500G2X0C-00L350 ( 500 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1060 3GB ( 3 GB / 七彩虹 )<br>显示器    冠捷 AOC2579 2579 ( 24.9 英寸  )<br>声卡    瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 华硕</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/F4DA84B2-84CD-4E11-97D7-FADC0DD5EABF.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0C346B49-8EB3-4A76-A87C-AAAC558E95C6.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/57A09622-BE95-43E3-A3AE-273F0CF10013.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9CA76EFA67869FDA5EAB77CB1889CF39.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/18EB5A6F4BD1AB595BA621C335B04A71.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3D3202B95BC10415860698CF9BE23449.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5502990E998C1C841C7FFD2899AB995C.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/44C231253BD69D95F2FD76CFC6654AE5.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9C05BEB13F05820152D109983528FB6F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9AF217B8DD5AA675F75CF0DBCBA67307.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A02DE7EE8405554DCE0A418D60453BC2.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/4E1B7DFDFC17744F18F54E99C24EB3F9.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/75F229C2A6821D29896D5F33B37FADB7.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>独显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>双屏多屏</li>
-<li>HIDPI</li>
-<li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1189.html" target="_blank" rel="noopener">i5-9400F 华硕 TUF B360M-PLUS GAMING S GTX 1060 3 GB 七彩虹 10.13.6.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
-      </categories>
-      <tags>
-        <tag>GTX 1060</tag>
         <tag>B360M</tag>
         <tag>i5-9400F</tag>
       </tags>
@@ -11710,6 +11730,40 @@
       </tags>
   </entry>
   <entry>
+    <title>【笔记本】联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6黑苹果引导_Hackintosh_Clover</title>
+    <url>/Lenovo-B490s-i3-3217U-HD4000.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>联想这台B490s安装黑苹果系统，i3-3217U核显HD 4600比较老了，安装10.13.6系统，没有遇到登录花屏的情况，说明联想笔记本还是比较好的。另独显无法驱动，WIFI也不行，其它还好。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    联想 Lenovo B490s 20311 笔记本电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 第三代酷睿 i3-3217U @ 1.80GHz 双核<br>主板    联想 20311 ( HM76 Express 芯片组 )<br>内存    8 GB ( 三星 DDR3L 1600MHz / 金士顿 DDR3L 1600MHz )<br>主硬盘    希捷 ST500LT012-9WS142 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 710M ( 1 GB / 联想 )<br>显示器    奇美 CMN1489 ( 14 英寸  )<br>声卡    瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    博通 BCM4313 802.11b/g LP-PHY Network Adapter</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/10BC189D-F62D-456A-804D-B59878B4F249.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Mojave 10.14.x ( <a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/515672BF-E757-4B8F-9448-1BF0683BF5D0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/427EC3E4-E53E-4535-981A-C5D904912126.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/53F78C07-CBDD-41C4-B2BE-6A064CCC203F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/ADE568E1BD40557BF5B88FD811313632.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C382CF7BC407BE4B991AD570C28583CC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/DCF02CA78C2CA0B196E8DBDFB48F084F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A6F1EFD49B8CE2E1E6D6BB5600F1AF1D.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C572CA74978D1165F50E612E4B9BAFE3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9CCA9B5B3FEEC2E9D699CA7ED6E35267.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/6AE999B190280C9C8CB6FF9C1A4F76C7.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>SIRI</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>摄像头<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1188.html" target="_blank" rel="noopener">联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+      <tags>
+        <tag>i3-3217U</tag>
+        <tag>HD4000</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【笔记本】联想天逸100-15IBD i5-5200U HD5500 GeForce 920M独显驱动10.14.6黑苹果引导_Hackintosh_Clover</title>
     <url>/lenovo-100-15IBD-i5-5200U-1.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>联想天逸100-15IBD笔记本安装黑苹果系统，MOJAVE 10.14.6，HD 5500核显驱动，意外驱动了920M的独显，整体运行良好。</p>
@@ -11743,40 +11797,6 @@
       <tags>
         <tag>i5-5200U</tag>
         <tag>HD 5500</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【笔记本】联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6黑苹果引导_Hackintosh_Clover</title>
-    <url>/Lenovo-B490s-i3-3217U-HD4000.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>联想这台B490s安装黑苹果系统，i3-3217U核显HD 4600比较老了，安装10.13.6系统，没有遇到登录花屏的情况，说明联想笔记本还是比较好的。另独显无法驱动，WIFI也不行，其它还好。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    联想 Lenovo B490s 20311 笔记本电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 第三代酷睿 i3-3217U @ 1.80GHz 双核<br>主板    联想 20311 ( HM76 Express 芯片组 )<br>内存    8 GB ( 三星 DDR3L 1600MHz / 金士顿 DDR3L 1600MHz )<br>主硬盘    希捷 ST500LT012-9WS142 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 710M ( 1 GB / 联想 )<br>显示器    奇美 CMN1489 ( 14 英寸  )<br>声卡    瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    博通 BCM4313 802.11b/g LP-PHY Network Adapter</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/10BC189D-F62D-456A-804D-B59878B4F249.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Mojave 10.14.x ( <a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/515672BF-E757-4B8F-9448-1BF0683BF5D0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/427EC3E4-E53E-4535-981A-C5D904912126.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/53F78C07-CBDD-41C4-B2BE-6A064CCC203F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/ADE568E1BD40557BF5B88FD811313632.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C382CF7BC407BE4B991AD570C28583CC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/DCF02CA78C2CA0B196E8DBDFB48F084F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A6F1EFD49B8CE2E1E6D6BB5600F1AF1D.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C572CA74978D1165F50E612E4B9BAFE3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9CCA9B5B3FEEC2E9D699CA7ED6E35267.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/6AE999B190280C9C8CB6FF9C1A4F76C7.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>SIRI</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>键盘</li>
-<li>触控板</li>
-<li>亮度调节</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>摄像头<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1188.html" target="_blank" rel="noopener">联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Lenovo_联想</category>
-      </categories>
-      <tags>
-        <tag>i3-3217U</tag>
-        <tag>HD4000</tag>
       </tags>
   </entry>
   <entry>
@@ -19027,9 +19047,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
