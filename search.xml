@@ -11687,40 +11687,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【笔记本】神舟k670d W65KJ1_KK1 i5-7500 hd630 GTX 1050 10.14.6黑苹果引导_Hackintosh_Clover</title>
-    <url>/hasee-k670d-W65KJ1_KK1-i5-7500-1.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>神舟k670d安装黑苹果系统，W65KJ1_KK1 i5-7500处理器，台式机的。HD 630核显，GTX 1050独显，这又是神舟出品的一台台式机处理器，笔记本外壳的神奇电脑，但意外的是，安装黑苹果非常好用。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    Notebook W65KJ1_KK1 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7500 @ 3.40GHz 四核<br>主板    Notebook W65KJ1_KK1 ( 100 Series/C230 Series 芯片组 Family - A144 )<br>内存    8 GB ( 英睿达 DDR4 2400MHz )<br>主硬盘    GLOWAY VAL120NVMe-M.2/80 ( 120 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1050 ( 4 GB / 蓝天(CLEVO) )<br>显示器    友达 AUO44ED ( 15.5 英寸  )<br>声卡    瑞昱 ALC269 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 蓝天(CLEVO)</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5F1C3C47-36E0-4D3A-B70D-1072C3A0F6BA.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Mojave 10.14.x ( <a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CF056AC3-927D-4365-BBA9-80ABE28B81E0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/B3B8A357F09C7D2A5E271706176108D2.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/270C2DBC3DD90FC5BF94470C1BFE6321.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3EFF2673E8FEB582CB351FAFCC80AC61.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/277EAC9142E181736C8FACD2098F200B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A856A071CA7C9728A9D3324DFE2D46AA.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0A55709F00DE0F9DF1EC6C3D66120BC4.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/ADD356E13D5543F18A022EE635D4BA63.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/47C174284B8B157AD1BA23813CA8CC3F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/263E42A6508140145D6A836E40913022.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5832AB88026AA9A0DC9D64009AFC447D.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/AD66F07E-D611-424E-B172-F48F50250F0D.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>电池电量显示</li>
-<li>键盘</li>
-<li>触控板</li>
-<li>亮度调节</li>
-<li>蓝牙</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>摄像头<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1192.html" target="_blank" rel="noopener">神舟k670d W65KJ1_KK1 i5-7500 hd630 GTX 1050 ALC269 10.14.6.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Hasee_神舟</category>
-      </categories>
-      <tags>
-        <tag>i5-7500</tag>
-        <tag>hd630</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【笔记本】神舟z7-sp5d1 P65xRP i5-6300HQ HD530 GTX 1060 10.14.6黑苹果引导_Hackintosh_Clover</title>
     <url>/hasee-z7-sp5d1-P65xRP-i5-6300HQ-1.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>神舟z7-sp5d1安装黑苹果系统，蓝天模具。vi5-6300HQ处理器核显HD530，GTX 1060独显无解，上mojave 10.14.6系统。</p>
@@ -11827,6 +11793,40 @@
       <tags>
         <tag>i5-5200U</tag>
         <tag>HD 5500</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【笔记本】神舟k670d W65KJ1_KK1 i5-7500 hd630 GTX 1050 10.14.6黑苹果引导_Hackintosh_Clover</title>
+    <url>/hasee-k670d-W65KJ1_KK1-i5-7500-1.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>神舟k670d安装黑苹果系统，W65KJ1_KK1 i5-7500处理器，台式机的。HD 630核显，GTX 1050独显，这又是神舟出品的一台台式机处理器，笔记本外壳的神奇电脑，但意外的是，安装黑苹果非常好用。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    Notebook W65KJ1_KK1 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-7500 @ 3.40GHz 四核<br>主板    Notebook W65KJ1_KK1 ( 100 Series/C230 Series 芯片组 Family - A144 )<br>内存    8 GB ( 英睿达 DDR4 2400MHz )<br>主硬盘    GLOWAY VAL120NVMe-M.2/80 ( 120 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 1050 ( 4 GB / 蓝天(CLEVO) )<br>显示器    友达 AUO44ED ( 15.5 英寸  )<br>声卡    瑞昱 ALC269 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 蓝天(CLEVO)</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5F1C3C47-36E0-4D3A-B70D-1072C3A0F6BA.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Mojave 10.14.x ( <a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CF056AC3-927D-4365-BBA9-80ABE28B81E0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/B3B8A357F09C7D2A5E271706176108D2.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/270C2DBC3DD90FC5BF94470C1BFE6321.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3EFF2673E8FEB582CB351FAFCC80AC61.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/277EAC9142E181736C8FACD2098F200B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A856A071CA7C9728A9D3324DFE2D46AA.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0A55709F00DE0F9DF1EC6C3D66120BC4.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/ADD356E13D5543F18A022EE635D4BA63.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/47C174284B8B157AD1BA23813CA8CC3F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/263E42A6508140145D6A836E40913022.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5832AB88026AA9A0DC9D64009AFC447D.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/AD66F07E-D611-424E-B172-F48F50250F0D.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>摄像头<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1192.html" target="_blank" rel="noopener">神舟k670d W65KJ1_KK1 i5-7500 hd630 GTX 1050 ALC269 10.14.6.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Hasee_神舟</category>
+      </categories>
+      <tags>
+        <tag>i5-7500</tag>
+        <tag>hd630</tag>
       </tags>
   </entry>
   <entry>
@@ -16960,9 +16960,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
