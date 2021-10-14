@@ -183,6 +183,7 @@
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
 <p>技嘉GA B560M AORUS PRO AX<br>CPU：i5-10400<br>内存：32G<br>显卡：RX580</p>
 </blockquote>
+<p>务必注意：<br>该主板的是i225-v有线网卡目前在黑苹果下存在问题，截止2021-10月前没有相关解决方法出来，故障表现为接上有线上网会导致系统死机，原因未不清楚，所以最好使用内置intel无线网卡或者加装博通免驱无线网卡，后续可能会有相关的解决方案。该主板也不支持关闭intel无线网卡，当安装博通免驱网卡时，我单独做了一个config配置，替换改名即可。在引导包里有相关说明，参阅。</p>
 <h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.7.3</p>
 <h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
 <li>big sur 11.6</li>
