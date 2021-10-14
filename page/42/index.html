@@ -276,6 +276,410 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/diable-pm981-on-hackintosh.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/diable-pm981-on-hackintosh.html" class="post-title-link" itemprop="url">黑苹果怎么屏蔽三星PM981</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-01-09 11:41:38" itemprop="dateCreated datePublished" datetime="2020-01-09T11:41:38+08:00">2020-01-09</time>
+            </span>
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/教程/" itemprop="url" rel="index">
+                    <span itemprop="name">教程</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>首先，进系统后，第一时间，去启动台——其它<br><img src="http://k61.org/%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%80%8E%E4%B9%88%E5%B1%8F%E8%94%BD%E4%B8%89%E6%98%9FPM981/C63885B3-417D-468A-81EF-C00CBC6A0E89.jpg" alt><br>打开磁盘工具，把三星PM981的所有分区都卸载掉先，否则可能会卡死或者自动重启，无法进行后续的屏蔽工作。</p>
+<p>1，打开终端，输入<code>diskutil list</code><br>2，找到PM981的硬盘信息：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">/dev/disk1 (internal):</span><br><span class="line">   #:                       TYPE NAME                    SIZE       IDENTIFIER</span><br><span class="line">   0:      GUID_partition_scheme                         512.1 GB   disk1</span><br><span class="line">   1:       Microsoft Basic Data SYS                     512.1 GB   disk1s1</span><br></pre></td></tr></table></figure>
+
+<p>每个人的分区信息，都不一样，我们只需要找到可见的分区，如C盘D盘这些，在INDENTIFIER参数中，如C盘的分区是disk1s1，记下来。<br>3，<code>diskutil info disk1s1</code>，然后找到Volume UUID值，复制出来<br>4，再打开终端，输入<code>sudo vifs</code><br>5，在vim编辑器中按i，然后在最后一行输入<code>UUID=Volume UUID none ntfs noauto</code>，有几个分区，就有几行。<br>6，保存vim退出，重启之后，开机自动卸载PM981所有磁盘分区，屏蔽成功。</p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/E3-1231-v3-msi-B85-G43-gtx-970.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/E3-1231-v3-msi-B85-G43-gtx-970.html" class="post-title-link" itemprop="url">【台式机】E3-1231 v3 微星 B85-G43 GAMING GTX 970 10.13.6黑苹果引导_Hackintosh_Clover</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
+            </span>
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/" itemprop="url" rel="index">
+                    <span itemprop="name">台式机</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
+                    <span itemprop="name">INTEL</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1231 v3处理器+微星 B85-G43 GAMING主板安装黑苹果系统，首先，GTX 970的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 970索泰就可以。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    微星 MS-7816 台式电脑<br>操作系统    Windows 10 Enterprise 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1231 v3 @ 3.40GHz 四核<br>主板    微星 B85-G43 GAMING (MS-7816) ( Lynx Point )<br>内存    16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘    浦科特 PX-256M6S ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 970 ( 4 GB / 索泰 )<br>显示器    惠科 HKC0000 HDMI ( 27.2 英寸  )<br>光驱    华硕 DVD-E818A7T DVD光驱<br>声卡    Elite Silicon USB Audio Device<br>网卡    鈺硕 Killer E2200 Gigabit Ethernet Controller / 微星</p>
+          <!--noindex-->
+          
+            <div class="post-button">
+              <a class="btn" href="/E3-1231-v3-msi-B85-G43-gtx-970.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/E3-1240L-v5-GA-X150-PLUS-WS-CF.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/E3-1240L-v5-GA-X150-PLUS-WS-CF.html" class="post-title-link" itemprop="url">【台式机】E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2黑苹果引导_Hackintosh_Clover</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
+            </span>
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/" itemprop="url" rel="index">
+                    <span itemprop="name">台式机</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
+                    <span itemprop="name">INTEL</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1240L v5 Cpu+技嘉 X150-PLUS WS-CF主板，免驱的RX 570独显，安装黑苹果macos catalina 10.15.2系统。这是一张X150的主板，从配置上来看，安装需要更多的调试，但很奇怪的是，利用X79的思路，可以很好地解决问题。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    技嘉 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1240L v5 @ 2.10GHz 四核<br>主板    技嘉 X150-PLUS WS-CF ( 100 Series/C230 Series 芯片组 Family - A14A )<br>内存    32 GB ( 威刚 DDR4 3000MHz )<br>主硬盘    苹果 HDD HTS541010A9E662 ( 1 TB )<br>显卡    AMD Radeon RX 570 ( 8 GB / 蓝宝石 )<br>显示器    HPN3435 HP Z32 ( 31.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 技嘉</p>
+          <!--noindex-->
+          
+            <div class="post-button">
+              <a class="btn" href="/E3-1240L-v5-GA-X150-PLUS-WS-CF.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/i3-7100-MSI-B250M-PRO-V-GTX-660.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/i3-7100-MSI-B250M-PRO-V-GTX-660.html" class="post-title-link" itemprop="url">【台式机】i3-7100 微星 B250M PRO-V GTX 660 10.13.6黑苹果引导_Hackintosh_Clover</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
+            </span>
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/" itemprop="url" rel="index">
+                    <span itemprop="name">台式机</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
+                    <span itemprop="name">INTEL</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i3-7100 处理器+微星 B250M PRO-V主板安装黑苹果系统，首先，GTX 660的独显决定了，只能安装10.13.6系统。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    微星 MS-7A74 Modified by dsanke 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i3-7100 @ 3.90GHz 双核<br>主板    微星 B250M PRO-V (MS-7A74) ( B250 芯片组 )<br>内存    16 GB ( 威刚 DDR4 2400MHz )<br>主硬盘     XPG GAMMIX S11 Pro ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 660 ( 2 GB / Nvidia )<br>显示器    LG GSM5A31 22M35 ( 21.7 英寸  )<br>声卡    瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p>
+          <!--noindex-->
+          
+            <div class="post-button">
+              <a class="btn" href="/i3-7100-MSI-B250M-PRO-V-GTX-660.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
     <link itemprop="mainEntityOfPage" href="http://k61.org/i5-7500-asus-PRIME-B250M-A.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -901,426 +1305,6 @@
   
 
     
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/i7-9700K-asus-ROG-STRIX-Z390-F.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/i7-9700K-asus-ROG-STRIX-Z390-F.html" class="post-title-link" itemprop="url">【台式机】i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2黑苹果引导_Hackintosh_Clover</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
-            </span>
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/" itemprop="url" rel="index">
-                    <span itemprop="name">台式机</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
-                    <span itemprop="name">INTEL</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+华硕 ROG STRIX Z390-F GAMING主板，免驱的RX 590独显，安装黑苹果macos catalina 10.15.2系统。需要注意的是32G的海盗船内存，这个特别容易卡内存。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    X64 兼容 台式电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-9700K @ 3.60GHz 八核 (一键超频)<br>主板    华硕 ROG STRIX Z390-F GAMING ( Z390 芯片组 )<br>内存    32 GB ( 海盗船 DDR4 3200MHz )<br>主硬盘     XPG SPECTRIX S40G ( 1024 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器    明基 BNQ7F31 ZOWIE XL LCD ( ZOWIE XL LCD )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 华硕</p>
-          <!--noindex-->
-          
-            <div class="post-button">
-              <a class="btn" href="/i7-9700K-asus-ROG-STRIX-Z390-F.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/i7-9700K-ga-Z390-GAMING-X-CF.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/i7-9700K-ga-Z390-GAMING-X-CF.html" class="post-title-link" itemprop="url">【台式机】i7-9700K 技嘉 Z390 GAMING X-CF RX 5700 XT ALC892 10.15.2黑苹果引导_Hackintosh_Clover</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
-            </span>
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/" itemprop="url" rel="index">
-                    <span itemprop="name">台式机</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
-                    <span itemprop="name">INTEL</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+技嘉 Z390 GAMING X-CF主板，免驱的RX 5700 XT独显，安装黑苹果macos catalina 10.15.2系统。<br>特别需要注意的是，目前10.15.2又不支持三星EVO 970 PLUS固态了！</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    技嘉 Z390 GAMING X 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-9700K @ 3.60GHz 八核<br>主板    技嘉 Z390 GAMING X-CF ( Z390 芯片组 )<br>内存    32 GB ( 金士顿 DDR4 3200MHz )<br>主硬盘     Lexar SSD ( 500 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 5700 XT ( 8 GB / AMD )<br>显示器    XMI3444 Mi Monitor ( Mi Monitor )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 技嘉</p>
-          <!--noindex-->
-          
-            <div class="post-button">
-              <a class="btn" href="/i7-9700K-ga-Z390-GAMING-X-CF.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/huawei-matebook-WRT-WX9-2K.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/huawei-matebook-WRT-WX9-2K.html" class="post-title-link" itemprop="url">【笔记本】华为matebook WRT-WX9 2K屏i5-8265U MX150 UHD620 10.14.6黑苹果引导_Hackintosh_Clover</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
-            </span>
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/" itemprop="url" rel="index">
-                    <span itemprop="name">笔记本</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/Huawei-华为/" itemprop="url" rel="index">
-                    <span itemprop="name">Huawei_华为</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>华为这个笔记本应该是matebook 13的型号为WRT-WX9，之前也装过一台，但这台是2K屏的，i5-8265U处理器，核显是UHD 620，独显是MX 150无法驱动，目前核显驱动良好，就是触控板不行，WIFI无解，正常工作用处是可以的。另外需要注意一个问题，就是这台笔记本如果BIOS关了安全启动，WINDOWS里声卡就会失效，只有开安全启动才正常，目前这个问题无解。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    华为 WRT-WX9 笔记本电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Core i5-8265U @ 1.60GHz 四核<br>主板    华为 WRT-WX9-PCB ( I/O - 9D84 for mobile 8th Gen Intel Core processor family )<br>内存    8 GB ( 三星 )<br>主硬盘    西数 WDC PC SN720 SDAPNTW-512G-1027 ( 512 GB / 固态硬盘 )<br>显卡    Nvidia GeForce MX150 ( 2 GB / 华为 )<br>显示器    奇美 CMN8201 P130ZFA-BA1 ( 13.1 英寸  )<br>声卡    瑞昱 Audio @ 英特尔 英特尔智音技术音频控制器<br>网卡    英特尔 Wireless-AC 9462</p>
-          <!--noindex-->
-          
-            <div class="post-button">
-              <a class="btn" href="/huawei-matebook-WRT-WX9-2K.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/acer-aspire-s7-i5-3337U.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/acer-aspire-s7-i5-3337U.html" class="post-title-link" itemprop="url">【笔记本】宏基aspire s7-391 i5-3337U hd 4000 10.13.6黑苹果引导_Hackintosh_Clover</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-01-06 16:26:18" itemprop="dateCreated datePublished" datetime="2020-01-06T16:26:18+08:00">2020-01-06</time>
-            </span>
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/" itemprop="url" rel="index">
-                    <span itemprop="name">笔记本</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/Acer-宏碁/" itemprop="url" rel="index">
-                    <span itemprop="name">Acer_宏碁</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>这一台宏基aspire s7-391笔记本是超级本，特别需要注意的是，如果是原配的固态，是不能安装黑苹果的，需要换固态硬盘，因为原装的固态是有两个主控组成的RAID 0，而苹果是不支持RAID 0的，所以想要安装黑苹果，换MSATA的固态吧。另外，这一台的核显驱动也非常让人头疼，不是常用的核显ID，具体请看CLOVER的CONFIG配置吧。另外这台的无线网卡ATHEROS AR9462是可以驱动的。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>宏基acer aspire s7-391笔记本电脑<br>CPU：i5-3337U<br>主板：宏基Storm hm77<br>内存：4g<br>主硬盘：IT CMT-128L3M 128(需要更换)<br>显卡：HD 4000<br>声卡：ALC 662<br>网卡AR9462</p>
-          <!--noindex-->
-          
-            <div class="post-button">
-              <a class="btn" href="/acer-aspire-s7-i5-3337U.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
   </div>
 
   
@@ -1373,7 +1357,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">601</span>
+          <span class="site-state-item-count">605</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>

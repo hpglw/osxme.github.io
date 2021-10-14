@@ -276,6 +276,532 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/9f195878.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/9f195878.html" class="post-title-link" itemprop="url">Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H安装黑苹果BIG SUR 11.1 hackintosh</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2021-01-22 11:32:00" itemprop="dateCreated datePublished" datetime="2021-01-22T11:32:00+08:00">2021-01-22</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2021-01-24 14:27:28" itemprop="dateModified" datetime="2021-01-24T14:27:28+08:00">2021-01-24</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/" itemprop="url" rel="index">
+                    <span itemprop="name">笔记本</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/Razer-Blade-雷蛇/" itemprop="url" rel="index">
+                    <span itemprop="name">Razer Blade_雷蛇</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
+<p>Razer Blade 15 Base Model (Early 2020) - RZ09-0328<br>处理器    英特尔 Core i7-10750H @ 2.60GHz 六核<br>主板    Razer DA550 ( LPC Controller - 068D )<br>内存    16 GB ( 三星 DDR4 3200MHz )<br>主硬盘    三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )<br>主显卡    Nvidia GeForce GTX 1660 Ti ( 6 GB / Razer USA )<br>显示器    京东方 BOE0804 ( 15.5 英寸  )<br>声卡    英特尔 英特尔智音技术音频控制器<br>网卡    英特尔 Wi-Fi 6 AX201 160MHz</p>
+</blockquote>
+<p>安装前注意：进入OC引导后按空格，选CFGLOCK，然后按Y，先关闭CFG LOCK。</p>
+<p>有电池电量显示，触控板开始是空白的，重启几次用一段时间后会出来，目前还是比较完美，睡眠开合盖都正常。</p>
+<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
+<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
+<li>mojave 10.14.6 不建议</li>
+<li>catalina 10.15.7 兼容</li>
+<li>big sur 11.1 当前安装</li>
+</ul>
+<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li><a href="http://pay.k61.org/share_1524.html" target="_blank" rel="noopener">Razer Blade 15 Base Model (Early 2020) - RZ09-0328 i7-10750H黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+</ul>
+<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>SIRI</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>休眠唤醒</li>
+<li>摄像头</li>
+<li>WIFI</li>
+</ul>
+<p><img src="/images/pasted-188.png" alt="upload successful"></p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/b1af4ecb.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/b1af4ecb.html" class="post-title-link" itemprop="url">MECHREVO S1 Pro Series i5-8265U安装黑苹果BIG SUR 11.1完美</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2021-01-22 10:37:00 / 修改时间：10:40:36" itemprop="dateCreated datePublished" datetime="2021-01-22T10:37:00+08:00">2021-01-22</time>
+            </span>
+          
+            
+
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/" itemprop="url" rel="index">
+                    <span itemprop="name">笔记本</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/Mechrevo-机械革命/" itemprop="url" rel="index">
+                    <span itemprop="name">Mechrevo_机械革命</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
+<p>MECHREVO S1 Pro Series<br>处理器    英特尔 Core i5-8265U @ 1.60GHz 四核<br>主板    MECHREVO SW1 ( I/O - 9D84 for mobile 8th Gen Intel Core processor family )<br>内存    8 GB ( 金士顿 DDR4 2666MHz )<br>主硬盘    镁光 _1300_MTFDDAV512TDL ( 512 GB / 固态硬盘 )<br>主显卡    Nvidia GeForce MX250 ( 2 GB )<br>显示器    奇美 CMN14D4 ( 14 英寸  )<br>声卡    瑞昱 High Definition Audio @ 英特尔 英特尔智音技术音频控制器<br>网卡    英特尔 Wireless-AC 9560</p>
+</blockquote>
+<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
+<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
+<li>mojave 10.14.6 兼容</li>
+<li>catalina 10.15.7 兼容</li>
+<li>big sur 11.1 当前安装</li>
+</ul>
+<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li><a href="http://pay.k61.org/share_1523.html" target="_blank" rel="noopener">MECHREVO S1 Pro Series i5-8265U黑苹果引导OC6.5 FOR BIG SUR 11.1.zip </a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+</ul>
+<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>SIRI</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>手势多指</li>
+<li>变频</li>
+<li>休眠唤醒</li>
+<li>摄像头</li>
+<li>WIFI</li>
+<li>HDMI/DP外接输出</li>
+</ul>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/6c883a1c.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/6c883a1c.html" class="post-title-link" itemprop="url">惠普 康柏Elite 8380 MT Mini Tower i7-3770 安装黑苹果BIG SUR 11.1 </a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2021-01-20 09:59:00 / 修改时间：10:03:22" itemprop="dateCreated datePublished" datetime="2021-01-20T09:59:00+08:00">2021-01-20</time>
+            </span>
+          
+            
+
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/" itemprop="url" rel="index">
+                    <span itemprop="name">台式机</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
+                    <span itemprop="name">INTEL</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
+</blockquote>
+<p>惠普 康柏Elite 8380 MT Mini Tower<br>处理器    英特尔 第三代酷睿 i7-3770 四核<br>主板    惠普 主板 ( Q77 Express 芯片组 )<br>内存    24 GB ( 威刚 DDR3 1600MHz / 威刚 DDR3L 1600MHz / 记忆科技 DDR3L 1600MHz )<br>主硬盘    英特尔 SSDSC2KW256G8 ( 256 GB / 固态硬盘 )<br>主显卡    AMD Radeon RX 560 ( 3 GB )<br>显示器    戴尔 DELA120 DELL U3219Q ( 31.5 英寸  )<br>声卡    瑞昱 ALC221 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    英特尔 82579LM Gigabit Network Connection / 惠普</p>
+<p>需要在BIOS中打开核显，基本上所有AMD免驱独显都可以用这个引导，不支持单核显安装。</p>
+<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
+<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
+<li>mojave 10.14.6 兼容</li>
+<li>catalina 10.15.7 兼容</li>
+<li>big sur 11.1 当前安装</li>
+</ul>
+<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li><a href="http://pay.k61.org/share_1521.html" target="_blank" rel="noopener">惠普 康柏Elite 8380 MT Mini Tower i7-3770 RX 560黑苹果引导OC6.5 FOR BIG SUR 11.1 .zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+</ul>
+<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
+<li>核显</li>
+<li>独显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>SIRI</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>变频</li>
+<li>双屏多屏</li>
+</ul>
+<p><img src="/images/pasted-187.png" alt="upload successful"></p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/7c838d4d.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/7c838d4d.html" class="post-title-link" itemprop="url">联想 昭阳 E52-80 i5-6267U笔记本安装黑苹果CATALINA 10.15.7</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2021-01-19 16:36:00 / 修改时间：16:40:12" itemprop="dateCreated datePublished" datetime="2021-01-19T16:36:00+08:00">2021-01-19</time>
+            </span>
+          
+            
+
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/" itemprop="url" rel="index">
+                    <span itemprop="name">笔记本</span>
+                  </a>
+                </span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/笔记本/Lenovo-联想/" itemprop="url" rel="index">
+                    <span itemprop="name">Lenovo_联想</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
+<p>联想 昭阳 E52-80 i5-6267U笔记本<br>处理器    英特尔 Core i5-6267U @ 2.90GHz 双核<br>主板    联想 LNVNB161216 ( 6th/7th Generation Intel Processor Family I/O - 9D48 笔记本芯片组 )<br>内存    4 GB ( DDR4 2133MHz )<br>主硬盘    西数 WDC WD5000LPLX-24ZNTT0 ( 500 GB )<br>主显卡    HD550+AMD Radeon  530<br>显示器    友达 AUO38ED ( 15.5 英寸  )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 联想</p>
+</blockquote>
+<p>注意：这个本尽量不要开HIDPI</p>
+<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
+<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
+<li>mojave 10.14.6 兼容</li>
+<li>catalina 10.15.7 当前安装</li>
+<li>big sur 11.1 兼容</li>
+</ul>
+<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li><a href="http://pay.k61.org/share_1520.html" target="_blank" rel="noopener">联想 昭阳 E52-80 i5-6267U笔记本黑苹果引导OC6.5 FOR CATALINA 10.15.7.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+</ul>
+<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>SIRI</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>变频</li>
+<li>摄像头</li>
+<li>WIFI（需要HeliPort.dmg）下载：<a href="https://github.com/OpenIntelWireless" target="_blank" rel="noopener">https://github.com/OpenIntelWireless</a></li>
+</ul>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
     <link itemprop="mainEntityOfPage" href="http://k61.org/1fbb0d.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -989,482 +1515,6 @@
   
 
     
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/ab682095.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/ab682095.html" class="post-title-link" itemprop="url">Big Sur正式版11.1已经不再支持删除系统快照获得系统盘读写权限了</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2021-01-15 19:28:00 / 修改时间：19:35:04" itemprop="dateCreated datePublished" datetime="2021-01-15T19:28:00+08:00">2021-01-15</time>
-            </span>
-          
-            
-
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/教程/" itemprop="url" rel="index">
-                    <span itemprop="name">教程</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>老吴经过多次尝试，网上的方法都用过了。目前BIG SUR 11.1正式版本可以确认不能用现在的方法删除系统快照从而获得系统盘读写权限。</p>
-<p>在MACOS恢复模式中挂载系统盘，然后删除快照会提示insufficient privileges权限不足，原因是快照名上面己经清楚写明purgeable:no，也就是不可删除！</p>
-<p>假设己经无法再这个方法挂载系统盘，从而修改文件，那我们要做的，就反向加大安全性了，其实没什么需要往系统盘里加的，除了HIDPI，但目前一键HIDPI的作者己经更新了脚本，无须往系统盘里写东西，在这里：<br><a href="https://github.com/xzhih/one-key-hidpi" target="_blank" rel="noopener">https://github.com/xzhih/one-key-hidpi</a></p>
-<p>玩黑苹果的，可能还是期待后续会有大神更新修改方法。但目前来说，还没有。</p>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/d8ac584a.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/d8ac584a.html" class="post-title-link" itemprop="url">远程安装联想 Lenovo YOGA 720-12IKB 81B5 i5-7200U黑苹果系统 BIG SUR 11.1</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2021-01-15 15:37:00 / 修改时间：15:42:06" itemprop="dateCreated datePublished" datetime="2021-01-15T15:37:00+08:00">2021-01-15</time>
-            </span>
-          
-            
-
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/" itemprop="url" rel="index">
-                    <span itemprop="name">笔记本</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/Lenovo-联想/" itemprop="url" rel="index">
-                    <span itemprop="name">Lenovo_联想</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
-<p>联想 Lenovo YOGA 720-12IKB 81B5<br>处理器 英特尔 Core i5-7200U @ 2.50GHz 双核<br>主板 联想 LNVNB161216 ( 7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组 )<br>内存 4 GB ( DDR4 2133MHz )<br>主硬盘 建兴 CV3-8D256 ( 256 GB / 固态硬盘 )<br>主显卡 英特尔 HD Graphics 620 ( 128 MB / 联想 )<br>显示器 友达 AUO226D ( 12.5 英寸  )<br>声卡 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器<br>网卡 Atheros Qualcomm Atheros QCA9377 Wireless Network Adapter / 联想</p>
-</blockquote>
-<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
-<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
-<li>mojave 10.14.6 兼容</li>
-<li>catalina 10.15.7 兼容</li>
-<li>big sur 11.1 当前安装</li>
-</ul>
-<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
-<li><a href="http://pay.k61.org/share_1515.html" target="_blank" rel="noopener">联想 Lenovo YOGA 720-12IKB 81B5 i5-7200U黑苹果引导OC6.5 FOR BIG SUR 11.1.zip</a></li>
-<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
-</ul>
-<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>SIRI</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>电池电量显示（不准，只有显示）</li>
-<li>键盘</li>
-<li>触控板</li>
-<li>触屏</li>
-<li>亮度调节</li>
-<li>蓝牙（需要热启动，从WINDOWS用蓝牙后再进MACOS才能用）</li>
-<li>HIDPI</li>
-<li>手势多指</li>
-<li>变频</li>
-<li>休眠唤醒</li>
-<li>摄像头</li>
-<li>HDMI/DP外接输出</li>
-</ul>
-<p><img src="/images/pasted-183.png" alt="upload successful"></p>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/cf6c789f.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/cf6c789f.html" class="post-title-link" itemprop="url">远程安装i9-9900K +华硕 TUF Z390-PLUS GAMING+RX 5500 XT台式机黑苹果CATALINA</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2021-01-15 11:58:00 / 修改时间：12:02:40" itemprop="dateCreated datePublished" datetime="2021-01-15T11:58:00+08:00">2021-01-15</time>
-            </span>
-          
-            
-
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/" itemprop="url" rel="index">
-                    <span itemprop="name">台式机</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
-                    <span itemprop="name">INTEL</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
-<p>Razer Blade 14<br>处理器    英特尔 Core i9-9900K @ 3.60GHz 八核<br>主板    华硕 TUF Z390-PLUS GAMING (WI-FI) ( Z390 芯片组 )<br>内存    32 GB ( 海盗船 DDR4 3000MHz )<br>主硬盘    三星 MZVLB512HAJQ-00000 ( 512 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 5500 XT ( 8 GB / 蓝宝石 )<br>显示器    苹果 APP9227 LED Cinema ( 27.2 英寸  )<br>光驱    华硕 DRW-24D3ST DVD刻录机<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Wireless-AC 9560</p>
-</blockquote>
-<p>注意：该引导不含INTEL无线网卡驱动，因为客户使用的是博通免驱网卡，请到<a href="https://github.com/OpenIntelWireless查看如何驱动INTEL" target="_blank" rel="noopener">https://github.com/OpenIntelWireless查看如何驱动INTEL</a> WIFI。<br>一定要按下面引导下载中的安装教程设置BIOS，否则进不了系统，配置表上的PM981硬盘是不支持的，用来安装WINDOWS了，是用另一块金士顿的硬盘安装的黑苹果。</p>
-<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
-<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
-<li>mojave 10.14.6 兼容</li>
-<li>catalina 10.15.7 当前安装</li>
-<li>big sur 11.1 兼容</li>
-</ul>
-<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
-<li><a href="http://pay.k61.org/share_1514.html" target="_blank" rel="noopener">i9-9900K 华硕 TUF Z390-PLUS GAMING RX 5500 XT 黑苹果引导OC6.5 FOR CATALINA 10.15.7.zip</a></li>
-<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
-</ul>
-<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
-<li>核显</li>
-<li>独显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>SIRI</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>蓝牙</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>WIFI</li>
-<li>双屏多屏</li>
-</ul>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/8c9103a6.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/8c9103a6.html" class="post-title-link" itemprop="url">远程安装i3-10100+映泰 H410MH+核显黑苹果系统big sur 11.1</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2021-01-15 10:03:00 / 修改时间：10:06:20" itemprop="dateCreated datePublished" datetime="2021-01-15T10:03:00+08:00">2021-01-15</time>
-            </span>
-          
-            
-
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/" itemprop="url" rel="index">
-                    <span itemprop="name">台式机</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/INTEL/" itemprop="url" rel="index">
-                    <span itemprop="name">INTEL</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
-</blockquote>
-<p>处理器    英特尔 Core i3-10100 @ 3.60GHz 四核<br>主板    映泰 H410MH ( 英特尔 PCI 标准主机 CPU 桥 )<br>内存    8 GB ( Asgard DDR4 2400MHz )<br>主硬盘     MR SSD ( 192 GB / 固态硬盘 )<br>显卡    英特尔 UHD Graphics 630 ( 128 MB / 映泰 )<br>显示器    OOO0001 15.6’ monitor ( 15.6 英寸  )<br>声卡    ALC867<br>网卡    瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 映泰</p>
-<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.5</p>
-<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
-<li>mojave 10.14.6 兼容</li>
-<li>catalina 10.15.7 兼容</li>
-<li>big sur 11.1 当前安装</li>
-</ul>
-<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
-<li><a href="http://pay.k61.org/share_1513.html" target="_blank" rel="noopener">i3-10100 映泰 H410MH 核显黑苹果引导oc6.5 for big sur 11.1    .zip </a></li>
-<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
-</ul>
-<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>SIRI</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>摄像头</li>
-<li>WIFI蓝牙（博通免驱网卡）</li>
-</ul>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
   </div>
 
   
@@ -1517,7 +1567,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">601</span>
+          <span class="site-state-item-count">605</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
