@@ -276,6 +276,362 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/b1126654.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/b1126654.html" class="post-title-link" itemprop="url">【老吴黑苹果】持续整理各机型BIOS修改CFG-LOCK DVMT偏移值参数命令</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-12-19 10:13:00" itemprop="dateCreated datePublished" datetime="2020-12-19T10:13:00+08:00">2020-12-19</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2020-12-22 11:14:06" itemprop="dateModified" datetime="2020-12-22T11:14:06+08:00">2020-12-22</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/教程/" itemprop="url" rel="index">
+                    <span itemprop="name">教程</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <table>
+<thead>
+<tr>
+<th>机型</th>
+<th>CFG-LOCK</th>
+<th>DVMT</th>
+<th>BIOS版本</th>
+<th>其它</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>外星人M17XR4</td>
+<td></td>
+<td>setup_var 0198 0x5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>三星 730U3E 740U3E i5-3337U</td>
+<td></td>
+<td>setup_var 0x1F4 0x4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ThinkPad X1 CARBON 2ND</td>
+<td></td>
+<td>setup_var 0x35 0x4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>华硕 TUF GAMING FX504GM_FX80GM</td>
+<td>setup_var 0x5C0 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Soarsea小主机 i9-9880H</td>
+<td>setup_var 0x3E 0x00</td>
+<td>setup_var 0xF5 0x2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>华硕G731GV</td>
+<td>setup_var 0x6F0 0x0</td>
+<td>setup_var 0xA13 0x2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>雷蛇i7-4702HQ GTX 870M  HD4600核显3200X1800</td>
+<td></td>
+<td>setup_var 0x2AD 0x4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>联想 M920x</td>
+<td>setup_var 0x721 0x00</td>
+<td>setup_var 0xA44 0x2</td>
+<td>M1UKT50A</td>
+<td>Allocate Mem 修改为 Max：setup_var 0xA45 0x3</td>
+</tr>
+<tr>
+<td>DELL 戴尔OptiPlex_9020</td>
+<td>setup_var 0xDA2 0x00</td>
+<td>setup_var 0x263 0x03</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>同方模具8代机型（神舟战神，炫龙，机械革命）</td>
+<td>setup_var 0x5BE 0x0</td>
+<td>setup_var 0x8DC 0x2（仅GJ5CN64 GI5CN54机型）</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>同方模具9代机型（神舟战神，炫龙，机械革命）</td>
+<td>setup_var 0x6EF 0x0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>戴尔XPS13-9365</td>
+<td>setup_var CpuSetup 0x3C 0x0</td>
+<td></td>
+<td>BIOS 2.9.0</td>
+<td>setup_var CpuSetup 0xB 0x1(Enable Speed Shift)</td>
+</tr>
+<tr>
+<td>Dell XPS 13-9360-3609</td>
+<td>setup_var 0x4de 0x00</td>
+<td>setup_var 0x785 0x06</td>
+<td>最新版</td>
+<td>setup_var 0x786 0x03(DVMT Total Gfx Memory)</td>
+</tr>
+<tr>
+<td>Dell OptiPlex 9020m</td>
+<td>setup_var 0xDA2 0x00</td>
+<td>setup_var 0x263 0x03</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dell Inspiron 15 7567 15.6” Core i7 Gaming Laptop</td>
+<td>setup_var 0x4DE 0x00</td>
+<td></td>
+<td>Bios v1.12.1</td>
+<td>enable above 4GB MMIO BIOS assignment:setup_var 0x78A 0x01 disable CSM Support:setup_var 0xF84 0x00</td>
+</tr>
+<tr>
+<td>Dell XPS 9550</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Enable SST: setup_var 0xD8 0x01</td>
+</tr>
+<tr>
+<td>Dell OptiPlex 7020</td>
+<td>setup_var 0xDA2 0x0</td>
+<td>setup_var 0x263 0x3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>技嘉Gigabyte Aero 15X V8</td>
+<td>setup_var 0x5A4 0x00</td>
+<td></td>
+<td></td>
+<td>unlock the bios：setup_var 0xA12 0x00</td>
+</tr>
+<tr>
+<td>Dell-Inspiron-7580</td>
+<td>setup_var 0x5C3 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dell PowerEdge T30</td>
+<td>setup_var 0xAF 0x0</td>
+<td>setup_var 0x350 0x2</td>
+<td>BIOS 1.4.1</td>
+<td></td>
+</tr>
+<tr>
+<td>Dell OptiPlex 7040 / 7050</td>
+<td>setup_var 0xAF 0x0</td>
+<td>setup_var 0x350 0x4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dell Inspiron 5570</td>
+<td>setup_var 0x4ED 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dell Optiplex 3020(3020 MT and 3020 SFF)</td>
+<td>setup_var 0xD9E 0x00</td>
+<td>setup_var 0x263 0x2</td>
+<td></td>
+<td>Enable EHCI hand-off:setup_var 0x2 0x1 setup_var 0x144 0x1 setup_var 0x15A 0x2 setup_var 0x146 0x0 setup_var 0x147 0x0</td>
+</tr>
+<tr>
+<td>Dell Optiplex 3020(3020 M)</td>
+<td>setup_var 0x53 0x0</td>
+<td>setup_var 0x2F2 0x2</td>
+<td></td>
+<td>Enable EHCI hand-off:setup_var 0x2 0x1 setup_var 0x187 0x1 setup_var 0x1A4 0x2 setup_var 0x189 0x0 setup_var 0x18A 0x0</td>
+</tr>
+<tr>
+<td>占美工控主机 I5-8259U</td>
+<td></td>
+<td>setup_var 0xA15 0x02</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>技嘉Aero 15 Classic</td>
+<td>setup_var 0xB48 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Gigabyte Z390 M Gaming, rev. 1.0主板</td>
+<td>setup_var 0x5C1 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dell Inspiron 15 7000 Gaming (7567)</td>
+<td>setup_var 0x4DE 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Gigabyte Z170X-Gaming 5主板</td>
+<td>setup_var 0x4EF 0x00</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lenovo YOGA 3 Pro-1370</td>
+<td></td>
+<td>setup_var 0x180c 0x4</td>
+<td>A6CN58WW</td>
+<td></td>
+</tr>
+<tr>
+<td>Dell Inspiron 5370 i5-8250U</td>
+<td>setup_var 0x527 0x00</td>
+<td>setup_var 0x7E8 0x2</td>
+<td></td>
+<td>DVMT Total Gfx Mem：setup_var 0x7E9 0x3</td>
+</tr>
+<tr>
+<td>GIGABYTE Z370 AORUS Gaming 5</td>
+<td>setup_var 0x529 0x0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><ul><li>HUAWEI MateBook X 2020款</li><li>HUAWEI MateBook X Pro 2020款</li><li>HUAWEI MateBook 13 2020款</li><li>HUAWEI MateBook 14 2020款</li><li>HUAWEI MateBook D 14</li><li>HUAWEI MateBook D 15</li><li>HUAWEI MateBook X Pro 2019款</li><li>HUAWEI MateBook 14</li><li>HUAWEI MateBook 13</li><li>HUAWEI MateBook X Pro</li></ul></td>
+<td>setup_var 0x3E 0x0</td>
+<td>setup_var 0x107 0x2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HUAWEI Matebook D 2018</td>
+<td>setup_var 0x3C 0x0</td>
+<td>setup_var 0xDF 0x2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HUAWEI Matebook</td>
+<td>setup_var 0x101 0x0</td>
+<td>setup_var 0x471 0x2</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>CFG-LOCK全部为关闭，DVMT为64MB以上</p>
+</blockquote>
+<h6 id="风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！"><a href="#风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！" class="headerlink" title="风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！"></a>风险提示：由于BIOS版本的不同，以上偏移值可能不适用于你的机型，可能会导致BIOS损坏等，需要你自行测试判断并承担风险！</h6><p>有关CFG DVMT UEFI SHELL修改的方法，请参考以下文章,台式机笔记本同样适用：<br><a href="http://k61.org/EFI-Shell-fix-bios-dvmt.html">【黑苹果教学】利用EFI Shell命令修改DVMT显存，适合BIOS中没有设置显存选项的笔记本</a></p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
     <link itemprop="mainEntityOfPage" href="http://k61.org/314356c9.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1546,99 +1902,6 @@
   
 
     
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/10340f39.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/10340f39.html" class="post-title-link" itemprop="url">i7-7700 华硕B250G主板 RX580独显黑苹果引导OC 6.4安装Big Sur</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-12-11 17:55:00 / 修改时间：18:07:10" itemprop="dateCreated datePublished" datetime="2020-12-11T17:55:00+08:00">2020-12-11</time>
-            </span>
-          
-            
-
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/台式机/" itemprop="url" rel="index">
-                    <span itemprop="name">台式机</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><p>i7-7700 华硕B250G主板 RX580</p>
-<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.6.4</p>
-<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><p>MACOS BIG SUR 11.0.1</p>
-<p><img src="/images/pasted-96.png" alt="upload successful"></p>
-<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><p><a href="http://pay.k61.org/share_1472.html" target="_blank" rel="noopener">i5-7400 华硕 STRIX B250G RX580黑苹果引导OC 6.4 Big Sur hackintosh</a></p>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
   </div>
 
   
@@ -1691,7 +1954,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">607</span>
+          <span class="site-state-item-count">608</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
