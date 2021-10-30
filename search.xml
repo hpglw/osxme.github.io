@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【老吴黑苹果】macOS 12: Monterey黑苹果指南</title>
+    <url>/c3c5403c.html</url>
+    <content><![CDATA[<p><img src="/images/pasted-250.png" alt="upload successful"></p>
+<h1 id="macOS-12-Monterey"><a href="#macOS-12-Monterey" class="headerlink" title="macOS 12: Monterey"></a>macOS 12: Monterey</h1><h2 id="机型"><a href="#机型" class="headerlink" title="机型"></a>机型</h2><ul>
+<li>iMac16,1 及更新机型</li>
+<li>MacPro6,1 及更新机型</li>
+<li>iMacPro1,1 及更新机型</li>
+<li>Macmini7,1 及更新机型</li>
+<li>MacBook9,1 及更新机型</li>
+<li>MacBookAir7,1 及更新机型</li>
+<li>MacBookPro11,4 及更新机型</li>
+</ul>
+<h4 id="对于4代-Haswell-或3代-Ivy-Bridge-的用户（SMBIOS选择）"><a href="#对于4代-Haswell-或3代-Ivy-Bridge-的用户（SMBIOS选择）" class="headerlink" title="对于4代 Haswell 或3代 Ivy Bridge 的用户（SMBIOS选择）"></a>对于4代 Haswell 或3代 Ivy Bridge 的用户（SMBIOS选择）</h4><ul>
+<li>带有独显的 Ivy Bridge 台式机使用 MacPro6,1</li>
+<li>带有独显的 Haswell 台式机使用 iMac17,1</li>
+<li>只有核显的 Haswell 台式机使用 iMac16,2</li>
+<li>Haswell 笔记本电脑使用 MacBookPro11,4 或 MacBookPro11,5</li>
+</ul>
+<h2 id="硬件"><a href="#硬件" class="headerlink" title="硬件"></a>硬件</h2><ul>
+<li>Ivy Bridge（HD 4000 和 HD 2500，彻底告别3代2代CPU）</li>
+<li>Nvidia Kepler（GTX 6xx/7xx独显）<ul>
+<li>解决方法<a href="https://github.com/dortania/OpenCore-Legacy-Patcher/" target="_blank" rel="noopener">OpenCore-Legacy-Patcher</a></li>
+</ul>
+</li>
+<li>您将无法访问非完整更新（1-3GB 的小更新）</li>
+<li>需要禁用 SIP、Apple Secure Boot 和 AMFI。</li>
+<li>Monterey仍然支持 Haswell核显</li>
+</ul>
+<h2 id="蓝牙"><a href="#蓝牙" class="headerlink" title="蓝牙"></a>蓝牙</h2><blockquote>
+<p>注意</p>
+<blockquote>
+<p>蓝牙支持仍在进行中。<br>截止本文发出前，所有的蓝牙修补仍在进行中，可能会出现比较多的蓝牙问题，请耐心等待后续修复。</p>
+</blockquote>
+</blockquote>
+<p>通过 Monterey，Apple 彻底改写了蓝牙堆栈。在撰写本文时，许多蓝牙设备无法正常工作（旧版 Broadcom 和 Intel）。重写后，注入器 kexts 打破了蒙特雷的蓝牙支持，但仍然需要固件上传 kexts。确保：</p>
+<ul>
+<li>禁用注入器 kexts<ul>
+<li>IntelBluetoothInjector.kext 用于 Intel 卡</li>
+<li>用于 Broadcom 卡的 BrcmBluetoothInjector.kext</li>
+<li>如果您仍然启动 Big Sur 或更旧版本，您可以在 config.plist 中为您的注入器 kext设置该MaxKernel字段20.99.9。</li>
+<li>保持固件上传kexts</li>
+<li>需要IntelBluetoothFirmware.kext 在 Intel无线网卡蓝牙</li>
+<li>Broadcom 的 BrcmPatchRAM2/3.kext + BrcmFirmwareData.kext</li>
+</ul>
+</li>
+<li>添加<a href="https://github.com/acidanthera/BrcmPatchRAM/releases" target="_blank" rel="noopener">BlueToolFixup</a><ul>
+<li>所有非本地蓝牙设备（包括英特尔）都需要</li>
+<li>如果您仍然启动 Big Sur 或更旧版本，您可以将该MinKernel字段设置21.00.0为阻止 BlueToolFixup 在旧操作系统上加载。</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>E3-1230 V2 - 技嘉B75-D3V - GTX 650台式机黑苹果引导EFI OC7.4 BIG SUR 11.6</title>
     <url>/25c8dc7b.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
@@ -13914,6 +13971,40 @@
       </tags>
   </entry>
   <entry>
+    <title>【笔记本】联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6黑苹果引导_Hackintosh_Clover</title>
+    <url>/Lenovo-B490s-i3-3217U-HD4000.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>联想这台B490s安装黑苹果系统，i3-3217U核显HD 4600比较老了，安装10.13.6系统，没有遇到登录花屏的情况，说明联想笔记本还是比较好的。另独显无法驱动，WIFI也不行，其它还好。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    联想 Lenovo B490s 20311 笔记本电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 第三代酷睿 i3-3217U @ 1.80GHz 双核<br>主板    联想 20311 ( HM76 Express 芯片组 )<br>内存    8 GB ( 三星 DDR3L 1600MHz / 金士顿 DDR3L 1600MHz )<br>主硬盘    希捷 ST500LT012-9WS142 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 710M ( 1 GB / 联想 )<br>显示器    奇美 CMN1489 ( 14 英寸  )<br>声卡    瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    博通 BCM4313 802.11b/g LP-PHY Network Adapter</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/10BC189D-F62D-456A-804D-B59878B4F249.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Mojave 10.14.x ( <a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/515672BF-E757-4B8F-9448-1BF0683BF5D0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/427EC3E4-E53E-4535-981A-C5D904912126.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/53F78C07-CBDD-41C4-B2BE-6A064CCC203F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/ADE568E1BD40557BF5B88FD811313632.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C382CF7BC407BE4B991AD570C28583CC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/DCF02CA78C2CA0B196E8DBDFB48F084F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A6F1EFD49B8CE2E1E6D6BB5600F1AF1D.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C572CA74978D1165F50E612E4B9BAFE3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9CCA9B5B3FEEC2E9D699CA7ED6E35267.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/6AE999B190280C9C8CB6FF9C1A4F76C7.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>SIRI</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>摄像头<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1188.html" target="_blank" rel="noopener">联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+      <tags>
+        <tag>i3-3217U</tag>
+        <tag>HD4000</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【笔记本】神舟z7-sp5d1 P65xRP i5-6300HQ HD530 GTX 1060 10.14.6黑苹果引导_Hackintosh_Clover</title>
     <url>/hasee-z7-sp5d1-P65xRP-i5-6300HQ-1.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>神舟z7-sp5d1安装黑苹果系统，蓝天模具。vi5-6300HQ处理器核显HD530，GTX 1060独显无解，上mojave 10.14.6系统。</p>
@@ -13950,40 +14041,6 @@
       <tags>
         <tag>HD 530</tag>
         <tag>i5-6300HQ</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【笔记本】联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6黑苹果引导_Hackintosh_Clover</title>
-    <url>/Lenovo-B490s-i3-3217U-HD4000.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>联想这台B490s安装黑苹果系统，i3-3217U核显HD 4600比较老了，安装10.13.6系统，没有遇到登录花屏的情况，说明联想笔记本还是比较好的。另独显无法驱动，WIFI也不行，其它还好。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    联想 Lenovo B490s 20311 笔记本电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 第三代酷睿 i3-3217U @ 1.80GHz 双核<br>主板    联想 20311 ( HM76 Express 芯片组 )<br>内存    8 GB ( 三星 DDR3L 1600MHz / 金士顿 DDR3L 1600MHz )<br>主硬盘    希捷 ST500LT012-9WS142 ( 500 GB / 5400 转/分 )<br>显卡    Nvidia GeForce 710M ( 1 GB / 联想 )<br>显示器    奇美 CMN1489 ( 14 英寸  )<br>声卡    瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller<br>网卡    博通 BCM4313 802.11b/g LP-PHY Network Adapter</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/10BC189D-F62D-456A-804D-B59878B4F249.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Mojave 10.14.x ( <a href="http://k61.org/macOS-Mojave-10.14.6-18G87-Restore.html">10.14.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/515672BF-E757-4B8F-9448-1BF0683BF5D0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/427EC3E4-E53E-4535-981A-C5D904912126.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/53F78C07-CBDD-41C4-B2BE-6A064CCC203F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/ADE568E1BD40557BF5B88FD811313632.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C382CF7BC407BE4B991AD570C28583CC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/DCF02CA78C2CA0B196E8DBDFB48F084F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/A6F1EFD49B8CE2E1E6D6BB5600F1AF1D.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C572CA74978D1165F50E612E4B9BAFE3.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/9CCA9B5B3FEEC2E9D699CA7ED6E35267.jpg" alt><br><img src="http://k61.org/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/6AE999B190280C9C8CB6FF9C1A4F76C7.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>核显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>SIRI</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>键盘</li>
-<li>触控板</li>
-<li>亮度调节</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>摄像头<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1188.html" target="_blank" rel="noopener">联想 Lenovo B490s i3-3217U HD4000 GeForce 710M 10.13.6.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>笔记本</category>
-        <category>Lenovo_联想</category>
-      </categories>
-      <tags>
-        <tag>i3-3217U</tag>
-        <tag>HD4000</tag>
       </tags>
   </entry>
   <entry>
@@ -17295,8 +17352,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>GTX 1080 Ti</tag>
         <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -18057,8 +18114,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
       </tags>
   </entry>
   <entry>
@@ -19153,9 +19210,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
