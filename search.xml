@@ -13855,37 +13855,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【台式机】E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2黑苹果引导_Hackintosh_Clover</title>
-    <url>/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1240L v5 Cpu+技嘉 X150-PLUS WS-CF主板，免驱的RX 570独显，安装黑苹果macos catalina 10.15.2系统。这是一张X150的主板，从配置上来看，安装需要更多的调试，但很奇怪的是，利用X79的思路，可以很好地解决问题。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    技嘉 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1240L v5 @ 2.10GHz 四核<br>主板    技嘉 X150-PLUS WS-CF ( 100 Series/C230 Series 芯片组 Family - A14A )<br>内存    32 GB ( 威刚 DDR4 3000MHz )<br>主硬盘    苹果 HDD HTS541010A9E662 ( 1 TB )<br>显卡    AMD Radeon RX 570 ( 8 GB / 蓝宝石 )<br>显示器    HPN3435 HP Z32 ( 31.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 技嘉</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/F50FCCBA-61D2-46C9-B91B-EB897EE6386D.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C4506F6D815F086A989B2BDD416F121F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0B0809B020BAFFB4DBC20460DA140025.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/7208533644297ED443F2E994398E1B11.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>独显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>双屏多屏</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1193.html" target="_blank" rel="noopener">E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
-      </categories>
-      <tags>
-        <tag>RX 570</tag>
-        <tag>E3-1240L v5</tag>
-        <tag>X150</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【台式机】E3-1231 v3 微星 B85-G43 GAMING GTX 970 10.13.6黑苹果引导_Hackintosh_Clover</title>
     <url>/E3-1231-v3-msi-B85-G43-gtx-970.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1231 v3处理器+微星 B85-G43 GAMING主板安装黑苹果系统，首先，GTX 970的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 970索泰就可以。</p>
@@ -13914,6 +13883,37 @@
         <tag>GTX 970</tag>
         <tag>B85</tag>
         <tag>E3-1231 v3</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【台式机】E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2黑苹果引导_Hackintosh_Clover</title>
+    <url>/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1240L v5 Cpu+技嘉 X150-PLUS WS-CF主板，免驱的RX 570独显，安装黑苹果macos catalina 10.15.2系统。这是一张X150的主板，从配置上来看，安装需要更多的调试，但很奇怪的是，利用X79的思路，可以很好地解决问题。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    技嘉 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1240L v5 @ 2.10GHz 四核<br>主板    技嘉 X150-PLUS WS-CF ( 100 Series/C230 Series 芯片组 Family - A14A )<br>内存    32 GB ( 威刚 DDR4 3000MHz )<br>主硬盘    苹果 HDD HTS541010A9E662 ( 1 TB )<br>显卡    AMD Radeon RX 570 ( 8 GB / 蓝宝石 )<br>显示器    HPN3435 HP Z32 ( 31.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 技嘉</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/F50FCCBA-61D2-46C9-B91B-EB897EE6386D.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C4506F6D815F086A989B2BDD416F121F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0B0809B020BAFFB4DBC20460DA140025.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/7208533644297ED443F2E994398E1B11.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1193.html" target="_blank" rel="noopener">E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>RX 570</tag>
+        <tag>E3-1240L v5</tag>
+        <tag>X150</tag>
       </tags>
   </entry>
   <entry>
@@ -19539,8 +19539,8 @@
         <category>Surface_微软</category>
       </categories>
       <tags>
-        <tag>Surface</tag>
         <tag>微软</tag>
+        <tag>Surface</tag>
         <tag>i5-7300U</tag>
         <tag>HD 620</tag>
       </tags>
