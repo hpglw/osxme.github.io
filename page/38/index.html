@@ -276,6 +276,221 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/b6df2477.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/b6df2477.html" class="post-title-link" itemprop="url">家用台式机电脑笔记本安装苹果macOS系统</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-06-30 16:24:00 / 修改时间：16:52:06" itemprop="dateCreated datePublished" datetime="2020-06-30T16:24:00+08:00">2020-06-30</time>
+            </span>
+          
+            
+
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/教程/" itemprop="url" rel="index">
+                    <span itemprop="name">教程</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>我们普通的家用组装机，台式机，笔记本电脑如果要安装苹果的MACOS系统，可以通用相关的引导程序来实现，目前这种技术叫黑苹果。</p>
+<p>而白苹果，就是指苹果原装电脑。</p>
+<p>这是因为苹果现在也是采用INTEL的CPU，CPU架构，主板，都是跟我们所用的PC差不多的，黑苹果引导程序通过欺诈苹果macos系统，相当于告诉macos系统，这是一台真正的苹果电脑，而让macos运行起来，实际的原理可以说很简单。</p>
+<p>众所周知，苹果macos上有些软件是非常好用的，如设计和视频剪辑的，FCPX PR，PS等，还有编程的XCODE，但苹果原装电脑又十分昂贵，所以不少人会选择安装一个黑苹果。</p>
+<p>其实现在黑苹果的技术可以说非常成熟了，但对于普通用户来说，引导程序的配置，根据硬件配置的不同，还是具有很高的难度，台式机相对来说简单一些，但笔记本就比较复杂了，要调试相当多的东西，才能让其运行得很好。</p>
+<p>但由于macos是为苹果电脑设计的，而苹果电脑所支持的硬件又比较单一，所以注定有一些硬件是驱动不了，如笔记本的独显，尤其是无线网卡，苹果只能支持少数型号，这就导致了，大多数笔记本的无线网卡都不能驱动，从而少了隔空，接力这些功能，但可以通过购买USB网卡，或者直接更换成苹果支持的无线网卡解决。</p>
+<p>目前黑苹果的引导程序有CLOVER（四叶草）和OPENCORE（OC）两种，常用的是CLOVER，己经非常成熟了，而OC是最新的技术，目前有取代CLOVER的趋势，因为整体性能还是比CLOVER高出不少，相信以后会是OC的天下。</p>
+<p>黑苹果系统仍是MACOS系统，MACOS系统是可以通过苹果的商店免费下载的，难就难在CLOVER和OC引导的配置，也就是我们说的EFI引导。根据不同的CPU架构，主板，显卡来定制引导的配置，如果刚开始，可能需要相当长的时间来学习如果制作黑苹果引导，当然也可以通过网上下载别人做好的，适配自己硬件的引导，这是最快的。但如果遇到错误，仍需要自行百度解决。</p>
+<p>目前安装方式有两种，一种是U盘安装，一种是类似于GHOST的恢复版安装，两种安装方式安装出来的系统并没有什么不同，因为macos跟windows有着不同的文件和系统结构，macos不对根据硬件不同而生成不同的配置文件，也就是说无论U盘还是恢复版，安装出来的系统，文件都会是一样的。网上一些说恢复版不稳定，不好用的，完全是引导程序配置的问题，因为黑苹果的好坏，完全取决于引导的好坏。</p>
+<p>以上就是老吴对于台式机和笔记本安装黑苹果系统的一些理解，如果有需要安装黑苹果的，也可以联系老吴的淘宝店：<a href="https://laowu1688.taobao.com/" target="_blank" rel="noopener">https://laowu1688.taobao.com/</a></p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="http://k61.org/d65a1577.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="老吴">
+      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="老吴黑苹果工作室">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            
+            <a href="/d65a1577.html" class="post-title-link" itemprop="url">黑苹果修复KASLR，解决卡 Couldn't allocate runtime area 错误</a>
+          
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              
+                
+              
+
+              <time title="创建时间：2020-06-29 09:53:00" itemprop="dateCreated datePublished" datetime="2020-06-29T09:53:00+08:00">2020-06-29</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2020-06-30 16:13:54" itemprop="dateModified" datetime="2020-06-30T16:13:54+08:00">2020-06-30</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/教程/" itemprop="url" rel="index">
+                    <span itemprop="name">教程</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>我是老吴，淘宝专业远程安装黑苹果，有需要的可以到我的小店<a href="http://laowu1688.taobao.com" target="_blank" rel="noopener">http://laowu1688.taobao.com</a></p>
+<p>在安装黑苹果过程中，容易遇到卡在Couldn’t allocate runtime area提示错误，尤其在Z390, X99 and X299上比较容易出现。</p>
+<p><img src="/images/pasted-10.png" alt="upload successful"></p>
+<p>网上己有的解决方法，大多是换内存补丁，现在介绍几种新的解决方法，适合OC和CLOVER引导。</p>
+<p>什么是KASLR？</p>
+<p>KASLR是kernel address space layout randomization的缩写，直译过来就是内核地址空间布局随机化。KASLR技术允许kernel image加载到macos区域的任何位置。</p>
+<p>当您引入的设备具有较小的内存映射或存在太多设备的情况时，就会成为问题。内核可能有运行的空间，但也有内核无法完全容纳的可用空间。这就是slide=xxx适合的情况。我们不会让macOS在每次引导时选择一个随机区域来操作，而是将其限制在我们知道可以工作的地方。</p>
+<p>就像我刚才提到的，这是针对没有足够空间容纳内核或移动到太小的空间的用户的。引导时通常会遇到类似以下错误：<br>Error allocating 0x1197b pages at 0x0000000017a80000 alloc type 2<br>Couldn’t allocate runtime area</p>
+<p>或者这样的错误：<br>Only 244/256 slide values are usable!</p>
+<p>甚至在运行macOS时崩溃：<br>panic(cpu 6 caller 0xffffff801fc057ba): a freed zone element has been modified in zone kalloc.4096: expected 0x3f00116dbe8a46f6 but found 0x3f00116d00000000</p>
+<p>因为出现这种问题是随机的，有时开机几次是正常，遇尔一次就出错了，或者说重启几十次都出错，但偶尔一次却能正常，极度不稳定的表现。</p>
+<p>那么我该如何解决？<br>真正的解决方法实际上非常简单，Clover和OpenCore用户的过程基本都是相同的。您需要什么：</p>
+<p>CLOVER用户：<br>Clover Shell（大多数用户已经包含了它，通常称为shell64.efi或某些变体）<br>这可以在下面找到 EFI/CLOVER/tools<br>如果缺少此功能，则可以从<a href="https://github.com/CloverHackyColor/CloverBootloader/releases中下载它。" target="_blank" rel="noopener">https://github.com/CloverHackyColor/CloverBootloader/releases中下载它。</a><br>OcQuirks（请勿将Aptio修复程序混在一起或使用OsxAptioFixDrvX，AptioMemoryFix，本指南仅支持OcQuirks，我们应该放弃这些老旧的aptio修复补丁）<br>OcQuirks下载：<a href="https://github.com/ReddestDream/OcQuirks/releases" target="_blank" rel="noopener">https://github.com/ReddestDream/OcQuirks/releases</a><br>将OcQuirks.efi，OpenRuntime.efi，OcQuirks.plist放在EFI/CLOVER/drivers/UEFI里面</p>
+<p>OpenCore用户：<br>OpenRuntime（一般是自带的）<br>OpenShell（一般是自带并启用的）</p>
+<p>接下来需要对OcQuirks.plist进行配置，用Xcode或者其它XML编辑器打开，有几点需要注意的：<br>AvoidRuntimeDefrag：YES<br>修复UEFI运行时服务，例如日期，时间，NVRAM，电源控制等<br>DevirtualiseMmio：YES<br>减少被占用的内存占用空间，扩展slide=N值的选项，对于解决Z390上的内存分配问题非常有帮助。<br>EnableSafeModeSlide：YES<br>允许在安全模式下使用slide值<br>ProtectUefiServices：NO<br>保护UEFI服务免于被固件覆盖，主要与VM，300系列以及更新的系统（例如Ice Lake和Comet Lake）相关<br>ProvideCustomSlide：YES<br>这样可以确保内核仅选择合适的区域，并避免可能导致引导失败的区域。它仍然是随机的，但在随机化中忽略了那些不良区域.<br>RebuildAppleMemoryMap：YES<br>生成与macOS兼容的内存映射，可能会破坏某些笔记本电脑OEM固件，如果您收到早期启动失败，请禁用此功能.</p>
+<p>BIOS设置：<br>1，更新BIOS最新官方发行版本，尤其在Z390上，最新的BIOS固件有助于解决这个问题。<br>2，恢复BIOS出厂设置<br>3，Above4GDecoding启动，这允许设备使用超过4G的内存空间，但在X99和X299可能会出现问题，这个必须测试。<br>4，CSM禁用<br>5，Intel SGX禁用<br>6，Parallel Port禁用<br>7，Serial Port禁用<br>8，Thunderbolt禁用<br>10，LED lighting禁用<br>11，Legacy USB禁用</p>
+<p>启动测试：<br>经过细调后的EFI和BIOS设置，我们应测试一下问题是否还会出现，如果没有就万事大吉，如果还有，那么就需要进行下一步，查找适合的SLIDE值。</p>
+<p>查找slide值：<br>在clover引导页和OC引导页打开EFI Shell，CLOVER一般为第二行小图标第一个，OC需要按空格然后选EFI Shell，进入命令行。这时我们输入 memmap 并按下回车。</p>
+<p><img src="/images/pasted-11.png" alt="upload successful"></p>
+<p>我们将看到非常多的表，只需留意Type为Available的Start列值，我们先找最大的值，在上表中，是000000006B626000，转换成十六进制是0x6B626000,简单来说就是去掉6前面的所有0.然后运用以下的计算公式，需要用到进制计算器，MACOS的计算器可以，网上也有一些在线的计算器<br>0x6B626000 - 0x100000 / 0x200000 = 0x35A<br>以上的公式是0x6B626000减100000再除于200000等于0x35A<br>将0x35A转换成十进制，等于858再+1就等于859<br>计算出<br>slide=859</p>
+<p>但！等等，大于256了，所以这是无效的，这是因为开启了Above4GDecoding的关系，这时，我们应尝试Available的Start列值最小的0000000000100000，再用公式计算一下<br>0x100000 - 0x100000 / 0x200000 =0x0<br>当计算的值为0的时候，无须为其+1，所以计算出slide=0，将其添加到config.plist中，如果依旧出错，我们可以再选择Available的Start列值第二大的值，如000000005B676000，如此类推，直到我们找到一个能用的，不再出错的slide值。</p>
+
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </article>
+  
+  
+  
+
+    
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
     <link itemprop="mainEntityOfPage" href="http://k61.org/7cb96b67.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1019,211 +1234,6 @@
   
 
     
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/b836e6cc.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/b836e6cc.html" class="post-title-link" itemprop="url">【老吴黑苹果】macOS Catalina 10.15.5（19F96）纯净恢复版下载</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-05-28 11:45:00" itemprop="dateCreated datePublished" datetime="2020-05-28T11:45:00+08:00">2020-05-28</time>
-            </span>
-          
-            
-
-            
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-07-01 13:17:50" itemprop="dateModified" datetime="2020-07-01T13:17:50+08:00">2020-07-01</time>
-              </span>
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/镜像/" itemprop="url" rel="index">
-                    <span itemprop="name">镜像</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>macOS Catalina</p>
-<p><img src="/images/pasted-5.png" alt="upload successful"></p>
-<p>苹果于2020-5-27发布macOS Catalina 10.15.5 19F96，加入了用户期待已久的电池健康度管理功能。</p>
-<p>本恢复镜像由原版系统制作，大小为9.62G，用paragon hard disk manager 16.5进行恢复，下载地址：<a href="http://www.jz5u.com/Soft/system/disk/193835.html" target="_blank" rel="noopener">http://www.jz5u.com/Soft/system/disk/193835.html</a></p>
-<p>进入系统后，请到磁盘工具——分区——未使用空间——点下面的-号——然后应用，即可恢复所有未使用空间。</p>
-<p>系统默认密码为1111</p>
-<p>镜像下载地址：链接:<a href="https://pan.baidu.com/s/1BNtif4FOf5VGSQTcNLLycQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1BNtif4FOf5VGSQTcNLLycQ</a> 密码:vw9g</p>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
-        
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
-    <link itemprop="mainEntityOfPage" href="http://k61.org/135d8677.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="老吴">
-      <meta itemprop="description" content="第一次安装黑苹果系统用了近一个月的时候，装完才知道原来世上有这么好用的系统，果断把windows扔了。因为喜爱所以尽力研究。黑苹果是一项复杂的工程，黑苹果也没有完美一说，只有尽力调到满意为止。在这个小站上，老吴提供以前安装过的一些配置的引导，记录安装过程，解答安装问题等。">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="老吴黑苹果工作室">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            
-            <a href="/135d8677.html" class="post-title-link" itemprop="url">Surface Pro6 I5 8350U 8G 256G黑苹果引导下载</a>
-          
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              
-                
-              
-
-              <time title="创建时间：2020-05-11 12:06:00 / 修改时间：12:09:12" itemprop="dateCreated datePublished" datetime="2020-05-11T12:06:00+08:00">2020-05-11</time>
-            </span>
-          
-            
-
-            
-          
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/" itemprop="url" rel="index">
-                    <span itemprop="name">笔记本</span>
-                  </a>
-                </span>
-
-                
-                
-                  ，
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/笔记本/Surface-微软/" itemprop="url" rel="index">
-                    <span itemprop="name">Surface_微软</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>型号: Surface Pro6<br>屏幕尺寸: 12.3英寸<br>处理器: i5<br>系统内存: 8G<br>存储容量: 256G<br>后置摄像头: 800万<br>前置摄像头: 500万<br>屏幕分辨率: 2736×1824</p>
-<p>新款surface pro6采用的是i5-8350u的CPU，分辨率为2K，安装macos mojave 10.14.6</p>
-<p>黑苹果引导下载：<a href="http://pay.k61.org/share_1350.html" target="_blank" rel="noopener">http://pay.k61.org/share_1350.html</a></p>
-
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-          <div class="post-eof"></div>
-        
-      </footer>
-  </article>
-  
-  
-  
-
-    
   </div>
 
   
@@ -1276,7 +1286,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">655</span>
+          <span class="site-state-item-count">657</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>

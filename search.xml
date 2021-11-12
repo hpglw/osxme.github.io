@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微星GE70 2OC 2OD 2OE笔记本黑苹果引导EFI OC7.4 BIG SUR 11.6</title>
+    <url>/3acc44de.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
+<p>微星MSI GE70 2OC 2OD 2OE<br>CPU：I7-4700HQ<br>内存：16G<br>显卡：HD4600+GTX 750M<br>显示器：1080P<br>硬盘:512GB<br>网卡：INTEL AC 3160<br>声卡：ALC892</p>
+</blockquote>
+<p>特别提示：<br>BIOS里关闭安全启动</p>
+<p>1，请先将BIOS升级为620版本，具体升级方法参考官网，可能不升级也可以，但建议升级。<br><a href="https://www.msi.com/Laptop/support/GE70-2OC#down-bios" target="_blank" rel="noopener">https://www.msi.com/Laptop/support/GE70-2OC#down-bios</a></p>
+<p>2，如果进系统出现8个苹果，花屏，请合盖后再打开，将显示器分辨率改为1600X900即可</p>
+<p>WIFI不能连5G信号，请下载<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">https://github.com/OpenIntelWireless/HeliPort</a><br>heliport工具才能连WIFI。</p>
+<p>目前核显，声卡，有线网卡，无线网卡，触控板，电池，摄像头，USB定制己驱动好。</p>
+<p>认真阅读引导包内容有助于安装成功。</p>
+<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.7.4</p>
+<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
+<li>big sur 11.6</li>
+</ul>
+<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li><a href="http://pay.k61.org/share_1832.html" target="_blank" rel="noopener">微星GE70 2OC 2OD 2OE笔记本黑苹果引导EFI OC7.4 BIG SUR 11.6.zip </a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+</ul>
+<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>手势多指</li>
+<li>变频</li>
+<li>摄像头</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>MSI_微星</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-9700K - 华硕PRIME Z390-P - GT1030台式机黑苹果引导EFI OC7.4 MACOS 10.13.6</title>
+    <url>/30edc422.html</url>
+    <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
+<p>处理器                 英特尔 Core i7-9700K @ 3.60GHz 八核<br>  主板                   华硕 PRIME Z390-P（Z390 芯片组）<br>  显卡                   NVIDIA GeForce GT 1030 ( 2 GB / NVIDIA )<br>  内存                   16 GB ( 海盗船 DDR4 3000MHz )<br>  主硬盘                 英特尔 SSDPEKKW512G8 ( 512 GB / 固态硬盘 )<br>  显示器                 联想 LEN60EA LEN T2224rA ( 21.5 英寸  )<br>  声卡                   瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>  网卡                   瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕</p>
+</blockquote>
+<h5 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h5><p>OPENCORE 0.7.4</p>
+<h5 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h5><ul>
+<li>high Sierra 10.13.6</li>
+</ul>
+<h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li><a href="http://pay.k61.org/share_1834.html" target="_blank" rel="noopener">i7-9700K - 华硕PRIME Z390-P - GT1030台式机黑苹果引导EFI OC7.4 MACOS 10.13.6.zip </a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+</ul>
+<h5 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h5><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>华硕VC66-C迷你主机i5-9400黑苹果引导EFI OC7.4 BIG SUR 11.6</title>
     <url>/e65b08ff.html</url>
     <content><![CDATA[<h5 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h5><blockquote>
@@ -10319,6 +10387,7 @@
 <li>big sur 11.0.1 当前安装</li>
 </ul>
 <h5 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h5><ul>
+<li>(新)<a href="http://pay.k61.org/share_1833.html" target="_blank" rel="noopener">雷蛇Razer Blade灵刃14 2017 i7-7700HQ GTX1060黑苹果引导OC7.4 for Big Sur 11.6.zip </a></li>
 <li><a href="http://pay.k61.org/share_1481.html" target="_blank" rel="noopener">雷蛇Razer Blade灵刃14 2017 i7-7700HQ GTX1060黑苹果引导OC6.4 for Big Sur.zip </a></li>
 <li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
 </ul>
@@ -14176,37 +14245,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【台式机】E3-1231 v3 微星 B85-G43 GAMING GTX 970 10.13.6黑苹果引导_Hackintosh_Clover</title>
-    <url>/E3-1231-v3-msi-B85-G43-gtx-970.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1231 v3处理器+微星 B85-G43 GAMING主板安装黑苹果系统，首先，GTX 970的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 970索泰就可以。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    微星 MS-7816 台式电脑<br>操作系统    Windows 10 Enterprise 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1231 v3 @ 3.40GHz 四核<br>主板    微星 B85-G43 GAMING (MS-7816) ( Lynx Point )<br>内存    16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘    浦科特 PX-256M6S ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 970 ( 4 GB / 索泰 )<br>显示器    惠科 HKC0000 HDMI ( 27.2 英寸  )<br>光驱    华硕 DVD-E818A7T DVD光驱<br>声卡    Elite Silicon USB Audio Device<br>网卡    鈺硕 Killer E2200 Gigabit Ethernet Controller / 微星</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/BAC01A2C-CCE4-4BA5-8A4D-5A7FF97B293B.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/7D6BEFE6-BE9F-4FC5-BC2D-DCB29DB159E5.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/69FCAFDC-C83A-44CF-920B-49E29758B31C.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/D8A08B0D-5781-46BF-AC7D-6659B9F9A6C0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CB8C265F324DA2F04910AA99CFDD084A.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/00752A5432D462F99E42BA8BE9EAD552.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/EEA9440D9F72FCA923311F561046D6C0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/1C887CC99370D2DDA37745932A8482FC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/80BA663D451C7A5CB2FD70DCD18CE080.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/86A4CD73D79BDC991677BC222404B34E.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/69C1162F-1E27-40B4-B556-04E61CA7645E.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/1B3CB194-DEC2-4475-84D7-E756759524B5.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>独显</li>
-<li>声卡</li>
-<li>麦克风</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>双屏多屏</li>
-<li>HIDPI</li>
-<li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1187.html" target="_blank" rel="noopener">E3-1231 v3 微星 B85-G43 GAMING GTX 970 10.13.6.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
-      </categories>
-      <tags>
-        <tag>GTX 970</tag>
-        <tag>B85</tag>
-        <tag>E3-1231 v3</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【台式机】E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2黑苹果引导_Hackintosh_Clover</title>
     <url>/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1240L v5 Cpu+技嘉 X150-PLUS WS-CF主板，免驱的RX 570独显，安装黑苹果macos catalina 10.15.2系统。这是一张X150的主板，从配置上来看，安装需要更多的调试，但很奇怪的是，利用X79的思路，可以很好地解决问题。</p>
@@ -14235,6 +14273,37 @@
         <tag>RX 570</tag>
         <tag>E3-1240L v5</tag>
         <tag>X150</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【台式机】E3-1231 v3 微星 B85-G43 GAMING GTX 970 10.13.6黑苹果引导_Hackintosh_Clover</title>
+    <url>/E3-1231-v3-msi-B85-G43-gtx-970.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1231 v3处理器+微星 B85-G43 GAMING主板安装黑苹果系统，首先，GTX 970的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 970索泰就可以。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    微星 MS-7816 台式电脑<br>操作系统    Windows 10 Enterprise 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1231 v3 @ 3.40GHz 四核<br>主板    微星 B85-G43 GAMING (MS-7816) ( Lynx Point )<br>内存    16 GB ( 金士顿 DDR3 1600MHz )<br>主硬盘    浦科特 PX-256M6S ( 256 GB / 固态硬盘 )<br>显卡    Nvidia GeForce GTX 970 ( 4 GB / 索泰 )<br>显示器    惠科 HKC0000 HDMI ( 27.2 英寸  )<br>光驱    华硕 DVD-E818A7T DVD光驱<br>声卡    Elite Silicon USB Audio Device<br>网卡    鈺硕 Killer E2200 Gigabit Ethernet Controller / 微星</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/BAC01A2C-CCE4-4BA5-8A4D-5A7FF97B293B.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="http://k61.org/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="http://k61.org/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/7D6BEFE6-BE9F-4FC5-BC2D-DCB29DB159E5.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/69FCAFDC-C83A-44CF-920B-49E29758B31C.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/D8A08B0D-5781-46BF-AC7D-6659B9F9A6C0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/CB8C265F324DA2F04910AA99CFDD084A.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/00752A5432D462F99E42BA8BE9EAD552.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/EEA9440D9F72FCA923311F561046D6C0.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/1C887CC99370D2DDA37745932A8482FC.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/80BA663D451C7A5CB2FD70DCD18CE080.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/86A4CD73D79BDC991677BC222404B34E.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/69C1162F-1E27-40B4-B556-04E61CA7645E.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/1B3CB194-DEC2-4475-84D7-E756759524B5.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>麦克风</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+<li>HIDPI</li>
+<li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1187.html" target="_blank" rel="noopener">E3-1231 v3 微星 B85-G43 GAMING GTX 970 10.13.6.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>GTX 970</tag>
+        <tag>B85</tag>
+        <tag>E3-1231 v3</tag>
       </tags>
   </entry>
   <entry>
@@ -14459,36 +14528,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【台式机】i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2黑苹果引导_Hackintosh_Clover</title>
-    <url>/i7-9700K-asus-ROG-STRIX-Z390-F.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+华硕 ROG STRIX Z390-F GAMING主板，免驱的RX 590独显，安装黑苹果macos catalina 10.15.2系统。需要注意的是32G的海盗船内存，这个特别容易卡内存。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    X64 兼容 台式电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-9700K @ 3.60GHz 八核 (一键超频)<br>主板    华硕 ROG STRIX Z390-F GAMING ( Z390 芯片组 )<br>内存    32 GB ( 海盗船 DDR4 3200MHz )<br>主硬盘     XPG SPECTRIX S40G ( 1024 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器    明基 BNQ7F31 ZOWIE XL LCD ( ZOWIE XL LCD )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 华硕</p>
-<a id="more"></a>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0258995E-9D33-48A7-A965-11A8F45BB21B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3B19C54F-EEFF-40E0-8084-052D850D0535.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5B01F3CB-7B39-479A-BD38-3780FCE6C1E8.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>独显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>双屏多屏</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1194.html" target="_blank" rel="noopener">i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
-      </categories>
-      <tags>
-        <tag>RX 590</tag>
-        <tag>Z390</tag>
-        <tag>i7-9700K</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【台式机】i7-9700K 技嘉 Z390 GAMING X-CF RX 5700 XT ALC892 10.15.2黑苹果引导_Hackintosh_Clover</title>
     <url>/i7-9700K-ga-Z390-GAMING-X-CF.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+技嘉 Z390 GAMING X-CF主板，免驱的RX 5700 XT独显，安装黑苹果macos catalina 10.15.2系统。<br>特别需要注意的是，目前10.15.2又不支持三星EVO 970 PLUS固态了！</p>
@@ -14517,6 +14556,36 @@
         <tag>Z390</tag>
         <tag>i7-9700K</tag>
         <tag>RX 5700 XT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【台式机】i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2黑苹果引导_Hackintosh_Clover</title>
+    <url>/i7-9700K-asus-ROG-STRIX-Z390-F.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+华硕 ROG STRIX Z390-F GAMING主板，免驱的RX 590独显，安装黑苹果macos catalina 10.15.2系统。需要注意的是32G的海盗船内存，这个特别容易卡内存。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    X64 兼容 台式电脑<br>操作系统    Windows 10 64位 ( DirectX 12 )<br>处理器    英特尔 Core i7-9700K @ 3.60GHz 八核 (一键超频)<br>主板    华硕 ROG STRIX Z390-F GAMING ( Z390 芯片组 )<br>内存    32 GB ( 海盗船 DDR4 3200MHz )<br>主硬盘     XPG SPECTRIX S40G ( 1024 GB / 固态硬盘 )<br>显卡    AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器    明基 BNQ7F31 ZOWIE XL LCD ( ZOWIE XL LCD )<br>声卡    瑞昱  @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 华硕</p>
+<a id="more"></a>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0258995E-9D33-48A7-A965-11A8F45BB21B.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3B19C54F-EEFF-40E0-8084-052D850D0535.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5B01F3CB-7B39-479A-BD38-3780FCE6C1E8.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1194.html" target="_blank" rel="noopener">i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>RX 590</tag>
+        <tag>Z390</tag>
+        <tag>i7-9700K</tag>
       </tags>
   </entry>
   <entry>
@@ -17954,8 +18023,8 @@
         <category>INTEL</category>
       </categories>
       <tags>
-        <tag>i7-4790</tag>
         <tag>B85</tag>
+        <tag>i7-4790</tag>
         <tag>RX Vega 64</tag>
       </tags>
   </entry>
@@ -18765,8 +18834,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
       </tags>
   </entry>
   <entry>
