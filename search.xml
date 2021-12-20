@@ -1,6 +1,291 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>HP ZBook 15 G3笔记本i7-6820HQ黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/f2bf33f8.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>HP ZBook 15 G3<br>处理器 i7-6820HQ<br>内存 16 GB<br>主显卡 英特尔 HD 530+m1000m<br>显示器 1080p</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>BIOS,安全启动要禁用传统引导和禁用安全引导，<br>设备选项里的显存大小改为128mb</p>
+<p>己知核显，声卡，有线网卡，无线，蓝牙，usb口，触控板，电池。</p>
+<h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Monterey 12.1</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1882.html" target="_blank" rel="noopener">HP ZBook 15 G3笔记本i7-6820HQ黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>手势多指</li>
+<li>变频</li>
+<li>摄像头</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>昭阳 e42-80 80T9 i7-7500u 笔记本黑苹果EFI OC7.6 MONTEREY 12.1</title>
+    <url>/80688213.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>昭阳 e42-80<br>处理器 i7-7500u<br>主显卡 hd620<br>显示器 1080p</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>一定要升级最新的bios，可以在官网找相应的型号。<br>附件为kbl的e42-80的最新bios</p>
+<p>核显，声卡，有线网卡，wifi，蓝牙不一定，触控板，电池（仅显示可能不准）</p>
+<h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Monterey 12.1</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1881.html" target="_blank" rel="noopener">昭阳 e42-80 80T9 i7-7500u 笔记本黑苹果EFI OC7.6 MONTEREY 12.1.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>摄像头</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>惠普 HP Pavilion g4 i3-3110m笔记本黑苹果引导EFI OC7.6 CATALINA 10.15.7</title>
+    <url>/29bacfd9.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>处理器 i3-3110m<br>主板 惠普 HP Pavilion g4</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Catalina 10.15.7</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1880.html" target="_blank" rel="noopener">惠普 HP Pavilion g4 i3-3110m笔记本黑苹果引导EFI OC7.6 CATALINA 10.15.7.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>HIDPI</li>
+<li>手势多指</li>
+<li>变频</li>
+<li>摄像头</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>HP_惠普</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Dell Optiplex 7040m i5-6600t（HDMI）黑苹果安装引导EFI OC7.6 BIG SUR 11.6</title>
+    <url>/815c3d05.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>i5-6600t<br>主板 Dell Optiplex 7040m<br>内存 4 GB ( 三星 1600MHz )<br>显示器 2K（hdmi）</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>需要改dvmt显存和cfg lock：<br>操作方法，在oc引导包里有，请按说明操作。</p>
+<h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Monterey 12.1</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1879.html" target="_blank" rel="noopener">Dell Optiplex 7040m i5-6600t（HDMI）黑苹果安装引导EFI OC7.6 BIG SUR 11.6.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>神舟k670d W65KJ1 KK1笔记本i5-7500黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/8d4d2c8c.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>处理器 i5-7500<br>主板 神舟k670d W65KJ1 KK1<br>内存 4 GB ( 三星 1600MHz )<br>主显卡 hd620+GTX 1050<br>显示器 1080p<br>声卡 alc269</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Monterey 12.1</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1878.html" target="_blank" rel="noopener">神舟k670d W65KJ1 KK1笔记本i5-7500黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>蓝牙</li>
+<li>HIDPI</li>
+<li>手势多指</li>
+<li>变频</li>
+<li>摄像头</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Hasee_神舟</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>E3-1260L v5 - 技嘉 G1.SNIPER M7-CF - RX580黑苹果引导OC 7.6 MONTEREY 12.1 </title>
+    <url>/feb7350e.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>处理器                 英特尔 Xeon(至强) E3-1260L v5 @ 2.90GHz 四核<br>  主板                   技嘉 G1.SNIPER M7-CF（100 Series/C230 Series 芯片组 Family - A148）<br>  显卡                   AMD Radeon RX 580 ( 8 GB / 华硕 )<br>  内存                   8 GB ( 芝奇 DDR4 3200MHz )<br>  主硬盘                 影驰 GALAX TA1D0120A ( 120 GB / 固态硬盘 )<br>  显示器                 戴尔 DELF011 DELL 2209WA ( 22 英寸  )<br>  声卡                   瑞昱 High Definition audio @ 英特尔 High Definition Audio 控制器<br>  网卡                   英特尔 Ethernet Connection  I219-V</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>比较麻烦的是声卡，在引导包里有说明如何选输出。其它没什么问题</p>
+<h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Monterey 12.1</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1877.html" target="_blank" rel="noopener">E3-1260L v5 - 技嘉 G1.SNIPER M7-CF - RX580黑苹果引导OC 7.6 MONTEREY 12.1 .zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>多显示器</li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔Inspiron 17 7000 Gaming 4K笔记本 i7-7700HQ黑苹果安装引导EFI OC7.6 CATALINA 10.15.7</title>
+    <url>/74510a59.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>处理器 i7-7700HQ<br>主板 戴尔Inspiron 17 7000<br>内存 16 GB<br>主显卡 英特尔 HD Graphics 630<br>显示器 4k</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>此笔记本为4k屏，目前我只能安装catalina 10.15.7，以下是改显存和cfg lock的，具体操作是在引导包里有说明</p>
+<p>但目前仍有可能存在错误的是，dvmt本身己经为64mb，但其实并没有64mb，哪怕改了64mb这个值也是对应不上的，所以为什么只能安装catalina 10.15.7,在big sur,monterey更高版本上，可能直接就进不去。</p>
+<p>安装此台，需要相当多的黑苹果知识才能搞掂</p>
+<p>目前己知驱动核显，声卡，有线网卡，wifi，触控板，电池，usb，基本上90%完美。</p>
+<h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Catalina 10.15.7</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1876.html" target="_blank" rel="noopener">戴尔Inspiron 17 7000 Gaming 4K笔记本 i7-7700HQ黑苹果安装引导EFI OC7.6 CATALINA 10.15.7.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>独显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>电池电量显示</li>
+<li>键盘</li>
+<li>触控板</li>
+<li>亮度调节</li>
+<li>HIDPI</li>
+<li>手势多指</li>
+<li>变频</li>
+<li>摄像头</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-9700K - ASUS ROG STRIX Z390-E GAMING - 蓝宝石RX 6600XT黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/6a807594.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
+<p>处理器 i7-9700K<br>主板 ASUS ROG STRIX Z390-E GAMING<br>内存 64 GB<br>主显卡 蓝宝石RX 6600XT</p>
+</blockquote>
+<h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>此独显必须安装macos monterey 12.1以上版本</p>
+<h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p>
+<h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul>
+<li>Monterey 12.1</li>
+</ul>
+<h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul>
+<li><a href="http://pay.k61.org/share_1875.html" target="_blank" rel="noopener">i7-9700K - ASUS ROG STRIX Z390-E GAMING - 蓝宝石RX 6600XT黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li>
+<li><a href="http://k61.org/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
+<li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li>
+</ul>
+<h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul>
+<li>核显</li>
+<li>独显</li>
+<li>声卡</li>
+<li>USB（type c）</li>
+<li>有线网卡</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>多显示器</li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
     <title>17-8700K - ASUS ROG STRIX Z370-I GAMING - 蓝宝石RX 6600XT黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
     <url>/5328886f.html</url>
     <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote>
@@ -12558,9 +12843,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
+        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
-        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
@@ -13593,9 +13878,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -15483,37 +15768,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【台式机】E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2黑苹果引导_Hackintosh_Clover</title>
-    <url>/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1240L v5 Cpu+技嘉 X150-PLUS WS-CF主板，免驱的RX 570独显，安装黑苹果macos catalina 10.15.2系统。这是一张X150的主板，从配置上来看，安装需要更多的调试，但很奇怪的是，利用X79的思路，可以很好地解决问题。</p>
-<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    技嘉 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1240L v5 @ 2.10GHz 四核<br>主板    技嘉 X150-PLUS WS-CF ( 100 Series/C230 Series 芯片组 Family - A14A )<br>内存    32 GB ( 威刚 DDR4 3000MHz )<br>主硬盘    苹果 HDD HTS541010A9E662 ( 1 TB )<br>显卡    AMD Radeon RX 570 ( 8 GB / 蓝宝石 )<br>显示器    HPN3435 HP Z32 ( 31.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 技嘉</p>
-<a id="more"></a>
-<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/F50FCCBA-61D2-46C9-B91B-EB897EE6386D.jpg" alt></p>
-<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
-<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
-<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C4506F6D815F086A989B2BDD416F121F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0B0809B020BAFFB4DBC20460DA140025.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/7208533644297ED443F2E994398E1B11.jpg" alt></p>
-<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
-<li>独显</li>
-<li>声卡</li>
-<li>USB</li>
-<li>有线网卡</li>
-<li>双屏多屏</li>
-<li>HIDPI</li>
-<li>变频</li>
-<li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1193.html" target="_blank" rel="noopener">E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2.zip - 老吴黑苹果工作室</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
-      </categories>
-      <tags>
-        <tag>RX 570</tag>
-        <tag>E3-1240L v5</tag>
-        <tag>X150</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【台式机】i3-7100 微星 B250M PRO-V GTX 660 10.13.6黑苹果引导_Hackintosh_Clover</title>
     <url>/i3-7100-MSI-B250M-PRO-V-GTX-660.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i3-7100 处理器+微星 B250M PRO-V主板安装黑苹果系统，首先，GTX 660的独显决定了，只能安装10.13.6系统。</p>
@@ -15542,6 +15796,37 @@
         <tag>B250M</tag>
         <tag>i3-7100</tag>
         <tag>GTX 660</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【台式机】E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2黑苹果引导_Hackintosh_Clover</title>
+    <url>/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>E3-1240L v5 Cpu+技嘉 X150-PLUS WS-CF主板，免驱的RX 570独显，安装黑苹果macos catalina 10.15.2系统。这是一张X150的主板，从配置上来看，安装需要更多的调试，但很奇怪的是，利用X79的思路，可以很好地解决问题。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号    技嘉 台式电脑<br>操作系统    Windows 10 专业版 64位 ( DirectX 12 )<br>处理器    英特尔 Xeon(至强) E3-1240L v5 @ 2.10GHz 四核<br>主板    技嘉 X150-PLUS WS-CF ( 100 Series/C230 Series 芯片组 Family - A14A )<br>内存    32 GB ( 威刚 DDR4 3000MHz )<br>主硬盘    苹果 HDD HTS541010A9E662 ( 1 TB )<br>显卡    AMD Radeon RX 570 ( 8 GB / 蓝宝石 )<br>显示器    HPN3435 HP Z32 ( 31.5 英寸  )<br>声卡    瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器<br>网卡    英特尔 Ethernet Connection  I219-V / 技嘉</p>
+<a id="more"></a>
+<p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/F50FCCBA-61D2-46C9-B91B-EB897EE6386D.jpg" alt></p>
+<h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="http://k61.org/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="http://k61.org/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p>
+<p>Nvidia驱动下载： <a href="http://k61.org/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a> </p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/C4506F6D815F086A989B2BDD416F121F.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0B0809B020BAFFB4DBC20460DA140025.jpg" alt><br><img src="http://k61.org/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/7208533644297ED443F2E994398E1B11.jpg" alt></p>
+<h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul>
+<li>独显</li>
+<li>声卡</li>
+<li>USB</li>
+<li>有线网卡</li>
+<li>双屏多屏</li>
+<li>HIDPI</li>
+<li>变频</li>
+<li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="http://pay.k61.org/share_1193.html" target="_blank" rel="noopener">E3-1240L v5 技嘉 X150-PLUS WS-CF RX 570 10.15.2.zip - 老吴黑苹果工作室</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>RX 570</tag>
+        <tag>E3-1240L v5</tag>
+        <tag>X150</tag>
       </tags>
   </entry>
   <entry>
@@ -16622,8 +16907,8 @@
       </categories>
       <tags>
         <tag>RX 580</tag>
-        <tag>X299</tag>
         <tag>i7-7800X</tag>
+        <tag>X299</tag>
         <tag>OC</tag>
       </tags>
   </entry>
@@ -19279,8 +19564,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>华硕</tag>
         <tag>GTX 1080 Ti</tag>
+        <tag>华硕</tag>
       </tags>
   </entry>
   <entry>
@@ -20041,8 +20326,8 @@
       <tags>
         <tag>i5-6200U</tag>
         <tag>HD 520</tag>
-        <tag>Acer</tag>
         <tag>TravelMate</tag>
+        <tag>Acer</tag>
       </tags>
   </entry>
   <entry>
@@ -23200,9 +23485,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
