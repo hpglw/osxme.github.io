@@ -1,6 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>惠普HP Elite Slice G2 MS SRS Audio Ready i5-7500T黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/ee7cb4b.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>惠普HP Elite Slice G2 MS SRS Audio Ready<br>处理器 i5-7500T<br>主板 惠普HP Elite Slice G2 MS SRS Audio Ready<br>内存 8 GB<br>主硬盘 西数2t<br>主显卡 hd 630<br>网卡 英特尔 Wireless-ac 8260</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>这是一个小主机nuc，具体的安装过程可以看这个视频：<br>里面有bios设置和bios版本等信息，安装可能不是太简单的，需要反复研究，但引导多半支持big sur和monterey，系统是安装在sata上的，nvme也支持。<br>dp接口可能不能用，因为安装时用的是hdmi，没有dp显示器可以测试，所以最好用hdmi线，不要转接。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1923.html" target="_blank" rel="noopener">惠普HP Elite Slice G2 MS SRS Audio Ready i5-7500T黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>NUC</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-6700 - 微星b250m nano - gtx 1060黑苹果引导efi oc7.6 macos 10.13.16</title>
+    <url>/6f32afd.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i7-6700<br>主板 微星b250m nano<br>内存 32 GB<br>主硬盘 GALAX 120GB<br>主显卡 GTX 1060</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>Bios设置中记得去超频那一项的cpu特证，把cfg锁定禁用</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>High Sierra 10.13.6</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1921.html" target="_blank" rel="noopener">i7-6700 - 微星b250m nano - gtx 1060黑苹果引导efi oc7.6 macos 10.13.16.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-10400F - 七彩虹 CVN B460I GAMING - RX6600XT黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/93cda7a8.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 Default string Default string 台式电脑<br>处理器 英特尔 Core i5-10400F @ 2.90GHz 六核<br>主板 七彩虹 CVN B460I GAMING（LPC Controller B460芯片组）<br>显卡 AMD Radeon Graphics ( 8 GB / 华擎 )<br>内存 16 GB ( 芝奇 DDR4 3200MHz )<br>主硬盘 西数 WDC PC SN730 SDBPNTY-512G-1101 ( 512 GB / 固态硬盘 )<br>显示器 XXX1560 HDMI ( 15.6 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Wi-Fi 6 AX200 160MHz #2</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1922.html" target="_blank" rel="noopener">i5-10400F - 七彩虹 CVN B460I GAMING - RX6600XT黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>蓝牙</li><li>变频</li><li>WIFI</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ThinkPad T450s i5-5300u笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/60bfb7e2.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>ThinkPad T450s<br>处理器 i5-5300u<br>主板 ThinkPad T450s<br>内存 8 GB<br>主硬盘 galax 240gb<br>主显卡 英特尔 HD Graphics 5500 ( 128 MB / 联想 )</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1920.html" target="_blank" rel="noopener">ThinkPad T450s i5-5300u笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ThinkPad L490 i3-8145U笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/fbb348a8.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>ThinkPad L490<br>处理器 i3-8145U<br>主板 ThinkPad L490<br>内存 16 GB<br>主硬盘 UMIS 256GB<br>主显卡 UHD 620</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1919.html" target="_blank" rel="noopener">ThinkPad L490 i3-8145U笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ThinkPad E470c i3-6006u笔记本黑苹果引导OC 7.6 MONTEREY 12.1</title>
+    <url>/e9087e6.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>ThinkPad E470c<br>处理器 i3-6006u<br>主板 ThinkPad E470c<br>内存 8 GB<br>主硬盘 三星 MZNLN128HCGR-000L1 ( 128 GB / 固态硬盘 )<br>主显卡 HD520 ( 128 MB / 联想 )</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1918.html" target="_blank" rel="noopener">ThinkPad E470c i3-6006u笔记本黑苹果引导OC 7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i9-9900K - 华硕ROG STRIX Z390-I GAMING - RX5500XT黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/c7ea5ae9.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i9-9900K<br>主板 华硕ROG STRIX Z390-I GAMING<br>内存 64 GB<br>主硬盘 HS-SSD-C2000PRO 1T<br>主显卡 RX5500XT</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1917.html" target="_blank" rel="noopener">i9-9900K - 华硕ROG STRIX Z390-I GAMING - RX5500XT黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-10500 - 微星MAG B460M MORTAR - RX560黑苹果引导efi oc7.6 monterey 12.1</title>
+    <url>/9ba8c07a.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i5-10500<br>主板 微星MAG B460M MORTAR<br>内存 16 GB<br>主显卡 RX560</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1916.html" target="_blank" rel="noopener">i5-10500 - 微星MAG B460M MORTAR - RX560黑苹果引导efi oc7.6 monterey 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-10400F - 微星B460M BOMBER - RX560黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/a71b1866.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i5-10400F<br>主板 微星B460M BOMBER<br>内存 16 GB<br>主硬盘 wd 1t<br>主显卡 RX560 蓝宝石 4g</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1915.html" target="_blank" rel="noopener">i5-10400F - 微星B460M BOMBER - RX560黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-9400F - 华硕B365M-KYLIN - 微星RX 6600黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/bf161dbd.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i5-9400F<br>主板 华硕B365M-KYLIN<br>内存 4 GB ( 三星 1600MHz )<br>主硬盘 512GB SSD<br>主显卡 微星RX 6600</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>只能安装monterey 12.1或以上版本</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1914.html" target="_blank" rel="noopener">i5-9400F - 华硕B365M-KYLIN - 微星RX 6600黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-6500 - 华擎B150M-HDS核显HDMI黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/13a61120.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i5-6500<br>主板 华擎B150M-HDS<br>内存 16 GB<br>主硬盘 250GB SSD<br>主显卡 HD 530<br>显示器 24 1080P</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>仅支持核显hdmi连显示器，不能转接</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1913.html" target="_blank" rel="noopener">i5-6500 - 华擎B150M-HDS核显HDMI黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-4590 - 华硕Z97-K - GTX 960黑苹果安装引导EFI OC7.6 MACOS 10.13.6</title>
+    <url>/853afe3.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i5-4590<br>主板 华硕Z97-K<br>内存 16 GB<br>主硬盘 三星 840 evo 120gb<br>主显卡 gtx 960<br>显示器 27 lg 1080p</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>gtx 960独显只能安装10.13.6版本</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>High Sierra 10.13.6</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1912.html" target="_blank" rel="noopener">i5-4590 - 华硕Z97-K - GTX 960黑苹果安装引导EFI OC7.6 MACOS 10.13.6.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>电池电量显示</li><li>变频</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>神舟G7M ct7na i7-9750H笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1 </title>
+    <url>/9f0aa9c5.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>神舟G7M ct7na（NH50_70RA）<br>处理器 i7-9750H<br>主板 神舟G7M ct7na（NH50_70RA）<br>内存 8 GB<br>主硬盘 PHISON SATA SSD 512GB<br>主显卡 UHD630+GTX 1650<br>显示器 17.3 1080P<br>网卡 英特尔 AC 9560</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1911.html" target="_blank" rel="noopener">神舟G7M ct7na i7-9750H笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1 .zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Hasee_神舟</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>雷蛇Razer Blade 15 2020 i7-10750h黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/cca110a4.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>雷蛇Razer Blade 15 2020<br>处理器 i7-10750h</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>雷蛇Razer Blade 15 2020 i7-10750h配置，只支持1080p分辨率机型，并且硬盘不能为pm981.</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1910.html" target="_blank" rel="noopener">雷蛇Razer Blade 15 2020 i7-10750h黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li><li>外接显示器（type c）</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Razer Blade_雷蛇</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔XPS 8930 I7-8700 UHD630(HDMI)黑苹果安装引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/c8092be.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>戴尔XPS 8930<br>处理器 I7-8700<br>主显卡 UHD 630<br>显示器 HDMI 1080P</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>原配置有独显，去掉，用核显安装，配置可能只支持hdmi接口，不能转接。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1909.html" target="_blank" rel="noopener">戴尔XPS 8930 I7-8700 UHD630(HDMI)黑苹果安装引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔OptiPlex 3060 i7-8700核显(HDMI和DP)黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/2bc8cfe.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>戴尔OptiPlex 3060<br>处理器 i7-8700<br>主板 戴尔OptiPlex 306<br>内存 16 GB<br>主硬盘 三星 256gb<br>主显卡 uhd 630<br>显示器 hdmi 1080p</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>进黑苹果之前，要在OC引导页按空格，选cfg lock，然后按y，再按回车，这一步关闭cfg lock,如果不关，进不去的。<br>Bios最后一项是系统恢复，要改为off<br>其它bios分别是关闭secure boot，把sata模式改为achi<br>双显示器可用，hdmi和dp都可以显示。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1908.html" target="_blank" rel="noopener">戴尔OptiPlex 3060 i7-8700核显(HDMI和DP)黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔 OptiPlex 3040 i7-7600核显只dp黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/bbcfbe1.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 戴尔 OptiPlex 3040 台式电脑<br>处理器 英特尔 Core i7-6700 @ 3.40GHz 四核<br>主板 戴尔 09N86R（100 Series/C230 Series 芯片组 Family - A143）<br>显卡 AMD Radeon R5 340X ( 2 GB / 戴尔 )<br>内存 16 GB ( 海力士 DDR3L 1600MHz )<br>主硬盘 希捷 ST1000DM010-2EP102 ( 1 TB )<br>显示器 戴尔 DELD0D7 DELL P2319H ( 23 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 戴尔</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>仅支持dp连显示器，不能转接</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1907.html" target="_blank" rel="noopener">戴尔 OptiPlex 3040 i7-7600核显只dp黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>变频</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔 Inspiron 5280 i5-7Y54笔记本黑苹果引导OC 7.6 MONTEREY 12.1</title>
+    <url>/d623aa95.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 戴尔 Inspiron 5280 笔记本电脑<br>处理器 英特尔 Core i5-7Y54 @ 1.20GHz 双核<br>主板 戴尔 0CH4MP（7th Generation Intel Processor Family I/O - 9D4B 笔记本芯片组）<br>显卡 英特尔 HD Graphics 615 ( 128 MB / 戴尔 )<br>内存 8 GB ( 未知 LPDDR3 1867MHz )<br>主硬盘 镁光 _1100_MTFDDAV256TBN ( 256 GB / 固态硬盘 )<br>显示器 京东方 BOE075C ( 12.3 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 3165</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>这是一个平板，只有两个type c口，没有usb口的。原配的键盘可以用，但键盘上的触控板用不了。触屏可以用。<br>核显，声卡，电池电量，变频都可以，基本正常使用。<br>有一个需要特别注意的，就是bios的安全引导这个非常麻烦，需要把oc引导的boot和oc文件夹放到system引导分区中，其中windows自带的boot文件夹请先备份一下，然后用oc的boot文件夹替换。再用esayuefi或者diskguies新建oc引导指向oc/opencore.efi。<br>Bios中，需要在secuity中的secure boot关掉安全引导，boot中还有一个secure boot也要关掉，引导顺序#1要改为新建的OC引导。多试几次，有时重启错误，或者windows引导，安全引导又会自动开启，就只能进win，这时要再设置一次，反正这个平板的引导好像只认windows引导，需要多留心。<br>另外，这个是带sim网卡的，目测是不能用的了，摄像头也不行，没有驱动。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1906.html" target="_blank" rel="noopener">戴尔 Inspiron 5280 i5-7Y54笔记本黑苹果引导OC 7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>type c</li><li>电池电量显示</li><li>触屏</li><li>亮度调节</li><li>蓝牙</li><li>变频</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Dell_戴尔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>E5-2603 v3 - 华硕 Z10PA-U8 - GTX 750 TI黑苹果引导OC 7.6 MACOS 10.13.6</title>
+    <url>/da717286.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 华硕 Z10PA-U8 Series Main Server Chassis<br>处理器 英特尔 Xeon(至强) E5-2603 v3 @ 1.60GHz 六核<br>主板 华硕 Z10PA-U8 Series（Wellsburg）<br>显卡 NVIDIA GeForce GTX 750 Ti ( 2 GB / 微星 )<br>内存 32 GB ( 三星 DDR4 2133MHz )<br>主硬盘 英特尔 SSDSC2BW120A4 ( 120 GB / 固态硬盘 )<br>显示器 冠捷 AOC4002 4002W ( 39.5 英寸 )<br>声卡 NVIDIA nForce2 ISA Bridge @ NVIDIA High Definition Audio Controller<br>网卡 Atheros AR9382 Wireless Network Adapter / Wistron(纬创)</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>硬件方面，在安装前一定要在主板上跳线禁用主板自带的集显，请参看主板说明书。<br>BIOS里有几个要设置的，一是第二个大项的apci里，把disabled改为enabled。<br>CSM里关闭整个csm<br>usb里把echi hand off改为enabled.<br>目前cpu变频正常，usb全部可用，该引导只针对10.13.6系统。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>High Sierra 10.13.6</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1905.html" target="_blank" rel="noopener">E5-2603 v3 - 华硕 Z10PA-U8 - GTX 750 TI黑苹果引导OC 7.6 MACOS 10.13.6.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>变频</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>Workstation_工作站</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>华硕TUF Gaming FX505GE_FX86FE I5-8300H笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1</title>
+    <url>/19c8df56.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote></blockquote><p>华硕TUF Gaming FX505GE_FX86FE笔记本<br>处理器 I5-8300H<br>主板 FX505GE<br>内存 16 GB<br>主硬盘 金士顿256gb<br>主显卡 uhd630+gtx 1050ti<br>显示器 15寸1080p<br>网卡 英特尔 Wireless-ac 9462</p><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>此笔记本可以关闭cfg lock</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1904.html" target="_blank" rel="noopener">华硕TUF Gaming FX505GE_FX86FE I5-8300H笔记本黑苹果引导EFI OC7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ASUS_华硕</category>
+      </categories>
+  </entry>
+  <entry>
     <title>暗影精灵6 HP OMEN Laptop 15-ek1xxx i7-10750H黑苹果引导OC 7.6 MONTEREY 12.1</title>
     <url>/369f5dc7.html</url>
     <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>暗影精灵6 HP OMEN Laptop 15-ek1xxx<br>处理器 i7-10750H<br>主板 惠音 88C8<br>内存 16 GB<br>主硬盘 KOXG6OZNV512G K1OX1A<br>主显卡 uhd630<br>显示器 友达 AUO82ED（ 15.5） 1080p<br>网卡 英特尔 Wi-F 6 AX201 160MHz</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.6</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1903.html" target="_blank" rel="noopener">暗影精灵6 HP OMEN Laptop 15-ek1xxx i7-10750H黑苹果引导OC 7.6 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
