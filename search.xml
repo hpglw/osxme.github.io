@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>联想ThinkPad L14 Gen 1 i7-10510U笔记本黑苹果引导EFI OC7.7 MONTEREY 12.1</title>
+    <url>/6af11ce9.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>联想ThinkPad L14 Gen 1<br>处理器 i7-10510U<br>主板 联想20U2A0NECD<br>内存 16 GB<br>主硬盘 KBG40ZNT256G TOSHIBA<br>主显卡 UHD+AMD RADEON 625<br>显示器 1080P</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p><img src="/images/pasted-289.png" alt="upload successful"><br>Bios里secure boot关闭，安全里的安全芯片设置关闭</p><p>核显，声卡，有线网卡，无线wifi，蓝牙，电池电量，触控板，hidpi都是好的，hdmi外接显示器。基本90%完美。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.7</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1937.html" target="_blank" rel="noopener">联想ThinkPad L14 Gen 1 i7-10510U笔记本黑苹果引导EFI OC7.7 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li><li>外接显示器</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i9-10850K - 技嘉Z590 GAMING X - 蓝宝石RX6800XT黑苹果引导EFI OC7.7 MONTEREY 12.1</title>
+    <url>/61fab82e.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 i9-10850K<br>主板 技嘉Z590 GAMING X<br>内存 32 GB<br>主硬盘 三星512gb<br>主显卡 蓝宝石RX6800XT<br>显示器 4k</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p><img src="/images/pasted-288.png" alt="upload successful"><br>USB端口比较多这个主板，所以后置会有5个usb3接口无法识别usb3设备，但usb2设备是可以识别的，type c两个没问题。<br>该引导也支持big sur</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.7</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1936.html" target="_blank" rel="noopener">i9-10850K - 技嘉Z590 GAMING X - 蓝宝石RX6800XT黑苹果引导EFI OC7.7 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>WIFI</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-9600K - 微星Z390M-S01 - GTX 760黑苹果引导EFI OC7.7 BIG SUR 11.6</title>
+    <url>/9993daa9.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 微星 MS-7C24 台式电脑<br>处理器 英特尔 Core i5-9600K @ 3.70GHz 六核<br>主板 微星 Z390M-S01 (MS-7C24)（Z390 芯片组）<br>显卡 NVIDIA GeForce GTX 760 ( 2 GB / 索泰 )<br>内存 16 GB ( GLOWAY DDR4 3000MHz / 海盗船 DDR4 2400MHz )<br>主硬盘 浦科特 PX-128M6S ( 128 GB / 固态硬盘 )<br>显示器 戴尔 DEL4098 DELL P2314H ( 23 英寸 )<br>声卡 C-Media Electronics Inc. USB Audio Device<br>网卡 瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 微星</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>在bios设置里点左边的oc，cpu特征，cfg锁定禁用<br>搭配的是gtx 760最主支持Big Sur,如果你有类型这个n卡免驱独显的话，可以适配这个黑苹果引导。</p><p><img src="/images/pasted-287.png" alt="upload successful"></p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.7</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Big Sur 11.6</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1935.html" target="_blank" rel="noopener">i5-9600K - 微星Z390M-S01 - GTX 760黑苹果引导EFI OC7.7 BIG SUR 11.6.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>独显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>多显示器</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>联想 Lenovo 小新 Air 15IKBR i5-8250U笔记本黑苹果引导EFI OC7.7 MONTEREY 12.1</title>
+    <url>/a0a7ddcb.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 联想 Lenovo 小新 Air 15IKBR 笔记本电脑<br>处理器 英特尔 Core i5-8250U @ 1.60GHz 四核<br>主板 联想 LNVNB161216（7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组）<br>显卡 NVIDIA GeForce MX150 ( 2 GB / 联想 )<br>内存 8 GB ( 三星 DDR4 2666MHz )<br>主硬盘 西数 WDC PC SN720 SDAPNTW-512G-1101 ( 512 GB / 固态硬盘 )<br>显示器 LG LGD05E5 ( 15.5 英寸 )<br>声卡 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Dual Band Wireless-AC 3165</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p><img src="/images/pasted-286.png" alt="upload successful"></p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.7</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1934.html" target="_blank" rel="noopener">联想 Lenovo 小新 Air 15IKBR i5-8250U笔记本黑苹果引导EFI OC7.7 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>HIDPI</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>Lenovo_联想</category>
+      </categories>
+  </entry>
+  <entry>
     <title>qqlt - 魔改华硕主板 - 核显HDMI 4K台式机安装黑苹果引导EFI OC7.7 MONTEREY 12.1</title>
     <url>/6b1f2c86.html</url>
     <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 MOD By revlaay’s AIO Tool 台式电脑<br>处理器 qqlt（i9-9980hk） @ 2.40GHz 六核<br>主板 华硕 WX:e20gs7（100 Series/C230 Series 芯片组 Family - A148）<br>显卡 英特尔 UHD Graphics 630 ( 128 MB / 华硕 )<br>内存 16 GB ( 酷兽 DDR4 2666MHz )<br>主硬盘 HS-SSD-E100N ( 512 GB / 固态硬盘 )<br>显示器 飞利浦 PHL08FA PHL BDM4350 ( 43.2 英寸 )<br>声卡 瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器<br>网卡 Atheros AR9485 Wireless Network Adapter / 戴尔</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>HDMI显示器4k的，所以要在bios中把显存改为128mb，其实这个引导并没有什么适配性，因为主机也不知道是什么型号，只知道是华硕的，华硕默认是关了cfg lock的，只是主板是魔改了的，如果对于其它配置，cpu同样为qqlt也就是i9-9980hk的，也许能适用，一般为100系或者200系主板魔改用。<br>Cpu变频是完全正常的最低700mhz到最高睿频。<br>其它基本驱动的。<br>魔改的主板加cpu有很多不确定性，安装黑苹果不是太容易，谨慎考虑。</p><p><img src="/images/pasted-285.png" alt="upload successful"></p><p>安装视频：<a href="https://www.bilibili.com/video/BV1q44y1H7Zr/" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1q44y1H7Zr/</a></p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.7</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.1</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="https://efi.win2mac.top/share_1933.html" target="_blank" rel="noopener">qqlt - 魔改华硕主板 - 核显HDMI 4K台式机安装黑苹果引导EFI OC7.7 MONTEREY 12.1.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>HIDPI</li><li>变频</li><li>多显示器</li></ul>]]></content>
@@ -6090,9 +6126,9 @@
       </categories>
       <tags>
         <tag>HD 530</tag>
+        <tag>i7-6700HQ</tag>
         <tag>炫龙</tag>
         <tag>Shinelon</tag>
-        <tag>i7-6700HQ</tag>
       </tags>
   </entry>
   <entry>
