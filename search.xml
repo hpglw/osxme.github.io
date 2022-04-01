@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>华硕EXPERTBOOK P2451FB i7-10510U黑苹果引导EFI OC7.9 MONTEREY 12.3</title>
+    <url>/e81f0b60.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>华硕EXPERTBOOK P2451FB<br>处理器 i7-10510U<br>主板 P2451FB<br>内存 16 GB<br>主硬盘 128GB nvme<br>主显卡 uhd+mx110<br>显示器 13.9 1080p<br>声卡 alc256<br>网卡 英特尔 Wireless-ac 9560+intel有线网卡</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>Bios设置很简介，就关个安全启动就行了，其它没什么好调的。具体看视频<br>己经驱动核显，声卡，有线网卡，wifi，蓝牙，触控板，摄像头，变频等等。外接没测试，usb口客户有一个口是坏的，我只能盲猜留了端口，不知道能否对应上。<br><img src="/images/pasted-353.png" alt="upload successful"><br>安装视频：</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.9</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.3</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="http://efi.win2mac.top/share_2014.html" target="_blank" rel="noopener">华硕EXPERTBOOK P2451FB i7-10510U黑苹果引导EFI OC7.9 MONTEREY 12.3.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>HIDPI</li><li>手势多指</li><li>变频</li><li>摄像头</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>笔记本</category>
+        <category>ASUS_华硕</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>戴尔 Inspiron 660 E3-1230 V2黑苹果引导EFI OC7.8 BIG SUR 11.6.5</title>
+    <url>/a59b25d4.html</url>
+    <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>电脑型号 戴尔 Inspiron 660 台式电脑<br>处理器 英特尔 Xeon(至强) E3-1230 V2 @ 3.30GHz 四核<br>主板 戴尔 0XR1GT（B75 Express 芯片组）<br>显卡 NVIDIA GeForce GTX 650 ( 1 GB )<br>内存 8 GB ( 宇瞻 DDR3 1600MHz / 金士顿 DDR3 1333MHz )<br>主硬盘 MG BG300M7 SSD 60GB (60 GB / 固态硬盘)<br>显示器 长城 CGC2700 E2718G ( 27.2 英寸 )<br>声卡 英特尔 Panther Point High Definition Audio Controller<br>网卡 博通 Broadcom 802.11ac Network Adapter / 惠普</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>博通无线网卡，支持wifi和蓝牙</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.8</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Big Sur 11.6.5</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="http://efi.win2mac.top/share_2013.html" target="_blank" rel="noopener">戴尔 Inspiron 660 E3-1230 V2黑苹果引导EFI OC7.8 BIG SUR 11.6.5.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>蓝牙</li><li>HIDPI</li><li>变频</li><li>WIFI</li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>关于3代笔记本HD4000安装黑苹果Catalina程序运行慢的可能解决方法</title>
+    <url>/2c19209e.html</url>
+    <content><![CDATA[<p>实际上苹果官网限制了big sur不再支持3代的配置，也就是说3代的笔记本最高只能上catalina。</p><p>有时我们发现，用oc安装了catalina后，核显驱动正常，cpu变频也正常，检查过引导配置也没有发现有问题，但打开应用程序，系统操作反应却是很慢，程序会跳动很久才出来。</p><p>其实这些存在一些笔记本品牌上，目前还不清楚哪些会，如果你有遇到以上的问题，请不要再折腾oc引导，一是降级为mojave，第二种方法就比较悬疑了：</p><p>就是开着机子，放上一晚上，其中的原理还不清楚，但国外有人己经验证过了可行，其原因可能在于macos在重建什么索引，缓存之类的，需要相当时间，而这些没有重建好的话，程序运行就会相当慢。</p><p>有这种问题的，不妨试一下上面的方法，也许有效呢。</p>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>E3-1230 V2 - 华硕P8B75-V - GTX 660黑苹果引导EFI OC7.8 BIG SUR 11.6.5</title>
     <url>/e9825876.html</url>
     <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>处理器 E3-1230 V2<br>主板 华硕P8B75-V<br>内存 16 GB<br>主硬盘 三星 EVO 850 250GB<br>主显卡 GTX660<br>显示器 2K<br>声卡 ALC887<br>网卡 RTL8168</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>注意，低于gt 7xx的免驱n卡，如上图gtx660虽然免驱可以用big sur，但可能存在花屏现象。</p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.8</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Big Sur 11.6.5</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="http://efi.win2mac.top/share_2012.html" target="_blank" rel="noopener">E3-1230 V2 - 华硕P8B75-V - GTX 660黑苹果引导EFI OC7.8 BIG SUR 11.6.5.zip</a></li><li><a href="https://win2mac.top/eeb1bf86.html">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>变频</li><li>多显示器</li></ul>]]></content>
@@ -4260,9 +4286,9 @@
       </categories>
       <tags>
         <tag>Surface</tag>
-        <tag>HD 620</tag>
         <tag>微软</tag>
         <tag>i5-7300U</tag>
+        <tag>HD 620</tag>
       </tags>
   </entry>
   <entry>
