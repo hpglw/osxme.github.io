@@ -4905,9 +4905,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
+        <tag>10.15镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
-        <tag>10.15镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -5987,20 +5987,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【台式机】i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2黑苹果引导_Hackintosh_Clover</title>
-    <url>/i7-9700K-asus-ROG-STRIX-Z390-F.html</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+华硕 ROG STRIX Z390-F GAMING主板，免驱的RX 590独显，安装黑苹果macos catalina 10.15.2系统。需要注意的是32G的海盗船内存，这个特别容易卡内存。</p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号 X64 兼容 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-9700K @ 3.60GHz 八核 (一键超频)<br>主板 华硕 ROG STRIX Z390-F GAMING ( Z390 芯片组 )<br>内存 32 GB ( 海盗船 DDR4 3200MHz )<br>主硬盘 XPG SPECTRIX S40G ( 1024 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器 明基 BNQ7F31 ZOWIE XL LCD ( ZOWIE XL LCD )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p><a id="more"></a><h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="https://win2mac.top/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="https://win2mac.top/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p><p>Nvidia驱动下载： <a href="https://win2mac.top/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a></p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0258995E-9D33-48A7-A965-11A8F45BB21B.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3B19C54F-EEFF-40E0-8084-052D850D0535.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5B01F3CB-7B39-479A-BD38-3780FCE6C1E8.jpg" alt></p><h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li><li>HIDPI</li><li>变频</li><li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="https://efi.win2mac.top/share_1194.html" target="_blank" rel="noopener">i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2.zip - 老吴黑苹果工作室</a></li></ul>]]></content>
-      <categories>
-        <category>台式机</category>
-        <category>INTEL</category>
-      </categories>
-      <tags>
-        <tag>RX 590</tag>
-        <tag>Z390</tag>
-        <tag>i7-9700K</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【台式机】i7-8700 华硕 ROG STRIX B360-F GAMING GTX 1060 10.13.6黑苹果引导_Hackintosh_Clover</title>
     <url>/i7-8700-asus-ROG-STRIX-B360-F.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-8700处理器+华硕 ROG STRIX B360-F GAMING主板安装黑苹果系统，首先，GTX 1060的独显决定了，只能安装10.13.6系统，特别需要注意的是，有些N卡是驱动不了的，占很少数，这个配置的GTX 1060索泰 就可以。</p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号 X64 兼容 台式电脑<br>操作系统 Windows 10 专业版 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-8700 @ 3.20GHz 六核<br>主板 华硕 ROG STRIX B360-F GAMING ( B360 芯片组 )<br>内存 16 GB ( 威刚 DDR4 2666MHz )<br>主硬盘 三星 SSD 970 EVO Plus 250GB ( 250 GB / 固态硬盘 )<br>显卡 Nvidia GeForce GTX 1060 6GB ( 6 GB / 索泰 )<br>显示器 冠捷 AOC2250 2250W ( 21.7 英寸 )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p><a id="more"></a><p><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/66603ADA-2076-411D-B255-EDA39B4E9FB1.jpg" alt></p><h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Sierra 10.12.x ( <a href="https://win2mac.top/macOS-Sierra-10.12.6-16G29-Restore.html">10.12.6恢复版镜像下载</a> ， <a href="https://win2mac.top/Win10-macOS-hackintosh-Restore.html">安装教程</a> )<br>macOS High Sierra 10.13.x ( <a href="https://win2mac.top/macOS-Sierra-10.13.6-17G65-Restore.html">10.13.6恢复版镜像下载</a> ， <a href="https://win2mac.top/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p><p>Nvidia驱动下载： <a href="https://win2mac.top/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a></p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/57C5E574B3CC7926C85BF62C2F02D9C2.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/531151D60B361DA266755288E0848262.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/1B67061D302E9515DF8ECE501F583277.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E50C7B9B6055CCE1B63EB74BCD4959F0.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/659D8A93C7FEE98E5E62605C5D37D42D.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/8481EE44CA852FA98586974D208F41F1.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3DD431E35EE03748C42AA44FA257783D.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/E9F481EA-C04F-4462-8D15-0774D685868D.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0FF002B5-66DE-4EC7-8476-E743F4C260D4.jpg" alt></p><h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul><li>独显</li><li>声卡</li><li>麦克风</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li><li>HIDPI</li><li>变频<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="https://efi.win2mac.top/share_1197.html" target="_blank" rel="noopener">i7-8700 华硕 ROG STRIX B360-F GAMING GTX 1060 10.13.6.zip - 老吴黑苹果工作室</a></li></ul>]]></content>
@@ -6012,6 +5998,20 @@
         <tag>B360</tag>
         <tag>GTX 1060</tag>
         <tag>i7-8700</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【台式机】i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2黑苹果引导_Hackintosh_Clover</title>
+    <url>/i7-9700K-asus-ROG-STRIX-Z390-F.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>i7-9700K Cpu+华硕 ROG STRIX Z390-F GAMING主板，免驱的RX 590独显，安装黑苹果macos catalina 10.15.2系统。需要注意的是32G的海盗船内存，这个特别容易卡内存。</p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>电脑型号 X64 兼容 台式电脑<br>操作系统 Windows 10 64位 ( DirectX 12 )<br>处理器 英特尔 Core i7-9700K @ 3.60GHz 八核 (一键超频)<br>主板 华硕 ROG STRIX Z390-F GAMING ( Z390 芯片组 )<br>内存 32 GB ( 海盗船 DDR4 3200MHz )<br>主硬盘 XPG SPECTRIX S40G ( 1024 GB / 固态硬盘 )<br>显卡 AMD Radeon RX 590 Series ( 8 GB / 蓝宝石 )<br>显示器 明基 BNQ7F31 ZOWIE XL LCD ( ZOWIE XL LCD )<br>声卡 瑞昱 @ 英特尔 High Definition Audio 控制器<br>网卡 英特尔 Ethernet Connection I219-V / 华硕</p><a id="more"></a><h2 id="兼容系统"><a href="#兼容系统" class="headerlink" title="兼容系统"></a>兼容系统</h2><p>macOS Catalina 10.15.x ( <a href="https://win2mac.top/macOS-Catalina-10.15-19A583-Restore.html">10.15恢复版镜像下载</a> ， <a href="https://win2mac.top/Win10-macOS-hackintosh-Restore.html">安装教程</a> )</p><p>Nvidia驱动下载： <a href="https://win2mac.top/Nvidia-web-driver-download-laowu-hackintosh.html">Nvidia显卡黑苹果驱动大全</a></p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/0258995E-9D33-48A7-A965-11A8F45BB21B.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/3B19C54F-EEFF-40E0-8084-052D850D0535.jpg" alt><br><img src="https://win2mac.top/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover/5B01F3CB-7B39-479A-BD38-3780FCE6C1E8.jpg" alt></p><h2 id="己解决"><a href="#己解决" class="headerlink" title="己解决"></a>己解决</h2><ul><li>独显</li><li>声卡</li><li>USB</li><li>有线网卡</li><li>双屏多屏</li><li>HIDPI</li><li>变频</li><li>NVMe硬盘<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><a href="https://efi.win2mac.top/share_1194.html" target="_blank" rel="noopener">i7-9700K 华硕 ROG STRIX Z390-F GAMING RX 590 10.15.2.zip - 老吴黑苹果工作室</a></li></ul>]]></content>
+      <categories>
+        <category>台式机</category>
+        <category>INTEL</category>
+      </categories>
+      <tags>
+        <tag>RX 590</tag>
+        <tag>Z390</tag>
+        <tag>i7-9700K</tag>
       </tags>
   </entry>
   <entry>
@@ -7254,8 +7254,8 @@
       </categories>
       <tags>
         <tag>Z370</tag>
-        <tag>GTX 1080 Ti</tag>
         <tag>华硕</tag>
+        <tag>GTX 1080 Ti</tag>
       </tags>
   </entry>
   <entry>
@@ -8252,9 +8252,9 @@
       <tags>
         <tag>系统下载</tag>
         <tag>恢复版</tag>
-        <tag>10.13.6镜像</tag>
         <tag>安装包</tag>
         <tag>硬盘版</tag>
+        <tag>10.13.6镜像</tag>
       </tags>
   </entry>
   <entry>
