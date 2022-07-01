@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>本站不再提供任何黑苹果引导EFI下载</title>
+    <url>/59b7010b.html</url>
+    <content><![CDATA[<p>说在前。</p><p>付费下载吧，有人不会装黑苹果，买个efi文件就以为可以安装成功，赖。有人买了，怎么都装不上，说我欺骗，赖。有人买了也安装上了说应有的功能没有，赖。太多东西我不想说了，如果黑苹果真有这么简单就好了。</p><p>免费下载吧，每个efi都是花一两天辛苦安装调试出来的，面对拿来主义又舍不得。</p><p>干脆全部停了！如果你会安装，你一定会安装上，如果不会安装，也可以找我远程安装，就这样了。</p><p>联系qq:349926524</p>]]></content>
+  </entry>
+  <entry>
     <title>雷蛇Razer Blade 15 Mid 2019-Base i7-9750H黑苹果引导EFI OC7.9 MONTEREY 12.4</title>
     <url>/f6e98679.html</url>
     <content><![CDATA[<h4 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h4><blockquote><p>雷蛇Razer Blade 15 Mid 2019-Base<br>处理器 i7-9750H<br>主板 Razer DA530<br>内存 16 GB<br>主硬盘 三星 MZNLN128HCGR-000L1 ( 128 GB / 固态硬盘 )<br>主显卡 UHD630+NVIDIA GeForce GTX 1660 Ti<br>显示器 LG LGD0625 LP156WFG-SPB3<br>声卡 ALC256<br>网卡 英特尔 Wireless-AC 9560</p></blockquote><h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>Razer 灵刃15标准版2019(i7 9750H/16GB/128GB+1TB/GTX 1660Ti)</p><p>BIOS里有几个需要设置<br>1，雷电的安全认证改不认证<br>2，CSM关掉<br>3，快速启动关掉<br>4，安全启动改为禁止</p><p>目前除了外接显示器应该是不行，雷电可能怪怪的，其它都正常，包括WIFI 蓝牙，触控板，电池，核显等，独显肯定是不行的了。</p><p><img src="/images/pasted-373.png" alt="upload successful"></p><h4 id="引导"><a href="#引导" class="headerlink" title="引导"></a>引导</h4><p>OPENCORE 0.7.9</p><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><ul><li>Monterey 12.4</li></ul><h4 id="EFI下载-amp-教程"><a href="#EFI下载-amp-教程" class="headerlink" title="EFI下载&amp;教程"></a>EFI下载&amp;教程</h4><ul><li><a href="http://efi.hpglw.com/share_2076.html" target="_blank" rel="noopener">雷蛇Razer Blade 15 Mid 2019-Base i7-9750H黑苹果引导EFI OC7.9 MONTEREY 12.4.zip</a></li><li><a href="https://hpglw.com/eeb1bf86.html" target="_blank" rel="noopener">【老吴黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li><li>配置中包含INTEL各型号无线网卡的需要下载安装<a href="https://github.com/OpenIntelWireless/HeliPort" target="_blank" rel="noopener">HeliPort</a>工具才可以联WIFI</li><li><a href="https://hpglw.com/cdc6109c.html" target="_blank" rel="noopener">检查你的固态硬盘是否支持安装黑苹果</a></li></ul><h4 id="己驱动"><a href="#己驱动" class="headerlink" title="己驱动"></a>己驱动</h4><ul><li>核显</li><li>声卡</li><li>USB（type c）</li><li>有线网卡</li><li>电池电量显示</li><li>键盘</li><li>触控板</li><li>亮度调节</li><li>蓝牙</li><li>手势多指</li><li>变频</li><li>WIFI</li></ul>]]></content>
