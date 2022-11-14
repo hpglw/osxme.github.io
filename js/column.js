@@ -1,0 +1,1 @@
+(function(){function n(){return Array.prototype.slice.call(document.querySelectorAll.apply(document,arguments))}if(n(".columns .column-right").length&&n(".columns .column-right-shadow").length&&!n(".columns .column-right-shadow")[0].children.length){for(const o of n(".columns .column-right")[0].children){n(".columns .column-right-shadow")[0].append(o.cloneNode(true))}}})();
