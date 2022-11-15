@@ -7314,15 +7314,13 @@ rx560， EFI  Install 时为monterey 12.6系统，可ventura 13系统。配有BC
   </entry>
   <entry>
     <title>i5-12400F - ASUS  PRIME B660M-K D4 - MSI  RX6600  Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/637499a6.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-12400F-ASUS-PRIME-B660M-K-D4-MSI-RX6600-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i5-12400F<br><strong>Motherboard</strong>  ASUS  PRIME B660M-K D4<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  Apacer AS2280P4 512GB<br><strong>Graphic</strong>  MSI  RX6600<br><strong>Display</strong>  2K<br><strong>Audio</strong>   ALC 897<br><strong>Network</strong>  BCM4360</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- EFI 升级到0.8.4， Install 时为monterey 12.6,理论ventura 13，可尝试升级测试。
-
 
 </div>
 
@@ -7333,10 +7331,7 @@ rx560， EFI  Install 时为monterey 12.6系统，可ventura 13系统。配有BC
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=39134ff855c211edb1fe52540025c377">i5-12400F - ASUS  PRIME B660M-K D4 - MSI  RX6600  Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1mZQz6JBHmA9Ff-Cw7TGZP2PX5nkLsZ2K/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -7392,18 +7387,15 @@ rx560， EFI  Install 时为monterey 12.6系统，可ventura 13系统。配有BC
   </entry>
   <entry>
     <title>i5-12400F -  SOYO  SY-Classic B660M - MSI RX 6600 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/2989daa3.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-12400F-SOYO-SY-Classic-B660M-MSI-RX-6600-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  12th Gen Intel Core i5-12400F<br>  <strong>Motherboard</strong>                     SOYO  SY-Classic B660M（INTEL  PCH）<br>   <strong>GPU</strong>                    AMD Radeon RX 6600 ( 8 GB &#x2F; MSI  )<br>  <strong>Memory</strong>                    32 GB (  KingSton  DDR4 3200MHz 16GB x 2 )<br>  <strong>Hard Drive</strong>                  WDS  WD Blue SN570 500GB SSD (500 GB &#x2F;  SSD )<br>  <strong>Display</strong>                  JRY2400 24NG2 ( 23.8   )<br>  <strong>Audio</strong>                     Realtek  High Definition Audio<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-12代**CPU** ，加 SOYO  SY-Classic B660M，很少见这种**Motherboard** Hackintosh 的，一般也 太建议用这种**Motherboard** 装Hackintosh ，虽然也装上去了，但bios界面真的很奇怪。
-理论上ventura 13系统。
-![](/images/pasted-469.png)
 
-
+<p><img src="/images/pasted-469.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -7413,10 +7405,7 @@ rx560， EFI  Install 时为monterey 12.6系统，可ventura 13系统。配有BC
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=a52a026855c211edb8a152540025c377">i5-12400F -  SOYO  SY-Classic B660M - MSI RX 6600 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1oeGEf0qEiN5-bxIR56Hf7hMBCb0UOHiU/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -12099,16 +12088,15 @@ gtx750 ti只能 Install High Sierra 10.13.6版本
   </entry>
   <entry>
     <title>i7-6700 - ASUS PRIME B250-PLUS - ASUS GTX 750 Ti Hackintosh Installation EFI OC 0.8.4 MACOS 10.13.6</title>
-    <url>/3f36a47a.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-6700-ASUS-PRIME-B250-PLUS-ASUS-GTX-750-Ti-Hackintosh-Installation-EFI-OC-0.8.4-MACOS-10.13.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac1013.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i7-6700<br><strong>Motherboard</strong>  ASUS PRIME B250-PLUS<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  SanDisk SD8SBAT-256G-1006 ( 256GB )<br><strong>Graphic</strong>  ASUS GTX 750 Ti<br><strong>Display</strong>   HP  HWP3285 HP Z23n ( 23.1〕<br><strong>Audio</strong>   ALC 887<br><strong>Network</strong>  Intel Dual Band Wireless-AC 3165</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-471.png)
 
-
+<p><img src="/images/pasted-471.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -12117,10 +12105,7 @@ gtx750 ti只能 Install High Sierra 10.13.6版本
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>High Sierra 10.13.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=e9def8f055c711edadd352540025c377">i7-6700 - ASUS PRIME B250-PLUS - ASUS GTX 750 Ti Hackintosh Installation EFI OC 0.8.4 MACOS 10.13.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1pAMEvc7VJHv1G0_hjCX0qUMJ8Ta5WFV4/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -12176,17 +12161,15 @@ gtx750 ti只能 Install High Sierra 10.13.6版本
   </entry>
   <entry>
     <title>i7-6700 - ASUS  B150M-D - RX 5500 XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/a8ce97a6.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-6700-ASUS-B150M-D-RX-5500-XT-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i7-6700 @ 3.40GHz<br>  <strong>Motherboard</strong>                    ASUS  B150M-D（100 Series&#x2F;C230 Series  Chipset  Family - A148）<br>   <strong>GPU</strong>                    AMD Radeon RX 5500 XT ( 8 GB &#x2F;  PowerColor  )<br>  <strong>Memory</strong>                    8 GB (  ADATA  DDR4 2133MHz 8GB )<br>  <strong>Hard Drive</strong>                  SAMSUNG  MZNTE128HMGR-00000 (128 GB &#x2F;  SSD )<br>  <strong>Display</strong>                  LG GSM0001 LG TV ( 72.3   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Broadcom  Broadcom 802.11ac Network Adapter &#x2F;  APPLE </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-470.png)
- **CPU** 就 要上ventura了，好好地用monterey 12.6吧。还是比较稳定和的，基本使用没问题。
 
-
+<p><img src="/images/pasted-470.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -12195,10 +12178,7 @@ gtx750 ti只能 Install High Sierra 10.13.6版本
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=fb4e6cec55c211edad6852540025c377">i7-6700 - ASUS  B150M-D - RX 5500 XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/15jGx7UVHsMqhLca43DyU12m0-R9wg82h/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
