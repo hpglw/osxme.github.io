@@ -3547,7 +3547,7 @@ nuc9（nc100机箱）i9 9980hk，6900xt，ssd 是p5 ax210 WIFI **Network**  两�
 <li>Trackpad（基础无手势多指）</li>
 <li>Battery Percentage</li>
 <li>HDMI输出</li>
-<li>Thunderbolt 3（TYPE-C，需重启后才可以用）</li>
+<li>Thunderbolt 3（type c，需重启后才可以用）</li>
 <li>USB定制</li>
 <li>隔空接力</li>
 <li>Power Management</li>
@@ -3801,17 +3801,15 @@ INTEL的**Network** WIFI可以用，蓝牙 怎么行，有时能识别有时 行
   </entry>
   <entry>
     <title>Razer Blade Stealth 13 Early 2020(RZ09-0310) i7-1065G7 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/3bb9c126.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Razer-Blade-Stealth-13-Early-2020-RZ09-0310-i7-1065G7-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>Razer Blade Stealth 13 Early 2020(RZ09-0310)<br><strong>CPU</strong>  i7-1065G7<br><strong>Motherboard</strong>  Razer LY325<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  SN770<br><strong>Graphic</strong>  UHD+GTX1650TI<br><strong>Display</strong>  ( 13.3  )<br><strong>Network</strong>  INTEL  AX201</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- Razer Blade 的薄本Stealth 13 2022款，10代**CPU** ， Install monterey 12.6，ventura 13系统。可驱动 IGPU ，**Audio** ， WIFI ，触控板等。外接**Display** 可能需要用到TYPE C口输出。
-![](/images/pasted-475.png)
-
-
+ 
+<p><img src="/images/pasted-475.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -3821,10 +3819,7 @@ INTEL的**Network** WIFI可以用，蓝牙 怎么行，有时能识别有时 行
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=9a8aa9b855ca11ed9b9f52540025c377">Razer Blade Stealth 13 Early 2020(RZ09-0310) i7-1065G7 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1bnPE2aGp5-o82mNc_hemSRiI78W_v5Tt/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -4267,18 +4262,15 @@ wifi蓝牙都可以用的，读卡器也有，基本来说比较，但这台需�
   </entry>
   <entry>
     <title>Surface Pro 6 i5-8350U Laptop  Hackintosh Installation  EFI  OC 0.8.4 Catalina 10.15.7</title>
-    <url>/671ae21f.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Surface-Pro-6-i5-8350U-Laptop-Hackintosh-Installation-EFI-OC-0.8.4-Catalina-10.15.7.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac1015.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>Surface Pro 6<br><strong>CPU</strong>  i5-8350U</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-这种 Laptop 比较难装，目前只测试 Install 了Catalina 10.15.7，理论上更新系统，有待自行测试。
-![](/images/pasted-476.png)
-![](/images/pasted-477.png)
 
-
+<p><img src="/images/pasted-476.png"><br><img src="/images/pasted-477.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -4287,10 +4279,7 @@ wifi蓝牙都可以用的，读卡器也有，基本来说比较，但这台需�
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Catalina 10.15.7</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=6784f76655cb11edab2752540025c377">Surface Pro 6 i5-8350U Laptop  Hackintosh Installation  EFI  OC 0.8.4 Catalina 10.15.7</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Fi2tpVzeZwvM2F_3AB6rjyO55NFB_o4_/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -6327,19 +6316,15 @@ b460定制usb端口可能会比较麻烦一些
   </entry>
   <entry>
     <title>i5-10400 - ASUS TUF GAMING B460-PRO(WIFI) IGPU HDMI Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/8975dfe4.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-10400---ASUS-TUF-GAMING-B460-PRO-WIFI-IGPU-HDMI-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i5-10400<br><strong>Motherboard</strong>  ASUS TUF GAMING B460-PRO(WIFI)<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  WDS NVME 512gb<br><strong>Graphic</strong>  UHD 630 HDMI Port<br><strong>Display</strong>  4K<br><strong>Network</strong>  Intel Wi-Fi 6 AX200 160MHz</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-IGPU  Install ，HDMI Port ， 清楚这**Motherboard** 有没有dp，该 EFI 可能只HDMI。
-**Motherboard** 自带wifi和蓝牙，目前反馈都可以用。
-如果**Display** 是4K的，记得去bios显示设置里把显存改为128mb。
 
 <p><img src="/images/pasted-480.png"></p>
-<p> EFI 应该可以ventura 13系统。</p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -6349,10 +6334,7 @@ IGPU  Install ，HDMI Port ， 清楚这**Motherboard** 有没有dp，该 EFI �
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=4ed3dbd6560411eda82252540025c377">i5-10400 - ASUS TUF GAMING B460-PRO(WIFI) IGPU HDMI Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1rg78DKvjORn8fsV4l1X3Tpu7pcp5Fhkc/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -9526,14 +9508,13 @@ Installation Video：https://youtu.be/oAHiv1RbCTk
   </entry>
   <entry>
     <title>i5-8500 - MSI B360M MORTAR - ASUS RX5600XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/b1224458.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-8500-MSI-B360M-MORTAR-ASUS-RX5600XT-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i5-8500<br><strong>Motherboard</strong>  MSI B360M MORTAR<br><strong>Hard Drive</strong>  WDS  1TB<br><strong>Graphic</strong>  ASUS RX5600XT</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- EFI 理论上可以ventura，可尝试 Install ventura 13系统， Install 时是monterey 12.6
 
 
 </div>
@@ -9545,10 +9526,7 @@ Installation Video：https://youtu.be/oAHiv1RbCTk
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=9290507e560511ed98e252540025c377">i5-8500 - MSI B360M MORTAR - ASUS RX5600XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1kH5c8zbAtAadrExBD9q227h2VW4JYWxu/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -9944,8 +9922,6 @@ gtx 1050ti现在（2022-7月更新）可以 Install monterey 或者Big Sur了，
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> CPU  i5-9400F<br> mainboard   ASUS TUF B360M-PLUS GAMING S<br> RAM  32 GB<br> SSD  sn750 nvme<br> GPU   GALAXY GTX 1050 Ti<br> Display  1080p<br> NETWORK  Intel Ethernet Connection (7) 1219-V</p>
 </blockquote>
-</div>
-
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><p>OPENCORE 0.8.5</p>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>High Sierra 10.13.6</li>
@@ -11019,17 +10995,15 @@ bios设置，进bios里，左边oc，**CPU** 特征，cfg锁定，禁止
   </entry>
   <entry>
     <title>i7-10700K - MSI  MEG Z490i UNIFY - RX6800 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/27f6a96.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-10700K-MSI-MEG-Z490i-UNIFY-RX6800-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i7-10700K<br><strong>Motherboard</strong>  MSI  MEG Z490i UNIFY<br><strong>Memory</strong>  16GB<br><strong>Hard Drive</strong>  WDC 1000GB<br><strong>Graphic</strong>  RX6800<br><strong>Display</strong>  4K<br><strong>Network</strong>  Realtek PCle 2.5GbE Family Controller</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-经典Hackintosh 10代搭配，rx6800完全，上ventura没问题。 EFI 0.8.4.可开启 IGPU ，MSI **Motherboard** Hackintosh 非常 错。
-![](/images/pasted-473.png)
 
-
+<p><img src="/images/pasted-473.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -11039,10 +11013,7 @@ bios设置，进bios里，左边oc，**CPU** 特征，cfg锁定，禁止
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=1097567655c911edb58252540025c377">i7-10700K - MSI  MEG Z490i UNIFY - RX6800 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1F4Z1mr0avmm5AJUsWymB7_-VI8RJUZWR/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -12316,8 +12287,6 @@ Bios设置中记得去超频那一项的**CPU** 特证，把cfg锁定禁用
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> CPU  i7-6700<br> mainboard   GIGABYTE Z170-HD3-CF<br> RAM  8 GB<br> SSD  Maxsun 512GB X6<br> GPU  RX550(Lexa)<br> Display  1080P<br> NETWORK  Realtek PCle GbE Family Controller</p>
 </blockquote>
-</div>
-
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><p>OPENCORE 0.8.5</p>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Big Sur 11.7.1</li>
@@ -12627,20 +12596,15 @@ Bios设置中记得去超频那一项的**CPU** 特证，把cfg锁定禁用
   </entry>
   <entry>
     <title>i7-6950X - ASUS X99-DELUXE II -  Sapphire RX 6900 XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/b71486e8.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-6950X-ASUS-X99-DELUXE-II-Sapphire-RX-6900-XT-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i7-6950X @ 3.00GHz<br>  <strong>Motherboard</strong>                    ASUS  X99-DELUXE II（Wellsburg）<br>  <strong>GPU</strong>                  AMD Radeon RX 6900 XT ( 16 GB &#x2F;  Sapphire  )<br>  <strong>Memory</strong>                    48 GB (  CORSAIR  DDR4 3000MHz &#x2F;  CORSAIR  DDR4 3200MHz )<br>  <strong>Hard Drive</strong>                   J.ZAO 5 SERIES  1TB  SSD ( 1024 GB &#x2F; SSD)<br>  <strong>Display</strong>                   Philips  PHLC231 PHL 288E2 ( 27.9   )<br>  <strong>Audio</strong>                     Realtek  High Definition audio @ INTEL  Wellsburg<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I218-V &#x2F; ASUS </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-这个可以说相当难 Install ，所以需要慎重考虑。目前有以下问题：
-可能没有睿频，usb有几个 能用，总体来说，基本稳定运行。
-由于没有bios相关设置的，仍需要自行大量的尝试后才可以 Install 。该的 Install **Motherboard** bios设置比较关键。虽然 EFI 可以ventura，但仍无法确定是否能直接 Install ，所以并 建议升级到ventura。
-以上有BCM4360 WIFI **Network** 
-![](/images/pasted-481.png)
 
-
+<p><img src="/images/pasted-481.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -12649,10 +12613,7 @@ Bios设置中记得去超频那一项的**CPU** 特证，把cfg锁定禁用
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=fe6906ac560411ed86fd52540025c377">i7-6950X - ASUS X99-DELUXE II -  Sapphire RX 6900 XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1fN9l1yDAwTt0tVob7QVa3f8pbQ6R2WrZ/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -14291,17 +14252,15 @@ Bios里点左边的oc，**CPU** 特征，cfg锁定，禁用
   </entry>
   <entry>
     <title>i7-9700K - GIGABYTE  Z390 GAMING X-CF -  Sapphire RX 590 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/db4d30e6.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-9700K-GIGABYTE-Z390-GAMING-X-CF-Sapphire-RX-590-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i7-9700K @ 3.60GHz<br>  <strong>Motherboard</strong>                    GIGABYTE  Z390 GAMING X-CF（Z390  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 590 Series ( 8 GB &#x2F;  Sapphire  )<br>  <strong>Memory</strong>                    64 GB (  KingSton  DDR4 2666MHz 16GB x 4 )<br>  <strong>Hard Drive</strong>                  WDS  WD_BLACK SN750 2TB (2 TB &#x2F;  SSD )<br>  <strong>Display</strong>                  LG GSM7707 LG HDR 4K ( 27.2   )<br>   <strong>DVD ROM</strong>                    ASUS  DRW-24D5MT DVD Burner<br>  <strong>Audio</strong>                     Realtek   ALC 892 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-V &#x2F; GIGABYTE </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-9代加z390经典，非常适合Hackintosh ， Sapphire rx590Hackintosh 无压力，再配上BCM4360 WIFI **Network** ，隔空接力wifi蓝牙全都有。基本。关键是WDS  SSD，最好的Hackintosh  SSD！ EFI 直上ventura没有压力
-![](/images/pasted-472.png)
 
-
+<p><img src="/images/pasted-472.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -14311,10 +14270,7 @@ Bios里点左边的oc，**CPU** 特征，cfg锁定，禁用
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=8def491855c811ed85f152540025c377">i7-9700K - GIGABYTE  Z390 GAMING X-CF -  Sapphire RX 590 Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1ad_4dvko_bydrgv_6tejnUKeDxmAHzd8/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -15133,17 +15089,15 @@ BIOS里要在启动选项中把CFG LOCK禁用掉
   </entry>
   <entry>
     <title>i9-9900K - MSI  Z390-S01 - GIGABYTE RX6800XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/5b05ef0b.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i9-9900K-MSI-Z390-S01---GIGABYTE-RX6800XT-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i9-9900K @ 3.60GHz<br>  <strong>Motherboard</strong>                    MSI  Z390-S01 (MS-7C22)（Z390  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 6800 XT ( 16 GB &#x2F; GIGABYTE  )<br>  <strong>Memory</strong>                    32 GB (  CORSAIR  DDR4 3000MHz 16GB x 2 )<br>  <strong>Hard Drive</strong>                  INTEL  SSDPEKKW256G8 (256 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AOC  AOC3277 U3277WB ( 31.5   )<br>   <strong>DVD ROM</strong>                     HP  DVD A DH16ACSHR DVD Burner<br>  <strong>Audio</strong>                     Realtek   ALC 892 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F; MSI </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-474.png)
-9代**CPU** 配MSI z390加强悍的rx6800xt独显，再搭配 Broadcom BCM4360 WIFI **Network** ，可以近的一台Hackintosh 了。也相当好 Install ，要上ventura也是分分钟的事。非常建议。
 
-
+<p><img src="/images/pasted-474.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -15153,10 +15107,7 @@ BIOS里要在启动选项中把CFG LOCK禁用掉
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=80fb9e9055c911ed9c2a52540025c377">i9-9900K - MSI  Z390-S01 - GIGABYTE RX6800XT Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1CnaAlZQjj_hH5OZFwHLqXIv-aKcyinSJ/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -16686,7 +16637,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 </li>
 <li><p>Brightness</p>
 </li>
-<li><p>TYPE-C </p>
+<li><p>type c </p>
 </li>
 <li><p>Bluetooth</p>
 </li>
@@ -18419,7 +18370,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>USB</li>
 <li>LAN </li>
 <li>multi-display</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>HIDPI</li>
 <li>Power Management</li>
 <li>Sleep</li>
@@ -18880,7 +18831,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>USB</li>
 <li>LAN </li>
 <li>multi-display</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>Bluetooth</li>
 <li>HIDPI</li>
 <li>Power Management</li>
@@ -19180,7 +19131,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 </li>
 <li><p>Brightness</p>
 </li>
-<li><p>TYPE-C</p>
+<li><p>type c</p>
 </li>
 <li><p>Bluetooth</p>
 </li>
@@ -19306,7 +19257,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>USB</li>
 <li>Keyboard</li>
 <li>Brightness</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>HIDPI</li>
 <li>Power Management</li>
 </ul>
@@ -19338,7 +19289,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>LAN （USB）</li>
 <li>Keyboard</li>
 <li>Brightness</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>HIDPI</li>
 <li>Power Management</li>
 <li>Camera</li>
@@ -19484,7 +19435,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>Keyboard</li>
 <li>Trackpad</li>
 <li>Brightness</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>Bluetooth</li>
 <li>HIDPI</li>
 <li>Power Management</li>
@@ -19801,7 +19752,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>Keyboard</li>
 <li>Trackpad</li>
 <li>Brightness</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>Bluetooth</li>
 <li>HIDPI</li>
 <li>Power Management</li>
@@ -19913,7 +19864,7 @@ HDMI**Display** 4K的，所以要在bios中把显存改为128mb，其实这个 E
 <li>Keyboard</li>
 <li>Trackpad</li>
 <li>Brightness</li>
-<li>TYPE-C</li>
+<li>type c</li>
 <li>Bluetooth</li>
 <li>HIDPI</li>
 <li>Multi-touch</li>
@@ -22597,16 +22548,16 @@ Installation Video：https://youtu.be/7uRFqymKv44
       </tags>
   </entry>
   <entry>
-    <title>DaiMai5X Mbenben E15KR i7-8550U Laptop  Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/f246b595.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>DaiMai 5X Mbenben E15KR i7-8550U Laptop  Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
+    <url>/DaiMai-5X-Mbenben-E15KR-i7-8550U-Laptop-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
+
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>DaiMai5X Mbenben E15KR<br><strong>CPU</strong>  i7-8550U<br><strong>Motherboard</strong>  Mbenben E15KR<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>  SAMSUNG  SaMSUNG MZVLW128HE GR-00000 ( 128GB)<br><strong>Graphic</strong>  UHD 620 + GTX 1050<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC  269<br><strong>Network</strong>  Intel Dual Band Wireless-AC 3168</p>
 </blockquote>
-</div>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
-<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><p>很少见的 Laptop 品牌，但同样是 CLEVO  了。<br>8代的<strong>CPU</strong> ，UHD620 IGPU ，这个上monterey 12.6上ventura都没有压力。<br> WIFI <strong>Network</strong> 可以用，蓝牙也可以。<br>其它基本都可以用。</p>
 <p><img src="/images/pasted-482.png"></p>
 </div>
 
@@ -22617,10 +22568,7 @@ Installation Video：https://youtu.be/7uRFqymKv44
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=1fe87b54560611edb75752540025c377">DaiMai5X Mbenben E15KR i7-8550U Laptop  Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/17G8-F2qI3Q1on6lUBPwW-T78rWbP83sy/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -27049,25 +26997,22 @@ Usb经过定制
   </entry>
   <entry>
     <title>Dell OptiPlex 7080 i7-10700 - ASUS RX6600  Hackintosh  EFI OC 0.8.5 Ventura 13.0</title>
-    <url>/f5b29735.html</url>
-    <content><![CDATA[<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+    <url>/Dell-OptiPlex-7080-i7-10700-ASUS-RX6600-Hackintosh-EFI-OC-0.8.5-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Dell OptiPlex 7080<br> CPU  i7-10700<br> mainboard   Dell  0j37VM<br> RAM  128 GB<br> SSD  SanDisk SSD PLUS 1000GB<br> GPU  AMD Radeon RX 6600 ( 8GB &#x2F;  ASUS  )<br> Display  LEN66D1 L24g-35<br> NETWORK  Intel Wi-Fi 6E AX210 160MHz</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- RAM 简直 要钱一样， Dell OptiPlex 7080准系统，有rx6600独显， EFI 0.8.5上ventura 13.0系统，无线 NETWORK 是ax210，支持wifi。
-![](/images/pasted-493.png)
+ 
+<p><img src="/images/pasted-493.png"></p>
+</div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><p>OPENCORE 0.8.5</p>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Ventura 13.0</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><ul>
-<li><a href="https://afdian.net/item?plan_id=99d349c658e511edac2152540025c377"> Dell OptiPlex 7080 i7-10700 - ASUS RX6600  Hackintosh  EFI OC 0.8.5 Ventura 13.0</a></li>
-<li><a href="https://hpglw.com/eeb1bf86.html">【黑苹果】macOS黑苹果系统镜像恢复版安装教程</a></li>
-<li>中包含INTEL各型号无线 NETWORK 的需要 Download 安装<a href="https://github.com/OpenIntelWireless/HeliPort">HeliPort</a>工具才可以联WIFI</li>
-<li><a href="https://hpglw.com/cdc6109c.html">检查你的 SSD硬盘是否支持安装黑苹果</a></li>
-<li><a href="https://hpglw.com/1154b658.html">有关于黑苹果Intel无线 NETWORK 驱动的说明</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/12_Qt9yRzLHS4Re0yQvaqj-80SqGG9MLk/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio</li>
@@ -32647,7 +32592,7 @@ Installation Video：https://www.bilibili.com/video/BV1ou411i71a/
 <li>Keyboard</li>
 <li>Trackpad</li>
 <li>Brightness</li>
-<li>TYPE-C </li>
+<li>type c </li>
 <li>Bluetooth</li>
 </ul>
 <hr>
@@ -33239,22 +33184,15 @@ Installation Video：https://youtu.be/sdCmBfTAfSo
   </entry>
   <entry>
     <title>Lenovo Legion  REN 9000-34IMZ Desktop i7-10700K Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/597d9dda.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Lenovo-Legion-REN-9000-34IMZ-Desktop-i7-10700K-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
-<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
-<!-- more -->
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>Lenovo Legion  REN 9000-34IMZ<br><strong>CPU</strong>  i7-10700K<br><strong>Motherboard</strong>   REN 9000-34IMZ<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDS  WD Blue SN570  1TB  SSD<br><strong>Graphic</strong>  Radeon Rx 580 Series ( 8GB &#x2F;  Sapphire  OC ）<br><strong>Display</strong>  4K<br><strong>Audio</strong>   ALC 892<br><strong>Network</strong>  BCM4360</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-Lenovo Legion  REN 9000-34IMZ品牌机，独显应该是加装的，rx580.
-整体没有什么难度，10代的机子，独显也是的，比较简单
-有BCM4360 WIFI **Network** ，可以隔空接力，wifi蓝牙等， 错的。
-![](/images/pasted-483.png)
-这个上ventura是没有压力的，可以尝试 Install 。
 
-
+<p><img src="/images/pasted-483.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -33264,10 +33202,7 @@ Lenovo Legion  REN 9000-34IMZ品牌机，独显应该是加装的，rx580.
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=bc9d8d90560611ed834852540025c377">Lenovo Legion  REN 9000-34IMZ Desktop i7-10700K Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1j23hSYqfohIFoLEHvapRV5_B9wXwClGE/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -33786,14 +33721,14 @@ https://youtu.be/3MVAHHKi5C0
   </entry>
   <entry>
     <title>THUNDEROBOT  911 plus i7-9750H Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/ad2ea640.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/THUNDEROBOT-911-plus-i7-9750H-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>THUNDEROBOT NH75RXQ-HL<br><strong>CPU</strong>  i7-9750H<br><strong>Motherboard</strong>  THUNDEROBOT NH75RXQ-HL<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   LITEON  LITEON CL1-8D512 ( 512GB)<br><strong>Graphic</strong>  UHD 630 + NVIDIA GeForce GTX 1660 TI ( 6GB<br><strong>Display</strong>  1080P 144HZ<br><strong>Audio</strong>   ALC 269<br><strong>Network</strong>  Intel Wireless-AC 9452</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- CLEVO  的 THUNDEROBOT 911 plus 9代 Laptop Hackintosh ，monterey 12.6，理论上可以上ventura 13系统，度较为良好。 能外接**Display** 。
+
 
 <p><img src="/images/pasted-479.png"></p>
 </div>
@@ -33805,10 +33740,7 @@ https://youtu.be/3MVAHHKi5C0
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=8e4a8c5c560311eda4d252540025c377">  THUNDEROBOT  911 plus i7-9750H Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1L_Bp6PUoBUwnVog9BHZmitS8tSM8lneL/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
