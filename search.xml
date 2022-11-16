@@ -4827,15 +4827,13 @@ Bios里一般把安全启动 Close 就好了
   </entry>
   <entry>
     <title>Thinkpad p1 extreme 2018 i7-8850H 4K Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/5af0fd15.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Thinkpad-p1-extreme-2018-i7-8850H-4K-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>Thinkpad p1 extreme 2018<br><strong>CPU</strong>  i7-8850H<br><strong>Motherboard</strong>  Lenovo  20MDSOOP0O<br><strong>Memory</strong>  64 GB<br><strong>Hard Drive</strong>  WDS 512gb<br><strong>Graphic</strong>  UHD630+NVIDIA Quadro P2000<br><strong>Display</strong>  4K<br><strong>Network</strong>   Broadcom  WIFI <strong>Network</strong> </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- 4K ，配 Broadcom  WIFI **Network** ，比较
-
 
 </div>
 
@@ -4845,10 +4843,7 @@ Bios里一般把安全启动 Close 就好了
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=dc3d65ae4d5911ed802d52540025c377">Thinkpad p1 extreme 2018 i7-8850H 4K Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1NIkZU2z4SZU9zDJGHRUswP0mierZlPcY/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -7588,8 +7583,8 @@ https://youtu.be/xwhN4YZyTpI
   </entry>
   <entry>
     <title>i5-12490F - GIGABYTE  B660M AORUS ELITE AX DDR4 - RX 6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/5c0d1a03.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-12490F-GIGABYTE-B660M-AORUS-ELITE-AX-DDR4-RX-6600-XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  12th Gen Intel Core i5-12490F<br>  <strong>Motherboard</strong>                    GIGABYTE  B660M AORUS ELITE AX DDR4<br>   <strong>GPU</strong>                    AMD Radeon RX 6600 XT ( 8 GB &#x2F;  Sapphire  )<br>  <strong>Memory</strong>                    32 GB (  CORSAIR  DDR4 3200MHz 16GB x 2 )<br>  <strong>Hard Drive</strong>                  WDS  WD Blue SN570  1TB  SSD (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                   DELL   DEL40E8 DELL U2417H ( 23.8   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Wi-Fi 6E AX211 160MHz</p>
@@ -7606,10 +7601,7 @@ https://youtu.be/xwhN4YZyTpI
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=2e7850ea4d5a11ed89c552540025c377">i5-12490F - GIGABYTE  B660M AORUS ELITE AX DDR4 - RX 6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1TQQbk_qukdXlhbSLy4vE_etxygdOIwSE/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -15111,8 +15103,8 @@ BIOS里要在启动选项中把CFG LOCK禁用掉
   </entry>
   <entry>
     <title>i9-9900K - GIGABYTE Z390 Aeros UItra - 6600XT Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/14de3236.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i9-9900K-GIGABYTE-Z390-Aeros-UItra-6600XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i9-9900K<br><strong>Motherboard</strong>  GIGABYTE Z390 Aeros UItra<br><strong>Memory</strong>  64 GB<br><strong>Hard Drive</strong>  SN750 2T<br><strong>Graphic</strong>  6600XT<br><strong>Display</strong>  5K<br><strong>Network</strong>   Broadcom BCM4360cd</p>
@@ -15128,10 +15120,7 @@ BIOS里要在启动选项中把CFG LOCK禁用掉
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=06f0cac04d5a11edb5a352540025c377">i9-9900K - GIGABYTE Z390 Aeros UItra - 6600XT Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1lessqE_02CG-CYR9ZrOkqxCvX7jFebHo/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -22587,17 +22576,15 @@ Installation Video：https://youtu.be/7uRFqymKv44
   </entry>
   <entry>
     <title>Acer Aspire E1-571G i5-3230M Hackintosh Installation EFI OC7.9 Catalina 10.15.7</title>
-    <url>/dddf6d1f.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Acer-Aspire-E1-571G-i5-3230M-Hackintosh-Installation-EFI-OC7.9-Catalina-10.15.7.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac1015.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Acer Aspire E1-571G<br><strong>CPU</strong>  i5-3230M<br><strong>Motherboard</strong>   Acer  EA5O HC CR<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  ADATA SP580<br><strong>Graphic</strong>  HD4000 + NVIDIA GeForce 710M<br><strong>Display</strong>  1366X768<br><strong>Audio</strong>   ALC 269<br><strong>Network</strong>   Broadcom  Broadcom Netlink (TM) Gigabit Ethernet + intel  1 Gen  wifi</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-越老的本越麻烦， Broadcom 这个 LAN **Network** 很费力能驱动，intel的 知道什么老的 WIFI **Network** ，但也驱动了，蓝牙肯定没有了。 ALC 269的**Audio** ，听到都怕。3代**CPU**  Install Catalina，运行速度还行，基本能用。
-![](/images/pasted-444.png)
 
-
+<p><img src="/images/pasted-444.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -22606,10 +22593,7 @@ Installation Video：https://youtu.be/7uRFqymKv44
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Catalina 10.15.7</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=0c47b09a4d5711ed94b652540025c377"> Acer Aspire E1-571G i5-3230M Hackintosh Installation EFI OC7.9 Catalina 10.15.7</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1A4gtWRo8SmlWUuJPq-n0sx0HbdNw131a/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -24153,18 +24137,15 @@ dp Port 可能 能用，因为 Install 时用的是HDMI，没有dp**Display** �
   </entry>
   <entry>
     <title>HP Pavilion Power Laptop 15-cb0xx i5-7300HQ Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/85a4dac4.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/HP-Pavilion-Power-Laptop-15-cb0xx-i5-7300HQ-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>  HP Pavilion Power Laptop 15-cb0xx<br><strong>CPU</strong>  i5-7300HQ<br><strong>Motherboard</strong>  HP Pavilion Power Laptop 15-cb0xx<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>  SSD 128 GB<br><strong>Graphic</strong>  HD630 + NVIDIA GeForce GTX 1050<br><strong>Display</strong>  1080P<br><strong>Network</strong>  INTEL  Wireless</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-  7代 Laptop Hackintosh monterey 12.6，理论上可以ventura 13可以尝试升级，因为 EFI 己经升级到0.84，7代的**CPU** 也是ventura的。度有90%吧，基本正常使用没问题。
-![](/images/pasted-454.png)
 
-
-
+<p><img src="/images/pasted-454.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -24174,10 +24155,7 @@ dp Port 可能 能用，因为 Install 时用的是HDMI，没有dp**Display** �
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=a9d356ba55a011ed9ebe52540025c377">  HP Pavilion Power Laptop 15-cb0xx i5-7300HQ Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Ra2JIpZVzX8uyw0EKdX1Nor363Nnv1gL/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -25265,18 +25243,16 @@ IGPU  Laptop UHD620,1080P屏，原版 Install ，更换了ax210 WIFI **Network**
       </categories>
   </entry>
   <entry>
-    <title> DELL   Precision 7710(4K) i7-6920HQ Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6 </title>
-    <url>/ae28f0ef.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>DELL   Precision 7710(4K) i7-6920HQ Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
+    <url>/DELL-Precision-7710-4K-i7-6920HQ-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                 DELL   Precision 7710  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i7-6920HQ @ 2.90GHz<br>  <strong>Motherboard</strong>                     DELL   （100 Series&#x2F;C230 Series  Chipset  Family - A150）<br>   <strong>GPU</strong>                    NVIDIA Quadro M5000M ( 8 GB &#x2F;  DELL   )<br>  <strong>Memory</strong>                    32 GB ( SAMSUNG  DDR4 2133MHz 8GB x 2 &#x2F;  Hynix  DDR4 2133MHz 8GB x 2 )<br>  <strong>Hard Drive</strong>                  SAMSUNG  MZVPV512HDGL-000H1 (512 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AUO  AUO109B ( 17.2   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-LM &#x2F;  DELL   &#x2F; Intel(R) Dual Band Wireless-AC 8260</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-这台 Laptop 是4K分辨率的，需要修改bios的dvmt值，详细修改说明在 EFI 里面，需要一定的操作技巧。独显是 能驱动的，没有外接**Display** 功能。intel wifi，oc EFI 为0.8.4， Install 时是monterey 12.6，理论可以ventura
 
-<p><img src="/images/pasted-448.png"></p>
-<p><img src="/images/pasted-449.png"><br><img src="/images/pasted-450.png"></p>
+<p><img src="/images/pasted-448.png"><br><img src="/images/pasted-449.png"><br><img src="/images/pasted-450.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -25286,10 +25262,7 @@ IGPU  Laptop UHD620,1080P屏，原版 Install ，更换了ax210 WIFI **Network**
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=baced64a551111ed8af052540025c377"> DELL   Precision 7710(4K) i7-6920HQ Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6 </a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1f4f_mMoqytNez6UrL4o-NY9G7Yp9uEPL/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -26307,15 +26280,15 @@ i7-7700HQ性能也比较好，配合hd630，甚至可以做做视频剪辑工作
   </entry>
   <entry>
     <title>DELL  Inspiron 7560 i5-7200U HACKINTOSH EFI EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/ed520582.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-Inspiron-7560-i5-7200U-HACKINTOSH-EFI-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> DELL  Inspiron 7560<br><strong>CPU</strong>  i5-7200U<br><strong>Motherboard</strong>   DELL   036R0F<br><strong>Memory</strong>  8GB<br><strong>Hard Drive</strong>   SanDisk  ×400 M.2 2280 128GB<br><strong>Graphic</strong>  hd620 + NVIDIA GeForce 940MX<br><strong>Display</strong>   CHIMEI  CMN15E0（ 15.5 ）<br><strong>Network</strong>  INTEL  Dual Band Wireless-AC 3165</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
-<p><img src="/images/pasted-452.png"><br><img src="/images/pasted-453.png"><br> DELL  Inspiron 7560 i5 7代 Laptop Hackintosh ， OC  0.84， Install 的是monterey 12.6系统，理论上可以ventura，可尝试 Install ，但 能保证。 WIFI <strong>Network</strong> 可以驱动，蓝牙，基本功能都正常使用。</p>
+<p><img src="/images/pasted-452.png"><br><img src="/images/pasted-453.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -26325,10 +26298,7 @@ i7-7700HQ性能也比较好，配合hd630，甚至可以做做视频剪辑工作
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=fad0052c551411eda60752540025c377"> DELL  Inspiron 7560 i5-7200U HACKINTOSH EFI EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1blTtA5BXq1KqmcLvkG-QvuUNga8DFk-a/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -27333,17 +27303,15 @@ Installation Video：https://youtu.be/vaNe8ChzPic
   </entry>
   <entry>
     <title>DELL  inspiron 5557 i5-6200U Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/b39bc530.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-inspiron-5557-i5-6200U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> DELL  inspiron 5557<br><strong>CPU</strong>  i5-6200U</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-451.png)
- DELL  inspiron 5557 Laptop Hackintosh ，具体没有记下，反正是 的**CPU** 就没错了。 Install monterey 12.6，现用的是oc 8.4的 EFI ，但 ventura是 的，所以monterey比较适合，intel WIFI **Network** 可以驱动。
 
-
+<p><img src="/images/pasted-451.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -27352,10 +27320,7 @@ Installation Video：https://youtu.be/vaNe8ChzPic
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=74124ab4551311ed95ba52540025c377"> DELL  inspiron 5557 i5-6200U Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/12nBHKBfpsSJdmQ_3bd42rGKu2uYgjrkv/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -28412,17 +28377,15 @@ Installation Video：https://youtu.be/vocQRph8DfM
   </entry>
   <entry>
     <title>MECHREVO  Z2 Air Series GK5CP5X i7-9750H Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</title>
-    <url>/e80f2133.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/MECHREVO-Z2-Air-Series-GK5CP5X-i7-9750H-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>  MECHREVO  Z2 Air Series GK5CP5X<br><strong>CPU</strong>  i7-9750H<br><strong>Motherboard</strong>  GK5CP5X<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDS  WDC WDS500G2BOC-OOPXHO 500 GB<br><strong>Graphic</strong>  UHD630 + NVIDIA GeForce GTX 1650<br><strong>Display</strong>  1080P 144HZ<br><strong>Audio</strong>   ALC 269<br><strong>Network</strong>   INTEL  Wireless-AC 9462</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-  MECHREVO  Z2 Air 9代本， CLEVO 还是 Tongfang  的， 管了，反正都差 多一个模板出来的， Install 上没有什么需要注意的，bios设置也简洁，基本没什么需要设置的。9代现monterey，ventura也是的，独显 能用，外接更 可能，因为外接连独显的。其它基本上还好，万年 变的 ALC 269垃圾**Audio** 。
-![](/images/pasted-455.png)
-
-
+ 
+<p><img src="/images/pasted-455.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -28432,10 +28395,7 @@ Installation Video：https://youtu.be/vocQRph8DfM
 <li>Monterey 12.6</li>
 <li>Ventura 13</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=7331485a55a111edbad452540025c377">  MECHREVO  Z2 Air Series GK5CP5X i7-9750H Hackintosh Installation EFI OC 0.8.4 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1krtUh2RFK3T1rzJLCATiyXLoa80fKdBk/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
