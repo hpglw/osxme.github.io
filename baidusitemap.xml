@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hackintosh.work/Razer-Blade-15-Advanced-2018-RZ09-0238x-HACKINTOSH-EFI-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/THUNDEROBOT-911-Air-i7-10750H-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/Lenovo-ThinkPad-T14s-Gen-1-i7-10610U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/Lenovo-ThinkPad-T15-Gen-1-i7-10510U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/Hasee-HASEE-GE5S-i7-7700HQ-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/Hasee-k670d-W65KJ1_KK1-Laptop-i5-7400-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/E3-1230-v3-ASUS-B85-PLUS-Sapphire-RX590-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/E3-1231-v3-ASUS-B85-PLUS-R2.0-GTX1050TI-Hackintosh-Installation-EFI-OC-0.8.4-MACOS-10.13.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/HP-Elite-x2-G4-i5-8265U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/i5-6500-ASUS-B150M-A-M.2-GIGABYTE-GTX-1050-TI-Hackintosh-Installation-EFI-OC-0.8.4-MACOS-10.13.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/5-6500-ASUS-PRIME-B250M-C-Sapphire-RX560-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/i5-10600KF-MSI-MPG-Z490-GAMING-PLUS-ASRock-RX6600-XT-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/i5-12400-MSI-PRO-B660M-E-DDR4-Dataland-RX560-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  <url>
     <loc>https://hackintosh.work/i5-12400F-ASUS-PRIME-B660M-K-D4-MSI-RX6600-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -273,10 +325,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/HP-Elite-x2-G4-i5-8265U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/e5551ade.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -330,10 +378,6 @@
   </url>
   <url>
     <loc>https://hackintosh.work/b4f7a52.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hackintosh.work/5b73cdc9.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
@@ -1101,10 +1145,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/24c37043.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/6ecfcc9b.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -1186,10 +1226,6 @@
   </url>
   <url>
     <loc>https://hackintosh.work/i7-4790-asus-Z87-PRO-GTX-750-G43.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hackintosh.work/68bcb87d.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
@@ -1354,10 +1390,6 @@
   </url>
   <url>
     <loc>https://hackintosh.work/i5-6500-H110M-ITX-RX-580.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hackintosh.work/44374a19.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
@@ -1961,10 +1993,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/63cf1c12.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/20e56e86.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -2054,10 +2082,6 @@
   </url>
   <url>
     <loc>https://hackintosh.work/c660420e.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hackintosh.work/dfd98475.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
@@ -2593,10 +2617,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/7077ca0f.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/bd16b83b.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -2693,10 +2713,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/cd39eb39.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/381ac05d.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -2741,14 +2757,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/1fd6a00b.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hackintosh.work/1441ede6.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/ee60182f.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -2769,10 +2777,6 @@
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://hackintosh.work/9c71d98e.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://hackintosh.work/b90c35c3.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
@@ -2782,10 +2786,6 @@
   </url>
   <url>
     <loc>https://hackintosh.work/13e600b2.html</loc>
-    <lastmod>2022-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hackintosh.work/b20cb2ab.html</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>

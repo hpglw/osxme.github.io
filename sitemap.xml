@@ -2,6 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hackintosh.work/Razer-Blade-15-Advanced-2018-RZ09-0238x-HACKINTOSH-EFI-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/THUNDEROBOT-911-Air-i7-10750H-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/Lenovo-ThinkPad-T14s-Gen-1-i7-10610U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/Lenovo-ThinkPad-T15-Gen-1-i7-10510U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/Hasee-HASEE-GE5S-i7-7700HQ-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/Hasee-k670d-W65KJ1_KK1-Laptop-i5-7400-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/E3-1230-v3-ASUS-B85-PLUS-Sapphire-RX590-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/E3-1231-v3-ASUS-B85-PLUS-R2.0-GTX1050TI-Hackintosh-Installation-EFI-OC-0.8.4-MACOS-10.13.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/HP-Elite-x2-G4-i5-8265U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/i5-6500-ASUS-B150M-A-M.2-GIGABYTE-GTX-1050-TI-Hackintosh-Installation-EFI-OC-0.8.4-MACOS-10.13.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/5-6500-ASUS-PRIME-B250M-C-Sapphire-RX560-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/i5-10600KF-MSI-MPG-Z490-GAMING-PLUS-ASRock-RX6600-XT-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/i5-12400-MSI-PRO-B660M-E-DDR4-Dataland-RX560-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/i5-12400F-ASUS-PRIME-B660M-K-D4-MSI-RX6600-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -614,15 +731,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-Elite-x2-G4-i5-8265U-Hackintosh-Installation-EFI-OC-0.8.4-MONTEREY-12.6.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/e5551ade.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -741,15 +849,6 @@
   
   <url>
     <loc>https://hackintosh.work/b4f7a52.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/5b73cdc9.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2477,15 +2576,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/24c37043.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/6ecfcc9b.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -2667,15 +2757,6 @@
   
   <url>
     <loc>https://hackintosh.work/i7-4790-asus-Z87-PRO-GTX-750-G43.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/68bcb87d.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3045,15 +3126,6 @@
   
   <url>
     <loc>https://hackintosh.work/i5-6500-H110M-ITX-RX-580.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/44374a19.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4412,15 +4484,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/63cf1c12.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/20e56e86.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -4620,15 +4683,6 @@
   
   <url>
     <loc>https://hackintosh.work/c660420e.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/dfd98475.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -5834,15 +5888,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/7077ca0f.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/bd16b83b.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -6059,15 +6104,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/cd39eb39.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/381ac05d.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -6167,24 +6203,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/1fd6a00b.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/1441ede6.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/ee60182f.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -6230,15 +6248,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/9c71d98e.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/b90c35c3.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -6258,15 +6267,6 @@
   
   <url>
     <loc>https://hackintosh.work/13e600b2.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/b20cb2ab.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -8104,7 +8104,7 @@
 
   <url>
     <loc>https://hackintosh.work/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -8112,1701 +8112,1701 @@
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1231/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/H81M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/gtx-1060/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B85M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/gtx-960/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/NUC/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-8559U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Iris-Plus-Graphics-655/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-8100/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B360/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-590/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-9100F/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/asrock/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z370/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-470/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-4570/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z87/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-760/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GIGABYTE/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6600k/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z170/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-970/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-7400/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B250M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-630/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/VGA/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-7500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-1060/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-2600/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z68A-D3H-B3/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RADEON-HD-6850/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-2600K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-750-TI/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B75/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4770/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-750-Ti/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-6700K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-7700K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z270/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-1080/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-8700K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-1080-Ti/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-580/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i9-9900K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z390/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6400/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B150M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-950/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-8700/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B360M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4790/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-960/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-8750H/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD-630/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Catalina/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Alienware/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4710HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-4600/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1230/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B85/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-3740QM/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-7970M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-4000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Pavilion/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-9750H/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-7300HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E5-2660/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X79/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/H61/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-8250U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD-620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X99/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-6950X/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-Vega-64/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z170X/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-1070/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X299/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-7800x/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-570/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-9400F/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Quadro/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-9700K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B365M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i9-9900k/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/z390/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/vega-64/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-6100/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B150/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-530/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-4160/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-8265U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/MX150/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-6700HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GP62/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z77/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-680/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/EliteBook/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6300U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/PowerEdge/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1220-v6/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GT-730/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Shinelon/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-5200u/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/hd-5500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Y7000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-9300H/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/ThinkCentre/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-9500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/I7-6700HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/I5-8500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B365/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/C612/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X10DAi/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E5-2683/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-1050-Ti/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/911/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4710hq/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-860M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-4460/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-5820k/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/I5-8500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/I5-7500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/g5400/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/G480/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/5481/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/e3-1230/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-4590/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/H81/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-560/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B250/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4790K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Z97/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6400T/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/R9-M470X/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/R9-M280X/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1230-V2/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-7800X/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/OC/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1240L-v5/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X150/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1231-v3/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E5-2665/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E3-1245/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E5-2687w-v3/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/G3220/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/R7-240/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Radeon/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/G4560/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/H110M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-650/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-4170/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-7100/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-660/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-3470/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6600/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-980/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-1050/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-8500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-9400f/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-9600KF/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/broadwell/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/c612/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/k5000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-9600T/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4770K/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Quadro-K5000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/H310M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/P620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-6700/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/RX-5700-XT/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i9-9900KF/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Quadro-M4000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4720HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD630/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-7200U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-Graphics-620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6300HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-6200U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-520/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/aspire/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-3337U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/hd-4000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/hd630/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD630/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Inspiron/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4500U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/hd4400/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GT-750M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-8300H/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-5200U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-5500/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i3-3217U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD4000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4710mq/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/hd-4600/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Strix/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/asus/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/ASUS/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-8550U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD-620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X9DAi/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/E5-2680/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/EFI/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Acer/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Aspire/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-3230M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/TravelMate/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Surface/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-8650U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HP/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-3520M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HD-7570M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Dell/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Inspiron-5557/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-930M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-7700HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Gigabyte/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/X58/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-930/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Quadro-K2200/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/AERO/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD-630/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-8350U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/UHD-Graphics-620/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Quadro-P2000/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Machenike/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/VULCAN/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/I7-7700HQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/HASEE/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/P65xHP/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Hasee/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-7700/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Lenovo/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/G50-80/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-5500U/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/Radeon-R5-M330/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/ThinkPad/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i5-4300M/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/IdeaPad/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/i7-4700MQ/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -9815,182 +9815,182 @@
   
   <url>
     <loc>https://hackintosh.work/categories/Desktop/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Alienware/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/ASUS/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Dell/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/HEDT/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Mechrevo/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/HP/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/NUC/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/ThinkPad/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Lenovo/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Machenike/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Razer-Blade/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Xiaomi/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Shinelon/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Surface/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Thunderdbot/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Terrans-Force/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Vulcan/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Acer/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Gigabyte/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Huawei/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/MSI/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Hasee/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Samsung/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/AIO/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
