@@ -2,15 +2,13 @@
 <search>
   <entry>
     <title>12400F ES -  ONDA  MJB660 - RX5600XT Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/fa58e29.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/12400F-ES-ONDA-MJB660-RX5600XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  12400F ES<br><strong>Motherboard</strong>                     ONDA  MJB660<br>   <strong>GPU</strong>                    AMD Radeon RX 5600 XT ( 6 GB &#x2F;  PowerColor  )<br>  <strong>Memory</strong>                    16 GB (  JUHOR  DDR4 2666MHz 16GB )<br>  <strong>Hard Drive</strong>                   Kimtigo  SSD (120 GB &#x2F;  SSD )<br>  <strong>Display</strong>                  PZH0001<br>  <strong>Audio</strong>                    INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-尽量 建议采用三线**Motherboard** Hackintosh 
-
 
 </div>
 
@@ -20,10 +18,7 @@
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=479885e04d5a11ed9a4252540025c377">12400F ES -  ONDA  MJB660 - RX5600XT Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1OF_c3z-kVCNeswKWWdPB5kUb1nTAcqz7/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -1396,10 +1391,10 @@ GTX 650(GK107核心)最高 Install Big Sur
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p>  <strong>CPU</strong>                  INTEL  Xeon E3-1231 v3 @ 3.40GHz<br>  <strong>Motherboard</strong>                     Colorful  C.H81-DS PRO（Lynx Point）<br>   <strong>GPU</strong>                    AMD Radeon RX 580 Series ( 8 GB &#x2F;  PowerColor  )<br>  <strong>Memory</strong>                    12 GB (  Team  DDR3 1600MHz 4GB &#x2F;  Team  DDR3 1600MHz 8GB )<br>  <strong>Hard Drive</strong>                   Kimtigo  SSD (120 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AOC  AOC2491 2491W ( 23.5   )<br>  <strong>Audio</strong>                    INTEL  Lynx Point<br>  <strong>Network</strong>                     Realtek  RTL810x&#x2F;8 ：139 Family Fast Ethernet NIC<br>   WIFI <strong>Network</strong>  BCM4360CD</p>
+<p>  <strong>CPU</strong>                  INTEL  Xeon E3-1231 v3 @ 3.40GHz<br>  <strong>Motherboard</strong>                     Colorful  C.H81-DS PRO（Lynx Point）<br>   <strong>GPU</strong>                    AMD Radeon RX 580 Series ( 8 GB &#x2F;  PowerColor  )<br>  <strong>Memory</strong>                    12 GB (  Team  DDR3 1600MHz 4GB &#x2F;  Team  DDR3 1600MHz 8GB )<br>  <strong>Hard Drive</strong>                   Kimtigo  SSD (120 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AOC  AOC2491 2491W ( 23.5   )<br>  <strong>Audio</strong>                    INTEL  Lynx Point<br>  <strong>Network</strong>                     Realtek  RTL810x&#x2F;8 ：139 Family Fast Ethernet NIC<br>   WIFI <strong>Network</strong>  BCM94360CD</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-有 Broadcom BCM4360CD WIFI **Network** ，蓝牙，wifi，隔空，接力，变频，rx580加了补丁，性能 错。
+有 Broadcom BCM94360CD WIFI **Network** ，蓝牙，wifi，隔空，接力，变频，rx580加了补丁，性能 错。
 ![](/images/pasted-431.png)
 Installation Video：
 https://youtu.be/xby2VNhplRU
@@ -4922,7 +4917,7 @@ Bios里一般把安全启动 Close 就好了
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 有于bios如何设置，网站有Video， 是太复杂。
 该**Motherboard** 没有**Audio** ，**Motherboard** 只有两个usb口
-的x722 LAN **Network** 是 能驱动的，客户 Install 了 Broadcom BCM4360cd**Network** ，隔空，接力，wifi，蓝牙。
+的x722 LAN **Network** 是 能驱动的，客户 Install 了 Broadcom BCM94360cd**Network** ，隔空，接力，wifi，蓝牙。
 ![](/images/pasted-314.png)
 ![](/images/pasted-315.png)
 Installation Video：https://youtu.be/vNXFc-mxS9I
@@ -5486,17 +5481,15 @@ Installation Video：https://youtu.be/aSUCed9ObrI
   </entry>
   <entry>
     <title>i3-12100F - ASUS  PRIME H610M-E D4 -  XFX RX460 Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/8de4afe8.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i3-12100F-ASUS-PRIME-H610M-E-D4-XFX-RX460-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i3-12100F<br><strong>Motherboard</strong>  ASUS  PRIME H610M-E D4<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  KIOXIA-EXCERIA G2 SSD ( 1000GB )<br><strong>Graphic</strong>   XFX RX460<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 887<br><strong>Network</strong>  BCM4360cd</p>
+<p><strong>CPU</strong>  i3-12100F<br><strong>Motherboard</strong>  ASUS  PRIME H610M-E D4<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  KIOXIA-EXCERIA G2 SSD ( 1000GB )<br><strong>Graphic</strong>   XFX RX460<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 887<br><strong>Network</strong>  BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-这个 XFX 的rx460 ，需要刷成其它品牌的 **GPU** bios，如ASUS ， Sapphire 
-![](/images/pasted-440.png)
-
-
+ 
+<p><img src="/images/pasted-440.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -5505,10 +5498,7 @@ Installation Video：https://youtu.be/aSUCed9ObrI
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=b5404cea4d5a11edb69c52540025c377">i3-12100F - ASUS  PRIME H610M-E D4 -  XFX RX460 Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1HdAHBNnctExN11FeqKp79iyQYjam_R98/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -6522,7 +6512,7 @@ Installation Video：https://youtu.be/IJ0-UhvHpLo
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i5-10400<br><strong>Motherboard</strong>  MSI H410M-A PRO<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  sn570 500g ssd<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  4K<br><strong>Network</strong>   Broadcom BCM4360cd</p>
+<p><strong>CPU</strong>  i5-10400<br><strong>Motherboard</strong>  MSI H410M-A PRO<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  sn570 500g ssd<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  4K<br><strong>Network</strong>   Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 ![](/images/pasted-352.png)
@@ -7093,18 +7083,16 @@ gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只o
       </categories>
   </entry>
   <entry>
-    <title>i5-10400T - MSI  MAG B46OM MORTAR WIFI - Rx 6600MSI  Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
-    <url>/5e7f8a1c.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>i5-10400T - MSI  MAG B460M MORTAR WIFI - Rx 6600MSI  Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
+    <url>/i5-10400T-MSI-MAG-B460M-MORTAR-WIFI-Rx-6600MSI-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i5-10400T<br><strong>Motherboard</strong>  MSI  MAG B46OM MORTAR WIFI<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  KIOXIA-EXCERIA SSD  1TB<br><strong>Graphic</strong>  UHD630+Rx 6600MSI<br><strong>Display</strong>  4K<br><strong>Network</strong>  INTEL  Wi-Fi 6 AX200</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-**Motherboard** 自带ax200 WIFI **Network** ，蓝牙wifi。有开 IGPU ， IGPU 和独显硬解。
-![](/images/pasted-437.png)
 
-
+<p><img src="/images/pasted-437.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -7113,10 +7101,7 @@ gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只o
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=3064d22e4d5b11ed828852540025c377">i5-10400T - MSI  MAG B46OM MORTAR WIFI - Rx 6600MSI  Hackintosh Installation EFI OC7.9 MONTEREY 12.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1VWBrEifhphaFIIzAuLW5eIVKZbJCCiQs/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -7286,7 +7271,7 @@ gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只o
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i5-12400F<br><strong>Motherboard</strong>  ASUS  PRIME B660M-K D4<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  Apacer AS2280P4 512GB<br><strong>Graphic</strong>  MSI  RX6600<br><strong>Display</strong>  2K<br><strong>Audio</strong>   ALC 897<br><strong>Network</strong>  BCM4360</p>
+<p><strong>CPU</strong>  i5-12400F<br><strong>Motherboard</strong>  ASUS  PRIME B660M-K D4<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  Apacer AS2280P4 512GB<br><strong>Graphic</strong>  MSI  RX6600<br><strong>Display</strong>  2K<br><strong>Audio</strong>   ALC 897<br><strong>Network</strong>  BCM94360</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
@@ -7390,7 +7375,7 @@ gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只o
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p> CPU  i5-12490F<br> mainboard   ASUS PRIME H610M-E D4<br> RAM  16 GB<br> SSD   WD  WD Blue SN570 500GB SSD ( 500GB)<br> GPU   VASTARMOR RX6600<br> Display  1080P<br> NETWORK  BCM4360CD</p>
+<p> CPU  i5-12490F<br> mainboard   ASUS PRIME H610M-E D4<br> RAM  16 GB<br> SSD   WD  WD Blue SN570 500GB SSD ( 500GB)<br> GPU   VASTARMOR RX6600<br> Display  1080P<br> NETWORK  BCM94360CD</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
  
@@ -7426,10 +7411,10 @@ gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只o
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i5-12490F<br><strong>Motherboard</strong>  ASUS PRIME H610M-A D4<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  SN570  1TB<br><strong>Graphic</strong>   VASTARMOR  RX6600<br><strong>Display</strong>  4K<br><strong>Audio</strong>   ALC 897<br><strong>Network</strong>  BCM4360+ Intel i219v </p>
+<p><strong>CPU</strong>  i5-12490F<br><strong>Motherboard</strong>  ASUS PRIME H610M-A D4<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  SN570  1TB<br><strong>Graphic</strong>   VASTARMOR  RX6600<br><strong>Display</strong>  4K<br><strong>Audio</strong>   ALC 897<br><strong>Network</strong>  BCM94360+ Intel i219v </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-12代 Desktop Hackintosh  Dual Boot  Install ，i5-12490F **CPU**  - ASUS PRIME H610M-A D4**Motherboard**  -  VASTARMOR  RX6600 星空独显， Install monterey 12.5系统，简单容易， 到半小时 Install 完成，，配合BCM4360 WIFI **Network** ，wifi 蓝牙，隔空接力都有。
+12代 Desktop Hackintosh  Dual Boot  Install ，i5-12490F **CPU**  - ASUS PRIME H610M-A D4**Motherboard**  -  VASTARMOR  RX6600 星空独显， Install monterey 12.5系统，简单容易， 到半小时 Install 完成，，配合BCM94360 WIFI **Network** ，wifi 蓝牙，隔空接力都有。
 ![](/images/pasted-413.png)
 Installation Video：https://youtu.be/W7RIPFyxH00
 
@@ -7509,7 +7494,7 @@ Installation Video：https://youtu.be/W7RIPFyxH00
 <p><strong>CPU</strong>                  12th Gen Intel Core i5-12490F<br>  <strong>Motherboard</strong>                    MSI  H610M BOMBER DDR4 (MS-7D46)<br>   <strong>GPU</strong>                    AMD Radeon RX 6600 ( 8 GB &#x2F;  VASTARMOR  )<br>  <strong>Memory</strong>                    16 GB (  JUHOR  DDR4 2666MHz 16GB )<br>  <strong>Hard Drive</strong>                   Kimtigo  SSD (120 GB &#x2F;  SSD )<br>  <strong>Display</strong>                  XMI23C3 Redmi Monitor ( 23.7   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-V &#x2F; MSI </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-12代Hackintosh 推荐，MSI h610m非常适合Hackintosh ，配 RX6600 独显，有 Broadcom BCM4360cd WIFI **Network** ，wifi,蓝牙，隔空，接力等，是一台非常的Hackintosh ， Install monterey 12.5。
+12代Hackintosh 推荐，MSI h610m非常适合Hackintosh ，配 RX6600 独显，有 Broadcom BCM94360cd WIFI **Network** ，wifi,蓝牙，隔空，接力等，是一台非常的Hackintosh ， Install monterey 12.5。
 ![](/images/pasted-432.png)
 Installation Video：
 https://youtu.be/xwhN4YZyTpI
@@ -8988,10 +8973,10 @@ gtx 960独显只能 Install 10.13.6版本
 <p><strong>CPU</strong>                  INTEL  Core i5-7500 @ 3.40GHz<br>  <strong>Motherboard</strong>                    ASUS  PRIME B250M-J（B250  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 6600 XT ( 8 GB &#x2F; ASUS  )<br>  <strong>Memory</strong>                    32 GB (  KingSton  DDR4 2666MHz 16GB x 2 )<br>  <strong>Hard Drive</strong>                   Hynix  HFS256GD9TNG-62A0A (256 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   DELL   DEL41EF DELL S2421H ( 23.8   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Broadcom  Broadcom 802.11ac Network Adapter &#x2F;  APPLE </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-更换了 Broadcom BCM4360cs WIFI **Network** ，隔空，接力wifi蓝牙等。
+更换了 Broadcom BCM94360cs WIFI **Network** ，隔空，接力wifi蓝牙等。
 开启了 IGPU ，但没什么作用，因为 RX6600 xt够强大了
 有两块 **SSD** ，是 Install 在 KingSton  SSD上的， Hynix 的 太建议经常翻车
-整体非常配合Hackintosh ，有 IGPU ，有独显性能强大， Install monterey 12.4非常适合，这套价格也合适。最主要配合 Broadcom BCM4360cs**Network** 就比较完整了的体验了。
+整体非常配合Hackintosh ，有 IGPU ，有独显性能强大， Install monterey 12.4非常适合，这套价格也合适。最主要配合 Broadcom BCM94360cs**Network** 就比较完整了的体验了。
 ![](/images/pasted-386.png)
 ![](/images/pasted-387.png)
 
@@ -10319,15 +10304,13 @@ sn750真的太适合Hackintosh 了，速度一流，性100%基本上，Hackintos
   </entry>
   <entry>
     <title>i5-9600K - GIGABYTE  Z370 HD3-CF - RX 580 Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
-    <url>/5f3b04f5.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-9600K-GIGABYTE-Z370-HD3-CF-RX-580-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                GIGABYTE  Z370 HD3  Desktop<br>  <strong>CPU</strong>                  INTEL  Core i5-9600K @ 3.70GHz<br>  <strong>Motherboard</strong>                    GIGABYTE  Z370 HD3-CF（Z370  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 580 Series ( 8 GB &#x2F;  Sapphire  )<br>  <strong>Memory</strong>                    32 GB (  KingSton  DDR4 3200MHz 16GB x 2 )<br>  <strong>Hard Drive</strong>                  SAMSUNG  SSD 870 EVO  1TB  (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                   AOC  AOC2704 U27V4 ( 27   )<br>  <strong>Audio</strong>                     Realtek   ALC 892 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-V &#x2F; GIGABYTE </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-rx 580是满血版2304sp的,2048sp 适用。
-
 
 </div>
 
@@ -10337,10 +10320,7 @@ rx 580是满血版2304sp的,2048sp 适用。
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=f1ebd7d64d5a11ed8f8052540025c377">i5-9600K - GIGABYTE  Z370 HD3-CF - RX 580 Hackintosh Installation EFI OC7.9 MONTEREY 12.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1AkEkwSyVMuEjf8mAvYt171N-iYXZmNQJ/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -10871,7 +10851,7 @@ bios设置，进bios里，左边oc，**CPU** 特征，cfg锁定，禁止
 <p> Model                MSI  MS-7C75  Desktop<br>  <strong>CPU</strong>                  INTEL  Core i7-10700K @ 3.80GHz<br>  <strong>Motherboard</strong>                    MSI  MPG Z490 GAMING PLUS (MS-7C75)（LPC Controller - 0685）<br>   <strong>GPU</strong>                    AMD Radeon RX 6600 XT ( 8 GB &#x2F; ASUS  )<br>  <strong>Memory</strong>                    32 GB ( KLEVV DDR4 3600MHz )<br>  <strong>Hard Drive</strong>                  SAMSUNG  SSD 980  1TB  (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                   AOC  AOC3402 U34G2G4R3 ( 34   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  Realtek PCIe 2.5 GbE 系列 Controller  &#x2F; MSI </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-这个加了 Broadcom BCM4360CD WIFI **Network** 可wifi 蓝牙 隔空接力都可以。
+这个加了 Broadcom BCM94360CD WIFI **Network** 可wifi 蓝牙 隔空接力都可以。
 
 
 
@@ -11017,7 +10997,7 @@ bios设置，进bios里，左边oc，**CPU** 特征，cfg锁定，禁止
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i7-10700k<br><strong>Motherboard</strong>  ASUS PRIME Z490-P<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  1t NVME<br><strong>Graphic</strong>  UHD630+rx5500xt<br><strong>Display</strong>  4K<br><strong>Network</strong>   Broadcom BCM4360cd</p>
+<p><strong>CPU</strong>  i7-10700k<br><strong>Motherboard</strong>  ASUS PRIME Z490-P<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  1t NVME<br><strong>Graphic</strong>  UHD630+rx5500xt<br><strong>Display</strong>  4K<br><strong>Network</strong>   Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
@@ -12082,7 +12062,7 @@ gtx750 ti只能 Install High Sierra 10.13.6版本
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i7-4790K<br><strong>Motherboard</strong>  GIGABYTE Z97-D3H-CF<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  lexar 512gb<br><strong>Graphic</strong>  hd4600<br><strong>Display</strong>  4K带鱼<br><strong>Audio</strong>   ALC 1220<br><strong>Network</strong>  i217v+ Broadcom BCM4360cd</p>
+<p><strong>CPU</strong>  i7-4790K<br><strong>Motherboard</strong>  GIGABYTE Z97-D3H-CF<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  lexar 512gb<br><strong>Graphic</strong>  hd4600<br><strong>Display</strong>  4K带鱼<br><strong>Audio</strong>   ALC 1220<br><strong>Network</strong>  i217v+ Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 **Motherboard** 默认就是 Close cfg lock的，如果**Display** 为4K，需要在bios中把显存改为128mb
@@ -12644,17 +12624,15 @@ Bios设置中记得去超频那一项的**CPU** 特证，把cfg锁定禁用
   </entry>
   <entry>
     <title>i7-7700 es -  Colorful Battle Axe C.B250M-E - RX580 Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/f438c312.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-7700-es-Colorful-Battle-Axe-C.B250M-E-RX580-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i7-7700 es<br><strong>Motherboard</strong>   Colorful Battle Axe C.B250M-E<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  512g sata<br><strong>Graphic</strong>  hd630 + RX580(2304sp)<br><strong>Display</strong>  2K<br><strong>Network</strong>  BCM4360cd</p>
+<p><strong>CPU</strong>  i7-7700 es<br><strong>Motherboard</strong>   Colorful Battle Axe C.B250M-E<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  512g sata<br><strong>Graphic</strong>  hd630 + RX580(2304sp)<br><strong>Display</strong>  2K<br><strong>Network</strong>  BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-441.png)
-Hackintosh 尽量 要选二线**Motherboard** 品牌
 
-
+<p><img src="/images/pasted-441.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -12663,10 +12641,7 @@ Hackintosh 尽量 要选二线**Motherboard** 品牌
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=999d8a664d5a11ed97bf52540025c377">i7-7700 es -  Colorful Battle Axe C.B250M-E - RX580 Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1RazPV4B1Ip5wBRqummHkl7gyJ-hXcVm4/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -14408,11 +14383,11 @@ Bios里点左边的oc，**CPU** 特征，cfg锁定，禁用
   </entry>
   <entry>
     <title>i8-8400 - ASUS  PRIME H310M-K R2.0 - RX460 Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
-    <url>/7d3df4f2.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i8-8400-ASUS-PRIME-H310M-K-R2.0---RX460-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i8-8400<br><strong>Motherboard</strong>  ASUS  PRIME H310M-K R2.0<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>   KingSton  SA400S37240G<br><strong>Graphic</strong>  RX460<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 892<br><strong>Network</strong>   Broadcom BCM4360cd</p>
+<p><strong>CPU</strong>  i8-8400<br><strong>Motherboard</strong>  ASUS  PRIME H310M-K R2.0<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>   KingSton  SA400S37240G<br><strong>Graphic</strong>  RX460<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 892<br><strong>Network</strong>   Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
@@ -14425,10 +14400,7 @@ Bios里点左边的oc，**CPU** 特征，cfg锁定，禁用
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=d98926ee4d5a11edb35352540025c377">i8-8400 - ASUS  PRIME H310M-K R2.0 - RX460 Hackintosh Installation EFI OC7.9 MONTEREY 12.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1w_Al5564MgcvQro5fAnOUYsmABTxEucd/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -14524,8 +14496,8 @@ Bios里点左边的oc，**CPU** 特征，cfg锁定，禁用
   </entry>
   <entry>
     <title>i9-10850K - ASUS  TUF GAMING Z590-PLUS - RX 6800 Hackintosh Installation EFI OC7.9 MONTEREY 12.6</title>
-    <url>/9cef951f.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i9-10850K-ASUS-TUF-GAMING-Z590-PLUS-RX-6800-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> <strong>CPU</strong>                  INTEL  Core i9-10850K @ 3.60GHz<br>  <strong>Motherboard</strong>                    ASUS  TUF GAMING Z590-PLUS（LPC Controller Z590 Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 6800 ( 16 GB &#x2F;  Sapphire  )<br>  <strong>Memory</strong>                    64 GB (  ADATA  DDR4 3200MHz 32GB x 2 )<br>  <strong>Hard Drive</strong>                  WDS  WD Green SN350  1TB  (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                   DELL   DELA14E DELL U2520D ( 25   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  I225-V &#x2F; ASUS </p>
@@ -14542,10 +14514,7 @@ Bios里点左边的oc，**CPU** 特征，cfg锁定，禁用
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=608bc04e4d5a11edbd8752540025c377">i9-10850K - ASUS  TUF GAMING Z590-PLUS - RX 6800 Hackintosh Installation EFI OC7.9 MONTEREY 12.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1JLbjlRm-4n2j7m9yykzr820ljQFu-9F4/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -14678,7 +14647,7 @@ Installation Video：https://youtu.be/smwPKnqUUDM
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i9-10900KF<br><strong>Motherboard</strong>  GIGABYTE Z490 GAMING X AX<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  SSD 980 PRO  1TB<br><strong>Graphic</strong>  RADEON RX 6900XT Sapphire  OC<br><strong>Display</strong>  4K<br><strong>Network</strong>  intel wifi6 ax201+ Broadcom BCM4360cd</p>
+<p><strong>CPU</strong>  i9-10900KF<br><strong>Motherboard</strong>  GIGABYTE Z490 GAMING X AX<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>  SSD 980 PRO  1TB<br><strong>Graphic</strong>  RADEON RX 6900XT Sapphire  OC<br><strong>Display</strong>  4K<br><strong>Network</strong>  intel wifi6 ax201+ Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 BIOS里要在启动选项中把CFG LOCK禁用掉
@@ -15107,7 +15076,7 @@ BIOS里要在启动选项中把CFG LOCK禁用掉
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>  i9-9900K<br><strong>Motherboard</strong>  GIGABYTE Z390 Aeros UItra<br><strong>Memory</strong>  64 GB<br><strong>Hard Drive</strong>  SN750 2T<br><strong>Graphic</strong>  6600XT<br><strong>Display</strong>  5K<br><strong>Network</strong>   Broadcom BCM4360cd</p>
+<p><strong>CPU</strong>  i9-9900K<br><strong>Motherboard</strong>  GIGABYTE Z390 Aeros UItra<br><strong>Memory</strong>  64 GB<br><strong>Hard Drive</strong>  SN750 2T<br><strong>Graphic</strong>  6600XT<br><strong>Display</strong>  5K<br><strong>Network</strong>   Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
@@ -21521,7 +21490,7 @@ Installation Video：https://youtu.be/TRLN5fFyMi4
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p>ASUS VC66-C Mini PC<br><strong>CPU</strong>  i5-8600K<br><strong>Motherboard</strong>  ASUS VC66-C H310<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDS 1T NVME SSD<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080P HDMI dp<br><strong>Audio</strong>   ALC 255<br><strong>Network</strong>   Broadcom BCM4360cd</p>
+<p>ASUS VC66-C Mini PC<br><strong>CPU</strong>  i5-8600K<br><strong>Motherboard</strong>  ASUS VC66-C H310<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDS 1T NVME SSD<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080P HDMI dp<br><strong>Audio</strong>   ALC 255<br><strong>Network</strong>   Broadcom BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
  Mini PC ， Install 时使用的是HDMI，dp也应该没问题的。usb和TYPE C定制过，客户的BCMb4360 WIFI **Network** ，里面USB端口也定制好了。
@@ -24894,17 +24863,15 @@ IGPU ，没有独显的这个 Laptop ，单 WIFI **Network** ，没有 LAN **Net
   </entry>
   <entry>
     <title>DELL   Latitude 7400 i5-8265U Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
-    <url>/ea3fba72.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-Latitude-7400-i5-8265U-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                 DELL   Latitude 7400  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i5-8265U @ 1.60GHz<br>  <strong>Motherboard</strong>                     DELL   06NNXD（I&#x2F;O - 9D84 for mobile 8th Gen Intel Core processor family）<br>   <strong>GPU</strong>                    INTEL  UHD Graphics 620 ( 128 MB &#x2F;  DELL   )<br>  <strong>Memory</strong>                    16 GB (  Crucial  DDR4 2400MHz 8GB x 2 )<br>  <strong>Hard Drive</strong>                   ZHITAI PC005 Active 512GB (512 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AUO  AUO633D ( 14   )<br>  <strong>Audio</strong>                     Realtek  High Definition Audio @ INTEL  INTEL  Controller<br>  <strong>Network</strong>                    INTEL  Wi-Fi 6E AX210 160MHz</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-IGPU  Laptop UHD620,1080P屏，原版 Install ，更换了ax210 WIFI **Network** ，wifi蓝牙。原来的是高通 WIFI **Network**  。
-![](/images/pasted-438.png)
 
-
+<p><img src="/images/pasted-438.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -24913,10 +24880,7 @@ IGPU  Laptop UHD620,1080P屏，原版 Install ，更换了ax210 WIFI **Network**
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=122626a04d5b11edacc852540025c377"> DELL   Latitude 7400 i5-8265U Hackintosh Installation EFI OC7.9 MONTEREY 12.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1C-LzgKecZaQg9DGUMlUt8MqV2Ja76Yp8/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -25825,7 +25789,7 @@ i7-10870H的 DELL  G15 5510，独显非常强，可惜在Hackintosh  能用。
 <p> Model                 DELL   XPS 13 9360  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i5-7200U @ 2.50GHz<br>  <strong>Motherboard</strong>                     DELL   05HM5Y（7th Generation Intel Processor Family I&#x2F;O - 9D58  Laptop  Chipset ）<br>   <strong>GPU</strong>                    INTEL  HD Graphics 620 ( 128 MB &#x2F;  DELL   )<br>  <strong>Memory</strong>                    16 GB (  Micron  LPDDR3 1867MHz 8GB x 2 )<br>  <strong>Hard Drive</strong>                   KIOXIA-EXCERIA G2 SSD (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                   SHARP  SHP1449 ( 13.3   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Broadcom  Broadcom 802.11ac Network Adapter &#x2F;  APPLE </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- DELL   XPS 13 9360 i5-7200U Laptop Hackintosh ，配有Hackintosh  WIFI **Network** BCM4360，可 WIFI ，蓝牙，隔空功能。IGPU ，可外接**Display** 
+ DELL   XPS 13 9360 i5-7200U Laptop Hackintosh ，配有Hackintosh  WIFI **Network** BCM94360，可 WIFI ，蓝牙，隔空功能。IGPU ，可外接**Display** 
 ![](/images/pasted-415.png)
 
 
@@ -27190,7 +27154,7 @@ Installation Video：https://youtu.be/5LXTa3lqUQ8
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p> DELL  Vostro 3668 BareSystem<br><strong>CPU</strong>  i5-7500<br><strong>Motherboard</strong>   DELL  0N9Y46<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  128G SSD<br><strong>Graphic</strong>  hd630<br><strong>Display</strong>  2K HDMI<br><strong>Audio</strong>   ALC 867<br><strong>Network</strong>  rtl8168+BCM4360cd</p>
+<p> DELL  Vostro 3668 BareSystem<br><strong>CPU</strong>  i5-7500<br><strong>Motherboard</strong>   DELL  0N9Y46<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  128G SSD<br><strong>Graphic</strong>  hd630<br><strong>Display</strong>  2K HDMI<br><strong>Audio</strong>   ALC 867<br><strong>Network</strong>  rtl8168+BCM94360cd</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 vga 可用，HDMI可用
@@ -28610,17 +28574,15 @@ Installation Video：https://youtu.be/pHtbxqEH1Qs
   </entry>
   <entry>
     <title>Panasonic  CFSX4-1 i5-5300U Hackintosh Installation EFI OC7.9 Big Sur 11.6.8</title>
-    <url>/f65c72fa.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Panasonic-CFSX4-1-i5-5300U-Hackintosh-Installation-EFI-OC7.9-Big-Sur-11.6.8.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                 Panasonic  CFSX4-1  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i5-5300U @ 2.30GHz<br>  <strong>Motherboard</strong>                     Panasonic  CFSX4-1（5th Generation Intel Core Premium SKU - 9CC3  Laptop  Chipset ）<br>   <strong>GPU</strong>                    INTEL  HD Graphics 5500 ( 128 MB &#x2F;  Panasonic  )<br>  <strong>Memory</strong>                    16 GB ( FLASH 16MB &#x2F; SAMSUNG  DDR3L 1600MHz 8GB x 2 )<br>  <strong>Hard Drive</strong>                  INTEL  SSDSC2KB480G8 (480 GB &#x2F;  SSD )<br>  <strong>Display</strong>                  1600x900<br>  <strong>Audio</strong>                     ALC 269<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I218-LM &#x2F;  Panasonic </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-5代hd5500IGPU  Laptop 
-![](/images/pasted-436.png)
 
-
+<p><img src="/images/pasted-436.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -28629,10 +28591,7 @@ Installation Video：https://youtu.be/pHtbxqEH1Qs
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Big Sur 11.6.8</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=59d91f164d5b11ed8d7c52540025c377"> Panasonic  CFSX4-1 i5-5300U Hackintosh Installation EFI OC7.9 Big Sur 11.6.8</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1TfL6JvXGpnMoo8EWvM5Q4aJQnsW4tlT9/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -33074,7 +33033,7 @@ Installation Video：https://youtu.be/sdCmBfTAfSo
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p>Lenovo Legion  REN 9000-34IMZ<br><strong>CPU</strong>  i7-10700K<br><strong>Motherboard</strong>   REN 9000-34IMZ<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDS  WD Blue SN570  1TB  SSD<br><strong>Graphic</strong>  Radeon Rx 580 Series ( 8GB &#x2F;  Sapphire  OC ）<br><strong>Display</strong>  4K<br><strong>Audio</strong>   ALC 892<br><strong>Network</strong>  BCM4360</p>
+<p>Lenovo Legion  REN 9000-34IMZ<br><strong>CPU</strong>  i7-10700K<br><strong>Motherboard</strong>   REN 9000-34IMZ<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDS  WD Blue SN570  1TB  SSD<br><strong>Graphic</strong>  Radeon Rx 580 Series ( 8GB &#x2F;  Sapphire  OC ）<br><strong>Display</strong>  4K<br><strong>Audio</strong>   ALC 892<br><strong>Network</strong>  BCM94360</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
