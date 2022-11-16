@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hackintosh.work/Lenovo-ThinkPad-L380-Yoga-i5-8250U-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/i5-12490F-ASUS-PRIME-H610M-A-D4-VASTARMOR-RX6600-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/Intel%20NUC8i7BEH%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.14.5%20i7-8559U+Iris%20Plus%20Graphics%20655+4K)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/i3-9100F-ASUS-ROG-STRIX-B360-I-GAMING-GT-730-HACKINTOSH-EFI-OC7.9-Big-Sur-11.6.8.html</loc>
     
     <lastmod>2022-11-16</lastmod>
@@ -389,15 +416,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/86782a3a.html</loc>
-    
-    <lastmod>2022-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/13df5914.html</loc>
     
     <lastmod>2022-11-16</lastmod>
@@ -767,42 +785,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700K-asus-PRIME-Z370-A-Vega.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/lenovo-700-15ISK-i7-6700HQ-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/Matebook-X-Pro-i5-8250U-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/hasee-Z6-KP5S-i5-8300H-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/c1d491d2.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -812,7 +794,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/huawei-matebook-WRT-WX9-2K.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%B0%8F%E7%B1%B3PRO%20i5-8250U%20UHD620%20TM1701%20MX150%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -821,7 +803,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/xiaomi-pro-i5-8250U-TM1701-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20RX%20580%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -830,7 +812,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/huawei-VLR-WX9-UHD620-1080P-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700K%20%E5%8D%8E%E7%A1%95%20PRIME%20Z370-A%2064%20GB%20%E6%B5%B7%E7%9B%97%E8%88%B9%20Radeon%20Vega%20Frontier%20Edition%2016%20GB%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -839,7 +821,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ThinkPad-S3-i5-8265U-UHD-620-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91Matebook%20X%20Pro%20MACH-WX9%20i5-8250U%20UHD620%20MX150%203000X2000%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -848,7 +830,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/asus-FX86F-FX505GM_FX86FM-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%8D%8E%E4%B8%BA%20VLR-WX9%20i5-8265U%20UHD620%20MX250%201080P%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -857,7 +839,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-9400F-TUF-B360M-PLUS-RX-580.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%8D%8E%E4%B8%BAmatebook%20WRT-WX9%202K%E5%B1%8Fi5-8265U%20MX150%20UHD620%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -866,7 +848,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ThundeRobot-TR-G150T-C2-i7-6700HQ-HD630.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%8D%8E%E7%A1%95FX86F%20TUF%20Gaming%20FX505GM_FX86FM%20i7-8750H%20Uhd%20630%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -875,7 +857,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HASEE-z7kp7s1-P65xHP-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9F%E6%88%98%E7%A5%9EZ6-KP5S%20CN85S01%20i5-8300H%20N8xEJEK%20GTX%201050%20UHD630%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -884,7 +866,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700K-Z370-Pro4-GTX-1060.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%E5%B0%8F%E6%96%B0700-15ISK%2080SH%20i7-6700HQ%20HD530%20GTX%20950M%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -893,7 +875,16 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hasee-z7-sp5d1-P65xRP-i5-6300HQ-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%81%94%E6%83%B3ThinkPad%20S3%E9%94%8B%E8%8A%92%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i5-8265U+UHD%20620)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E7%A5%9E%E8%88%9Fz7kp7s1%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i7-7700HQ+GTX%201060%E7%8B%AC%E6%98%BE).html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -911,7 +902,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Hasee-ZX8-KP7S1-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E7%A5%9E%E8%88%9F%E6%88%98%E7%A5%9EZX8-KP7S1%20CP75S02%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%2010.13.6%20i7-7700%E9%A9%B1%E5%8A%A8%E7%8B%AC%E6%98%BE.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -929,7 +920,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/jieling-b75fel3-i5-3470-GTX960-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700K%20%E5%8D%8E%E6%93%8E%20Z370%20Pro4%20GTX%201060%20ALC892%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -938,7 +929,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Z77X-D3H-GTX-680-I7-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91ThundeRobot%20%E9%9B%B7%E7%A5%9E%20TR%20G150T-C2%20i7-6700HQ%20HD630%20GTX%20960M%E9%A9%B1%E5%8A%A8%E7%8B%AC%E6%98%BE%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -947,7 +938,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Shinelon-V57-gtx-1070-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fz7-sp5d1%20P65xRP%20i5-6300HQ%20HD530%20GTX%201060%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -956,7 +947,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/laowu-CLOVER-efi-dl201911-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%9D%B0%E7%81%B5b75fel3%20%20i5-3470%20GTX960%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -965,7 +956,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Inspiron-dell-7537-i7-4500U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BA%E6%8A%80%E5%98%89%20Z77X-D3H+%E4%B8%89%E4%BB%A3I7+%20GTX%20680%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -974,7 +965,34 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/vulcan-jingang-gtx-4K-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99V57-6481HN3-P%20CP75S02%20%E7%8B%AC%E6%98%BE%E5%AE%89%E8%A3%8510.13.6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E4%B8%8B%E8%BD%BD%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9CCLOVER%E5%BC%95%E5%AF%BC%E5%90%88%E9%9B%862019-11%E6%95%B4%E7%90%86.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E6%88%B4%E5%B0%94%20Inspiron%207537%20i7-4500U%20hd4400%20GT%20750M%20%E7%8B%AC%E6%98%BE10.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E7%81%AB%E5%BD%B1%E9%87%91%E5%88%9A4K%20I7-7700HQ%20GTX%201060%E9%A9%B1%E5%8A%A8%E7%8B%AC%E6%98%BE%20ALC269%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -993,15 +1011,6 @@
   
   <url>
     <loc>https://hackintosh.work/c5ac7362.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i9-9900KF-msi-MAG-Z390-RX-560.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1091,15 +1100,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/TR-G150M-A-G150MG-47108G1TJ.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/26031213.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -1128,6 +1128,24 @@
   
   <url>
     <loc>https://hackintosh.work/323ec454.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i9-9900KF%20%E5%BE%AE%E6%98%9F%20MAG%20Z390%20TOMAHAWK%20RX%20560%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E9%9B%B7%E7%A5%9ETR%20G150M-A%20G150MG-47108G1TJ%20i7-4710mq%20hd4600%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1199,7 +1217,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/B365MH-PRIME-I5-8500-UHD-630-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E6%8A%80%E5%98%89B365MH%20+%20I5%208500%20+%20UHD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.15.1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1208,7 +1226,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/b5911ff8.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%80%81%E5%90%B4%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%B7%98%E5%AE%9D%E5%AE%89%E8%A3%85%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA2020-07.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1739,7 +1757,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/5a16181f.html</loc>
+    <loc>https://hackintosh.work/c207bda2.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1748,7 +1766,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/c207bda2.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%B7%98%E5%AE%9D%E8%BF%9C%E7%A8%8B%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA2020-05.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1802,7 +1820,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Alienware-17-R4-i7-7700HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%88%B4%E5%B0%94%E5%A4%96%E6%98%9F%E4%BA%BA%20Alienware%2017%20R4%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A8(i7-7700HQ+GTX%201070).html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1820,7 +1838,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Alienware-ASM200-i5-6400T-R9-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91Alienware%20ASM200%20i5-6400T%20R9%20M470X%20R9%20M280X%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1847,7 +1865,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ASUS-FL8000UN-x542un-i7-8550U-UHD-620-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%8D%8E%E7%A1%95%E9%A1%BD%E7%9F%B3(ASUS)%20%E7%94%B5%E7%AB%9E%E7%89%88FL8000UN(x542un)%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20(macOS%20High%20Sierra%2010.14.x%20i7-8550U+UHD%20620+MX150)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1856,7 +1874,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E3-1231-asus-B85M-F-PLUS-gtx960-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/E3-1231+%E5%8D%8E%E7%A1%95%20B85M-F%20PLUS+%20GTX%20960%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1865,7 +1883,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-6700K-G1.SNIPER-B7-CF-GTX-1060.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-6700K%20%20%E6%8A%80%E5%98%89%20G1.SNIPER%20B7-CF%20GTX%201060%20%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1874,7 +1892,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700-Z370-RX-570-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-8700%20%E6%8A%80%E5%98%89%20Z370%20AORUS%20Gaming%203%20RX%20570%20Catalina%2010.15.1%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1883,7 +1901,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Dell-Inspiron-7560-i5-7200U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-9700K+%E5%8D%8E%E7%A1%95%20B365M-PIXIU+Quadro%20P2000%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1892,7 +1910,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Dell-Inspiron-5557-i5-6200U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91lenovo%20y7000%20i7-8750H%20GTX%201060%20UHD630%2010.14.6%20FIX%20KEYBOARD%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1901,7 +1919,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-9700K-asus-B365M-PIXIU-P2000.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%8D%95%E7%B3%BB%E7%BB%9FCatalina%2010.15.1%E4%B8%BB%E6%9C%BA%EF%BC%88%20i3-6100%20+%E5%BE%AE%E6%98%9F%20B150I%20+HD%20530%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1910,7 +1928,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-EliteBook-8470p-i7-3520M-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i5-7400+%E5%8D%8E%E7%A1%95%20PRIME%20B250M-K+%E6%A0%B8%E6%98%BEHD%20Graphics%20630%EF%BC%88VGA%E6%97%A0%E6%95%88%EF%BC%8C%E6%94%B9%E7%94%A8DVI%E6%88%96HDMI%EF%BC%89%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%AE%89%E8%A3%85%E8%AE%B0%E5%BD%95.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1919,7 +1937,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/lenovo-y7000-i7-8750H-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E8%81%94%E6%83%B3%2081V4%20Y7000%20%20i5-9300H%20UHD630%20Mojave10.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1928,7 +1946,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-6100-Catalina-HD-530-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%BE%AE%E6%98%9F%20GP62MVR%206RF%E7%AC%94%E8%AE%B0%E6%9C%ACi7-6700HQ%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1937,7 +1955,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-7400-PRIME-B250M-K-HD-630-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89%20B85-HD3+i5-4570+GTX%201050%20Ti%20%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6).html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1946,7 +1964,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-6700K-asus-Z170-P-gtx1060-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%AE%89%E8%A3%85i7-8700+%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1955,7 +1973,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/81V4-Y7000-i5-9300H-UHD630-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-6700K%20+%E6%8A%80%E5%98%89%20Z170X-Gaming%203+GTX%201070%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1964,7 +1982,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/MSI-GP62-MVR-6RF-i7-6700HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%8D%8E%E4%B8%BA%20KLV-WX9%20i5-8265U%20UHD620%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1973,7 +1991,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/GIGABYTE-B85-HD3-i5-4570-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89%20B85M-D2V-SI+i5-4590+RX%20470%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%AE%89%E8%A3%85.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1982,7 +2000,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Acer-TravelMate-P259-MG-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91Alienware%2017%20R2%20i7-4710HQ%20HD%204600%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -1991,7 +2009,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700-B360M-MORTAR-MSI-1060-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E9%9B%B7%E7%A5%9E911%20S2%20i7-4710hq%20HD4600%20GTX%20860M%20macOS%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2000,7 +2018,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-6700K-Z170X-Gaming-3-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%BE%AE%E8%BD%AF%20Surface%20Book%202%20i7-8650U+UHD620%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2009,7 +2027,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/KLV-WX9-i5-8265U-UHD620-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E8%81%94%E6%83%B3%E6%8B%AF%E6%95%91%E8%80%85Y7000%20i5-9300H%20%20UHD630%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2018,7 +2036,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/B85M-D2V-SI-i5-4590-RX-470-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i5-4570+%E5%8D%8E%E7%A1%95%20Z87-K+GTX%20760%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E7%8B%AC%E6%98%BE%E5%85%8D%E9%A9%B1%E7%9B%B4%E4%B8%8AMojave%2010.14.5.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2027,7 +2045,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Alienware-17-gtx-R2-i7-4710HQ.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91AERO%2015X%20V8%20i7-8750H%20Catalina%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2036,7 +2054,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/lenovo-G50-80-i7-5500U-HD-Graphics-5500-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-7800x+%E5%BE%AE%E6%98%9FX299+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2045,7 +2063,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/thunderoboot-911-S2-i7-4710hq.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi3-4160+%E5%BE%AE%E6%98%9F%20H81M-P33+GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2054,7 +2072,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/X9DAi-E5-2660-GTX-1060-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%82%AB%E9%BE%99Shinelon%20X6%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2063,7 +2081,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Surface-Book-2-i7-8650U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%81%94%E6%83%B3%20Lenovo%20IdeaPad%20Y510P%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-4700MQ+HD4600+GTX%20755M).html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2072,7 +2090,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Y7000-i5-9300H-UHD630-Mojave-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91HP%20Pavilion%20Notebook%20i5-7300HQ%20GTX%201050%20%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2081,7 +2099,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-4570-Z87-K-gtx-760-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E7%A5%9E%E8%88%9F%E6%88%98%E7%A5%9Ez7m%20kp5d1%20i5-7300HQ%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2090,7 +2108,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/AERO-15X-V8-i7-8750H-UHD630-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i9-9900k%20asus%20prime%20z390-a%20rx%20vega%2064%20Mojave%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2099,7 +2117,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-7500-B250M-D3V-GTX-1050-Ti-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91E3-1230%20v3%20%E5%8D%8E%E7%A1%95%20B85-PRO%20GAMER%20GTX%20970%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2108,7 +2126,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-7800x-MSI-X299-GTX-1060.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E8%81%94%E6%83%B3%20ThinkCentre%20M920t-N000%20%20i5-9500%20UHD630%20ALC662%2010.14.6%20HDMI%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2117,7 +2135,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-4160-MSI-H81M-P33-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E8%81%94%E6%83%B3M92P%20HD4000%2010.15.1%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2126,7 +2144,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Shinelon-X6-15-i7-6700HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-8700K+GTX%201080%20Ti+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-F%20GAMING%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2135,7 +2153,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Lenovo-IdeaPad-Y510P-i7-4700MQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91E5-2660%200%20%E8%8B%B1%E7%89%B9%E5%B0%94%20X79%20INTEL%20H61%20GTX%20750%20Ti%20%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2144,7 +2162,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-Pavilion-Notebook-i5-7300HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-6950X+%E5%8D%8E%E7%A1%95%20X99-E+%20RX%20Vega%2064%20macOS%2010.14.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2153,7 +2171,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hasee-z7m-kp5d1-i5-7300HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%83%A0%E6%99%AEHP%20Pavilion%2015(i5-5200u+hd%205500)%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2162,7 +2180,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i9-9900k-asus-prime-z390-a-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i5-6600k%20%E6%8A%80%E5%98%89z170x-gaming%205%20gtx%20970%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6).html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2171,7 +2189,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E3-1230-B85-PRO-GTX-970.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i9-9900K+%E5%BE%AE%E6%98%9F%20MPG%20Z390%20GAMING+GTX%201080%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%E5%AE%89%E8%A3%85%E8%AE%B0%E5%BD%95.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2180,7 +2198,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ThinkCentre-M920t-N000-i5-9500-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E6%83%A0%E6%99%AEHP%20EliteBook%20840%20G3%20macOS%20High%20Sierra%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2189,7 +2207,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/M92P-HD4000-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%81%94%E6%83%B3%20ThinkPad%20L440%20i5-4300M%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2198,7 +2216,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/GIGABYTE-AERO-15WV8-i7-8750H-UHD-630-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i3-9100F%20%20%E5%8D%8E%E6%93%8E%20Z370%20Pro4%20Radeon%20RX%20470%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Sierra%2010.12.6%20nvme)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2207,7 +2225,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-4770-asus-B85M-G-gtx-750-ti-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/E3-1231%20V3%20%E4%B8%83%E5%BD%A9%E8%99%B9C.H81M%20PRO%20GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2216,7 +2234,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/mini-i5-8350U-UHD-Graphics-620-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i5-7500+%E6%8A%80%E5%98%89%20B250M-D3V+GTX%201050%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2225,7 +2243,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700K-GTX-1080-ROG-STRIX-Z370-F-GAMING-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i7-2600%20%E6%8A%80%E5%98%89Z68A-D3H-B3%2024GB%20AMD%20RADEON%20HD%206850%202G%20ALC889%2010.13.6%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20CLOVER%20EFI%E4%B8%8B%E8%BD%BD%20Download.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2234,7 +2252,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-2600-GIGABYTE-Z68A-D3H-B3-RADEON-HD-6850-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i7-4770%20%E5%8D%8E%E7%A1%95%20B85M-G%20GTX%20750%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2243,7 +2261,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E5-2660-X79-GTX-750-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i7-6700K%20%20%E5%8D%8E%E7%A1%95%20Z170-P%20GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2252,7 +2270,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-6950X-asus-X99-E-RX-Vega-64.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i7-8700K+%E5%BE%AE%E6%98%9F%20Z370%20TOMAHAWK+GTX%201080%20Ti%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2261,7 +2279,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E3-1231-COLORFUL-C.H81M-PRO-gtx1060-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%AE%8F%E5%9F%BAAcer%20Aspire%20E1-471G%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i5-3230M+HD%204000+710M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2270,7 +2288,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/NUC8i7BEH-i7-8559U-Iris-Plus-Graphics-655-4K-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%AE%8F%E5%9F%BAAcer%20TravelMate%20P259-MG%E7%AC%94%E8%AE%B0%E6%9C%AC%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20mojave%2010.14.5%20i5-6200U+HD%20520%201080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2279,7 +2297,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-Pavilion-15-i5-5200u-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%83%A0%E6%99%AE%20HP%20EliteBook%208470p%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5%20i7-3520M+HD%207570M)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2288,7 +2306,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Acer-Aspire-E1-471G-i5-3230M-HD-4000-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%88%B4%E5%B0%94Dell%20Inspiron%207560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i5-7200U+HD%20620+GTX%20940MX)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2297,7 +2315,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/GIGABYTE-i5-6600k-z170x-gaming-5-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89GIGABYTE%20AERO%2015WV8%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14%20i7-8750H+UHD%20630+GTX%201060+1080P)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2306,7 +2324,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/GIGABYTE-Z390-UD-I9-9900K-Quadro-P2000-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89Z390%20UD+I9-9900K+Quadro%20P2000%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2315,7 +2333,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i9-9900K-MPG-Z390-GTX-1080-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%96%B0%E5%88%9B%E4%BA%91%E7%94%B5%E8%84%91i5-8350U+UHD%20Graphics%20620%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20Mojave%2010.14.5)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2324,7 +2342,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-EliteBook-840-G3-i5-6300U.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%81%94%E6%83%B3%20G50-80%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6%20i7-5500U+HD%20Graphics%205500+Radeon%20R5%20M330)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2333,7 +2351,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ThinkPad-L440-i5-4300M-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%B6%85%E5%BE%AE%20X9DAi+%20E5-2660+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20(macOS%20High%20Sierra%2010.13.6)%20CLOVER%20EFI%E4%B8%8B%E8%BD%BDDownload.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2342,7 +2360,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700K-MSI-Z370-TOMAHAWK-GTX-1080-Ti-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89%20Z170X-Gaming%203+i5-6500+Radeon%20RX%20560%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2351,7 +2369,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-9100F-asrock-Z370-Pro4-RX-470-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%8D%8E%E7%A1%95asus%20Strix%20G531GT:GU:GV:GW%20G731GT%20%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2360,7 +2378,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/GIGABYTE-Z170X-Gaming-3-gtx-i5-6500-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%BE%AE%E8%BD%AF%20Surface%20Laptop%20i5-7200U%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2369,7 +2387,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-Pavilion-Gaming-Laptop-15-cx0xxx-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i7-8700K%20%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20RX%20580(2048SP)%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2378,7 +2396,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/asus-Strix-G531GT-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i3-8100+%20%E5%BE%AE%E6%98%9F%20B360M%20MORTAR+RX%20590%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%20%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2387,7 +2405,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Surface-Laptop-i5-7200U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i7-7700K%20%20%E5%BE%AE%E6%98%9F%20Z270%20TOMAHAWK%20ARCTIC%20GTX%201080%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2396,7 +2414,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700K-asus-PRIME-B360-PLUS-RX-580-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89%20B85M-D2V%20i3-4170%20GT%20730%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2405,7 +2423,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-8100-MSI-B360M-MORTAR-RX590-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i5-7500+%20%E6%8A%80%E5%98%89%20B250M-DS3H-CF+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2414,7 +2432,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-7700K-msi-Z270-TOMAHAWK-ARCTIC-gtx1080-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%9C%BA%E6%A2%B0%E5%B8%88T58%20%20i7-7700HQ%20HD630%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC%E7%94%B5%E8%84%91%E5%9E%8B%E5%8F%B7%E6%9C%BA%E6%A2%B0%E5%B8%88T58-D%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2423,7 +2441,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/GIGABYTE-B85M-D2V-i3-4170-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%83%A0%E6%99%AE%E5%85%89%E5%BD%B1%E7%B2%BE%E7%81%B54%20Pro%20HP%20Pavilion%20Gaming%20Laptop%2015-cx0xxx%20%E9%BB%91%E8%8B%B9%E6%9E%9CHackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2432,25 +2450,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-7500-B250M-DS3H-CF-GTX-1060-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/MACHE-T58-gtx-i7-7700HQ-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/Dell-PowerEdge-T330-E3-1220-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E6%88%B4%E5%B0%94Dell%20PowerEdge%20T330%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%20High%20Sierra%E9%99%84EFI%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2837,7 +2837,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/acer-aspire-s7-i5-3337U.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%AE%8F%E5%9F%BAaspire%20s7-391%20i5-3337U%20hd%204000%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2846,7 +2846,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-4790K-asus-Z97-C--gtx-760.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i7-4790K%20%E5%8D%8E%E7%A1%95%20Z97-C%20GTX%20760%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2855,7 +2855,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-6400-msi-B150M-NANO-gtx-950.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-6400%20%E5%BE%AE%E6%98%9F%20B150M%20NANO%20GTX%20950%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2864,7 +2864,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/4f5b4440.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i7-7800X%20EVGA%20151-SX-E299%20RX%20580%2010.15.1OC%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_OC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -2873,7 +2873,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-7800X-EVGA-151-SX-E299-RX-580.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%80%81%E5%90%B4%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%B7%98%E5%AE%9D%E5%BA%97%E5%AE%89%E8%A3%85%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA2020-07.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3053,7 +3053,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/lenovo-100-15IBD-i5-5200U-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%E5%A4%A9%E9%80%B8100-15IBD%20i5-5200U%20HD5500%20GeForce%20920M%E7%8B%AC%E6%98%BE%E9%A9%B1%E5%8A%A810.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3143,34 +3143,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700-asus-ROG-STRIX-B360-F.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-6500-B150M-DS3H-CF-RX-5700.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/cca110a4.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i7-4790-asus-Z87-PRO-GTX-750-G43.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3215,33 +3188,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-9400f-MSI-B360M-MORTAR-RX-590.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-9600T-msi-MAG-B365M-RX-570.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/E3-1240L-v5-GA-X150-PLUS-WS-CF.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/8f77cad5.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -3269,25 +3215,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-4590-asus-H81M-K-RX-560.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/2d4da47d.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-9400F-asus-TUF-B360M-PLUS-GTX-1060.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3305,34 +3233,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-6600-msi-gtx-B150M-MORTAR-1.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-7500-B250-D3A-CF-GTX-1060.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/198a8bee.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-9400F-TUF-B360M-PLUS-RX-570.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3351,15 +3252,6 @@
   
   <url>
     <loc>https://hackintosh.work/388d884f.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/E3-1231-v3-msi-B85-G43-gtx-970.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3405,15 +3297,6 @@
   
   <url>
     <loc>https://hackintosh.work/b15fa5c4.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/E3-1230-v3-B85-PRO-GAMER-GTX-1060.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3494,34 +3377,124 @@
   </url>
   
   <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i5-4590%20%E5%8D%8E%E7%A1%95%20H81M-K%20RX%20560%204%20GB%20%E8%93%9D%E5%AE%9D%E7%9F%B3%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i5-7500%20%20%E6%8A%80%E5%98%89%20B250-D3A-CF%20GTX%201060%203GB%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1230%20v3%20%E5%8D%8E%E7%A1%95%20B85-PRO%20GAMER%20GTX%201060%206GB%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1231%20v3%20%E5%BE%AE%E6%98%9F%20B85-G43%20GAMING%20GTX%20970%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1240L%20v5%20%E6%8A%80%E5%98%89%20X150-PLUS%20WS-CF%20RX%20570%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-6600%20%E5%BE%AE%E6%98%9F%20B150M%20MORTAR%20GTX%201060%206GB%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-6500%20%E6%8A%80%E5%98%89%20B150M-DS3H-CF%20RX%205700%20XT%20%E8%93%9D%E5%AE%9D%E7%9F%B3%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F%20%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400F+%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S+RX%20570%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9400f%20MSI%20B360M%20MORTAR%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9600T%20%E5%BE%AE%E6%98%9FMAG%20B365M%20MORTAR%20RX570%20ALC892%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-4790%20%E5%8D%8E%E7%A1%95%20Z87-PRO%20GTX%20750%20Ti%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-F%20GAMING%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/efi-2020-3-17.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-6500-H110M-ITX-RX-580.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/4726df81.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-7500-asus-B250M-KYLIN-1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3548,7 +3521,34 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/G4560-MS-HDZ-H110M.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/iFunk-S%E7%AC%94%E8%AE%B0%E6%9C%ACi7-7700HQ%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9COC-6-4.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-6500%20%E5%8D%8E%E6%93%8E%20H110M-ITX%20RX%20580%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-7500%20%E5%8D%8E%E7%A1%95%20B250M-KYLIN%20GTX%201050%20Ti%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91G4560%20%E9%93%AD%E7%91%84%20MS-HDZ%20H110M%20Combo%20GTX%20650%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3647,7 +3647,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/X9DAi-X79-E5-2680-Quadro-K5000-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%8F%8C%E8%B7%AF%E9%BB%91%E8%8B%B9%E6%9E%9C%20%E8%B6%85%E5%BE%AE%20X9DAi%EF%BC%88X79%EF%BC%89%20E5-2680%20(X2)%20Quadro%20K5000%20Hackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3656,7 +3656,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-4170-ga-H81M-DS2-GTX-1050.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-4170%20%E6%8A%80%E5%98%89%20H81M-DS2%20GTX%201050%20Ti%204%20GB%20%E7%B4%A2%E6%B3%B0%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3665,16 +3665,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/acer-Aspire-TC-780A.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i7-9700K-asus-ROG-STRIX-Z390-F.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%E5%AE%8F%E7%A2%81%20Aspire%20TC-780A%20i5-7400%20HD630%20ALC662%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3692,7 +3683,16 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/xiaomi-Notebook-Air1-TM1613-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z390-F%20GAMING%20RX%20590%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%B0%8F%E7%B1%B3Notebook-Air1%E4%BB%A3Timi%20TM1613%20i5-6200U%20940MX%20HD%20Graphics%20520%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3746,7 +3746,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/asus-GL552VW-i5-6300HQ-HD530-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%8D%8E%E7%A1%95%20GL552VW%20i5-6300HQ%20GTX%20960M%20HD530%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3773,7 +3773,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E3-1245-V2-asus-P8Z77-V-PRO.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1245%20V2%20%E5%8D%8E%E7%A1%95P8Z77-V%20PRO%20RX580%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3782,7 +3782,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/G3220-H87S-Radeon-R7-240-Hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91G3220+%E6%98%82%E8%BE%BE%20H87S+Radeon%20R7%20240+10.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3800,7 +3800,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/lenovo-80S1-i5-5200U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%E5%A4%A9%E9%80%B8100-15ibd%20%E8%81%94%E6%83%B3%2080S1%20i5-5200U%20HD5500%2010.15.1%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3809,7 +3809,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hp-OMEN-15-ce0xx-i5-7300HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E6%83%A0%E6%99%AE%20OMEN%20by%20HP%20Laptop%2015-ce0xx%20i5-7300HQ%20HD630%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3818,7 +3818,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hasee-u45a1-i5-8265U-UHD620-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9F%E7%B2%BE%E7%9B%BE%20u45a1%E7%95%85%E7%8E%A9%E7%89%88%20i5-8265U%20uhd620%20alc269%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3854,7 +3854,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hasee-k670d-W65KJ1_KK1-i5-7500-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91ASUS%E5%8D%8E%E7%A1%95UX501J%20i7-4720HQ%20HD4600%20GTX%20960M%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3863,7 +3863,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/huawei-MateBook-X-i5-7200U-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91hasee%E7%A5%9E%E8%88%9F%E6%88%98%E7%A5%9EZ7M-ct7gs%20GK5S03%20GK5CS%20i7-9750H%20UHD630%20GTX%201650%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3872,7 +3872,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hasee-Z7M-ct7gs-GK5S03-GK5CS-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%8D%8E%E4%B8%BA%20MateBook%20X%20%20i5-7200U%20HD%20Graphics%20620%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3881,7 +3881,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ASUS-UX501J-i7-4720HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E5%8D%8E%E7%A1%95%20GL553VD%20%20i5-7300HQ%20HD630%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3890,7 +3890,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/hasee-ZX7-CP7S2-i7-8700-UHD630.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9Fk670d%20W65KJ1_KK1%20i5-7500%20hd630%20GTX%201050%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3899,7 +3899,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/asus-GL553VD-i5-7300HQ-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E7%A5%9E%E8%88%9F%E6%88%98%E7%A5%9E%20ZX7-CP7S2%20N95TP6%20i7-8700%20uhd630%20gtx%201060%20alc269%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3908,7 +3908,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Lenovo-B490s-i3-3217U-HD4000.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E3%80%91%E8%81%94%E6%83%B3%20Lenovo%20B490s%20i3-3217U%20HD4000%20GeForce%20710M%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3953,7 +3953,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700-asus-PRIME-H310M-K-4K-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91MECHREVO%20S1%20Series%20i5-8250U%20UHD%20620%E9%BB%91%E8%8B%B9%E6%9E%9CCatalina%2010.15.1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3962,7 +3962,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/MECHREVO-S1-i5-8250U-UHD620-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91HP%20Pavilion%20Gaming%20Laptop%2015-dk0xxx%20Mojave%2010.14.6(i7-9750H+GTX%201650+UHD630).html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -3971,16 +3971,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/HP-Pavilion-Gaming-Laptop-15-dk0xxx-i7-9750H.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/lenovo-Y700-I7-6700HQ-HD530-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E8%81%94%E6%83%B3Y700%20I7-6700HQ%20HD530%20GTX%20960M%201080P%2010.14.6%20%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4016,7 +4007,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i9-9900KF-asus-EX-B365M-V5.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-8100%20%E6%8A%80%E5%98%89%20B360M%20GAMING%20HD%20GTX%201070%208%20GB%20%E6%8A%80%E5%98%89%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4025,7 +4016,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-8100-ga-B360M-GAMING-HD-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9600KF%20%E5%8D%8E%E7%A1%95%20PRIME%20B365M-K%20RX%20560%204%20GB%20%E8%BF%AA%E5%85%B0%E6%81%92%E8%BF%9B%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4034,7 +4025,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-6700-asus-Z170-P-gtx-1060-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-6700%20%E5%8D%8E%E7%A1%95%20Z170-P%20GTX%201060%2010.13.6.zip%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4043,7 +4034,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-9600KF-asus-B365M-K-RX-560.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20H310M-K%20Quadro%20P620%20ALC887%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4052,7 +4043,16 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-6400-MSI-B150M-NANO-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i9-9900KF%20%E5%8D%8E%E7%A1%95%20EX-B365M-V5%2016%20GB%20%E9%87%91%E5%A3%AB%E9%A1%BF%20Quadro%20M4000%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%20%20i5-6400+%E5%BE%AE%E6%98%9F%20B150M%20NANO+GTX%20950%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4088,7 +4088,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/B85M-D3H-i7-4790-GTX-960-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%20%E6%8A%80%E5%98%89%20B85M-D3H+i7-4790+GTX%20960%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4097,16 +4097,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700-ASUS-PRIME-B360M-K-GTX-1060-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/Gigabyte-X58A-UD3R-i7-930-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%20i7-8700+%E5%8D%8E%E7%A1%95%20PRIME%20B360M-K+GTX%201060%20%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4124,7 +4115,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/ThinkCentre-M920t-UHD630-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E6%8A%80%E5%98%89%20X58A-UD3R+%20%20i7%20930+Quadro%20K2200%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8F%8C%E7%B3%BB%E7%BB%9FHackintosh%E5%AE%89%E8%A3%85.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4142,7 +4133,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/d2e2b838.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%E8%81%94%E6%83%B3%20ThinkCentre%20M920t%20i5-8500%20UHD630%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4151,7 +4142,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-6400-HD-530-Mojave-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%8D%95%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85i5-6400+HD%20530+%E5%8D%8E%E7%A1%95H110M-D%20macOS%20Mojave%2010.14.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4214,7 +4205,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-4790-B85-PRO-Vega-64-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E5%8F%B0%E5%BC%8F%E6%9C%BAi7-4790+%E5%8D%8E%E7%A1%95%20B85-PRO%20GAMER+RX%20Vega%2064%E9%BB%91%E8%8B%B9%E6%9E%9C10.15.1%E5%BC%95%E5%AF%BC%E4%B8%8B%E8%BD%BD.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4232,34 +4223,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/Alienware-M17x-R4-i7-3740QM-hackintosh.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/lenovo-ThinkCentre-M920t-N000-1.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-8500-asus-ROG-B360-1.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i5-4460-H81M-S1-RX-590.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91Alienware%20M17x%20R4%20i7-3740QM+HD%207970M%E9%BB%91%E8%8B%B9%E6%9E%9CHigh%20Sierra%2010.13.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4313,7 +4277,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/msi-B250-Gaming-Aegis-3-i5-7400-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%BE%AE%E6%98%9F%20B250%20Gaming%20Aegis%203+i5-7400+HD%20630%E9%BB%91%E8%8B%B9%E6%9E%9CMojave%2010.14.5%20Hackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4332,15 +4296,6 @@
   
   <url>
     <loc>https://hackintosh.work/efeb7bc4.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/i7-8700K-MSI-Z370-GAMING-PRO-CARBON-AC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4376,7 +4331,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/67e3fc07.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i5-4460%20%E6%8A%80%E5%98%89%20H81M-S1%20%20RX%20590%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4385,7 +4340,34 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-3470-P8B75-V-GTX-1060.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91ThinkCentre%20M920t-N000%20i7-8700%20UHD630%20HDMI%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-8500%20%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20B360-I%20GAMING%20UHD630%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-8700K%20%E5%BE%AE%E6%98%9F%20Z370%20GAMING%20PRO%20CARBON%20AC%20GTX%201080%20Ti%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/67e3fc07.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4466,6 +4448,15 @@
   </url>
   
   <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-3470%20%E5%8D%8E%E7%A1%95%20P8B75-V%20GTX%201060%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/4fe00b2f.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -4502,7 +4493,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-7400-MSI-B250M-E-HD-630-VGA-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/i5-7400%20%E5%BE%AE%E6%98%9F%20B250M-E%20%20%E9%BB%91%E8%8B%B9%E6%9E%9C%20HD%20630(VGA)%20Hackintosh%20EFI%E5%BC%95%E5%AF%BC.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4511,7 +4502,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-7500-asus-PRIME-B250M-A.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-7500%20%E5%8D%8E%E7%A1%95%20PRIME%20B250M-A%20GTX%20980%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4520,7 +4511,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-4770K-asrock-B85-Pro4-K5000.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-4770K%20%20%E5%8D%8E%E6%93%8E%20B85%20Pro4%20NVIDIA%20Quadro%20K5000%204095%20MB%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4529,7 +4520,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/X10DAi-i-E5-2683-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%E8%B6%85%E5%BE%AE%20X10DAL-i+E5-2683%20v3+GTX%201050%20Ti%20High%20Sierra%2010.13.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4538,7 +4529,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700-PRIME%20B360-PLUS-UHD-630-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i7-8700%20%E5%8D%8E%E7%A1%95%20PRIME%20B360-PLUS%20UHD%20Graphics%20630%20ALC887%2010.15.1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4547,7 +4538,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-8700K-asus-ROG-STRIX-Z370-E-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91%20i7-8700K+%E5%8D%8E%E7%A1%95%20ROG%20STRIX%20Z370-E%20GAMING+GTX%201060%E9%BB%91%E8%8B%B9%E6%9E%9CmacOS%2010.13.6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4556,7 +4547,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-9400F-asus-TUF-B360M-RX-570-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90EFI%E3%80%91i5-9400F+%E5%8D%8E%E7%A1%95%20TUF%20B360M-PLUS%20GAMING%20S+%20RX%20570%20Catalina%2010.15.1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4566,15 +4557,6 @@
   
   <url>
     <loc>https://hackintosh.work/8c7b9f60.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/E5-2665-huananzhi-X79.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4601,6 +4583,15 @@
   </url>
   
   <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E5-2665%200%E5%8F%8C%E8%B7%AF%20%E5%8D%8E%E5%8D%97X79-8D%2016G%20GTX%201080%E6%8A%80%E5%98%89%20ALC892%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/56152561.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -4610,7 +4601,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E3-1230-v2-asus-P8B75-V.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E3-1230%20V2%20%E5%8D%8E%E7%A1%95%20P8B75-V%20%20RX%20560%20%20%E8%93%9D%E5%AE%9D%E7%9F%B3%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4619,7 +4610,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-9700K-ga-Z390-GAMING-X-CF.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91E5-2687w%20v3%20%E5%8D%8E%E7%A1%95%20X99-A%20RX%20580%2010.14.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4628,7 +4619,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-broadwell-e-ep-c612-quadro-k5000.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7%20broadwell-e%20ep%20es%20asrockrack%20ep2c612%20quadro%20k5000%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4637,7 +4628,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/E5-2687w%20v3-asus-X99-rx-580.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-9700K%20%E6%8A%80%E5%98%89%20Z390%20GAMING%20X-CF%20RX%205700%20XT%20ALC892%2010.15.2%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4646,7 +4637,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-7500-asus-Z270-P-1060.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i5-7500%20%E5%8D%8E%E7%A1%95%20PRIME%20Z270-P%20GTX%201060%206GB%20%E5%BD%B1%E9%A9%B0%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4655,7 +4646,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-7700K-B250M-E-GTX-1050-Ti-hackintosh.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91%20i7-7700K%20%E6%8A%80%E5%98%89%20B250M-EVO-CF%2016%20GB%20%E6%B5%B7%E7%9B%97%E8%88%B9%20SSD%20970%20PRO%20512GB%20GTX%201060%20%E4%B8%83%E5%BD%A9%E8%99%B9%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4664,7 +4655,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-7700K-asus-msi-PRIME-Z270-AR-1070.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i3-7100%20%E5%BE%AE%E6%98%9F%20B250M%20PRO-V%20GTX%20660%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4673,7 +4664,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i7-7700K-ga-B250M-EVO-CF-gtx-1060-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i5-9600KF%20%E5%BE%AE%E6%98%9F%20MAG%20Z390%20TOMAHAWK%2032%20GB%20GTX%201060%206GB%206%20GB%20%E5%BE%AE%E6%98%9F%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4682,7 +4673,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i3-7100-MSI-B250M-PRO-V-GTX-660.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-7700K%20%E5%BE%AE%E6%98%9F%20B250M-E%20GTX%201050%20Ti%20%20ALC887%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -4691,7 +4682,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/i5-9600KF-msi-MAG-Z390-gtx-1060-1.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E3%80%90%E5%8F%B0%E5%BC%8F%E6%9C%BA%E3%80%91i7-7700K%20%E5%8D%8E%E7%A1%95%20PRIME%20Z270-AR%20GTX%201070%2010.13.6%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BC_Hackintosh_Clover.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -5231,7 +5222,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/3c278796.html</loc>
+    <loc>https://hackintosh.work/6bd0a610.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -5240,7 +5231,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/6bd0a610.html</loc>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/Powerleader-PR1715R-E5-2680-v2%E5%8F%8C%E8%B7%AF-%E8%B6%85%E5%BE%AE-X9DRD-iF-GTX-1060%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BCEFI-CLOVER-10-13-6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -5501,15 +5492,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/4f2854bd.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/i5-10400F-MAG-B460M-MORTAR-VASTARMOR-RX6600-Hackintosh-EFI-OC-0.8.5-MONTEREY-12.6.1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -5529,6 +5511,15 @@
   
   <url>
     <loc>https://hackintosh.work/d2fb9c4f.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E5%8D%8E%E7%A1%95-Z240IC-H110-GT940-All-in-One%E4%B8%80%E4%BD%93%E6%9C%BA%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BCEFI-CLOVER-MOJAVE-10-14-6.html</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -6725,15 +6716,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/6b5242be.html</loc>
-    
-    <lastmod>2022-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/27ef65bc.html</loc>
     
     <lastmod>2022-11-14</lastmod>
@@ -6744,6 +6726,15 @@
   
   <url>
     <loc>https://hackintosh.work/4568d57c.html</loc>
+    
+    <lastmod>2022-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/%E6%83%B3%E4%B8%A2%E5%BC%83%E4%B8%8D%E8%A6%81%E7%9A%84CLOVER%E5%BC%95%E5%AF%BC/%E8%81%94%E6%83%B3-ThinkPad-L440-i5-4210M%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%BC%95%E5%AF%BCEFI-CLOVER-MOJAVE-10-14-6.html</loc>
     
     <lastmod>2022-11-14</lastmod>
     
@@ -8111,223 +8102,6 @@
 
   
   <url>
-    <loc>https://hackintosh.work/tags/E3-1231/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/H81M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/gtx-1060/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B85M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/gtx-960/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/NUC/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-8559U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Iris-Plus-Graphics-655/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-8100/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B360/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-590/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-9100F/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/asrock/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z370/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-470/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-4570/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z87/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-760/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GIGABYTE/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6600k/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z170/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-970/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-7400/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B250M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-630/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/VGA/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-7500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-1060/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-2600/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z68A-D3H-B3/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RADEON-HD-6850/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/tags/i7-2600K/</loc>
     <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -8349,1463 +8123,7 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/tags/i7-4770/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-750-Ti/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-6700K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-7700K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z270/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-1080/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-8700K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-1080-Ti/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-580/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i9-9900K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z390/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6400/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B150M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-950/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-8700/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B360M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4790/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-960/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-8750H/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD-630/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Catalina/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Alienware/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4710HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-4600/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E3-1230/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B85/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-3740QM/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-7970M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-4000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Pavilion/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-9750H/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-7300HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E5-2660/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X79/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/H61/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-8250U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD-620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X99/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-6950X/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-Vega-64/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z170X/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-1070/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X299/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-7800x/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-570/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-9400F/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Quadro/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-9700K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B365M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i9-9900k/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/z390/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/vega-64/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-6100/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B150/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-530/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-4160/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-8265U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/MX150/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-6700HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GP62/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z77/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-680/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/EliteBook/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6300U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/PowerEdge/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E3-1220-v6/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GT-730/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Shinelon/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-5200u/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/hd-5500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Y7000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-9300H/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/ThinkCentre/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-9500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/I7-6700HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/I5-8500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B365/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/C612/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X10DAi/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E5-2683/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-1050-Ti/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/911/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4710hq/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-860M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-4460/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-5820k/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/I5-8500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/I5-7500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/g5400/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/G480/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/5481/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/e3-1230/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-4590/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/H81/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-560/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/B250/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4790K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Z97/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6400T/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/R9-M470X/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/R9-M280X/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E3-1230-V2/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-7800X/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/OC/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E3-1240L-v5/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X150/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E3-1231-v3/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E5-2665/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E3-1245/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E5-2687w-v3/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/G3220/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/R7-240/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Radeon/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/G4560/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/H110M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-650/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-4170/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-7100/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-660/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-3470/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6600/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-980/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-1050/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-8500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-9400f/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-9600KF/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/broadwell/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/c612/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/k5000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-9600T/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4770K/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Quadro-K5000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/H310M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/P620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-6700/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/RX-5700-XT/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i9-9900KF/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Quadro-M4000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4720HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD630/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-7200U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-Graphics-620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6300HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-6200U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-520/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/aspire/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-3337U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/hd-4000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/hd630/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD630/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Inspiron/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4500U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/hd4400/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GT-750M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-8300H/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-5200U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-5500/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i3-3217U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD4000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4710mq/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/hd-4600/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Strix/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/asus/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/ASUS/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-8550U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD-620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X9DAi/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/E5-2680/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/tags/EFI/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Acer/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Aspire/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-3230M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/TravelMate/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Surface/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-8650U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HP/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-3520M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HD-7570M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Dell/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Inspiron-5557/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/GTX-930M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-7700HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Gigabyte/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/X58/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-930/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Quadro-K2200/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/AERO/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD-630/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-8350U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/UHD-Graphics-620/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Quadro-P2000/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Machenike/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/VULCAN/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/I7-7700HQ/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/HASEE/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/P65xHP/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Hasee/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-7700/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Lenovo/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/G50-80/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-5500U/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/Radeon-R5-M330/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/ThinkPad/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i5-4300M/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/IdeaPad/</loc>
-    <lastmod>2022-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hackintosh.work/tags/i7-4700MQ/</loc>
     <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
