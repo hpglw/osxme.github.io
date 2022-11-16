@@ -154,14 +154,13 @@ Usb设置里把ehci交换启用
   </entry>
   <entry>
     <title>8Gen ES CPU  -  ONDA  B365SD4-ITX -  Sapphire  RX6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/9411e13b.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/8Gen-ES-CPU-ONDA-B365SD4-ITX-Sapphire-RX6600-XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>   8Gen ES  <strong>CPU</strong><br><strong>Motherboard</strong>   ONDA  B365SD4-ITX<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  ST9750420AS<br><strong>Graphic</strong>   Sapphire  RX6600 XT<br><strong>Display</strong>  AOC2802</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-**CPU** 是 8Gen ES CPU ，具体什么型号也 清楚，但只要是8 9代都可以。其它两个都是比较通用的了。
 
 
 </div>
@@ -172,10 +171,7 @@ Usb设置里把ehci交换启用
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=ddf851c84de611edae0a52540025c377"> 8Gen ES  <strong>CPU</strong>  -  ONDA  B365SD4-ITX -  Sapphire  RX6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1X5oaVg5-gkxvRSI4uxO5k5FPtw9Mpitk/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -313,17 +309,15 @@ gt730可以 Install 最高Big Sur系统
   </entry>
   <entry>
     <title>Alienware 17 R2 i7-4980HQ HD5200 Hackintosh Installation OC 7.9 Big Sur 11.6.7</title>
-    <url>/2d3d8db.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Alienware-17-R2-i7-4980HQ-HD5200-Hackintosh-Installation-OC-7.9-Big-Sur-11.6.7.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>Alienware 17 R2<br><strong>CPU</strong>  i7-4980HQ<br><strong>Motherboard</strong>  Alienware 17 R2<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>  SAMSUNG  MZNTD128HAGM-00000 (128 GB<br><strong>Graphic</strong>  Intel(R) Iris(IM) Pro Graphics 5200<br><strong>Display</strong>  1080P<br><strong>Audio</strong>  Creative CA0132<br><strong>Network</strong>  Intel(R) Dual Band Wireless-AC 3160 (192. ( TRIAL VERSION )<br>Killer E2200 Gigabit Ethernet Controller</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-bios里boot里的legacy option roms要开启enabled
 
-<p>驱动的东西有 IGPU ，<strong>Audio</strong> ， LAN <strong>Network</strong> ， WIFI （应该是换过的），蓝牙，触屏，触控板，电池，外接<strong>Display</strong> ，读卡器，其它比较一点。<br><img src="/images/pasted-403.png"><br><strong>Audio</strong> 型号比较少见</p>
-<p>总体来说这个ok的，<strong>CPU</strong> 也强大。</p>
+<p><img src="/images/pasted-403.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -332,10 +326,7 @@ bios里boot里的legacy option roms要开启enabled
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Big Sur 11.6.7</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=d33a059e4de411eda05452540025c377">Alienware 17 R2 i7-4980HQ HD5200 Hackintosh Installation OC 7.9 Big Sur 11.6.7</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Gp0_K1Qsvoa7rL36XpRBvLhmGvZf_Zl7/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -2596,17 +2587,16 @@ Bios里要改显存为64mb，禁用传统 EFI 和安全 EFI
   </entry>
   <entry>
     <title>HP Slim Desktop 290-p0xxx i3-9100 IGPU HDMI Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/323ec454.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/HP-Slim-Desktop-290-p0xxx-i3-9100-IGPU-HDMI-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                HP Slim Desktop 290-p0xxx  Desktop<br>  <strong>CPU</strong>                  INTEL  Core i3-9100 @ 3.60GHz<br>  <strong>Motherboard</strong>                     HP  843F（H370  Chipset ）<br>   <strong>GPU</strong>                    INTEL  UHD Graphics 630 ( 128 MB &#x2F;  HP  )<br>  <strong>Memory</strong>                    8 GB ( SAMSUNG  DDR4 2666MHz 8GB )<br>  <strong>Hard Drive</strong>                   Hynix  SK BC501 HFM512GDJTNG-8310A (512 GB &#x2F;  SSD )<br>  <strong>Display</strong>                  Lenovo  LEN1150 L222wA ( 22   )<br>  <strong>Audio</strong>                     Realtek   ALC 671 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F;  HP </p>
 </blockquote>
-<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-HP Slim Desktop 290-p0xxx  Mini PC Hackintosh macos monterey 12.4系统， Dual Boot 加windows，，IGPU UHD630， HDMI 线， IGPU ，**Audio** ， LAN **Network** ，usb驱动，稳定正常使用，可剪辑视频。
-![](/images/pasted-406.png)
-Installation Video：https://youtu.be/OU2p4LKn_l4
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><p>Installation Video：<a href="https://youtu.be/OU2p4LKn_l4">https://youtu.be/OU2p4LKn_l4</a></p>
+<div class="justified-gallery">
 
+<p><img src="/images/pasted-406.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -2615,10 +2605,7 @@ Installation Video：https://youtu.be/OU2p4LKn_l4
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=a118b04c4de411eda86a52540025c377">HP Slim Desktop 290-p0xxx i3-9100 IGPU HDMI Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/183hMKXHqVy2A7QscDQl8K1R63FxUgggL/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -5839,14 +5826,13 @@ Installation Video：https://youtu.be/aSUCed9ObrI
   </entry>
   <entry>
     <title>i3-9100F - ASUS  B365M-PIXIU - GTX1060 Hackintosh Installation EFI OC7.9 MACOS 10.13.6</title>
-    <url>/af76d6a9.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i3-9100F-ASUS-B365M-PIXIU-GTX1060-Hackintosh-Installation-EFI-OC7.9-MACOS-10.13.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac1013.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i3-9100F @ 3.60GHz<br>  <strong>Motherboard</strong>                    ASUS  B365M-PIXIU（300 Series  Chipset  Family (B365)）<br>   <strong>GPU</strong>                    NVIDIA GeForce GTX 1060 3GB ( 3 GB &#x2F; NVIDIA )<br>  <strong>Memory</strong>                    8 GB (  KingSton  DDR4 2133MHz 4GB &#x2F;  KingSton  DDR4 2400MHz 4GB )<br>  <strong>Hard Drive</strong>                   Lexar  480GB SSD (480 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   Acer  ACR0310 Acer S220HQL ( 21.5   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F; ASUS </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-9代加b365**Motherboard** ，gtx1060只能 Install macos High Sierra10.13.6版本。
 
 
 </div>
@@ -5857,10 +5843,7 @@ Installation Video：https://youtu.be/aSUCed9ObrI
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>High Sierra 10.13.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=284d5d604dcc11edbdac52540025c377">i3-9100F - ASUS  B365M-PIXIU - GTX1060 Hackintosh Installation EFI OC7.9 MACOS 10.13.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1eqju9Rkxe-yfc0YfIh8bG3WkcjL4RGd6/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -6504,17 +6487,15 @@ Installation Video：https://youtu.be/IJ0-UhvHpLo
   </entry>
   <entry>
     <title>i5-10400F - ASUS  PRIME B560M-K - GTX 750 Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/2c707388.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-10400F-ASUS-PRIME-B560M-K-GTX-750-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i5-10400F @ 2.90GHz<br>  <strong>Motherboard</strong>                    ASUS  PRIME B560M-K（LPC Controller B560 Chipset ）<br>   <strong>GPU</strong>                    NVIDIA GeForce GTX 750 ( 2 GB &#x2F;  Colorful  )<br>  <strong>Memory</strong>                    8 GB (  KingSton  DDR4 2666MHz 8GB )<br>  <strong>Hard Drive</strong>                   TECLAST  256GB A850 (256 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   HKC  HKC2711 V2712 ( 27   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-V &#x2F; ASUS </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只opencl，故很多软件可能 。
-![](/images/pasted-402.png)
 
-
+<p><img src="/images/pasted-402.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -6523,10 +6504,7 @@ gtx750通过补丁强上monterey 12.4系统，能驱动，但 metal图形，只o
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=3f87e1e44de511ed9a4752540025c377">i5-10400F - ASUS  PRIME B560M-K - GTX 750 Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1oT4SAVlzf4q3MzRGRc4czPYfmP2RwrW1/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -10180,14 +10158,13 @@ bios设置，进bios里，左边oc，**CPU** 特征，cfg锁定，禁止
   </entry>
   <entry>
     <title>i7-10700 - MSI MPG B460I GAMING EDGE WIFI -  ASRock  RX6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/38127ada.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-10700-MSI-MPG-B460I-GAMING-EDGE-WIFI-ASRock-RX6600-XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY%20-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i7-10700<br><strong>Motherboard</strong>  MSI MPG B460I GAMING EDGE WIFI<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  WDC PC SN530<br><strong>Graphic</strong>  AMD Radeon RX 6600 XT (ASRock)<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 1200<br><strong>Network</strong>  INTEL  wifi</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-**Motherboard** 带intel wifi可以驱动，蓝牙可以用。
 
 
 </div>
@@ -10198,10 +10175,7 @@ bios设置，进bios里，左边oc，**CPU** 特征，cfg锁定，禁止
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=7de507124de711ed8b4152540025c377">i7-10700 - MSI MPG B460I GAMING EDGE WIFI -  ASRock  RX6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Cn9JlXdrZ1dgMbJhVlKXDAYz4mg2Ht4a/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -12232,14 +12206,13 @@ Settings里高级，内建显示设置里，把**Graphic** 改为igd,显存改64
   </entry>
   <entry>
     <title>i7-7700K - ASUS  PRIME Z270-A - GTX1080 Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/ae264822.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i7-7700K-ASUS-PRIME-Z270-A-GTX1080-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i7-7700K @ 4.20GHz<br>  <strong>Motherboard</strong>                    ASUS  PRIME Z270-A（Z270  Chipset ）<br>   <strong>GPU</strong>                    NVIDIA GeForce GTX 1080 ( 8 GB &#x2F; ASUS  )<br>  <strong>Memory</strong>                    32 GB (  ADATA  DDR4 2801MHz )<br>  <strong>Hard Drive</strong>                   Crucial  CT750MX300SSD1 (750 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   SONY  SNY7905 SONY TV  30 ( 55   )<br>  <strong>Audio</strong>                    C-Media Electronics Inc. Bloody Gaming Audio Device<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-V ASUS </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-屏蔽了独显，接在**Motherboard** 上用 IGPU  Install 的，上monterey 12.4，使用的是dp转HDMI线，接的 TV 机。
 
 
 </div>
@@ -12250,10 +12223,7 @@ Settings里高级，内建显示设置里，把**Graphic** 改为igd,显存改64
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=39a9a9ae4de711edbafa52540025c377">i7-7700K - ASUS  PRIME Z270-A - GTX1080 Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/16tDC03N1-7NLFnw_ucW-g7T-Xi4LOkpf/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -15478,14 +15448,13 @@ wifi 连5g信号
   </entry>
   <entry>
     <title>ASUS  VivoBook ASUSLaptop X571GT VX6OGT i7-9750H Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/47a51550.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/ASUS-VivoBook-ASUSLaptop-X571GT-VX6OGT-i7-9750H-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>ASUS  VivoBook ASUSLaptop X571GT VX6OGT<br><strong>CPU</strong>  i7-9750H<br><strong>Motherboard</strong>  X571GT<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  c2000pro<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 255<br><strong>Network</strong>  Wireless-AC 9560</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-ASUS  VivoBook ASUSLaptop X571GT VX6OGT i7-9750H Laptop  Install monterey 12.4
 
 
 </div>
@@ -15496,10 +15465,7 @@ ASUS  VivoBook ASUSLaptop X571GT VX6OGT i7-9750H Laptop  Install monterey 12.4
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=ec590b564de411eda4ca52540025c377">ASUS  VivoBook ASUSLaptop X571GT VX6OGT i7-9750H Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1CpMBXL3L6lgu8IkM235Gl4LP6pY8RnaZ/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -15566,20 +15532,15 @@ ASUS  VivoBook ASUSLaptop X571GT VX6OGT i7-9750H Laptop  Install monterey 12.4
   </entry>
   <entry>
     <title>ASUS  Vivobook 15 X571LH_F571LH i5-10300H Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/b412e184.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/ASUS-Vivobook-15-X571LH_F571LH-i5-10300H-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>ASUS  Vivobook 15 X571LH_F571LH<br><strong>CPU</strong>  i5-10300H<br><strong>Motherboard</strong>  x571LH<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  INTEL Optane 512g<br><strong>Graphic</strong>  UHD+NVDIAGeForce GTX 1650<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 255<br><strong>Network</strong>  Wi-Fi 6 AX201</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- 能 Install 在sata **SSD** 上，因为无法改变raid **SSD** 模式，macos 认。可以装在NVME上，部分机型是intel的 Optane ，这个也是。
-![](/images/pasted-405.png)
-![](/images/pasted-404.png)
-己知驱动 IGPU ，**Audio** ， LAN **Network** ， WIFI ，触控板，电池等，外接 行。
-
-
-
+ 
+<p><img src="/images/pasted-405.png"><br><img src="/images/pasted-404.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -15588,10 +15549,7 @@ ASUS  VivoBook ASUSLaptop X571GT VX6OGT i7-9750H Laptop  Install monterey 12.4
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=bd08fd984de411ed9ba952540025c377">ASUS  Vivobook 15 X571LH_F571LH i5-10300H Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1DwDhWX74vN1GYtZhoLCuDsyLqNK_5VC3/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -16187,17 +16145,15 @@ Installation Video：https://youtu.be/ymY-sMisaRw
   </entry>
   <entry>
     <title>ASUS X555LB i5-5200U Laptop  Hackintosh Installation EFI OC 7.9 MONTEREY 12.4</title>
-    <url>/3ef593eb.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/ASUS-X555LB-i5-5200U-Laptop-Hackintosh-Installation-EFI-OC-7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                ASUS  X555LB  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i5-5200U @ 2.20GHz<br>  <strong>Motherboard</strong>                    ASUS  X555LB（5th Generation Intel Core Premium SKU - 9CC3  Laptop  Chipset ）<br>   <strong>GPU</strong>                    NVIDIA GeForce 940M ( 2 GB &#x2F; ASUS  )<br>  <strong>Memory</strong>                    4 GB (  Micron  DDR3 1600MHz 4GB )<br>  <strong>Hard Drive</strong>                   SanDisk  SD8SBAT128G1122 (128 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   CHIMEI  CMN15B8 ( 15.5   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F; ASUS </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-ASUS X555LB i5-5200U(HD5500) Laptop Hackintosh 作业汇报，驱动 IGPU ，**Audio** ， LAN **Network** ，（ WIFI BCM43142无解）usb**Network** 解决，电池电量，触控板，变频，usb，度90%,流畅使用，Big Sur11.6.7系统，u盘原版 Install ，开机即进macos，高端大气，老本也一样好用！
-![](/images/pasted-410.png)
 
-
+<p><img src="/images/pasted-410.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -16206,10 +16162,7 @@ ASUS X555LB i5-5200U(HD5500) Laptop Hackintosh 作业汇报，驱动 IGPU ，**A
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=11f4ffbe4dcc11edb22552540025c377">ASUS X555LB i5-5200U Laptop  Hackintosh Installation EFI OC 7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Tabr3O0a_66KhsF3yl8RC-h29ZHv0fIo/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -18625,17 +18578,15 @@ Bios中，需要在secuity中的secure boot关掉安全 EFI ，boot中还有一�
   </entry>
   <entry>
     <title>DELL   Inspiron 5458 i5-5200U Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/e6c5786f.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-Inspiron-5458-i5-5200U-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> DELL   Inspiron 5458<br><strong>CPU</strong>  i5-5200U<br><strong>Motherboard</strong>   DELL   00M6FY<br><strong>Memory</strong>  4 GB<br><strong>Hard Drive</strong>   Toshiba  MO01ABF050(500 GB)<br><strong>Graphic</strong>  hd5500+920m<br><strong>Display</strong>  1366x768<br><strong>Audio</strong>   ALC 255<br><strong>Network</strong>  Dual Band Wireless AC 3160</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-能折腾一天的 Laptop Hackintosh  Install 之Dell Inspiron 5458 Laptop ，5代i5-5200u hd5500 IGPU ，比较上年纪的一台 Laptop ，Hackintosh monterey 12.4系统，。u盘原版 Install ，本来没什么难度的，关键在于，这是一块机械 **SSD** ！！！！！什么年代了还用机械 **SSD** ，还要装最新的macos monterey 12.4系统，结果就是装了整整半天时间，最后出来系统反应一般，但比起windows，还算 错了， IGPU ，**Audio** ， LAN **Network** ， WIFI wifi，蓝牙，触控板，电池电量都有，基本算95%完算了。再也 械 **SSD** 的 Laptop 了，太折腾人了。
-![](/images/pasted-411.png)
 
-
+<p><img src="/images/pasted-411.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -18644,10 +18595,7 @@ Bios中，需要在secuity中的secure boot关掉安全 EFI ，boot中还有一�
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=c3204a9c4dcb11edba9e52540025c377"> DELL   Inspiron 5458 i5-5200U Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1-kaBRN9pEI3FjM1bJAzFHUg1GD658Jxv/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -21198,14 +21146,13 @@ Installation Video：https://youtu.be/vaNe8ChzPic
   </entry>
   <entry>
     <title>DELL  XPS 13 9360 i5-7200U Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
-    <url>/fbdb5f53.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-XPS-13-9360-i5-7200U-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> DELL  XPS 13 9360<br><strong>CPU</strong>  i5-7200U<br><strong>Motherboard</strong>  o5HM5V<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  KIOXIA-EXCERIA G2 SSD (1 TB<br><strong>Graphic</strong>  hd620<br><strong>Display</strong>  1080P<br><strong>Network</strong>  Atheros Killer Wireless-n&#x2F;a&#x2F;ac 1535</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- WIFI **Network** 是无法驱动的这台，也没有 LAN **Network** ，只能说换**Network** 或者使用usb**Network** 。
 
 
 </div>
@@ -21216,10 +21163,7 @@ Installation Video：https://youtu.be/vaNe8ChzPic
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=4e5341c44de411ed85ea52540025c377"> DELL  XPS 13 9360 i5-7200U Hackintosh Installation EFI OC7.9 MONTEREY 12.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Ka0DyHbEL7leud9aLp7dA04G-j2TSqSY/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -21311,17 +21255,15 @@ Installation Video：https://youtu.be/vaNe8ChzPic
   </entry>
   <entry>
     <title>DELL  inspiron 5593 i5-1035g1 Hackintosh Installation oc 7.9 Monterey 12.5</title>
-    <url>/8acdf4df.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-inspiron-5593-i5-1035g1-Hackintosh-Installation-oc-7.9-Monterey-12.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model              DELL   Inspiron 5593  Laptop<br>  <strong>CPU</strong>               INTEL  Core i5-1035G1 @ 1.00GHz<br>  <strong>Motherboard</strong>                  DELL   0HP5Y9 ( I&#x2F;O - 3482 for Intel 495 Series  Chipset  Family On-Package Platform Controller Hub )<br>  <strong>Graphic</strong>               Nvidia GeForce MX230 ( 2 GB &#x2F;  DELL   )<br>  <strong>Memory</strong>                 16 GB ( DDR4 2667MHz &#x2F;  Kimtigo  DDR4 2667MHz )<br>  <strong>Hard Drive</strong>                KBG40ZNS512G NVME KIOXIA 512GB ( 512 GB &#x2F; SSD)<br>  <strong>Display</strong>                BOE  BOE0819 ( 15.5   )<br>  <strong>Audio</strong>                  Realtek  High Definition Audio @ INTEL  INTEL  Controller<br>  <strong>Network</strong>                 INTEL  Wireless-AC 9560</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- DELL   Inspiron 5593  Laptop Hackintosh monterey 12.5作业， Dual Boot win11+monterey 12.5.i5-1035G1 **CPU** ，UHD IGPU ，mx230独显， Toshiba NVME SSD，ac9560 WIFI **Network** 。已知驱动 IGPU ，**Audio** ， WIFI **Network** ， LAN **Network** ，蓝牙估计可用，触控板，电池等，度90%，流畅使用。
-![](/images/pasted-409.png)
 
-
+<p><img src="/images/pasted-409.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -21330,10 +21272,7 @@ Installation Video：https://youtu.be/vaNe8ChzPic
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=66d45ac64de411ed9f0552540025c377"> DELL  inspiron 5593 i5-1035g1 Hackintosh Installation oc 7.9 Monterey 12.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Q79waUmUjSKZHEXUV6A6Q87AYX22xjlb/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -22867,19 +22806,16 @@ Wifi连接工具 Download ：https://github.com/OpenIntelWireless/HeliPort
   </entry>
   <entry>
     <title>Hasee K710C-i7 d2（CW67S）i7-4710MQ Hackintosh Installation EFI OC7.9 Big Sur 11.6.5</title>
-    <url>/7897733a.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/Hasee-K710C-i7-d2-CW67S-i7-4710MQ-Hackintosh-Installation-EFI-OC7.9-Big-Sur-11.6.5.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                 Hasee K710C-i7 d2（CW67S）<br>  <strong>CPU</strong>                  INTEL   i7-4710MQ @ 2.50GHz<br>  <strong>Motherboard</strong>                    Notebook W65_67SR（Lynx Point）<br>   <strong>GPU</strong>                    NVIDIA GeForce GT 750M ( 2 GB &#x2F;  CLEVO (CLEVO) )<br>  <strong>Memory</strong>                    16 GB (  Team  DDR3L 1600MHz 8GB x 2 )<br>  <strong>Hard Drive</strong>                   SanDisk  SD7SF6S512G1122 (512 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AUO  AUO159E ( 17.2   )<br>  <strong>Audio</strong>                     VIA   @ INTEL  Lynx Point<br>  <strong>Network</strong>                     Broadcom  Broadcom 802.11ac Network Adapter &#x2F; Azurewave</p>
 </blockquote>
-<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-老本重生， Hasee K710C-i7 d2 Hackintosh EFI Big Sur 11.6.5，真的比windows好用太多，流畅。 IGPU ，**Audio** ， LAN **Network** ，更换的 Broadcom **Network** wifi蓝牙，触控板，外接**Display** ，usb。
-![](/images/pasted-408.png)
-![](/images/pasted-407.png)
-Installation Video：https://youtu.be/oJoQ8cL441w
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><p>Installation Video：<a href="https://youtu.be/oJoQ8cL441w">https://youtu.be/oJoQ8cL441w</a></p>
+<div class="justified-gallery">
 
-
+<p><img src="/images/pasted-408.png"><br><img src="/images/pasted-407.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -22888,10 +22824,7 @@ Installation Video：https://youtu.be/oJoQ8cL441w
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Big Sur 11.6.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=80d3f54e4de411ed8d5852540025c377"> Hasee K710C-i7 d2（CW67S）i7-4710MQ Hackintosh Installation EFI OC7.9 Big Sur 11.6.5</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1gNX9P3AqP_So-Hc4ZUVguL9bfNEGhQhh/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -23965,14 +23898,13 @@ Installation Video：https://youtu.be/F6RnwRnSUN8
   </entry>
   <entry>
     <title>Lenovo  ThinkCentre M920x i9-9900T RX560 Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/a55d5931.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/ThinkCentre-M920x-i9-9900T-RX560-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i9-9900T @ 2.10GHz<br>  <strong>Motherboard</strong>                    Lenovo  3135（Q370  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 560 Series<br>  <strong>Memory</strong>                    16 GB (  KingSton  DDR4 2666MHz 16GB )<br>  <strong>Hard Drive</strong>                  SAMSUNG  SSD 980  1TB  (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                  HWV0030 HUAWEI INC ( 64.2   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-LM &#x2F; Lenovo </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-Lenovo  ThinkCentre M920x品牌机Hackintosh monterey 12.4
 
 
 </div>
@@ -23983,10 +23915,7 @@ Lenovo  ThinkCentre M920x品牌机Hackintosh monterey 12.4
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=0bb50ffc4de711edaa2252540025c377">Lenovo  ThinkCentre M920x i9-9900T RX560 Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1TGwQ8GM_Vbm-4q_zKQt8fazljCpOpX-O/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -26450,19 +26379,15 @@ Installation Video：https://youtu.be/BBPX72_38Gw
   </entry>
   <entry>
     <title>THUNDEROBOT  911 Plus i7-9750H Laptop  Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/bd16b83b.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/THUNDEROBOT-911-Plus-i7-9750H-Laptop-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>  THUNDEROBOT  911 Plus<br><strong>CPU</strong>  i7-9750H<br><strong>Motherboard</strong>  THUNDEROBOT NH75RXQ-HL<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   LITEON  LITEON CL1-8D256 ( 256G8)<br><strong>Graphic</strong>  UHD630+NVIDIA GeForce GTX 1650<br><strong>Display</strong>  BOE0856 NV173FHM-NY1 (17.159 )<br><strong>Audio</strong>   ALC 269<br><strong>Network</strong>  INTEL  Wireless-AC 9462</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-401.png)
- CLEVO   Laptop ，9代i7**CPU** 配gtx 1650独显，性能还行，就是**Memory** 有点小。
-万年 变的 ALC 269**Audio** ，真的很一般
-可驱动wifi和蓝牙，除了独显和外接 行，其它还算完好，运行稳定，工作娱乐代码首选。
 
-
+<p><img src="/images/pasted-401.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -26471,10 +26396,7 @@ Installation Video：https://youtu.be/BBPX72_38Gw
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=9c9f4eb04de711edbad352540025c377">  THUNDEROBOT  911 Plus i7-9750H Laptop  Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Rpk81UU-vfPyGEGDQgLa1B36yPKEy-4R/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
