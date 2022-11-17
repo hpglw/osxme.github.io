@@ -2005,19 +2005,15 @@ usb里把echi hand off改为enabled.
   </entry>
   <entry>
     <title>MECHREVO X7Ti-S GE5KN61 i7-7700HQ DGPU  Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/dc2c732c.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/MECHREVO-X7Ti-S-GE5KN61-i7-7700HQ-DGPU-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                MECHREVO X7Ti-S Series GE5KN61  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i7-7700HQ @ 2.80GHz<br>  <strong>Motherboard</strong>                    MECHREVO X7Ti-S Series GE5KN61（100 Series&#x2F;C230 Series  Chipset  Family - A152）<br>   <strong>GPU</strong>                    NVIDIA GeForce GTX 1060 ( 6 GB &#x2F;  Tongfang  )<br>  <strong>Memory</strong>                    16 GB (  KingSton  DDR4 2400MHz )<br>  <strong>Hard Drive</strong>                   Phison SM280128GPTCB2T-S112610 (128 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   SHARP  SHP142A LQ156D1JX01B ( 15.6   )<br>  <strong>Audio</strong>                     Realtek   ALC 269 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F;  Tongfang </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- MECHREVO  深海泰坦X7Ti机械版
-注意，这台 Laptop 只有独显， IGPU 是被屏蔽的，用补丁 Install 上monterey 12.4，没有metal，所以 少新的软件无法运行，需要 Install no matal的老版软件。
-其它相对来说驱动还行，也可以 Install macos High Sierra 10.13.6版本，但也太老了，如果要求 高，可以装monterey 12.4，使用起来没有问题，就是软件要花点心思。
-![](/images/pasted-383.png)
-
-
+ 
+<p><img src="/images/pasted-383.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -2026,10 +2022,7 @@ usb里把echi hand off改为enabled.
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=beab5f2c4dff11ed944952540025c377">MECHREVO X7Ti-S GE5KN61 i7-7700HQ DGPU  Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1rnJtbY4Fkq2ZTZJym3txb3pn7w4ZkJMX/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -2315,19 +2308,15 @@ Installation Video：https://youtu.be/ErcsjDvxV3g
   </entry>
   <entry>
     <title>HP Pavilion Gaming Laptop 15-dk0xxx i5-9300H Hackintosh Installation  MONTEREY 12.4 EFI OC7.9</title>
-    <url>/d09b5357.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/HP-Pavilion-Gaming-Laptop-15-dk0xxx-i5-9300H-Hackintosh-Installation-MONTEREY-12.4-EFI-OC7.9.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>HP Pavilion Gaming Laptop 15-dk0xxx<br><strong>CPU</strong>  i5-9300H<br><strong>Motherboard</strong>  85FA<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  NVME  hikvision  1TB<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 295<br><strong>Network</strong>  INTEL  Wireless-ax</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-这台 Laptop 很多都是pm981 SSDNVME Port ，这个 **SSD**  能 Install ，需要更换其它 SSD，请参考：
-/images/cdc6109c.html
-这台 能 Install 在sata **SSD** 上，因为sata是rst模式的， APPLE 系统只ahci
-![](/images/pasted-384.png)
 
-
+<p><img src="/images/pasted-384.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -2336,10 +2325,7 @@ Installation Video：https://youtu.be/ErcsjDvxV3g
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=8e6703164dff11ed997d52540025c377">HP Pavilion Gaming Laptop 15-dk0xxx i5-9300H Hackintosh Installation  MONTEREY 12.4 EFI OC7.9</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Zkyi1XxrLUcZVyTSD2HQ2e6N8cUmnc0h/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -5910,19 +5896,15 @@ Installation Video：https://youtu.be/aSUCed9ObrI
   </entry>
   <entry>
     <title>i5-10400 -  Colorful  BATTLE-AX B460M-HD PRO IGPU HDMI Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/e5551ade.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-10400-Colorful-BATTLE-AX-B460M-HD-PRO-IGPU-HDMI-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                 Colorful  BATTLE-AX B460M-HD PRO  Desktop<br>  <strong>CPU</strong>                  INTEL  Core i5-10400 @ 2.90GHz<br>  <strong>Motherboard</strong>                     Colorful  BATTLE-AX B460M-HD PRO（LPC Controller B460 Chipset ）<br>   <strong>GPU</strong>                    INTEL  UHD Graphics 630 ( 128 MB &#x2F; INTEL  )<br>  <strong>Memory</strong>                    32 GB (  MAXSUN  DDR4 2666MHz )<br>  <strong>Hard Drive</strong>                  NVME 256GB (256 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   HKC  HKC0000 General ( 32   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-10代IGPU Hackintosh ， Colorful  BATTLE-AX B460M-HD PRO**Motherboard** ，UHD630 IGPU ，用的是HDMI Port ，直通无 To 。
-**Motherboard** 上的dvi和vga都 。
-usb端口全定制。
-其它驱动都完好。 Install 的是monterey 12.4
-![](/images/pasted-381.png)
 
+<p><img src="/images/pasted-381.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -5931,10 +5913,7 @@ usb端口全定制。
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=2cfd1a564e0011ed9b5952540025c377">i5-10400 -  Colorful  BATTLE-AX B460M-HD PRO IGPU HDMI Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1qGGC_H3Ova8wq2Em5jOKKU0s6QlDqC11/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -5949,20 +5928,15 @@ usb端口全定制。
   </entry>
   <entry>
     <title>i5-10400 - ASUS  ROG STRIX B460-I GAMING IGPU HDMI  Hackintosh Installation  EFI OC7.9 MONTEREY 12.4</title>
-    <url>/75680ba0.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-10400-ASUS-ROG-STRIX-B460-I-GAMING-IGPU-HDMI-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p><strong>CPU</strong>   (INTEL )Intel(R) Core(TM) i5-10400 <strong>CPU</strong>  @ 2.90GHz(2904 MHz)<br><strong>Motherboard</strong>   ASUS  ROG STRIX B460-I GAMING<br><strong>Memory</strong>   16.00 GB (   2133 MHz)<br><strong>Hard Drive</strong>   500 GB ( Seagate  KINGSTON SNVS500GB )<br> <strong>GPU</strong>   Intel(R) UHD Graphics 630 (1024 MB)<br><strong>Display</strong>   Lenovo  Q24i-10  75Hz<br><strong>Audio</strong>   INTEL (R) <strong>Display</strong><br><strong>Network</strong>   Intel(R) Wi-Fi 6 AX200 160MHz</p>
+<p><strong>CPU</strong>   (INTEL )Intel(R) Core(TM) i5-10400 <strong>CPU</strong>  @ 2.90GHz(2904 MHz)<br><strong>Motherboard</strong>   ASUS  ROG STRIX B460-I GAMING<br><strong>Memory</strong>   16.00 GB (   2133 MHz)<br><strong>Hard Drive</strong>   500 GB ( Seagate  KINGSTON SNVS500GB )<br> <strong>GPU</strong>   Intel(R) UHD Graphics 630 (1024 MB)<br><strong>Display</strong>   Lenovo  Q24i-10  75Hz<br><strong>Network</strong>   Intel(R) Wi-Fi 6 AX200 160MHz</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-个人认为10代**CPU** 配b460**Motherboard** 是最适合Hackintosh 的。尤其是IGPU  Install ，dp就 用说了，基本直接亮，HDMI比较麻烦一些，定制一下端口就可以。
-![](/images/pasted-389.png)
-ax200 WIFI **Network** wifi和蓝牙，但蓝牙 一定什么设备都能连得上。
-b460定制usb端口可能会比较麻烦一些
-这套办公娱乐还是 错的。
 
-
+<p><img src="/images/pasted-389.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -5971,10 +5945,7 @@ b460定制usb端口可能会比较麻烦一些
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=cd3e3d524df011ed92fa52540025c377">i5-10400 - ASUS  ROG STRIX B460-I GAMING IGPU HDMI  Hackintosh Installation  EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1HNtX0CRVMKvH5bgk0xtE-iRcgE_zUEHE/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -8411,20 +8382,15 @@ gtx 960独显只能 Install 10.13.6版本
   </entry>
   <entry>
     <title>i5-7500 - ASUS  PRIME B250M-J- ASUS   RX6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/fe9e4b80.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-7500-ASUS-PRIME-B250M-J-ASUS-RX6600-XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i5-7500 @ 3.40GHz<br>  <strong>Motherboard</strong>                    ASUS  PRIME B250M-J（B250  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 6600 XT ( 8 GB &#x2F; ASUS  )<br>  <strong>Memory</strong>                    32 GB (  KingSton  DDR4 2666MHz 16GB x 2 )<br>  <strong>Hard Drive</strong>                   Hynix  HFS256GD9TNG-62A0A (256 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   DELL   DEL41EF DELL S2421H ( 23.8   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Broadcom  Broadcom 802.11ac Network Adapter &#x2F;  APPLE </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-更换了 Broadcom BCM94360cs WIFI **Network** ，隔空，接力wifi蓝牙等。
-开启了 IGPU ，但没什么作用，因为 RX6600 xt够强大了
-有两块 **SSD** ，是 Install 在 KingSton  SSD上的， Hynix 的 太建议经常翻车
-整体非常配合Hackintosh ，有 IGPU ，有独显性能强大， Install monterey 12.4非常适合，这套价格也合适。最主要配合 Broadcom BCM94360cs**Network** 就比较完整了的体验了。
-![](/images/pasted-386.png)
-![](/images/pasted-387.png)
 
+<p><img src="/images/pasted-386.png"><br><img src="/images/pasted-387.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -8433,10 +8399,7 @@ gtx 960独显只能 Install 10.13.6版本
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=4eb9fb3a4dfd11ed9dc352540025c377">i5-7500 - ASUS  PRIME B250M-J- ASUS   RX6600 XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1u7ioyQCPrGvhpkAco0UB_9q8M1tne-hb/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -9210,18 +9173,15 @@ Usb设置里xhci hand off开启
   </entry>
   <entry>
     <title>i5-9400F - ASUS PRIME B365M-K - ASUS GTX 1050ti Hackintosh Installation EFI OC7.9 MACOS 10.13.6</title>
-    <url>/a274b0b7.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-9400F-ASUS-PRIME-B365M-K-ASUS-GTX-1050ti-Hackintosh-Installation-EFI-OC7.9-MACOS-10.13.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac1013.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong> Intel Core i5 9400F @ 2.90GHz	37 °C<br>    <strong>RAM</strong> 16.0GB<br>    <strong>Motherboard</strong> ASUSTeK COMPUTER INC. PRIME B365M-K<br>    <strong>GPU</strong> NVIDIA GeForce GTX 1050 Ti<br>    <strong>SSD</strong> KINGSTON SA400S37240G (SATA-2 (SSD)</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-![](/images/pasted-385.png)
-gtx 1050ti现在（2022-7月更新）可以 Install monterey 或者Big Sur了，但唯一 能解决也是最大 能忍受的是 metal，所以基本上很多软件都无法运行的，使用起来会非常麻烦，还是建议用High Sierra 10.13.6，虽然是老了点，但metal是的。
-如果可以接受 Install 非metal的软件，可以尝试monterey或者Big Sur。
 
-
+<p><img src="/images/pasted-385.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -9230,10 +9190,7 @@ gtx 1050ti现在（2022-7月更新）可以 Install monterey 或者Big Sur了，
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>High Sierra 10.13.6</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=8b42497c4dfd11edbcc752540025c377">i5-9400F - ASUS PRIME B365M-K - ASUS GTX 1050ti Hackintosh Installation EFI OC7.9 MACOS 10.13.6</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/10OhdAGm9p0G-P_W08mTfCZERQT7egJBl/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>DGPU</li>
 <li>Audio </li>
@@ -9312,20 +9269,15 @@ gtx 1050ti现在（2022-7月更新）可以 Install monterey 或者Big Sur了，
   </entry>
   <entry>
     <title>i5-9400F - MSI  B360M MORTAR - RX 5500 XT  Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/291aa06.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/i5-9400F-MSI-B360M-MORTAR-RX-5500-XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>                  INTEL  Core i5-9400F @ 2.90GHz<br>  <strong>Motherboard</strong>                    MSI  B360M MORTAR (MS-7B23)（B360  Chipset ）<br>   <strong>GPU</strong>                    AMD Radeon RX 5500 XT<br>  <strong>Memory</strong>                    16 GB ( SAMSUNG  DDR4 2666MHz )<br>  <strong>Hard Drive</strong>                  WDS  WDS100T3X0C-00SJG0 ( SN750) (1 TB &#x2F;  SSD )<br>  <strong>Display</strong>                  LG GSM5BD3 LG ULTRAGEAR ( 31.5   )<br>  <strong>Audio</strong>                     Realtek   ALC 892 @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Ethernet Connection  I219-V &#x2F; MSI </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-原本买的独显是 PowerColor RX 5500 XT，竟然翻车了！死活无法显示，进Hackintosh 就黑屏，然后一闪一闪的，能看到 Install 界面，dp和HDMI都一样，无数尝试后，换了一个ASUS 的rx 5500xt，完全正常了，建议Hackintosh 的， 要买这种 品牌的 **GPU** 。
-![](/images/pasted-388.png)
-**Motherboard** msi的b360m mortar非常适合Hackintosh 了，有rx5500 **CPU** 带 带 IGPU 都 是问题，所以9400f够了。
-sn750真的太适合Hackintosh 了，速度一流，性100%基本上，Hackintosh 墙裂推荐WDS NVME SSD。
-这套基本上把性能全部发挥出来了。
 
-
+<p><img src="/images/pasted-388.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -9334,10 +9286,7 @@ sn750真的太适合Hackintosh 了，速度一流，性100%基本上，Hackintos
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=505416084df111eda4d452540025c377">i5-9400F - MSI  B360M MORTAR - RX 5500 XT  Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1u4iuHxAS9rLYiUZGpj3bSYwz20fHSwlQ/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -9365,9 +9314,9 @@ sn750真的太适合Hackintosh 了，速度一流，性100%基本上，Hackintos
       </categories>
   </entry>
   <entry>
-    <title>i7-10700K - ASUS  PRIME Z590-P - RX5500XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4 </title>
-    <url>/381ac05d.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>i7-10700K - ASUS  PRIME Z590-P - RX5500XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
+    <url>/i7-10700K-ASUS-PRIME-Z590-P-RX5500XT-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p><strong>CPU</strong>  i7-10700K<br><strong>Motherboard</strong>  ASUS  PRIME Z590-P<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>  SaMSUNG MZNTY128HDHP-00000 ( 128GB )<br><strong>Graphic</strong>  Radeon RX 5500 XT ( 8GB &#x2F; AMD)<br><strong>Display</strong>  SAMOE16 C27HG7x (27.2 )<br><strong>Network</strong>  Realtek PCle 2.5GbE Family Controller</p>
@@ -9384,10 +9333,7 @@ sn750真的太适合Hackintosh 了，速度一流，性100%基本上，Hackintos
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=ff97e3e84df011ed90f752540025c377">i7-10700K - ASUS  PRIME Z590-P - RX5500XT Hackintosh Installation EFI OC7.9 MONTEREY 12.4 </a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1cYYg8F5j5LhQwvzB-bnNsYNa4ISoaV1N/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>DGPU</li>
@@ -18788,18 +18734,15 @@ Bios中，需要在secuity中的secure boot关掉安全 EFI ，boot中还有一�
   </entry>
   <entry>
     <title>DELL   Inspiron 7590 i7-9750H(4K) Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/52dbada0.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-Inspiron-7590-i7-9750H-4K-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> Model                 DELL   Inspiron 7590  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i7-9750H @ 2.60GHz<br>  <strong>Motherboard</strong>                     DELL   0JKGD4（HM370  Chipset ）<br>   <strong>GPU</strong>                    NVIDIA GeForce GTX 1650 ( 4 GB &#x2F;  DELL   )<br>  <strong>Memory</strong>                    16 GB (  Hynix  DDR4 2666MHz )<br>  <strong>Hard Drive</strong>                  WDS  WDC PC SN530 SDBPMPZ-512G-1001 (512 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AUO  AUO41EB ( 15.5   )<br>  <strong>Audio</strong>                    INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                     Broadcom  Broadcom 802.11ac Network Adapter &#x2F;  DELL  </p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- DELL   Inspiron 7590 i7-9750H屏幕是4K的。
-更换了 Broadcom **Network** ，隔空，接力等
-独显无法驱动，其它基本完好驱动。
-![](/images/pasted-382.png)
 
+<p><img src="/images/pasted-382.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -18808,10 +18751,7 @@ Bios中，需要在secuity中的secure boot关掉安全 EFI ，boot中还有一�
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=d8c5d19e4dff11ed934952540025c377"> DELL   Inspiron 7590 i7-9750H(4K) Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1FPQed2VFgAebeY_8_WNwyV2XTzZQIyjg/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -19814,20 +19754,15 @@ Installation Video：https://youtu.be/UjE5xKvodjY
   </entry>
   <entry>
     <title>DELL  Inspiron 15 7000 Gaming i7-7700HQ Hackintosh Installation EFI OC7.9 MONTEREY 12.4</title>
-    <url>/7e24ad76.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <url>/DELL-Inspiron-15-7000-Gaming-i7-7700HQ-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p> DELL  Inspiron 15 7000 Gaming<br><strong>CPU</strong>  i7-7700HQ<br><strong>Motherboard</strong>   DELL   065C71<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   Toshiba  THNSNK128GVN8 M.2 2280 128GB<br><strong>Graphic</strong>  hd630+ GeForce GTX 1050 Ti<br><strong>Display</strong>  LG LGD053F ( 15.5)<br><strong>Network</strong>  INTEL  Wireless</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- DELL   Inspiron 灵越 15 7000 GamingHackintosh monterey 12.4
-整体来说比较稳定，度有90%.intel wifi可以用，蓝牙有。触控板有，独显 能驱动。
- **SSD** 有点小，建议 Install 。
-i7-7700HQ性能也比较好，配合hd630，甚至可以做做视频剪辑工作，但办公娱乐相对来说适合一些。
-![](/images/pasted-380.png)
 
-
+<p><img src="/images/pasted-380.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
@@ -19836,10 +19771,7 @@ i7-7700HQ性能也比较好，配合hd630，甚至可以做做视频剪辑工作
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.4</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=428b0f7c4e0011ed8bb452540025c377"> DELL  Inspiron 15 7000 Gaming i7-7700HQ Hackintosh Installation EFI OC7.9 MONTEREY 12.4</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1yeaDRSzyMRo1Xu1AKC-mObMg8wjlfv74/view?usp=share_link" class="myButton">Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
