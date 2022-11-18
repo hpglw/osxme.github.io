@@ -16578,40 +16578,6 @@ Installation Video：https://www.bilibili.com/video/BV1a541127wU/
       </categories>
   </entry>
   <entry>
-    <title>E3-1231 V3--GIGABYTE  H81M-S1--GTX 750 Ti Desktop  HACKINTOSH EFI OC 7.3--macOS 10.13.6</title>
-    <url>/dbc88520.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
-<span id="more"></span>
-<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p>  Model                GIGABYTE  H81M-S1  Desktop<br>  <strong>CPU</strong>                  INTEL  Xeon E3-1231 v3 @ 3.40GHz<br>  <strong>Motherboard</strong>                    GIGABYTE  H81M-S1（Lynx Point）<br>   <strong>GPU</strong>                    Nvidia GeForce GTX 750 Ti ( 2 GB &#x2F; Nvidia )<br>  <strong>Memory</strong>                    8 GB ( 亿储 DDR3 1600MHz )<br>  <strong>Hard Drive</strong>                   EAGET S500 SSD ( 128 GB &#x2F; SSD)<br>  <strong>Display</strong>                  ZGL2380 ZGL2456H ( 23.8   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  Lynx Point<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F; GIGABYTE </p>
-</blockquote>
-</div>
-
-<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
-<li>OpenCore 0.7.3</li>
-</ul>
-<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
-<li>High Sierra 10.13.6</li>
-</ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=d749b2a4502511edb2d752540025c377">E3-1231 V3–GIGABYTE  H81M-S1–GTX 750 Ti Desktop  HACKINTOSH EFI OC 7.3–macOS 10.13.6 </a></li>
-</ul>
-<h3 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h3><ul>
-<li>DGPU</li>
-<li>Audio </li>
-<li>MIC</li>
-<li>USB</li>
-<li>LAN </li>
-<li>Power Management</li>
-<li>multi-display</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Desktop</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Alienware m17 R2 i7-9750H HACKINTOSH EFI EFI OC7.8 MONTEREY 12.2.1</title>
     <url>/70c73d8f.html</url>
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
@@ -27053,6 +27019,85 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
 ]]></content>
       <categories>
         <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>E3-1231 V3--GIGABYTE  H81M-S1--GTX 750 Ti Desktop  HACKINTOSH EFI OC 7.3--macOS 10.13.6</title>
+    <url>/dbc88520.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p>  Model                GIGABYTE  H81M-S1  Desktop<br>  <strong>CPU</strong>                  INTEL  Xeon E3-1231 v3 @ 3.40GHz<br>  <strong>Motherboard</strong>                    GIGABYTE  H81M-S1（Lynx Point）<br>   <strong>GPU</strong>                    Nvidia GeForce GTX 750 Ti ( 2 GB &#x2F; Nvidia )<br>  <strong>Memory</strong>                    8 GB ( 亿储 DDR3 1600MHz )<br>  <strong>Hard Drive</strong>                   EAGET S500 SSD ( 128 GB &#x2F; SSD)<br>  <strong>Display</strong>                  ZGL2380 ZGL2456H ( 23.8   )<br>  <strong>Audio</strong>                     Realtek   ALC 887 @ INTEL  Lynx Point<br>  <strong>Network</strong>                     Realtek  RTL8168&#x2F;8111&#x2F;8112 Gigabit Ethernet Controller &#x2F; GIGABYTE </p>
+</blockquote>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.7.3</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>High Sierra 10.13.6</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
+<ul>
+<li><a href="https://afdian.net/item?plan_id=d749b2a4502511edb2d752540025c377">E3-1231 V3–GIGABYTE  H81M-S1–GTX 750 Ti Desktop  HACKINTOSH EFI OC 7.3–macOS 10.13.6 </a></li>
+</ul>
+<h3 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h3><ul>
+<li>DGPU</li>
+<li>Audio </li>
+<li>MIC</li>
+<li>USB</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>DELL inspiron 5498 Fit i7-10510U Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/DELL-inspiron-5498-Fit-i7-10510U-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> DELL  Inspiron 15 7000 Gaming<br><strong>CPU</strong>  i7-10510U<br><strong>Motherboard</strong>   DELL 5498<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   1TB NVME<br><strong>Graphic</strong>  INTEL UHD + MX250<br><strong>Display</strong>  1080P<br><strong>Network</strong>  BCM 1830a</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p>&lt;a href&#x3D;“<a href="https://drive.google.com/file/d/1I2i31W30XJHXblPZErAkL_quJJ49nq6M/view?usp=share_link%E2%80%9D">https://drive.google.com/file/d/1I2i31W30XJHXblPZErAkL_quJJ49nq6M/view?usp=share_link”</a> class&#x3D;”myButton”&gt;Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>HIDPI</li>
+<li>Multi-touch</li>
+<li>Power Management</li>
+<li>Camera</li>
+<li>WIFI</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>Dell</category>
       </categories>
   </entry>
 </search>
