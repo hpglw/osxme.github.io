@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hackintosh.work/Surface-Pro-7-i7-1065G7-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/ThinkCentre-M920t-N000-i5-8500-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/DELL-XPS-8930-i7-8700-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/ThinkCentre-M930q-N000-i9-10900-Hackintosh-Installation-EFIOC-0.8.6-Ventura-13.0.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/NUC9i9QNB-i9-9980HK-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/Surface-Pro-7-i5-1035G4-HACKINTOSH-EFI-EFI-OC7.8-0.8.6-MONTEREY-12.3-12.6.1.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/ThinkPad-T480s-i7-8550U-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/DELL-Inspiron-15-7000-Gaming-i7-7700HQ-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.4.html</loc>
     
     <lastmod>2022-11-17</lastmod>
@@ -4268,15 +4331,6 @@
   </url>
   
   <url>
-    <loc>https://hackintosh.work/106a5c89.html</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hackintosh.work/Dell-G7-7588-i7-8300H-Hackintosh-EFI-OC-0.8.5-MONTEREY-12.6.1.html</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -6484,7 +6538,7 @@
 
   <url>
     <loc>https://hackintosh.work/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -6492,28 +6546,28 @@
   
   <url>
     <loc>https://hackintosh.work/tags/i7-2600K/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/GTX-750-TI/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/B75/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/tags/EFI/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -6522,182 +6576,182 @@
   
   <url>
     <loc>https://hackintosh.work/categories/Desktop/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Alienware/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/ASUS/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Dell/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/HEDT/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Mechrevo/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/HP/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/NUC/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/ThinkPad/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Lenovo/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Machenike/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Razer-Blade/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Xiaomi/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Shinelon/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Surface/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Thunderdbot/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Terrans-Force/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Vulcan/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Acer/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Gigabyte/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Huawei/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/MSI/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Hasee/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/Laptop/Samsung/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hackintosh.work/categories/AIO/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

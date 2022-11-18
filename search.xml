@@ -3984,30 +3984,28 @@ wifi蓝牙都可以用的，读卡器也有，基本来说比较，但这台需�
       </categories>
   </entry>
   <entry>
-    <title>Surface Pro 7 i5-1035G4 HACKINTOSH EFI EFI OC7.8 MONTEREY 12.3</title>
-    <url>/106a5c89.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>Surface Pro 7 i5-1035G4 HACKINTOSH EFI EFI OC7.8 0.8.6 MONTEREY 12.3 12.6.1</title>
+    <url>/Surface-Pro-7-i5-1035G4-HACKINTOSH-EFI-EFI-OC7.8-0.8.6-MONTEREY-12.3-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
 <p>Surface Pro 7 Laptop<br><strong>CPU</strong>  i5-1035G4<br><strong>Motherboard</strong>  Surface Pro 7<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>  128GB<br><strong>Graphic</strong>  UHD<br><strong>Display</strong>  2K<br><strong>Network</strong>  INTEL  Wireless</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
- IGPU ，**Audio** ， WIFI ，蓝牙，电池，触控板，usb TYPE C，摄像头 可用，其它大部分都可以
-![](/images/pasted-348.png)
 
-
+<p><img src="/images/pasted-348.png"><br><img src="/images/pasted-539.png"><br><img src="/images/pasted-540.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
 <li>OpenCore 0.7.8</li>
+<li>OpenCore 0.8.6</li>
 </ul>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.3</li>
+<li>Monterey 12.6.1</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=20902c884e2111ed862c52540025c377">Surface Pro 7 i5-1035G4 HACKINTOSH EFI EFI OC7.8 MONTEREY 12.3</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1zbr-ZeDqKJUAzwiGemSzPTjckAHBteJ1/view?usp=share_link" class="myButton">EFI 12.3 Download</a> </p>
+<p><a href="https://drive.google.com/file/d/1TvslykGchHSA1E--zEoFOvtElSjFdfbK/view?usp=share_link" class="myButton">EFI 12.6.1 Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -26836,6 +26834,225 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
       <categories>
         <category>Laptop</category>
         <category>Razer Blade</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>NUC9i9QNB i9-9980HK Hackintosh Installation EFI OC 0.8.6 Ventura 13.0</title>
+    <url>/NUC9i9QNB-i9-9980HK-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> NUC9i9QNB<br><strong>CPU</strong>  i9-9980HK<br><strong>Motherboard</strong>   NUC9i9QNB<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>   HFS1T9GDOFEI-A430A<br><strong>Graphic</strong>  RX 6600 XT</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-551.png"><br><img src="/images/pasted-552.png"><br><img src="/images/pasted-553.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1aw5EgexAwmQ_kDv0AS5lxwD7FBKZIZ_n/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>NUC</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Surface Pro 7 i7-1065G7 Hackintosh Installation EFI OC 0.8.6 Ventura 13.0</title>
+    <url>/Surface-Pro-7-i7-1065G7-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> Surface Pro 7 i7-1065G7<br><strong>CPU</strong>  i7-1065G7<br><strong>Motherboard</strong>  Surface<br><strong>Memory</strong> 16 GB<br><strong>Hard Drive</strong> KBG40ZPZ512G TOSHIBA MEMORY ( 512GB )<br><strong>Graphic</strong> Intel(R) Iris(R) Plus Graphics<br><strong>Display</strong> 3K<br><strong>Network</strong> Intel Wi-Fi 6 AX201 160MHz</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-541.png"><br><img src="/images/pasted-542.png"><br><img src="/images/pasted-543.png"><br><img src="/images/pasted-544.png"><br><img src="/images/pasted-545.png"><br><img src="/images/pasted-546.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1uO39KQ_7ipXG4EfcRYTp7IQjUrD7paZD/view?usp=share_link" class="myButton">13.0 EFI Download</a></p>
+<p><a href="https://drive.google.com/file/d/1Qs-6dv-zY5b6ToMo63x9li20HWtR05sT/view?usp=share_link" class="myButton">12.6.1 EFI Download</a>  </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>WIFI</li>
+<li>IGPU</li>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>HIDPI</li>
+<li>Power Management</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>Surface</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ThinkCentre M930q-N000 i9-10900 Hackintosh Installation EFIOC 0.8.6 Ventura 13.0</title>
+    <url>/ThinkCentre-M930q-N000-i9-10900-Hackintosh-Installation-EFIOC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> ThinkCentre M930q-N000<br><strong>CPU</strong>  i9-10900<br><strong>Motherboard</strong>   M930q-N000<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   WDC WDS100T2BOC-00PXHO<br><strong>Graphic</strong>  UHD630<br><strong>Network</strong>  Intel Ethernet Connection (11) 1219-LM</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-550.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Tg4dmCNLp7ovnAUfGnN9-M1hWC_U4gJs/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ThinkPad T480s i7-8550U Hackintosh Installation EFI OC 0.8.6 Ventura 13.0</title>
+    <url>/ThinkPad-T480s-i7-8550U-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p>ThinkPad T480s<br>i7-8550U<br>16 GB<br>MZNLN128HCGR-000L1 128 GB<br>UHD620<br>INTEL Wireless</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-554.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><p>OPENCORE 0.8.6</p>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/148eS8dU8vM9KnJSOwUKSiVzAKTthaaCn/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Multi-touch</li>
+<li>Power Management</li>
+<li>Camera</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>DELL XPS 8930 i7-8700 Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/DELL-XPS-8930-i7-8700-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> DELL  DELL XPS 8930<br><strong>CPU</strong>  i7-8700<br><strong>Motherboard</strong>   DELL 0DF42J<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>   TOSHIBA DT01ACA200<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080p<br><strong>Network</strong>  Killer E2400 Gigabit Ethernet Controller</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-547.png"><br><img src="/images/pasted-548.png"><br><img src="/images/pasted-549.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/18f-VMG9dMcABN8ODMRGi_hB8Vr7-ePa2/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ThinkCentre M920t-N000 i5-8500 Hackintosh Installation EFI OC 0.8.6 Ventura 13.0</title>
+    <url>/ThinkCentre-M920t-N000-i5-8500-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> ThinkCentre M920t-N000<br><strong>CPU</strong>  i5-8500<br><strong>Motherboard</strong>   3133<br><strong>Memory</strong>  24 GB<br><strong>Hard Drive</strong>   SL700 PCI-E M.2 512G<br><strong>Graphic</strong>  RX 560</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/116Xrg8De7CnqXOZfjVqxc1wwfspO1Ijx/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
       </categories>
   </entry>
 </search>
