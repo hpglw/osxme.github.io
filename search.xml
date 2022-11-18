@@ -17537,28 +17537,27 @@ Installation Video：https://youtu.be/XA0n51jvtAs
       </categories>
   </entry>
   <entry>
-    <title>MSI GS65 Stealth 9SE（144Hz） i7-9750H Laptop  HACKINTOSH EFI EFI OC7.4 Big Sur 11.6</title>
-    <url>/96f3d75f.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>MSI GS65 Stealth 9SE（144Hz） i7-9750H Laptop  HACKINTOSH EFI EFI OC7.4 OC0.8.6 Big Sur 11.6 monterey 12.6.1</title>
+    <url>/MSI-GS65-Stealth-9SE-144Hz-i7-9750H-Laptop-HACKINTOSH-EFI-EFI-OC7.4-Big-Sur-11.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a><br><a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p>MSI GS65 Stealth 9SE<br><strong>CPU</strong> ：i7-9750H<br><strong>Memory</strong> ：32G<br> <strong>GPU</strong> ：UHD530+RTX 2060（屏蔽）<br><strong>Display</strong> ：1080P 144HZ<br> <strong>SSD</strong> :512GB<br><strong>Network</strong> ：INTEL WIFI <strong>Network</strong> + Killer  LAN <strong>Network</strong><br><strong>Audio</strong> ： ALC 1220</p>
+<p>MSI GS65 Stealth 9SE<br><strong>CPU</strong> ：i7-9750H<br><strong>Memory</strong> ：32G<br> <strong>GPU</strong> ：UHD630+RTX 2060<br><strong>Display</strong> ：1080P 144HZ<br> <strong>SSD</strong> :512GB<br><strong>Network</strong> ：INTEL WIFI + Killer  LAN<br><strong>Audio</strong> ： ALC 1220</p>
 </blockquote>
-<p>特别提示：<br>BIOS里，<br>高级——SA——显示设置——DVMT改为64MB，DVMT TOTAL改为MAX<br>USB里把XHCI改为开启<br>快速启动关掉<br>安全性里，把安全启动菜单关掉，安全启动模式改为自订。</p>
-<p>144HZ驱动，<strong>Audio</strong> 是 ALC 1220，如果说从WIN重启进MACOS后 能出声，关机后直接开机进MACOS。</p>
-<p>己知触控板OK， IGPU ，<strong>Audio</strong> ， LAN <strong>Network</strong> ， WIFI <strong>Network</strong> ，蓝牙（搜索比较慢，但能连上设备），TYPEC Port ，电池（可能 准），亮度，摄像头，休眠，整体在90%度。</p>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-559.png" alt="upload successful"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
 <li>OpenCore 0.7.4</li>
+<li>OpenCore 0.8.6</li>
 </ul>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Big Sur 11.6</li>
+<li>Monterey 12.6.1</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=d3f8b42a4ec111eda02252540025c377">MSI GS65 Stealth 9SE（144Hz） i7-9750H Laptop  HACKINTOSH EFI EFI OC7.4 Big Sur 11.6 </a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1gpsrMfXzvYXQueYsoDPqCrArEkDkL90D/view?usp=share_link" class="myButton">OpenCore 0.7.4 EFI Download</a><br><a href="https://drive.google.com/file/d/1aZjLpEIA1rWoh_a-CU4f6samZ2ZQ9S-l/view?usp=share_link" class="myButton">OpenCore 0.8.6 EFI Download</a> </p>
 <h3 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h3><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -20172,32 +20171,30 @@ Installation Video：https://youtu.be/ygqrqtYPgRg
       </categories>
   </entry>
   <entry>
-    <title>DELL  Inspiron 7591 i7-9750H HACKINTOSH EFI EFI OC7.9 MONTEREY 12.3.1</title>
-    <url>/3a14c680.html</url>
-    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+    <title>DELL  Inspiron 7591 i7-9750H i5-9300H HACKINTOSH EFI EFI OC7.9 0.8.6 MONTEREY 12.3.1-12.6.1</title>
+    <url>/DELL-Inspiron-7591-i7-9750H-HACKINTOSH-EFI-EFI-OC7.9-MONTEREY-12.3.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p> DELL  Inspiron 7591<br><strong>CPU</strong>  i7-9750H<br><strong>Motherboard</strong>   DELL  0JKGD4<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>  adta 512gb<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 295<br><strong>Network</strong>  INTEL  Wireless</p>
+<p> DELL  Inspiron 7591<br><strong>CPU</strong>  i7-9750H &amp; i5-9300H<br><strong>Motherboard</strong>   DELL  0JKGD4<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>  adta 512gb<br><strong>Graphic</strong>  UHD630<br><strong>Display</strong>  1080P<br><strong>Audio</strong>   ALC 295<br><strong>Network</strong>  INTEL  Wireless</p>
 </blockquote>
-<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
-进macos之前在 EFI 页按空格，选cfg lock，按y， Close cfg lock， 然会卡在前面
- IGPU ，**Audio** ， WIFI ，wifi，蓝牙，摄像头，触控板，电池都有。
-![](/images/pasted-358.png)
-Installation Video：https://youtu.be/musmEOzkYDY
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><p>Installation Video：<a href="https://youtu.be/musmEOzkYDY">https://youtu.be/musmEOzkYDY</a></p>
+<div class="justified-gallery">
 
-
+<p><img src="/images/pasted-560.png"></p>
+<p><img src="/images/pasted-358.png"></p>
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
 <li>OpenCore 0.7.9</li>
+<li>OpenCore 0.8.6</li>
 </ul>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
 <li>Monterey 12.3.1</li>
+<li>Monterey 12.6.1</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="LINK" class="myButton">Download</a> </p>
-<ul>
-<li><a href="https://afdian.net/item?plan_id=a82a45984e1711ed89db52540025c377"> DELL  Inspiron 7591 i7-9750H HACKINTOSH EFI EFI OC7.9 MONTEREY 12.3.1</a></li>
-</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/133iXPHlJBkqURWeFrWvpiAKKmbgYmzmT/view?usp=share_link" class="myButton">i7-9750H EFI OC 0.7.9 Download</a> </p>
+<p><a href="https://drive.google.com/file/d/1f8aZJCaGic5tbsPOUSnsktDVOFFkb2g-/view?usp=share_link" class="myButton">i5-9300H EFI OC 0.8.6 Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -27098,6 +27095,39 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
       <categories>
         <category>Laptop</category>
         <category>Dell</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-12400F - ASUS PRIME B660-PLUS D4 - RX550(Lexa) Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/i5-12400F-ASUS-PRIME-B660-PLUS-D4-RX550-Lexa-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+</blockquote>
+<p><strong>CPU</strong>  12th Gen Intel Core i5-12400F<br><strong>Motherboard</strong>   PRIME B660-PLUS D4<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   KIOXIA-EXCERIA G2 SSD<br><strong>Graphic</strong>  AMD Radeon RX550&#x2F;550<br><strong>Network</strong>  Realtek Gaming 2.5GbE Family Controller</p>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-558.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Lr9_7ZvukX1hROOLKxF4ugBPV83SUAch/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
       </categories>
   </entry>
 </search>
