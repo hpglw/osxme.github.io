@@ -27130,4 +27130,81 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
         <category>Desktop</category>
       </categories>
   </entry>
+  <entry>
+    <title>ThinkPad P51 E3-1505M v6 Hackintosh Installation EFI OC 0.8.6 Ventura 13.0</title>
+    <url>/ThinkPad-P51-E3-1505M-v6-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> ThinkPad P51<br>  <strong>CPU</strong>                 E3-1505M v6<br>  <strong>Motherboard</strong>                   20HH000UUS<br>  <strong>Graphic</strong>                  HD P630 +  NVIDIA Quadro M2200<br>  <strong>Memory</strong>                   32 GB<br>  <strong>Hard Drive</strong>                 Extreme Pro 1TB<br>  <strong>Display</strong>                 LEN40BA<br>  <strong>AUDIO</strong>                   ALC236<br>  <strong>Network</strong>                 Ethernet Connection  I219-LM</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-562.png"><br><img src="/images/pasted-563.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1Zyg6mjCKhH2C18zoH1wfLnpVCYIgYEfB/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>Camera</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>ThinkPad</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-7700 - GA-B250-HD3-CF - ASUS RX580 Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/i7-7700-GA-B250-HD3-CF-ASUS-RX580-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p><strong>CPU</strong>  i7-7700<br><strong>Motherboard</strong>   GA B250-HD3-CF<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   faspeed M3-120G<br><strong>Graphic</strong>  Radeon Rx 580 ASUS<br><strong>Network</strong>  BCM94360</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-561.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1_pHrIsjE9_QVGBVqpuGFc0rutqhJ4ST8/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+<li>Multi-display</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
 </search>
