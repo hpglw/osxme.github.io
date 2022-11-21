@@ -27362,4 +27362,107 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
         <category>HP</category>
       </categories>
   </entry>
+  <entry>
+    <title>LENOVO 70TNR002CN i5-6500 Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/LENOVO-70TNR002CN-i5-6500-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> 70TNR002CN<br><strong>CPU</strong>  i5-6500<br><strong>Motherboard</strong>   30D9<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>   WDC WD10EZEX-08WN4A0<br><strong>Graphic</strong>  Intel(R) HD Graphics 530<br><strong>Network</strong>  Realtek PCle GbE Family Controller</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-572.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/10oVvPvdsAVbLlweCllTO5Ym3swdCtxxq/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Power Management</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>HUAWEI HONOR BBR-WAX9 i3-10110U Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/HUAWEI-HONOR-BBR-WAX9-i3-10110U-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> HUAWEI HONOR BBR-WAX9<br><strong>CPU</strong>  i3-10110U<br><strong>Motherboard</strong>   HONOR BBR-WAX9<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   YSSDM-1TN2000<br><strong>Graphic</strong>  INTEL UHD<br><strong>Network</strong>  Intel Wireless-AC 9560 160MHz</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-573.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1zDq8o-4pFH9yiPRWeSo7y_XpaPdpu_3N/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C） </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>Huawei</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-12400F - ASUS PRIME H610M-A D4 - dataland RX 6650 XT Hackintosh Installation EFI 0.8.6 MONTEREY 12.6.1</title>
+    <url>/i5-12400F-ASUS-PRIME-H610M-A-D4-dataland-RX-6650-XT-Hackintosh-Installation-EFI-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+</blockquote>
+<p><strong>CPU</strong>  i5-12400F<br><strong>Motherboard</strong>   PRIME H610M-A D4<br><strong>Memory</strong>  32 GB<br><strong>Hard Drive</strong>   ZHITAI SC001 Active 1TB SSD<br><strong>Graphic</strong>  dataland RX 6650 XT<br><strong>Network</strong>  Intel Ethernet Connection (17) 1219-V</p>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-570.png"><br><img src="/images/pasted-571.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1nTbTo3mxq8FEH4X35JwRA9oAADPvkZb7/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
 </search>

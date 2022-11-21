@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hackintosh.work/i5-12400F-ASUS-PRIME-H610M-A-D4-dataland-RX-6650-XT-Hackintosh-Installation-EFI-0.8.6-MONTEREY-12.6.1.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/LENOVO-70TNR002CN-i5-6500-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackintosh.work/HUAWEI-HONOR-BBR-WAX9-i3-10110U-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hackintosh.work/HP-EliteBook-840-G1-i5-4300U-Hackintosh-Installation-EFI-OC-0.8.6-BIG-SUR-11.7.1.html</loc>
     
     <lastmod>2022-11-21</lastmod>
