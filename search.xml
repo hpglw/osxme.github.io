@@ -27207,4 +27207,159 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
         <category>Desktop</category>
       </categories>
   </entry>
+  <entry>
+    <title>EngineTech EG310MZ-G10 i5-8500T Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/EngineTech-EG310MZ-G10-i5-8500T-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> EngineTech EG310MZ-G10<br><strong>CPU</strong>  i5-8500T<br><strong>Motherboard</strong>   EngineTech<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   CHUXIA SSD-M9 128GB<br><strong>Graphic</strong>  RX 6600 XT<br><strong>Network</strong>  Bcm94360</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p> <img src="/images/pasted-564.png"><br><img src="/images/pasted-565.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1dkHwtY2EZ-mCyG_400BfCrg5cRR0swaX/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+<li>Multi-display</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>HP 288 Pro G6 Microtower PC i7-1070 0Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/HP-288-Pro-G6-Microtower-PC-i7-1070-0Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> HP 288 Pro G6 Microtower PC<br><strong>CPU</strong>  i7-10700<br><strong>Motherboard</strong>   HP 877E<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   sm2246en (253GB )<br><strong>Graphic</strong>  UHD Graphics 630<br><strong>Display</strong>  HDMI<br><strong>Network</strong>  Bcm94360</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-567.png" alt=" "><br><img src="/images/pasted-566.png" alt=" "></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/17WZA7c2S1hEnah85QKkTUae1DSdTNwUW/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>HP EliteBook 840 G6 i7-8665U Hackintosh Installation EFI OC 0.8.6 Ventura 13.0</title>
+    <url>/HP-EliteBook-840-G6-i7-8665U-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac13.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> HP EliteBook 840 G6<br><strong>CPU</strong>  i7-8665U<br><strong>Motherboard</strong>   HP 8549<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   KIOXIA-EXCERIA G2 SSD ( 1000GB )<br><strong>Graphic</strong>  UHD Graphics 620<br><strong>Network</strong>  BCM94352</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-568.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Ventura 13.0</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1m0sy3ByaZtydtbcqkWrApsHwd5QZ8sGp/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>Camera</li>
+<li>WIFI</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>HP</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>HP EliteBook 840 G1 i5-4300U Hackintosh Installation EFI OC 0.8.6 BIG SUR 11.7.1</title>
+    <url>/HP-EliteBook-840-G1-i5-4300U-Hackintosh-Installation-EFI-OC-0.8.6-BIG-SUR-11.7.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> HP EliteBook 840 G1<br><strong>CPU</strong>  i5-4300U<br><strong>Motherboard</strong>   HP 198F<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>    Getrich 128G NGFF SSD<br><strong>Graphic</strong>  HD4600 + AMD Radeon  HD 8500M&#x2F;8700M<br><strong>Network</strong>  INTEL wifi</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-569.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Big Sur 11.7.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/122-RFlztVplu6HlywBYWpWvHhIkQ3_Dh/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>Camera</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>HP</category>
+      </categories>
+  </entry>
 </search>

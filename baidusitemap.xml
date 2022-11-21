@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hackintosh.work/HP-EliteBook-840-G1-i5-4300U-Hackintosh-Installation-EFI-OC-0.8.6-BIG-SUR-11.7.1.html</loc>
+    <lastmod>2022-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/HP-EliteBook-840-G6-i7-8665U-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</loc>
+    <lastmod>2022-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/HP-288-Pro-G6-Microtower-PC-i7-1070-0Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</loc>
+    <lastmod>2022-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://hackintosh.work/EngineTech-EG310MZ-G10-i5-8500T-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</loc>
+    <lastmod>2022-11-21</lastmod>
+  </url>
+  <url>
     <loc>https://hackintosh.work/ThinkPad-P51-E3-1505M-v6-Hackintosh-Installation-EFI-OC-0.8.6-Ventura-13.0.html</loc>
     <lastmod>2022-11-20</lastmod>
   </url>
