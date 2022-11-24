@@ -26078,12 +26078,12 @@ Installation Video：https://youtu.be/BBPX72_38Gw
 ]]></content>
   </entry>
   <entry>
-    <title>THUNDEROBOT  911 MT（244hz）i7-10870H Hackintosh Installation EFI OC7.9 MONTEREY 12.5</title>
-    <url>/THUNDEROBOT-911-MT-244hz-i7-10870H-Hackintosh-Installation-EFI-OC7.9-MONTEREY-12.5.html</url>
+    <title>Thunderdbot 911 MT（244hz）i7-10870H Hackintosh Installation EFI OC7.9 0.8.6 MONTEREY 12.5 12.6.1</title>
+    <url>/Thunderdbot-911-MT-244hz-i7-10870H-Hackintosh-Installation-EFI-OC7.9-0.8.6-MONTEREY-12.5-12.6.1.html</url>
     <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
 <span id="more"></span>
 <h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
-<p> Model                 THUNDEROBOT  911 MT  Laptop<br>  <strong>CPU</strong>                  INTEL  Core i7-10870H @ 2.20GHz<br>  <strong>Motherboard</strong>                     THUNDEROBOT  NH58DXQ-H（LPC Controller - 068D）<br>   <strong>GPU</strong>                    NVIDIA GeForce RTX 3060 Laptop GPU ( 6 GB &#x2F;  CLEVO (CLEVO) )<br>  <strong>Memory</strong>                    16 GB (  Kimtigo  DDR4 3200MHz 8GB x 2 )<br>  <strong>Hard Drive</strong>                  SSSTC CL1-8D512 (512 GB &#x2F;  SSD )<br>  <strong>Display</strong>                   AOC  AOC2401 24B1W ( 23.5   )<br>  <strong>Audio</strong>                     Realtek   @ INTEL  High Definition Audio  Controller<br>  <strong>Network</strong>                    INTEL  Wireless-AC 9462</p>
+<p> Thunderdbot 911 MT（244hz）<br><strong>CPU</strong>  i7-10870H<br><strong>Motherboard</strong>   NH58DXQ-H<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   SSSTC CL1-8D512<br><strong>Graphic</strong>  UHD630+ RTX 3060<br><strong>Network</strong>  INTEL Wireless-AC 9462</p>
 </blockquote>
 <h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
 
@@ -26091,12 +26091,15 @@ Installation Video：https://youtu.be/BBPX72_38Gw
 </div>
 
 <h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
 <li>OpenCore 0.7.9</li>
 </ul>
 <h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
 <li>Monterey 12.5</li>
 </ul>
-<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1-_F-ZnN2BYrvFQsOQ-tej1Kadfm-_MAw/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1-_F-ZnN2BYrvFQsOQ-tej1Kadfm-_MAw/view?usp=share_link" class="myButton">OpenCore 0.7.9 EFI Download</a></p>
+<p><a href="https://drive.google.com/file/d/1l_ouejbGklqipyLywf4c1Kpsm7O5wyXG/view?usp=share_link" class="myButton">OpenCore 0.8.6 EFI Download</a> </p>
 <h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
 <li>IGPU</li>
 <li>Audio </li>
@@ -26105,10 +26108,10 @@ Installation Video：https://youtu.be/BBPX72_38Gw
 <li>Battery Percentage</li>
 <li>Keyboard</li>
 <li>Trackpad</li>
+<li>Touch screen</li>
 <li>Brightness</li>
 <li>Bluetooth</li>
 <li>Power Management</li>
-<li>Camera</li>
 <li>WIFI</li>
 </ul>
 ]]></content>
@@ -27570,6 +27573,303 @@ Razer  152019(i7 9750H/16GB/128GB+ 1TB /GTX 1660Ti)
 ]]></content>
       <categories>
         <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>E3-1230 v2 - ASUS P8B75-M LX PLUS - ASROCK RX560 Hackintosh Installation EFI OC 0.8.6 BIG SUR 11.7.1</title>
+    <url>/E3-1230-v2-ASUS-P8B75-M-LX-PLUS-ASROCK-RX560-Hackintosh-Installation-EFI-OC-0.8.6-BIG-SUR-11.7.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p><strong>CPU</strong>  E3-1230 V2<br><strong>Motherboard</strong>   ASUS P8B75-M LX PLUS<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   LK0480GFJSK<br><strong>Graphic</strong>  ASROCK RX560<br><strong>Network</strong>  Wi-Fi 6E AX210</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-578.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Big Sur 11.7.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1FIWUKWnntR7-YunjrtOHPfq3_nu9ae1v/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Bluetooth</li>
+<li>Multi-touch</li>
+<li>Power Management</li>
+<li>WIFI</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i5-4590 - ASUS H81M-K - RX460 Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/i5-4590-ASUS-H81M-K-RX460-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p><strong>CPU</strong>  i5-4590<br><strong>Motherboard</strong>   H81M-K<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   HP SSD EX900 250GB<br><strong>Graphic</strong>  RX460<br><strong>Network</strong>  RTL8168&#x2F;8111&#x2F;8112</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-584.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/16ALN_zGyELM_f6P1gwcNMe_lB69Q9Eu5/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>i7-11700 - ASUS TUF GAMING B560M-PLUS - GA RX6600 Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/i7-11700-ASUS-TUF-GAMING-B560M-PLUS-GA-RX6600-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+</blockquote>
+<p><strong>CPU</strong>  i7-11700<br><strong>Motherboard</strong>   TUF GAMING B560M-PLUS<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   KBG40ZMT128G TOSHIBA MEMORY<br><strong>Graphic</strong>  GA RX6600<br><strong>Network</strong>  Realtek Gaming 2.5GbE Family Controller</p>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-580.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/14PwxpvE3YmlqPHtxk7s2FOpseXPIrlnY/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Power Management</li>
+<li>Multi-display</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Desktop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>HP EliteBook x360 1030 G3 i7-8550U Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/HP-EliteBook-x360-1030-G3-i7-8550U-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> HP EliteBook x360 1030 G3<br><strong>CPU</strong>  i7-8550U<br><strong>Motherboard</strong>   HP 8438<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   HS-SSD-E2000L 1024G<br><strong>Graphic</strong>  UHD620<br><strong>Network</strong>  Intel Dual Band Wireless-AC 8265</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-585.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1FJ8566ieR9Hj2ST8k0b7wfC7BPnUuQ-V/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Multi-touch</li>
+<li>Power Management</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>HP</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>E5-2680 v4 X2 - HUANANZHI X99-F8D - RX 5700 XT Hackintosh Installation EFI OC 0.8.6 BIG SUR 11.7.1</title>
+    <url>/E5-2680-v4-X2-HUANANZHI-X99-F8D-RX-5700-XT-Hackintosh-Installation-EFI-OC-0.8.6-BIG-SUR-11.7.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac11.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+</blockquote>
+<p><strong>CPU</strong>  E5-2680 v4 X2<br><strong>Motherboard</strong>   HUANANZHI X99-F8D<br><strong>Memory</strong>  32GB<br><strong>Hard Drive</strong>   TS512GSSD370S<br><strong>Graphic</strong>  RX 5700 XT<br><strong>Network</strong>  BCM94360</p>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-583.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Big Sur 11.7.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/11yijVSEAw1OBt6GfnfeRM-xJFAQn7zEu/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+<li>Multi-display</li>
+<li>AirDrop</li>
+<li>Handoff</li>
+</ul>
+]]></content>
+      <categories>
+        <category>HEDT</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ASUS GL552VW i5-6300HQ Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/ASUS-GL552VW-i5-6300HQ-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> ASUS GL552VW<br><strong>CPU</strong>  i5-6300HQ<br><strong>Motherboard</strong>   GL552VW<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   SSD 240 GB<br><strong>Graphic</strong>  HD520 + GTX 960M<br><strong>Network</strong>  Atheros AR9565</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-579.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1W7Noq5sDBWsshVDZDPuIHRtHRny6dUN6/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Brightness</li>
+<li>Multi-touch</li>
+<li>Power Management</li>
+<li>HDMI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>ASUS</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ASUS TUF Gaming F15 FX506LU_FX506LU i7-10750H Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/ASUS-TUF-Gaming-F15-FX506LU_FX506LU-i7-10750H-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> ASUS TUF Gaming F15 FX506LU_FX506LU<br><strong>CPU</strong>  i7-10750H<br><strong>Motherboard</strong>  FX506LU<br><strong>Memory</strong>  8 GB<br><strong>Hard Drive</strong>   OM8PCP3512F-AB<br><strong>Graphic</strong>  UHD + GTX 1660 TI<br><strong>Network</strong>  Wi-Fi 6 AX201</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p><img src="/images/pasted-582.png"><br><img src="/images/pasted-581.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/1ZA30RL0kKob5sPISWiupCBXKYc_Cg8Ny/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>ASUS</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>MSI GP92MVR 6RF i7-6700HQ Hackintosh Installation EFI OC 0.8.6 MONTEREY 12.6.1</title>
+    <url>/MSI-GP92MVR-6RF-i7-6700HQ-Hackintosh-Installation-EFI-OC-0.8.6-MONTEREY-12.6.1.html</url>
+    <content><![CDATA[<p><a><img height='24' style='border:0px;height:24px;' src='/images/oc.svg' border='0' alt='OPENCORE' /></a> <a><img height='24' style='border:0px;height:24px;' src='/images/mac12.png' border='0' alt='hackintosh' /></a></p>
+<span id="more"></span>
+<h2 id="Hardware-Configuration"><a href="#Hardware-Configuration" class="headerlink" title="Hardware Configuration"></a>Hardware Configuration</h2><blockquote>
+<p> GP92MVR 6RF<br><strong>CPU</strong>  i7-6700HQ<br><strong>Motherboard</strong>   MS-16J8<br><strong>Memory</strong>  16 GB<br><strong>Hard Drive</strong>   MZNLN128HCGR-000L1<br><strong>Graphic</strong>  HD530 + GeForce GTX 1060<br><strong>Network</strong>  INTEL Wireless + Killer E2400</p>
+</blockquote>
+<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><div class="justified-gallery">
+
+<p>  <img src="/images/pasted-586.png"><br><img src="/images/pasted-587.png"><br><img src="/images/pasted-588.png"></p>
+</div>
+
+<h2 id="Bootloader"><a href="#Bootloader" class="headerlink" title="Bootloader"></a>Bootloader</h2><ul>
+<li>OpenCore 0.8.6</li>
+</ul>
+<h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><ul>
+<li>Monterey 12.6.1</li>
+</ul>
+<h2 id="EFI-Folder"><a href="#EFI-Folder" class="headerlink" title="EFI Folder"></a>EFI Folder</h2><p><a href="https://drive.google.com/file/d/12x3sCmiLgBvGSE3SlCuySpHL-enL4ssT/view?usp=share_link" class="myButton">Download</a> </p>
+<h2 id="What-works"><a href="#What-works" class="headerlink" title="What works"></a>What works</h2><ul>
+<li>IGPU</li>
+<li>DPGU</li>
+<li>Audio </li>
+<li>USB（TYPE C）</li>
+<li>LAN </li>
+<li>Battery Percentage</li>
+<li>Keyboard</li>
+<li>Trackpad</li>
+<li>Brightness</li>
+<li>Bluetooth</li>
+<li>Power Management</li>
+<li>WIFI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Laptop</category>
+        <category>MSI</category>
       </categories>
   </entry>
 </search>
